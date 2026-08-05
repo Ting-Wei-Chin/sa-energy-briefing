@@ -5,211 +5,149 @@ Prepared for: South Energy | Data Center Land Acquisition
 
 🔌 1. GRID & INFRASTRUCTURE
 
-• [HIGH RELEVANCE] ElectraNet's 2026 Transmission Annual Planning Report (TAPR) reveals 75+ prospective connection projects across 41 proponents in active discussions to connect to SA's transmission network; peak demand is forecast to nearly double from 3.3 GW today to more than 6.5 GW within 15 years, driven by data centres, AI, defence, and industrial loads.
-  Source: pv magazine Australia — https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/
+• [HIGH RELEVANCE] ElectraNet's 2026 Transmission Annual Planning Report (TAPR) reveals 75+ prospective projects across 41 proponents seeking transmission connection in South Australia, with peak demand forecast to double from 3.3 GW today to 6.5 GW within 15 years — driven by data centres, AI, green steel and hydrogen. (Source: PV Magazine Australia / ESD News — https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/ | https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/)
 
-• [HIGH RELEVANCE] ElectraNet is advancing three major augmentation projects: the ~$3.5 billion Northern Transmission Project (Bundey–Adelaide load centre corridor); an Eyre Peninsula 275 kV upgrade (anticipated 2027/28); and a South East 275 kV second circuit (Tailem Bend–Tungkillo, ~$80–90 million) — all directly affecting large-load grid connection capacity in SA.
-  Source: ESD News — https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
+• [HIGH RELEVANCE] ElectraNet's $3.5 billion Northern Transmission Project (NTx) is in early planning to increase transfer capacity between Bundey and Adelaide, and between Bundey and the anticipated Cultana load centre — a critical pathway for large-load connections in the Mid North. (Source: PV Magazine Australia — https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/)
 
-• AMPYR Australia received an AEMO 5.3.4 letter (technical connection approval) for its 270 MW grid-forming battery at Northern, near Port Augusta — one of the first grid-forming BESS projects to clear NEM connection standards in SA.
-  Source: Energy Storage News — https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
+• The Australian Government allocated AU$30 million for 'smarter grid' projects including electromobility infrastructure (announced 27 July 2026), which may support distribution upgrades across SA. (Source: Electrive — https://www.electrive.com/2026/07/27/australia-allocates-au30-million-for-smarter-grid-projects-including-electromobility/)
 
-• AEMO is procuring new South Australian Grid Reference Transitional Services following expiry of NSCAS (Network Support and Control Ancillary Services) contracts in 2026, signalling a structural shift in how system strength services will be sourced in the state.
-  Source: AEMO — https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/transition-planning/transitional-services---type-1-services/south-australian-grid-reference-transitional-service
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• AEMO's South Australian Grid Reference Transitional Service tender is underway following expiry of NSCAS contracts; 4.8 GW of battery projects — 80% of all SA connections in progress — are in the pipeline, all early-stage SA batteries are grid-forming. (Source: AEMO — https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/transition-planning/transitional-services---type-1-services/south-australian-grid-reference-transitional-service)
 
 ☀️ 2. RENEWABLE ENERGY PROJECTS
 
-• [HIGH RELEVANCE] The SA Government opened 11,000+ km² of land across two new release areas — Gawler Ranges East (~5,200 km²) on the Upper Eyre Peninsula and Whyalla West (~6,500 km²) in the Upper Spencer Gulf — under the Hydrogen and Renewable Energy Act, inviting global investors to submit large-scale solar, wind, and storage feasibility licence applications; the areas could power 500,000+ homes.
-  Source: SA Energy & Mining / SolarQuarter — https://solarquarter.com/2026/04/08/south-australia-opens-11000-sq-km-land-for-large-scale-renewable-energy-investment/
+• Construction of the Goyder Battery and Goyder North Wind Farm is scheduled to commence mid-2026, adding significant dispatchable renewable capacity to the SA grid. (Source: Goyder Energy — https://goyderenergy.com.au/)
 
-• Six battery energy projects totalling 517 MW / 4,136 MWh were awarded Firm Energy Reliability Mechanism (FERM) Agreements in SA's first tender; SA's renewable project pipeline stands at A$32 billion with 7,564 MW+ of registered generation capacity — the state regularly achieves 100% instantaneous renewable generation.
-  Source: SA Energy & Mining — https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity
+• South Australia awarded six battery energy projects Firm Energy Reliability Mechanism (FERM) agreements in the state's inaugural tender, totalling 517 MW / 4,136 MWh of dispatchable storage. (Source: SA Dept of Energy & Mining — https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity)
 
-• Construction of the Goyder North Wind Farm (300 MW) and the Goyder Battery is scheduled to commence around mid-2026, while Palmer Wind Farm (274 MW) — also awarded a Capacity Investment Scheme contract — is advancing toward construction.
-  Source: Goyder Energy / SA Government — https://goyderenergy.com.au/
+• [HIGH RELEVANCE] Genaspi Energy has won a contract to build the 300 MW Bundey Solar Farm alongside a 300 MW / 1,200 MWh battery to support the IREN 800 MW data centre campus — a combined renewable-plus-storage solution co-located with a major new load. (Source: RenewEconomy — https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/)
 
-• Grid-scale and distributed solar broke Q1 2026 quarterly generation records nationally; renewables supplied 46.5% of total NEM generation in Q1 2026 — a new Q1 high, up 4 percentage points year-on-year.
-  Source: AEMO / pv magazine Australia — https://www.pv-magazine-australia.com/2026/04/30/grid-scale-and-distributed-solar-break-quarterly-generation-ecords-aemo/
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• The SA Government opened more than 11,000 sq km across Gawler Ranges East and Whyalla West zones for renewable energy feasibility licences (tender open until 28 June 2026), with strong combined wind and solar resources. (Source: SA Dept of Energy & Mining / ESD News — https://www.energymining.sa.gov.au/home/news/latest/south-australia-open-for-more-renewable-energy-investment | https://esdnews.com.au/south-australia-opens-new-areas-for-renewables-investment/)
 
 📜 3. ENERGY POLICY & REGULATION
 
-• [HIGH RELEVANCE] AEMO released the final 2026 Integrated System Plan (25 June 2026), confirming renewables + storage + gas is Australia's least-cost pathway to 2050; the ISP directly shapes all future transmission investment decisions relevant to new large-load connection in SA. Industry reaction has broadly welcomed the plan's endorsement of accelerated storage deployment.
-  Source: ESD News / AEMO — https://esdnews.com.au/aemo-unveils-2026-integrated-system-plan/
+• AEMO released the final 2026 Integrated System Plan (ISP) on 25 June 2026, reaffirming that renewables firmed with storage, backed up by gas, is the least-cost path to reliable electricity supply to 2050. (Source: AEMO / ESD News — https://esdnews.com.au/aemo-unveils-2026-integrated-system-plan/)
 
-• [HIGH RELEVANCE] SA Technical Regulator Guidelines (issued February 2026) require data centres of 100 MW or more to obtain certification covering power system reliability, security, and stability, including mandatory backup energy systems and compliance with AEMO directions during system stress events.
-  Source: w.media — https://w.media/australia-moves-to-tighten-grid-rules-for-data-centres/
+• [HIGH RELEVANCE] The Australian Energy Market Commission (AEMC) has proposed a draft rule introducing new grid connection technical standards for large inverter-based loads including hyperscale data centres; stakeholder submissions closed 7 May 2026 and a final rule is expected mid-to-late 2026 — critical for any SA data centre planning grid connection. (Source: AEMC — https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections)
 
-• [HIGH RELEVANCE] The AEMC released a draft rule proposing new technical standards for large inverter-based loads (IBLs) — including hyperscale data centres — connecting to the NEM; a final rule is expected mid-to-late 2026 and will apply on connection.
-  Source: AEMC — https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections
+• [HIGH RELEVANCE] South Australia's Technical Regulator Guidelines (introduced February 2026) require data centres of 100 MW or more to obtain certification covering power system reliability, security and stability, including mandatory backup energy systems. (Source: W.Media — https://w.media/australia-moves-to-tighten-grid-rules-for-data-centres/)
 
-• SA's Mandatory Market Obligation (MMO) is being implemented from July 2026; the industry co-design process is formalising obligations in the National Electricity Law and Rules throughout 2026.
-  Source: Ashurst — https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/
-
-• The AER confirmed (October 2025) that the SA reliability gap for December 2026 – February 2027 is now closed, following improved storage and generation commitments — removing a key short-term supply risk for the state.
-  Source: AER — https://www.aer.gov.au/industry/retail/reliability-obligation/south-australia-december-2026-february-2027/t-3
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• The Mandatory Matching Obligation (MMO) for South Australia is being implemented from July 2026, with industry-led contract co-design commenced Q2 2026; outcomes will be formalised into the National Electricity Law and Rules during 2026. (Source: Ashurst — https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/)
 
 💰 4. ENERGY PRICING & SUPPLY
 
-• SA's average peak wholesale electricity price fell sharply to $18.55 AUD/MWh in June 2026 — near historical lows — following an extreme swing from $86.57 AUD/MWh in May 2026; the volatility reflects SA's high renewable penetration and seasonal generation patterns, with large negative pricing periods at peak solar output.
-  Source: CEIC / Leading Edge Energy — https://leadingedgeenergy.com.au/blog/electricity-market-review-latest/
+• Renewable generation reached 40.0% of total NEM supply in June 2026 — a quarterly high — with battery discharge more than doubling compared to June 2025, demonstrating storage's growing role in SA's supply mix. (Source: Leading Edge Energy — https://leadingedgeenergy.com.au/blog/electricity-market-review-latest/)
 
-• Q1 2026 SA wholesale prices averaged $144/MWh, driven by two extended high-price events in January 2026 (monthly average $152/MWh); this followed Q4 2025's record low of $37/MWh — the lowest quarterly wholesale price across all Australian states.
-  Source: Smart Power Energy / Juan Cole — https://www.smartpowerenergy.com.au/blog-posts/australian-energy-market-summary-january-2026
+• SA wholesale prices averaged ~$144/MWh in Q1 2026 (vs $50/MWh in Victoria) but fell to $37/MWh — the lowest of any state — in Q4 2025 when wind, solar and battery output were strong, highlighting the volatility of SA's market. (Source: Ashurst / SA Premier — https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/ | https://premier.sa.gov.au/media-releases/news-archive/sa-wholesale-power-prices-lowest-in-nation)
 
-• SA residential retail electricity averages 32.1 c/kWh (~$1,580/year per household); significant intra-day price swings create opportunities for flexible large loads (data centres, electrolysers) to optimise procurement costs through time-of-use agreements.
-  Source: Energy Plans Australia — https://www.energyplans.com.au/electricity-prices/sa
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• AEMO confirmed the previously forecast SA reliability gap for December 2026–February 2027 is now closed, following AGL's in-principle agreement with the SA Government to potentially extend Torrens Island B Power Station by two years. (Source: AER — https://www.aer.gov.au/industry/retail/reliability-obligation/south-australia-december-2026-february-2027/t-3)
 
 🏗️ 5. INDUSTRY MOVES (Data Centres & Large Energy Users)
 
-• [HIGH RELEVANCE] IREN signed a transmission connection agreement with ElectraNet for an 800 MW data centre campus at Bundey, SA (~125 km north-east of Adelaide) — the largest data centre campus announced in the Asia-Pacific region. The agreement secures four 330 kV feeder exits at the ElectraNet substation supporting up to 800 MW without network upgrades; energisation is targeted from 2028.
-  Source: Data Center News Asia / RenewEconomy — https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
+• [HIGH RELEVANCE] IREN has signed a transmission connection agreement with ElectraNet for an 800 MW data centre campus at Bundey, SA (~125 km north-east of Adelaide), secured via four 330 kV feeder exits without requiring network upgrades; energisation is on track from 2028. This is one of the largest data centre campuses announced in the Asia-Pacific region. (Source: Data Centre News Asia / RenewEconomy — https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre | https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/)
 
-• [HIGH RELEVANCE] AEMO disclosed a 5.4 GW Australian data centre pipeline progressing through NEM connection processes as of June 2026, signalling intensifying competition for grid access and transmission capacity — early movers in SA face fewer congestion constraints.
-  Source: Certified Strategic / Australia Data Centre Index — https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026
+• [HIGH RELEVANCE] AEMO disclosed a 5.4 GW Australian data centre pipeline as of June 2026, with South Australia capturing a significant share given its 100% net renewable energy target by 2027 and available transmission capacity at Bundey. (Source: Certified Strategic / AEMO — https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026)
 
-• SA Power Networks CEO Andrew Bills publicly endorsed SA as an "attractive and low-cost" destination for AI data centres, citing the state's world-leading renewable energy and existing network infrastructure as key competitive advantages for hyperscale operators.
-  Source: SA Power Networks — https://www.sapowernetworks.com.au/data/326025/sa-power-networks-supports-data-centre-strategy/
+• SA Power Networks CEO publicly affirmed that South Australia's world-leading renewable energy grid makes the state attractive for AI data centres, with the company actively supporting the state's data centre connection strategy. (Source: SA Power Networks — https://www.sapowernetworks.com.au/data/326025/sa-power-networks-supports-data-centre-strategy/)
 
-• Network costs and data centre accommodation dominated discussion at Australian Energy Week 2026 (9–12 June), with industry debate centring on how grid augmentation costs should be allocated between new large loads and existing customers — a policy outcome that will directly affect connection economics for prospective data centre developers in SA.
-  Source: ESD News — https://esdnews.com.au/australian-energy-week-2026/
+• ElectraNet's TAPR forecasts increased connection demand from Greater Adelaide, Mid North and South East regions driven by the data centre and AI boom alongside defence industry development — signalling growing competition for available connection slots. (Source: ESD News — https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Sources:
-- ElectraNet 2026 TAPR (pv magazine): https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/
-- ElectraNet NTx / TAPR (ESD News): https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
-- AMPYR 270MW Northern Battery: https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
-- AEMO SA Grid Reference Transitional Service: https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/transition-planning/transitional-services---type-1-services/south-australian-grid-reference-transitional-service
-- SA 11,000 km² Land Release (SolarQuarter): https://solarquarter.com/2026/04/08/south-australia-opens-11000-sq-km-land-for-large-scale-renewable-energy-investment/
-- SA FERM / New Energy Projects (SA Gov): https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity
+- PV Magazine Australia: https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/
+- ESD News (TAPR): https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
+- Electrive (AU$30M grid): https://www.electrive.com/2026/07/27/australia-allocates-au30-million-for-smarter-grid-projects-including-electromobility/
+- AEMO (Grid Reference Service): https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/transition-planning/transitional-services---type-1-services/south-australian-grid-reference-transitional-service
 - Goyder Energy: https://goyderenergy.com.au/
-- AEMO / Q1 solar records (pv magazine): https://www.pv-magazine-australia.com/2026/04/30/grid-scale-and-distributed-solar-break-quarterly-generation-ecords-aemo/
-- AEMO 2026 ISP (ESD News): https://esdnews.com.au/aemo-unveils-2026-integrated-system-plan/
-- SA Data Centre Technical Guidelines (w.media): https://w.media/australia-moves-to-tighten-grid-rules-for-data-centres/
-- AEMC IBL Draft Rule: https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections
-- SA MMO / Ashurst April 2026 Update: https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/
-- AER SA Reliability Gap Closed: https://www.aer.gov.au/industry/retail/reliability-obligation/south-australia-december-2026-february-2027/t-3
-- SA June 2026 Wholesale Prices (Leading Edge Energy): https://leadingedgeenergy.com.au/blog/electricity-market-review-latest/
-- SA Q1 2026 / Jan 2026 Prices (Smart Power): https://www.smartpowerenergy.com.au/blog-posts/australian-energy-market-summary-january-2026
-- SA Retail Electricity (Energy Plans Australia): https://www.energyplans.com.au/electricity-prices/sa
-- IREN 800MW Bundey Data Centre: https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
-- AEMO 5.4GW Data Centre Pipeline: https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026
-- SA Power Networks Data Centre Strategy: https://www.sapowernetworks.com.au/data/326025/sa-power-networks-supports-data-centre-strategy/
-- Australian Energy Week 2026 (ESD News): https://esdnews.com.au/australian-energy-week-2026/
+- SA Dept of Energy & Mining (FERM): https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity
+- RenewEconomy (Bundey solar+BESS): https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/
+- SA Dept of Energy & Mining (land release): https://www.energymining.sa.gov.au/home/news/latest/south-australia-open-for-more-renewable-energy-investment
+- ESD News (land release): https://esdnews.com.au/south-australia-opens-new-areas-for-renewables-investment/
+- AEMO / ESD News (2026 ISP): https://esdnews.com.au/aemo-unveils-2026-integrated-system-plan/
+- AEMC (data centre grid standards): https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections
+- W.Media (SA Technical Regulator): https://w.media/australia-moves-to-tighten-grid-rules-for-data-centres/
+- Ashurst (MMO/pricing): https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/
+- Leading Edge Energy (June 2026 market): https://leadingedgeenergy.com.au/blog/electricity-market-review-latest/
+- SA Premier (wholesale prices): https://premier.sa.gov.au/media-releases/news-archive/sa-wholesale-power-prices-lowest-in-nation
+- AER (reliability): https://www.aer.gov.au/industry/retail/reliability-obligation/south-australia-december-2026-february-2027/t-3
+- Data Centre News Asia (IREN): https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
+- Certified Strategic / AEMO (pipeline): https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026
+- SA Power Networks: https://www.sapowernetworks.com.au/data/326025/sa-power-networks-supports-data-centre-strategy/
 
-════════════════════════════════════════════════════════════════
-繁體中文版 | TRADITIONAL CHINESE VERSION
-════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【繁體中文版】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📋 南澳洲能源每日簡報 — 2026年8月5日
-編製單位：South Energy | 資料中心土地收購團隊
+製備單位：South Energy | 資料中心土地取得部門
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網與基礎設施
 
-• 【高度相關】ElectraNet《2026年輸電年度規劃報告》（TAPR）揭示：目前已有41個業主的75個以上潛在連接項目正與南澳輸電網洽談；受資料中心、人工智能、國防及工業化負荷驅動，至2040年南澳尖峰電力需求預計將從目前3.3GW近乎翻倍至逾6.5GW。
-  資料來源：pv magazine Australia — https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/
+• 【高度相關】ElectraNet於2026年《輸電年度規劃報告》（TAPR）中揭露，目前有超過41個申請方、75個以上的潛在專案正在洽談南澳洲輸電網路接線事宜；南澳電力尖峰需求預計在未來15年內從現有的3.3 GW倍增至6.5 GW，主因為資料中心、人工智慧、綠鋼及氫能產業的崛起。（資料來源：PV Magazine Australia / ESD News — https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/ | https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/）
 
-• 【高度相關】ElectraNet正推進三大輸電增容項目：約35億澳元的北部輸電項目（Bundey至阿德萊德都會負載中心走廊）、艾爾半島275kV升壓改造（預計2027/28年完成），以及東南部275kV第二回路（Tailem Bend–Tungkillo，約8,000–9,000萬澳元）——上述項目直接影響南澳新大型電力負載的電網接入容量。
-  資料來源：ESD News — https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
+• 【高度相關】ElectraNet宣布造價35億澳幣的「北部輸電計畫」（NTx）進入早期規劃階段，目標提升Bundey至阿德雷德、以及Bundey至預期的Cultana負載中心之間的輸電容量——此計畫對Mid North地區大型負載接線至關重要。（資料來源：PV Magazine Australia — https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/）
 
-• AMPYR澳洲獲AEMO頒發5.3.4函件（技術接入批准），確認其位於奧古斯塔港附近的270MW電網成形電池儲能系統（Northern Battery）符合接入全國電力市場（NEM）所需的技術性能標準，成為南澳首批通過審批的電網成形儲能項目之一。
-  資料來源：Energy Storage News — https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
+• 澳洲聯邦政府於2026年7月27日宣布投入3000萬澳幣推動「智慧電網」計畫，涵蓋電動交通基礎設施，預計將支持南澳配電網升級。（資料來源：Electrive — https://www.electrive.com/2026/07/27/australia-allocates-au30-million-for-smarter-grid-projects-including-electromobility/）
 
-• 隨著南澳NSCAS（電網支撐與控制輔助服務）合同於2026年到期，AEMO正為南澳洲採購新的「電網基準過渡服務」，標誌著系統強度服務來源方式將發生結構性轉變。
-  資料來源：AEMO — https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/transition-planning/transitional-services---type-1-services/south-australian-grid-reference-transitional-service
+• AEMO南澳電網參考過渡服務招標正在進行中（NSCAS合約到期後）；目前進入接線流程的電池專案達4.8 GW，佔南澳所有在辦接線容量的80%，且早期階段的南澳電池全部採用電網成形技術。（資料來源：AEMO — https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/transition-planning/transitional-services---type-1-services/south-australian-grid-reference-transitional-service）
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+☀️ 2. 再生能源專案
 
-☀️ 2. 再生能源項目
+• Goyder電池儲能系統與Goyder北部風場的建設工程預計於2026年中開工，將為南澳電網增添大量可調度的再生能源容量。（資料來源：Goyder Energy — https://goyderenergy.com.au/）
 
-• 【高度相關】南澳州政府依據《氫能與可再生能源法》，開放逾1.1萬平方公里土地（上艾爾半島Gawler Ranges East約5,200平方公里及上斯賓塞灣Whyalla West約6,500平方公里），向全球投資者徵求大型太陽能、風能及儲能可行性許可證申請；估計兩區域可承載足以為50萬戶以上家庭供電的再生能源項目。
-  資料來源：SA Energy & Mining / SolarQuarter — https://solarquarter.com/2026/04/08/south-australia-opens-11000-sq-km-land-for-large-scale-renewable-energy-investment/
+• 南澳洲政府在首次招標中向六個電池能源專案頒發「固定能源可靠性機制」（FERM）協議，總規模達517 MW / 4,136 MWh的可調度儲能，有助穩定電網並填補化石燃料機組退役後的容量缺口。（資料來源：南澳州能源與礦業部 — https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity）
 
-• 南澳首輪「確定性能源可靠性機制」（FERM）招標中，六個電池儲能項目獲授協議，合計裝機517MW / 4,136MWh可調度容量；全州再生能源投資管道達320億澳元，已登記裝機逾7,564MW，該州頻繁實現瞬時100%再生能源供電。
-  資料來源：SA Energy & Mining — https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity
+• 【高度相關】Genaspi Energy贏得合約，將在Bundey興建300 MW太陽能發電場及300 MW / 1,200 MWh的電池儲能系統，以支持IREN 800 MW資料中心園區的電力需求——此模式為大型負載搭配就地再生能源的典型案例。（資料來源：RenewEconomy — https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/）
 
-• Goyder北部風電場（300MW）及Goyder電池儲能系統計劃於2026年中期同步啟動建設；Palmer風電場（274MW）同樣獲「容量投資計劃」合同，亦正推進建設準備。
-  資料來源：Goyder Energy / SA Government — https://goyderenergy.com.au/
+• 南澳洲政府向Gawler Ranges East及Whyalla West兩大新區域開放超過11,000平方公里土地申請再生能源可行性許可（招標截止至2026年6月28日），兩處均具備優異的風能與太陽能資源組合。（資料來源：南澳州能源與礦業部 / ESD News — https://www.energymining.sa.gov.au/home/news/latest/south-australia-open-for-more-renewable-energy-investment | https://esdnews.com.au/south-australia-opens-new-areas-for-renewables-investment/）
 
-• 2026年第一季度全澳大型電網及分佈式太陽能發電量雙雙刷新季度紀錄；再生能源佔NEM總發電量46.5%，創第一季度歷史新高，同比上升4個百分點。
-  資料來源：AEMO / pv magazine Australia — https://www.pv-magazine-australia.com/2026/04/30/grid-scale-and-distributed-solar-break-quarterly-generation-ecords-aemo/
+📜 3. 能源政策與法規
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• AEMO於2026年6月25日發布最終版《2026年整合系統計畫》（ISP），再度確認「再生能源搭配儲能、以天然氣備用」為2050年前最具成本效益的供電路徑，為南澳長期投資提供政策確定性。（資料來源：AEMO / ESD News — https://esdnews.com.au/aemo-unveils-2026-integrated-system-plan/）
 
-📜 3. 能源政策與監管
+• 【高度相關】澳洲能源市場委員會（AEMC）提出草案規則，為包括超大型資料中心在內的大型逆變型負載制定新的電網接線技術標準；各方意見提交截止至2026年5月7日，最終規則預計於2026年中至下半年頒布——此舉對南澳資料中心接線規劃具有直接影響。（資料來源：AEMC — https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections）
 
-• 【高度相關】AEMO於2026年6月25日發布最終版《2026年整合系統計劃》（ISP），確認以儲能強化的再生能源結合天然氣備用為澳洲至2050年最低成本路徑；ISP將主導所有與南澳新大型負載接入相關的輸電投資決策，業界對計劃加速儲能部署的方向普遍持支持態度。
-  資料來源：ESD News / AEMO — https://esdnews.com.au/aemo-unveils-2026-integrated-system-plan/
+• 【高度相關】南澳洲技術監管機構於2026年2月頒布指引，要求100 MW以上的資料中心取得電力系統可靠性、安全性與穩定性認證，包括強制備用電力系統及系統壓力事件期間的合規義務。（資料來源：W.Media — https://w.media/australia-moves-to-tighten-grid-rules-for-data-centres/）
 
-• 【高度相關】南澳技術監管機構於2026年2月發布資料中心技術指引，規定100MW及以上設施須取得涵蓋電力系統可靠性、安全性及穩定性的認證，強制配備備用能源系統，並須遵從AEMO在電力系統壓力事件期間的指令。
-  資料來源：w.media — https://w.media/australia-moves-to-tighten-grid-rules-for-data-centres/
+• 南澳洲《強制配對義務》（MMO）自2026年7月起實施，業界主導的合約共同設計程序已於2026年第二季啟動，相關結果將在2026年內正式納入《國家電力法》及規則。（資料來源：Ashurst — https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/）
 
-• 【高度相關】AEMC就大型逆變器型負載（IBL，包括超大規模資料中心）接入NEM的新技術標準發布草案規則；最終版本預計於2026年中後期發布，並將於接入時正式生效。
-  資料來源：AEMC — https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections
+💰 4. 電力定價與供應
 
-• 南澳《強制市場義務》（MMO）自2026年7月起實施，業界主導的共同設計流程正持續將相關義務納入《國家電力法》及規則。
-  資料來源：Ashurst — https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/
+• 2026年6月，再生能源發電量達到NEM總供電量的40.0%，創下季度新高；電池放電量亦較2025年6月增加一倍以上，顯示儲能在南澳電力供給中的角色日益重要。（資料來源：Leading Edge Energy — https://leadingedgeenergy.com.au/blog/electricity-market-review-latest/）
 
-• 澳洲能源監管局（AER）於2025年10月確認，南澳原預計的2026年12月至2027年2月供電可靠性缺口現已關閉，相關儲能及發電承諾有所改善，短期供應風險已消除。
-  資料來源：AER — https://www.aer.gov.au/industry/retail/reliability-obligation/south-australia-december-2026-february-2027/t-3
+• 2026年第一季南澳批發電價平均約為每MWh $144澳幣，高於維多利亞州的$50澳幣；惟在風力、太陽能及電池輸出強勁的2025年第四季，南澳批發電價曾降至全澳最低的每MWh $37澳幣，顯示南澳電力市場的波動特性。（資料來源：Ashurst / SA省長辦公室 — https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/ | https://premier.sa.gov.au/media-releases/news-archive/sa-wholesale-power-prices-lowest-in-nation）
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• AEMO已確認原先預測的南澳2026年12月至2027年2月供電可靠性缺口已獲彌補，主因為AGL與南澳洲政府達成原則性協議，Torrens Island B電廠可能延役兩年。（資料來源：AER — https://www.aer.gov.au/industry/retail/reliability-obligation/south-australia-december-2026-february-2027/t-3）
 
-💰 4. 能源定價與供應
+🏗️ 5. 產業動態（資料中心與大型用電戶）
 
-• 南澳2026年6月平均尖峰批發電價大幅回落至18.55澳元/MWh，接近歷史低位；較5月的86.57澳元/MWh顯著下跌，主因再生能源發電量擴增壓低市場價格，尖峰太陽能時段頻現大幅負電價。
-  資料來源：CEIC / Leading Edge Energy — https://leadingedgeenergy.com.au/blog/electricity-market-review-latest/
+• 【高度相關】IREN已與ElectraNet簽署輸電接線協議，將在南澳Bundey（阿德雷德東北約125公里）興建800 MW資料中心園區，透過四條330 kV饋線出口接入電網，無需進行電網升級；預計2028年起通電，為亞太地區規模最大的資料中心園區之一。（資料來源：Data Centre News Asia / RenewEconomy — https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre | https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/）
 
-• 2026年第一季南澳批發電價均值達144澳元/MWh，1月均價高達152澳元/MWh（源於兩次持續高電價事件）；此前2025年第四季南澳批發電價降至37澳元/MWh，為全澳各州最低季度批發電價。
-  資料來源：Smart Power Energy — https://www.smartpowerenergy.com.au/blog-posts/australian-energy-market-summary-january-2026
+• 【高度相關】AEMO於2026年6月披露澳洲資料中心接線管線已達5.4 GW，南澳佔相當大比重——主因南澳2027年100%淨再生能源目標及Bundey（Project EnergyConnect輸電線入口）的可用輸電容量。（資料來源：Certified Strategic / AEMO — https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026）
 
-• 南澳住宅零售電價均值為32.1澳分/kWh（年均約1,580澳元）；日內電價大幅波動為靈活型大型負載（如資料中心、電解槽）透過分時電價協議優化採購成本創造了機遇。
-  資料來源：Energy Plans Australia — https://www.energyplans.com.au/electricity-prices/sa
+• SA Power Networks執行長公開表示，南澳世界領先的再生能源電網對AI資料中心極具吸引力，且公司正積極支持全州資料中心接線策略。（資料來源：SA Power Networks — https://www.sapowernetworks.com.au/data/326025/sa-power-networks-supports-data-centre-strategy/）
+
+• ElectraNet《輸電年度規劃報告》預測大阿德雷德、Mid North及South East地區的接線需求將因資料中心、AI產業熱潮及國防工業發展而大幅增加，顯示可用接線槽位的競爭日趨激烈。（資料來源：ESD News — https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/）
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🏗️ 5. 產業動態（資料中心及大型用電戶）
-
-• 【高度相關】IREN就位於南澳Bundey（阿德萊德東北約125公里）的800MW資料中心園區簽署輸電連接協議，是亞太地區已宣布的規模最大資料中心園區。協議確保透過ElectraNet變電站以四條330kV出線接入高壓電網，無需電網升級即可支援高達800MW容量；項目計劃於2028年起通電投入運營。
-  資料來源：Data Center News Asia / RenewEconomy — https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
-
-• 【高度相關】截至2026年6月，AEMO披露全澳資料中心待建管道已達5.4GW並正在推進NEM接入程序，顯示對電網接入及輸電容量的競爭持續加劇——搶先佈局南澳的開發商面臨較少的電網擁堵制約。
-  資料來源：Certified Strategic — https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026
-
-• SA Power Networks執行長Andrew Bills公開表態，南澳憑藉世界領先的再生能源及現有電網基礎設施，是人工智能資料中心「具吸引力且成本低廉」的選址目的地，超大規模業者在南澳佈局具備全球競爭優勢。
-  資料來源：SA Power Networks — https://www.sapowernetworks.com.au/data/326025/sa-power-networks-supports-data-centre-strategy/
-
-• 電網費用分攤及資料中心接入安排主導了2026年澳洲能源周（6月9–12日）的核心議題，業界爭議集中於新增大型負載與現有用戶之間的電網增容成本分攤機制——此政策走向將直接影響南澳潛在資料中心開發商的接入經濟性。
-  資料來源：ESD News — https://esdnews.com.au/australian-energy-week-2026/
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：
-- ElectraNet 2026 TAPR (pv magazine): https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/
-- ElectraNet NTx / TAPR (ESD News): https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
-- AMPYR 270MW Northern Battery: https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
-- AEMO南澳電網基準過渡服務: https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/transition-planning/transitional-services---type-1-services/south-australian-grid-reference-transitional-service
-- 南澳11,000平方公里土地釋出 (SolarQuarter): https://solarquarter.com/2026/04/08/south-australia-opens-11000-sq-km-land-for-large-scale-renewable-energy-investment/
-- 南澳FERM / 新能源項目 (SA Gov): https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity
+資料來源（Sources）：
+- PV Magazine Australia: https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/
+- ESD News (TAPR): https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
+- Electrive (AU$30M 電網): https://www.electrive.com/2026/07/27/australia-allocates-au30-million-for-smarter-grid-projects-including-electromobility/
+- AEMO (Grid Reference Service): https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/transition-planning/transitional-services---type-1-services/south-australian-grid-reference-transitional-service
 - Goyder Energy: https://goyderenergy.com.au/
-- AEMO Q1 2026太陽能紀錄 (pv magazine): https://www.pv-magazine-australia.com/2026/04/30/grid-scale-and-distributed-solar-break-quarterly-generation-ecords-aemo/
-- AEMO 2026 ISP (ESD News): https://esdnews.com.au/aemo-unveils-2026-integrated-system-plan/
-- 南澳資料中心技術指引 (w.media): https://w.media/australia-moves-to-tighten-grid-rules-for-data-centres/
-- AEMC IBL草案規則: https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections
-- 南澳MMO (Ashurst): https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/
-- AER南澳可靠性缺口關閉: https://www.aer.gov.au/industry/retail/reliability-obligation/south-australia-december-2026-february-2027/t-3
-- 南澳2026年6月批發電價 (Leading Edge Energy): https://leadingedgeenergy.com.au/blog/electricity-market-review-latest/
-- 南澳2026年第一季電價 (Smart Power): https://www.smartpowerenergy.com.au/blog-posts/australian-energy-market-summary-january-2026
-- 南澳零售電價 (Energy Plans Australia): https://www.energyplans.com.au/electricity-prices/sa
-- IREN 800MW Bundey資料中心: https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
-- AEMO 5.4GW資料中心管道: https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026
-- SA Power Networks資料中心策略: https://www.sapowernetworks.com.au/data/326025/sa-power-networks-supports-data-centre-strategy/
-- 澳洲能源周2026 (ESD News): https://esdnews.com.au/australian-energy-week-2026/
+- 南澳州能源與礦業部 (FERM): https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity
+- RenewEconomy (Bundey 太陽能+儲能): https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/
+- 南澳州能源與礦業部 (土地開放): https://www.energymining.sa.gov.au/home/news/latest/south-australia-open-for-more-renewable-energy-investment
+- ESD News (土地開放): https://esdnews.com.au/south-australia-opens-new-areas-for-renewables-investment/
+- AEMO / ESD News (2026 ISP): https://esdnews.com.au/aemo-unveils-2026-integrated-system-plan/
+- AEMC (資料中心電網標準): https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections
+- W.Media (南澳技術監管指引): https://w.media/australia-moves-to-tighten-grid-rules-for-data-centres/
+- Ashurst (MMO/定價): https://www.ashurst.com/en/insights/australian-electricity-and-gas-markets-april-2026-update/
+- Leading Edge Energy (2026年6月市場): https://leadingedgeenergy.com.au/blog/electricity-market-review-latest/
+- SA省長辦公室 (批發電價): https://premier.sa.gov.au/media-releases/news-archive/sa-wholesale-power-prices-lowest-in-nation
+- AER (可靠性): https://www.aer.gov.au/industry/retail/reliability-obligation/south-australia-december-2026-february-2027/t-3
+- Data Centre News Asia (IREN): https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
+- Certified Strategic / AEMO (管線): https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026
+- SA Power Networks: https://www.sapowernetworks.com.au/data/326025/sa-power-networks-supports-data-centre-strategy/
