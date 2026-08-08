@@ -1,1 +1,161 @@
-TEST EMAIL via Gmail SMTP - SA Energy Briefing pipeline verification.
+📊 SA DATA CENTER LAND — 6-MONTH INDUSTRY OVERVIEW (February–August 2026)
+Prepared for: South Energy | Land Acquisition & Project Integration
+Covering: South Australia & National Australia | Key period: Feb–Aug 2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔌 1. GRID & CONNECTION OPPORTUNITIES
+
+• [HIGH RELEVANCE] ElectraNet 2026 TAPR (released March 2026): ElectraNet published its Transmission Annual Planning Report with a A$3.94 billion pipeline of priority transmission projects. Three major projects are proposed: Northern Transmission (northern/eastern SA), Eyre Peninsula Upgrade (Cultana–Yadnarie lines), and South East Expansion. SA peak demand is forecast to double from 3.3 GW to 6.5 GW over the next 15 years — the most significant demand growth signal SA has ever produced.
+
+• [HIGH RELEVANCE] Unprecedented connection enquiries: Over 75 prospective projects from 41 proponents are in active discussions with ElectraNet to connect to the SA transmission network — representing multiple times the state's current peak demand. Demand clusters in Greater Adelaide, Mid North, and South East SA — driven by data centres, AI infrastructure, defence, green steel, and hydrogen. This directly identifies site-selection hot zones.
+
+• [HIGH RELEVANCE] AEMO discloses 5.4 GW national data centre pipeline (June 2026): AEMO's quarterly report confirmed 11 large-scale (>5 MW) data centre projects totalling 5.4 GW are progressing through the national transmission connection process. Nationally 60% NSW and 40% Victoria — but SA's IREN announcement post-dates this report, signalling SA will appear in the next pipeline update.
+
+• Grid stability milestone: AEMO confirmed SA can operate securely with just one synchronous generator running, reducing renewable curtailment risk and making SA's grid more attractive for large 24/7 energy users like data centres.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
+
+• [HIGH RELEVANCE] 11,000 sq km of new land released for renewables (April 2026): The SA Government opened applications for renewable energy feasibility licences across Whyalla West and Gawler Ranges East — totalling 11,000 sq km. For land developers, this signals where the next generation of co-location (data centre + renewables) opportunities will cluster.
+
+• $32.5 billion renewable pipeline: SA holds $32.5B in large-scale renewable projects under construction, under assessment, or approved — including approximately 6 GW of proposed solar. Solar PV already supplied over 32% of SA's electricity in 2024/25. Wind and solar combined: 7,564 MW of registered capacity.
+
+• [HIGH RELEVANCE] Goyder Renewables Zone construction commences (mid-2026): Neoen's Goyder Battery (227 MW / 907 MWh, adjacent to ElectraNet's Bundey Substation) began construction in mid-2026, backed by a 10-year BHP energy agreement. Goyder North Wind Farm (300 MW+ first stage) also commenced mid-2026. Both projects are critical co-location anchors near Bundey — same area as IREN's data centre campus.
+
+• SA 100% net renewables target by end of 2027: SA is on track, making it the most credible low-carbon grid story in Australia for data centre operators who must demonstrate sustainability commitments.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 3. TECH COMPANY DEMAND (Potential Buyers)
+
+• [HIGH RELEVANCE] IREN announces 800 MW AI data centre campus at Bundey, SA (June 2026): IREN Limited signed a transmission connection agreement with ElectraNet for an 800 MW campus approximately 126 km northeast of Adelaide — the largest announced data centre project in Australia and one of the largest in Asia-Pacific. Energisation target: 2028. 200+ ongoing roles, 500+ construction jobs. IREN cited SA's 100% net renewable grid and submarine fibre connectivity to Singapore, Indonesia, South Korea, and Japan as key decision factors. This is the most significant buyer-intent signal SA has seen — and validates the Bundey/Mid North region as a tier-1 data centre corridor.
+
+• Microsoft: A$25 billion Australian commitment (2026–2029): Microsoft announced its largest-ever Australian investment — A$25 billion through to 2029 — growing cloud footprint by 140% from 20 to 29 data centre sites across Sydney, Canberra, and Melbourne. An additional A$5 billion tranche was confirmed in April 2026.
+
+• Amazon AWS: USD$14.35 billion (2025–2029): AWS committed to expanding data centres in Sydney and Melbourne over five years. No SA footprint announced yet, but scale of investment signals ongoing regional expansion appetite.
+
+• OpenAI: A$7 billion Australia investment (December 2025): OpenAI announced a A$7 billion commitment to Australia, signalling that AI-native companies — not just hyperscalers — are now actively seeking Australian infrastructure. This broadens the pool of potential buyers beyond traditional cloud providers.
+
+• A$45 billion total hyperscaler commitments in 22 months: Collectively, hyperscalers have committed roughly A$45 billion (~USD$31 billion) to Australian digital infrastructure — Australia is now a tier-1 market for AI compute infrastructure globally.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📜 4. POLICY & REGULATION (SA + National)
+
+• [HIGH RELEVANCE] SA Data Centre and AI Infrastructure Act proposed (June 2026): Premier Malinauskas announced a six-point Data Centre Strategy centred on a new dedicated Act. Key provisions: (1) data centres designated as essential infrastructure; (2) Coordinator-General empowered to approve major projects, bypassing standard council processes; (3) dedicated fast-track planning pathway; (4) support for renewable-powered developments; (5) industry partnerships; (6) AI R&D support. This is the single most important policy development for SA land developers — it removes the primary planning risk that previously made large-site acquisition speculative.
+
+• [HIGH RELEVANCE] Australian Federal Government Data Centre Expectations (March 2026): The Federal Government released voluntary national expectations for data centre developers across five pillars: national security and data sovereignty; energy generation (not just consumption); water efficiency; workforce and skills; community benefit. Proposals aligned to these expectations will be fast-tracked through Commonwealth regulatory processes.
+
+• Mandatory net-energy rule incoming (legislation expected early 2027): Future large data centres will be legally required to underwrite new power supply and be net energy generators — putting at least as much into the grid as they take out. National Cabinet is considering this in August 2026. For SA land developers, this means projects bundling data centre sites with co-located renewable generation are the only viable product to sell to major buyers going forward.
+
+• Office of AI established: A centralised Office of AI was created within the Department of PM & Cabinet to fast-track approvals and manage national AI infrastructure policy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🗺️ 5. LAND, PLANNING & MARKET MOVES
+
+• [HIGH RELEVANCE] IREN secures Bundey site — SA's first mega data centre foothold: The Bundey location (Mid North SA, ~126 km NE of Adelaide) is now the most high-profile data centre land site in Australia. Its proximity to the Goyder Battery, Goyder North Wind Farm, and ElectraNet's Bundey Substation creates a natural energy-data centre co-location precinct. Adjacent land in this corridor has been structurally re-rated in value.
+
+• [HIGH RELEVANCE] SA government opens 11,000 sq km for renewable feasibility licences (April 2026): Whyalla West and Gawler Ranges East zones are now open for investor applications — greenfield areas where early movers can secure renewable energy project rights that can be bundled with data centre propositions.
+
+• SA planning reform underway: Alongside the proposed Data Centre Act, the SA Government is implementing planning reforms to designate data centres as essential infrastructure, enabling Crown sponsorship and bypassing standard development assessment pathways for major projects.
+
+• National market: Goodman Group's data centre pipeline reached A$11.3 billion (75% of total work-in-progress), expanding capacity from 300 MW to 500 MW in 2026. Partners Group acquired GreenSquareDC (Sydney). HMC Capital acquired Global Switch Australia for A$1.937 billion. Competitive pressure is concentrated in Sydney — creating an opportunity to position SA as a credible alternative.
+
+• Australian data centre market forecast: Projected to grow from USD$4.22 billion (2025) to USD$9.02 billion by 2031 at a 13.5% CAGR. Sydney currently holds ~65% of total power capacity — but SA's emerging pipeline and policy framework are creating conditions for a meaningful share shift.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KEY TAKEAWAYS FOR SOUTH ENERGY:
+1. Bundey corridor is now SA's #1 priority land target — IREN 800MW + Goyder assets confirm it as a tier-1 data centre precinct.
+2. Bundled renewable + data centre sites are the only viable product under the incoming federal net-energy mandate.
+3. SA planning risk is dramatically reduced — Data Centre Act designates essential infrastructure, Coordinator-General approval pathway incoming.
+4. Buyer pool has expanded to AI-native companies (IREN, OpenAI) — not just hyperscalers.
+5. SA's first-mover window is still open — eastern market land competition is extreme; SA is the credible alternative.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【繁體中文版】
+
+📊 南澳大利亞數據中心土地 — 六個月行業概況（2026年2月至8月）
+為 South Energy 整理 | 土地收購與項目整合部門
+涵蓋範圍：南澳大利亞州及澳洲全國 | 時期：2026年2月至8月
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔌 1. 電網與接駁機會
+
+• 【高度相關】ElectraNet 2026年輸電年度規劃報告（TAPR，2026年3月發布）：ElectraNet發布輸電年度規劃報告，公布39.4億澳元的優先輸電項目管道，三大重點項目分別為：北部輸電走廊（覆蓋州內北部與東部）、艾爾半島升級（Cultana–Yadnarie線路）、東南擴展項目。南澳最高電力需求預測將在未來15年內從3.3 GW翻倍至6.5 GW —— 是南澳有史以來最強烈的需求增長訊號。
+
+• 【高度相關】前所未有的接駁詢問量：目前有超過75個來自41個開發商的擬議項目正在與ElectraNet積極洽談接駁南澳輸電網事宜。需求集中在大阿德萊德、中北部及東南南澳地區，主要驅動力為數據中心、AI基礎設施、國防、綠色鋼鐵及氫能。這直接標示出選址的熱門區域。
+
+• 【高度相關】AEMO披露全國5.4 GW數據中心管道（2026年6月）：AEMO季度報告確認全國11個大型數據中心項目共計5.4 GW正在推進輸電接駁程序。目前以NSW 60%、維多利亞40%為主，但IREN南澳公告晚於此報告，南澳將出現在下一次管道更新中。
+
+• 電網穩定里程碑：AEMO確認南澳可在僅運行一台同步發電機的情況下安全運行，降低可再生能源棄電風險，令電網對數據中心等大型用電戶更具吸引力。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+☀️ 2. 可再生能源與選址條件
+
+• 【高度相關】南澳開放1.1萬平方公里新土地用於可再生能源開發（2026年4月）：南澳州政府開放懷阿拉西部及高勒山脈東部兩個區域的可行性許可證申請，總面積達1.1萬平方公里。對土地開發商而言，這標誌著下一代數據中心與可再生能源協同選址的機會所在。
+
+• 325億澳元可再生能源開發管道：南澳目前持有325億澳元的大型可再生能源項目管道，太陽能擬議容量約達6 GW。太陽能光伏在2024/25年度已提供南澳逾32%的電力。風能與太陽能合計已登記裝機容量7,564 MW。
+
+• 【高度相關】Goyder可再生能源區開工建設（2026年中）：Neoen的Goyder電池儲能項目（227 MW / 907 MWh，選址緊鄰ElectraNet邦迪變電站）於2026年中正式開工，由必和必拓（BHP）10年購電協議提供商業支撐。Goyder北部風電場（首期300 MW以上）亦於2026年中開工。兩個項目均為邦迪地區的關鍵能源錨點，也是IREN數據中心園區的選址所在地。
+
+• 南澳2027年底實現100%淨可再生能源目標：南澳正穩步推進，使其成為澳洲最具說服力的低碳電網，對必須展示可持續發展承諾的數據中心運營商極具吸引力。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 3. 科技企業需求（潛在買家）
+
+• 【高度相關】IREN宣布在南澳邦迪建設800 MW AI數據中心園區（2026年6月）：IREN Limited與ElectraNet簽署輸電接駁協議，選址阿德萊德東北約126公里的邦迪地區，建設800 MW數據中心園區 —— 澳洲迄今規模最大、亞太區最大的已宣布數據中心項目之一。通電目標定於2028年，預計創造逾200個長期職位及500個建設期職位。IREN明確點名南澳100%淨可再生電網及海底光纜連接新加坡、印尼、南韓、日本為關鍵決策因素。這是南澳迄今最重要的買家意向訊號，確立了邦迪/中北部地區作為一線數據中心走廊的地位。
+
+• 微軟：225億澳元澳洲承諾（2026–2029年）：微軟宣布其在澳洲有史以來最大規模的投資 —— 225億澳元至2029年 —— 雲端基礎設施規模擴大140%，數據中心從20個增至29個，分布於雪梨、坎培拉及墨爾本。2026年4月額外確認50億澳元的追加投資。
+
+• 亞馬遜AWS：142.5億美元（2025–2029年）：AWS承諾未來五年在雪梨及墨爾本持續擴張數據中心，投資規模顯示持續區域擴張的意圖。
+
+• OpenAI：70億澳元澳洲投資（2025年12月）：OpenAI宣布70億澳元承諾，表明AI原生企業正積極尋求澳洲基礎設施，大幅擴展了潛在買家的範疇。
+
+• 超大規模雲端服務商22個月內承諾450億澳元：微軟、AWS等企業合計在短短22個月內對澳洲數字基礎設施承諾約450億澳元（約310億美元），澳洲已正式躋身全球AI算力基礎設施的一線市場。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📜 4. 政策與監管（南澳 + 全國）
+
+• 【高度相關】南澳擬議《數據中心與AI基礎設施法》（2026年6月）：馬利諾薩斯州長宣布以擬議新法案為核心的六點數據中心戰略，主要措施包括：將數據中心列為必要基礎設施；總協調員獲授權審批重大項目繞過常規議會程序；專設快速審批規劃通道；支持可再生能源驅動的項目。這是南澳土地開發商最重要的政策進展，從根本上消除了過去令大型選址收購充滿投機性的規劃風險。
+
+• 【高度相關】澳洲聯邦政府發布數據中心國家期望框架（2026年3月）：聯邦政府發布針對數據中心及AI基礎設施開發商的自願性五大國家期望，涵蓋：國家安全與數據主權、能源生成、水資源效率、勞動力與技能、社區效益。符合期望的提案將獲得聯邦監管程序的優先處理。
+
+• 強制淨能源規定即將出台（預計2027年初立法）：未來大型數據中心將被法律要求成為淨能源輸出方。全國內閣預計在2026年8月審議此方案。對南澳土地開發商而言，捆綁了協同選址可再生能源發電的數據中心項目，將是日後唯一可向主要買家出售的可行產品形態。
+
+• AI辦公室成立：一個集中統一的AI辦公室在聯邦總理與內閣部門下成立，負責快速審批和統籌管理國家AI基礎設施政策。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🗺️ 5. 土地、規劃與市場動向
+
+• 【高度相關】IREN確立邦迪選址 —— 南澳首個超大規模數據中心基地：邦迪地區（南澳中北部，阿德萊德東北約126公里）現已成為澳洲最受矚目的數據中心土地選址。其緊鄰Goyder電池儲能項目、Goyder北部風電場及ElectraNet邦迪變電站，形成天然的能源-數據中心協同選址走廊。邦迪地區附近土地的戰略價值已被市場結構性重新定位。
+
+• 【高度相關】南澳政府開放1.1萬平方公里用於可再生能源可行性許可（2026年4月）：懷阿拉西部及高勒山脈東部兩個區域現已開放投資者申請，先行者可搶先鎖定可再生能源項目權益並與數據中心提案捆綁。
+
+• 南澳規劃改革推進中：配合擬議中的《數據中心法》，南澳政府正推行規劃改革，將數據中心列為必要基礎設施，從而啟動王室保薦機制，繞過標準發展評估流程，從根本上降低了南澳綠地數據中心選址的規劃風險。
+
+• 全國市場：Goodman集團數據中心開發管道達111億澳元（佔在建管道的75%），2026年將裝機容量從300 MW擴展至500 MW。Partners Group收購了GreenSquareDC（雪梨）。HMC Capital以19.37億澳元收購Global Switch Australia。競爭壓力集中在雪梨，為南澳創造了作為可信替代選址的機遇。
+
+• 澳洲數據中心市場預測：市場規模預計從42.2億美元（2025年）增長至2031年的90.2億美元，複合年增長率13.5%。雪梨目前佔全國電力容量約65%，但南澳的新興項目管道及政策框架正在創造條件，有望實現市場份額的結構性轉移。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+重要啟示總結（給 South Energy）：
+1. 邦迪走廊現在是南澳最優先的土地目標：IREN 800MW + Goyder資產確認其作為一線數據中心走廊的地位。
+2. 捆綁可再生能源的選址是未來唯一被接受的產品形態：聯邦淨能源法規預計2027年落地。
+3. 南澳規劃風險大幅降低：《數據中心法》將數據中心列為必要基礎設施，總協調員審批機制正在推進。
+4. 買家池擴大至AI原生公司：IREN、OpenAI等非傳統雲端服務商也在積極尋求澳洲落地。
+5. 南澳在全國市場中的時機窗口仍開放：東部市場用地競爭已進入白熱化，南澳的先行者優勢尚未被充分競爭稀釋。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+資料來源：ElectraNet 2026 TAPR | AEMO數據中心管道 | IREN南澳800MW公告 | SA 11,000 sq km可再生能源用地 | SA數據中心法 | 聯邦數據中心期望框架 | 微軟225億澳元 | Goyder電池開工 | RenewEconomy
