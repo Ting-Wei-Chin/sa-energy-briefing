@@ -1,217 +1,132 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 13 August 2026
+📋 SA DATA CENTER LAND BRIEFING - 14 August 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-• The Australian Energy Regulator (AER) approved ElectraNet's $29.5 million Stage 1b early
-  works funding for the Northern Transmission Project (NTx), covering land use planning and
-  acquisition, development and environmental approvals, and procurement activities — a key
-  regulatory milestone that de-risks the $3.5 billion project connecting the Bundey substation
-  corridor to the Adelaide metropolitan load centre and directly expands grid capacity for
-  SA data centre projects. [HIGH RELEVANCE]
-  Source: ElectraNet | https://electranet.com.au/news/australian-energy-regulator-approve-electranets-early-works-funding-ntx/
-  Source: AER | https://www.aer.gov.au/industry/networks/contingent-projects/electranet-northern-transmission-project-stage-1b-early-works-contingent-project
-  Source: ESD News | https://esdnews.com.au/electranet-gets-go-ahead-for-renewable-energy-transmission-link/
+• The Australian Energy Market Commission (AEMC) is advancing its final technical grid
+  standards for large data centre connections, with a final rule expected mid-to-late 2026
+  — the framework introduces mandatory "ride-through" disturbance requirements (data centres
+  must remain connected and restore load within defined timeframes during voltage/frequency
+  events, rather than trip off), a three-tier classification system (Tier 1 <30MW; Tier 2
+  30–100MW; Tier 3 100MW+), and stronger system security standards for inverter-based loads;
+  AEMC chair Anna Collyer has warned that the cost of managing grid security cannot be passed
+  to electricity consumers, meaning developers must fund compliance upfront. SA connection
+  applications at Tier 3 scale (100MW+) should be engineered to meet these standards now,
+  ahead of the final rule. [HIGH RELEVANCE]
+  Source: ESD News | https://esdnews.com.au/aemc-proposes-new-grid-standards-for-data-centres/
+  Source: w.media | https://w.media/aemc-advances-data-centre-grid-rules-as-chair-warns-consumers-must-not-bear-cost/
+  Source: RenewEconomy | https://reneweconomy.com.au/data-centres-told-to-ride-through-grid-faults-not-trip-off-under-proposed-new-rules-to-lessen-risk-of-blackouts/
 
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-• The Australian Government announced on 5 August 2026 it will expand the Small-scale
-  Renewable Energy Scheme (SRES) to cover solar PV installations up to 1MW (from the current
-  100kW cap), cutting commercial and industrial rooftop solar costs by approximately 20%,
-  effective 1 October 2026 — data centre developers can now access STC financial incentives
-  for on-site solar at meaningful scale, reducing facility operating costs and supporting
-  renewable power commitments to future hyperscale tenants.
-  Source: pv-magazine | https://www.pv-magazine.com/2026/08/05/expansion-of-rooftop-solar-rebate-scheme-to-unlock-australias-missing-middle/
-  Source: Clean Energy Regulator | https://cer.gov.au/news-and-media/news/2026/august/expansion-solar-photovoltaic-pv-eligibility-under-small-scale-renewable-energy-scheme
-  Source: ESD News | https://esdnews.com.au/businesses-score-in-australias-rooftop-solar-scheme-expansion/
+No new updates today.
 
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Anthropic sent requests for proposal to five Australian data centre operators (CDC Data
-  Centres, AirTrunk, NEXTDC, IREN, and Stack Infrastructure) seeking at least 1.4GW of AI
-  compute capacity in a deal valued at up to A$21.6 billion — IREN's Bundey campus in SA is
-  among the shortlisted contenders, Anthropic's goal is to bring at least 1GW online by end
-  of 2027, and a final procurement decision is expected imminently, with CDC reportedly in
-  line for the largest share (~500MW). [HIGH RELEVANCE]
-  Source: AFR (via Investing.com) | https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509
-  Source: Australia Data Centre Index | https://certifiedstrategic.com/insights/anthropic-1-4gw-australian-data-centre-tender
-  Source: Blockspace | https://blockspace.media/short/anthropic-hunts-for-1-4-gw-in-australia-eyes-iren-for-colocation/
-
-• ASX-listed 1414 Degrees, through subsidiary SiliconAurora, signed a Heads of Agreement on
-  27 July 2026 for up to 1GW of AI data centre infrastructure at the Aurora Energy Precinct,
-  SA — the deal covers a 1,580-hectare site with 900MW of solar generation potential, a
-  pre-approved 140MW/280MWh BESS, and high-voltage connection infrastructure, to be
-  developed in three stages from a 17MW starter campus to 1GW full build-out. [HIGH RELEVANCE]
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/1414-degrees-signs-deal-for-up-to-1gw-ai-campus-at-aurora-energy-precinct-in-south-australia/
-  Source: ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
-  Source: Energy Storage News | https://www.energy-storage.news/thermal-energy-storage-company-1414-degrees-secures-1gw-data-centre-deal-in-south-australia/
-
-• CommBank's August 2026 analysis estimates Australia's data centre build-out will total
-  approximately A$150 billion by 2030, contributing ~6 percentage points to business
-  investment growth in 2026 and ~5 percentage points in 2027, with AI data centres already
-  representing 17% of Australia's total private investment — confirming data centres as the
-  dominant new capital formation driver in the Australian economy.
-  Source: CommBank | https://www.commbank.com.au/articles/newsroom/2026/08/australias-data-centre-boom.html
-  Source: TechRepublic | https://www.techrepublic.com/article/news-australia-ai-data-center-investment-boom-apac/
+• (13 August 2026) RenewEconomy analysis confirms that global AI infrastructure
+  competition is intensifying in Australia's favour: Microsoft has locked in a confirmed
+  A$25 billion three-year digital infrastructure commitment, Google is reportedly weighing
+  a A$20 billion investment, and Amazon has pledged A$20 billion to expand Australian data
+  centre capacity — all three have publicly tied their Australian ambitions to renewable
+  energy, and South Australia's grid (currently averaging 75% variable renewables, targeting
+  100% net renewable by end-2027) is the only Australian state capable of meeting hyperscaler
+  net-zero procurement requirements without qualifying regulatory risk, making SA sites the
+  highest-value assets for South Energy's pipeline. [HIGH RELEVANCE]
+  Source: RenewEconomy (13 August 2026) | https://reneweconomy.com.au/as-musk-plans-to-send-ai-into-orbit-bowen-positions-australia-to-be-an-earth-based-data-superpower/
+  Source: Capital Brief | https://www.capitalbrief.com/briefing/microsoft-strikes-mou-with-government-as-it-plans-25b-ai-investment-934752fc-24a6-483c-b8a2-7ba1d82f06ac/
 
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• National Cabinet agreed in August 2026 on the framework for mandatory Australian Standards
-  for AI covering large-scale data centres — core obligations confirmed include net energy
-  generation (putting at least as much power into the grid as consumed), new renewable energy
-  underwriting, full grid connection cost recovery (not passed to consumers), and water use
-  minimisation; legislation expected in Parliament in early 2027, making Australia the world's
-  first country with a nationally co-ordinated mandatory data centre energy and AI
-  framework. [HIGH RELEVANCE]
-  Source: White & Case | https://www.whitecase.com/insight-alert/australian-ai-update-australia-changes-course
-  Source: Digital Watch Observatory | https://dig.watch/updates/australia-national-ai-standards-and-new-ai-office
-
-• SA Premier Malinauskas unveiled a dedicated Data Centre Strategy in June 2026, proposing a
-  new Data Centre and AI Infrastructure Act — the legislation will designate data centres as
-  essential infrastructure, create a streamlined and dedicated planning pathway, empower the
-  Coordinator-General to fast-track major project decisions, and establish industry
-  partnerships — materially reducing approval timelines and regulatory risk for South Energy
-  project integration in SA. [HIGH RELEVANCE]
-  Source: w.media | https://w.media/south-australia-proposes-dedicated-data-centre-legislation/
-  Source: Capital Brief | https://www.capitalbrief.com/briefing/new-energy-for-new-demand-sa-plans-data-centre-and-ai-infrastructure-act-47dfa4af-f755-494c-981a-121fed28eb67/
-  Source: InDaily | https://www.indailysa.com.au/news/just-in/2026/06/23/we-need-data-centres-government-all-in-on-ai-revolution
+• Federal Energy Minister Chris Bowen confirmed the Albanese government will legislate
+  to override Queensland and the Northern Territory's rejection of the July 28 Ministerial
+  Council agreement, mandating that all new large data centres must invest in additional
+  renewable generation and firming capacity to fully offset their electricity demand ("BYO
+  renewables") — AEMC National Electricity Rule change requests are on track for
+  consideration in September 2026; the federal override creates a definitive two-speed
+  regulatory environment in which South Australia (already renewable-first, already advancing
+  its Data Centre and AI Infrastructure Act) is positioned as the only immediately compliant,
+  low-regulatory-risk destination for hyperscale AI data centre investment in Australia,
+  directly advantaging South Energy's SA-based project pipeline. [HIGH RELEVANCE]
+  Source: ESD News | https://esdnews.com.au/bowen-takes-on-liberal-states-over-data-centre-rules/
+  Source: RenewEconomy | https://reneweconomy.com.au/data-centre-power-struggle-as-hold-out-states-oppose-federal-push-for-byo-renewables/
+  Source: w.media | https://w.media/australian-ai-data-centre-framework-faces-state-split-over-renewable-requirements/
 
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• The SiliconAurora/1414 Degrees Aurora Energy Precinct deal establishes a second major SA
-  data centre land zone alongside Bundey — the 1,580-hectare site features a three-stage
-  build-out proposition (17MW starter → 200MW anchor → 1GW full scale) anchored by 900MW
-  of solar potential, a pre-approved 140MW BESS, and a dedicated 275kV HV transmission
-  connection; adjacent parcels within the Aurora precinct vicinity should be assessed for
-  acquisition now, before the site footprint is fully locked up by the current operator. [HIGH RELEVANCE]
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/1414-degrees-signs-deal-for-up-to-1gw-ai-campus-at-aurora-energy-precinct-in-south-australia/
-  Source: Kalkine | https://kalkine.com.au/news/announcements/1414-degrees-lands-heads-of-agreement-for-up-to-1-gw-ai-data-centre-deployment-at-aurora-energy-precinct
-
-• With Anthropic's A$21.6B procurement decision imminent and IREN's Bundey campus shortlisted,
-  the Bundey/Mid North corridor faces accelerating demand pressure — other SA operators
-  developing grid-ready sites within reach of Bundey substation's 330kV infrastructure are
-  well-positioned as overflow or alternative sites for the Anthropic allocation and
-  subsequent rounds of hyperscale AI demand. [HIGH RELEVANCE]
-  Source: AFR (via Investing.com) | https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509
-  Source: The Silicon Review | https://thesiliconreview.com/2026/07/anthropic-150-billion-data-centre-plan-australia-14gw-ai-compute
+No new updates today.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: AER (aer.gov.au) | ElectraNet (electranet.com.au) | ESD News (esdnews.com.au) |
-pv-magazine (pv-magazine.com) | Clean Energy Regulator (cer.gov.au) | AFR via Investing.com |
-Australia Data Centre Index (certifiedstrategic.com) | Data Center Dynamics (datacenterdynamics.com) |
-Energy Storage News (energy-storage.news) | CommBank (commbank.com.au) | TechRepublic |
-White & Case (whitecase.com) | Digital Watch Observatory (dig.watch) | w.media |
-Capital Brief (capitalbrief.com) | InDaily (indailysa.com.au) | Kalkine (kalkine.com.au) |
-Blockspace (blockspace.media) | The Silicon Review (thesiliconreview.com)
+Sources: AEMC (aemc.gov.au) | ESD News (esdnews.com.au) | RenewEconomy (reneweconomy.com.au) |
+w.media (w.media) | Capital Brief (capitalbrief.com) | AEMO (aemo.com.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年8月13日
+📋 南澳州數據中心土地每日簡報 - 2026年8月14日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-• 澳大利亞能源監管機構（AER）批准了ElectraNet北部輸電項目（NTx）第1b階段2,950萬
-  澳元的早期工程資金，涵蓋土地利用規劃與收購、開發及環境審批、採購活動——此舉標
-  誌著這項35億澳元項目達成關鍵監管里程碑，有助降低連接Bundey變電站走廊至阿德萊德
-  都市負荷中心的輸電工程風險，並直接擴大南澳數據中心項目的電網接入容量。【高度相關】
-  資料來源：ElectraNet | https://electranet.com.au/news/australian-energy-regulator-approve-electranets-early-works-funding-ntx/
-  資料來源：AER | https://www.aer.gov.au/industry/networks/contingent-projects/electranet-northern-transmission-project-stage-1b-early-works-contingent-project
-  資料來源：ESD News | https://esdnews.com.au/electranet-gets-go-ahead-for-renewable-energy-transmission-link/
+• 澳大利亞能源市場委員會（AEMC）正推進針對大型數據中心電網接入的最終技術標準，
+  預計於2026年中至下半年完成最終規則制定——新框架引入強制性「故障穿越」要求
+  （數據中心在電壓或頻率擾動期間必須保持並網、並在規定時限內恢復負荷，不得自動
+  斷網），採用三層分類體系（第一層：低於30兆瓦；第二層：30至100兆瓦；第三層：
+  100兆瓦及以上），並對逆變器類負荷設立更嚴格的系統安全標準；AEMC主席科利爾
+  （Anna Collyer）警告，電網安全管理成本不得轉嫁電力消費者，即開發商必須預先自行
+  承擔合規費用。在南澳州申請第三層規模（100兆瓦以上）電網接入的項目，應立即按
+  上述新標準完成工程設計，先行布局，以免最終規則生效後被動應對。【高度相關】
+  資料來源：ESD News | https://esdnews.com.au/aemc-proposes-new-grid-standards-for-data-centres/
+  資料來源：w.media | https://w.media/aemc-advances-data-centre-grid-rules-as-chair-warns-consumers-must-not-bear-cost/
+  資料來源：RenewEconomy | https://reneweconomy.com.au/data-centres-told-to-ride-through-grid-faults-not-trip-off-under-proposed-new-rules-to-lessen-risk-of-blackouts/
 
 
 ☀️ 2. 可再生能源與選址實況
 
-• 澳大利亞聯邦政府於2026年8月5日宣布，將把小型可再生能源計劃（SRES）的資助上限由
-  現行100千瓦擴大至1兆瓦（提升10倍），令商業及工業屋頂太陽能光伏成本降低約20%，
-  自2026年10月1日起生效——數據中心開發商現可就規模化現場太陽能系統申領小型技術
-  證書（STC）補貼，有助降低設施運營成本，同時強化對潛在超大規模租戶的可再生能源
-  承諾。
-  資料來源：pv-magazine | https://www.pv-magazine.com/2026/08/05/expansion-of-rooftop-solar-rebate-scheme-to-unlock-australias-missing-middle/
-  資料來源：澳大利亞清潔能源監管機構 | https://cer.gov.au/news-and-media/news/2026/august/expansion-solar-photovoltaic-pv-eligibility-under-small-scale-renewable-energy-scheme
-  資料來源：ESD News | https://esdnews.com.au/businesses-score-in-australias-rooftop-solar-scheme-expansion/
+今日暫無新動態。
 
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 人工智能公司Anthropic已向五家澳大利亞數據中心運營商（CDC Data Centres、AirTrunk、
-  NEXTDC、IREN及Stack Infrastructure）發出建議書邀請，尋求至少1.4吉瓦的AI算力容量，
-  交易估值高達216億澳元——IREN在南澳Bundey的園區已列入入圍名單，Anthropic目標是
-  在2027年底前上線至少1吉瓦容量，最終採購決定預計即將公布，CDC據報將獲得最大份
-  額（約500兆瓦）。【高度相關】
-  資料來源：澳大利亞金融評論（經由Investing.com）| https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509
-  資料來源：澳大利亞數據中心指數 | https://certifiedstrategic.com/insights/anthropic-1-4gw-australian-data-centre-tender
-  資料來源：Blockspace | https://blockspace.media/short/anthropic-hunts-for-1-4-gw-in-australia-eyes-iren-for-colocation/
-
-• 澳交所上市公司1414 Degrees透過旗下子公司SiliconAurora，於2026年7月27日簽署意向
-  協議書，擬在南澳Aurora Energy Precinct開發高達1吉瓦的AI數據中心基礎設施——協議
-  涵蓋約1,580公頃土地（含初期40公頃獨家開發地塊），配備900兆瓦太陽能發電潛力、
-  已獲批的140兆瓦/280兆瓦時電池儲能系統及高壓輸電接入設施，按三階段開發（17兆瓦
-  起步園區→200兆瓦錨定園區→1吉瓦全規模）推進。【高度相關】
-  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/1414-degrees-signs-deal-for-up-to-1gw-ai-campus-at-aurora-energy-precinct-in-south-australia/
-  資料來源：ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
-  資料來源：Energy Storage News | https://www.energy-storage.news/thermal-energy-storage-company-1414-degrees-secures-1gw-data-centre-deal-in-south-australia/
-
-• 澳大利亞聯邦銀行（CommBank）2026年8月發布的分析報告估計，澳大利亞數據中心建設
-  總投資額到2030年將達約1,500億澳元，2026年為商業投資增長貢獻約6個百分點、2027年
-  貢獻約5個百分點，人工智能數據中心已佔澳大利亞全部私人投資的17%——確認數據中心
-  已成為澳大利亞經濟資本形成的主要新驅動力。
-  資料來源：CommBank | https://www.commbank.com.au/articles/newsroom/2026/08/australias-data-centre-boom.html
-  資料來源：TechRepublic | https://www.techrepublic.com/article/news-australia-ai-data-center-investment-boom-apac/
+• （2026年8月13日）RenewEconomy分析確認，全球AI基礎設施競賽正向澳大利亞傾斜：
+  微軟已落實3年期250億澳元數字基礎設施承諾，谷歌據報正評估200億澳元投資，
+  亞馬遜則承諾追加200億澳元擴大澳大利亞數據中心容量——三家企業均公開將澳大利亞
+  計劃與可再生能源要求掛鉤，而南澳州電網（可再生能源佔比已達75%，設有2027年底
+  前實現100%淨可再生能源目標）是澳大利亞唯一能在不承擔監管合規風險的前提下滿足
+  超大規模租戶淨零採購標準的州份，令South Energy在南澳的項目管線具備最高資產
+  價值。【高度相關】
+  資料來源：RenewEconomy（2026年8月13日）| https://reneweconomy.com.au/as-musk-plans-to-send-ai-into-orbit-bowen-positions-australia-to-be-an-earth-based-data-superpower/
+  資料來源：Capital Brief | https://www.capitalbrief.com/briefing/microsoft-strikes-mou-with-government-as-it-plans-25b-ai-investment-934752fc-24a6-483c-b8a2-7ba1d82f06ac/
 
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 全國內閣於2026年8月就涵蓋大型數據中心的強制性《澳大利亞人工智能標準》框架達成
-  協議——確認的核心義務包括：淨能源發電（向電網輸入的電量不低於消耗量）、承銷新
-  增可再生能源供應、承擔全部電網接入費用（不得轉嫁消費者）及最小化用水量；相關
-  立法預計於2027年初提交議會，澳大利亞成為全球首個建立全國統一強制性數據中心能源
-  與AI框架的國家。【高度相關】
-  資料來源：White & Case | https://www.whitecase.com/insight-alert/australian-ai-update-australia-changes-course
-  資料來源：Digital Watch Observatory | https://dig.watch/updates/australia-national-ai-standards-and-new-ai-office
-
-• 南澳州長馬利諾斯卡斯（Malinauskas）於2026年6月宣布推出專項《數據中心策略》，
-  提議制定《數據中心與人工智能基礎設施法》——立法將把數據中心列為必要基礎設施，
-  設立簡化的專屬規劃審批路徑，授權總協調員就重大項目行使快速決策職能，並建立行業
-  合作機制——顯著縮短審批時間並降低South Energy在南澳項目整合的監管風險。【高度相關】
-  資料來源：w.media | https://w.media/south-australia-proposes-dedicated-data-centre-legislation/
-  資料來源：Capital Brief | https://www.capitalbrief.com/briefing/new-energy-for-new-demand-sa-plans-data-centre-and-ai-infrastructure-act-47dfa4af-f755-494c-981a-121fed28eb67/
-  資料來源：InDaily | https://www.indailysa.com.au/news/just-in/2026/06/23/we-need-data-centres-government-all-in-on-ai-revolution
+• 聯邦能源部長鮑文（Chris Bowen）確認，阿爾巴尼斯政府將立法推翻昆士蘭州及北部
+  地區拒絕接受7月28日部長級理事會協議的立場，強制規定所有新建大型數據中心必須
+  自行投資建設額外可再生能源發電及調峰容量（「自帶可再生能源」規則），以充分抵消
+  其電力需求——澳大利亞能源市場委員會的《國家電力規則》修訂申請預計於2026年9月
+  提交審議；聯邦強制立法造就了明確的「雙速」監管格局：南澳州（已實施可再生能源
+  優先政策、已推進《數據中心與人工智能基礎設施法》立法）成為澳大利亞唯一能立即
+  合規、監管風險最低的超大規模AI數據中心投資目的地，直接令South Energy在南澳的
+  項目管線受益。【高度相關】
+  資料來源：ESD News | https://esdnews.com.au/bowen-takes-on-liberal-states-over-data-centre-rules/
+  資料來源：RenewEconomy | https://reneweconomy.com.au/data-centre-power-struggle-as-hold-out-states-oppose-federal-push-for-byo-renewables/
+  資料來源：w.media | https://w.media/australian-ai-data-centre-framework-faces-state-split-over-renewable-requirements/
 
 
 🗺️ 5. 土地、規劃與市場動態
 
-• SiliconAurora/1414 Degrees的Aurora Energy Precinct交易在Bundey之外確立了南澳第二
-  個主要數據中心土地區域——1,580公頃選址具備完整「電力+土地」一體化方案（900兆瓦
-  太陽能潛力、已獲批的140兆瓦電池儲能及專用275千伏高壓輸電接入），按三階段推進至
-  1吉瓦；應立即評估Aurora Precinct周邊的鄰近及競爭性地塊的收購可行性，以免現有運
-  營商完全鎖定選址範圍。【高度相關】
-  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/1414-degrees-signs-deal-for-up-to-1gw-ai-campus-at-aurora-energy-precinct-in-south-australia/
-  資料來源：Kalkine | https://kalkine.com.au/news/announcements/1414-degrees-lands-heads-of-agreement-for-up-to-1-gw-ai-data-centre-deployment-at-aurora-energy-precinct
-
-• 在Anthropic 216億澳元採購決定即將公布、IREN的Bundey園區已列入入圍名單的背景下，
-  Bundey/中北部走廊面臨需求加速的壓力——其他在Bundey變電站330千伏基礎設施範圍內
-  開發電網就緒選址的南澳州運營商，可作為Anthropic分配及後續超大規模AI需求浪潮的
-  溢出或替代選址，具備強勁競爭定位。【高度相關】
-  資料來源：澳大利亞金融評論（經由Investing.com）| https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509
-  資料來源：The Silicon Review | https://thesiliconreview.com/2026/07/anthropic-150-billion-data-centre-plan-australia-14gw-ai-compute
+今日暫無新動態。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：AER（aer.gov.au）| ElectraNet（electranet.com.au）| ESD News（esdnews.com.au）|
-pv-magazine（pv-magazine.com）| 澳大利亞清潔能源監管機構（cer.gov.au）| AFR經由Investing.com |
-澳大利亞數據中心指數（certifiedstrategic.com）| Data Center Dynamics（datacenterdynamics.com）|
-Energy Storage News（energy-storage.news）| CommBank（commbank.com.au）| TechRepublic |
-White & Case（whitecase.com）| Digital Watch Observatory（dig.watch）| w.media |
-Capital Brief（capitalbrief.com）| InDaily（indailysa.com.au）| Kalkine（kalkine.com.au）|
-Blockspace（blockspace.media）| The Silicon Review（thesiliconreview.com）
+資料來源：AEMC（aemc.gov.au）| ESD News（esdnews.com.au）| RenewEconomy（reneweconomy.com.au）|
+w.media（w.media）| Capital Brief（capitalbrief.com）| AEMO（aemo.com.au）
