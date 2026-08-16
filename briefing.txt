@@ -1,310 +1,230 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 15 August 2026
+📋 SA DATA CENTER LAND BRIEFING - 16 August 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-• US AI infrastructure company IREN has signed a transmission connection agreement with
-  ElectraNet for an 800MW data centre campus at Bundey, approximately 75km north-east of
-  Adelaide — securing four 330kV feeder exits at the Bundey substation without requiring any
-  network upgrades, with energisation targeted from 2028; the ~$10 billion project is the
-  largest data centre announced in Australia and the Asia-Pacific region, and critically
-  demonstrates that specific SA sub-transmission nodes already have headline connection
-  capacity available to absorb hyperscale load without the costly network augmentation that
-  makes eastern-state projects economically difficult. South Energy should immediately map
-  other ElectraNet substations with comparable spare capacity and proximity to renewable
-  zones to identify the next acquisition targets before comparable connection agreements
-  are signed. [HIGH RELEVANCE]
-  Source: ESD News | https://esdnews.com.au/us-ai-firm-to-build-australias-biggest-data-centre-in-sa/
-  Source: Data Center News Asia | https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
-  Source: RenewEconomy | https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/
+• Project EnergyConnect — Australia's biggest transmission project (900km, budget blown from $2.1B to
+  $3.8B after delays on the NSW/Transgrid section) — has been energised; the SA section was delivered
+  on time and on budget by ElectraNet, and Stage 2 release of up to 800MW of bi-directional SA–NSW
+  capacity is now expected in Q4 2026, pending test conditions. This milestone materially strengthens
+  SA's grid security and its ability to export surplus renewable generation or import balancing power
+  — both critical to hyperscale data centre uptime guarantees — and closes the last gap in SA's
+  east-coast interconnection spine. [HIGH RELEVANCE]
+  Source: RenewEconomy | https://reneweconomy.com.au/not-easy-australias-biggest-transmission-project-energised-after-delays-and-cost-overruns/
+  Source: ESD News | https://esdnews.com.au/energyconnect-reaches-completion-after-delays-cost-blowouts/
 
-• Nationally, 9GW of data centre projects are currently in the transmission connection
-  queue, and SA-based projects are already demonstrating a grid-stabilising effect by
-  helping flatten the state's solar duck curve, making them operationally attractive to
-  AEMO and more likely to receive expedited approvals; ElectraNet is separately consulting
-  on a proposal to charge data centres for their full contracted connection capacity whether
-  or not it is used — meaning early connection agreements at favourable legacy tariffs are
-  increasingly time-sensitive and strategically valuable. [HIGH RELEVANCE]
-  Source: RenewEconomy | https://reneweconomy.com.au/data-centres-are-already-helping-flatten-solar-duck-curve-and-there-are-9-gigawatts-more-seeking-grid-connection/
-  Source: RenewEconomy | https://reneweconomy.com.au/network-seeks-to-charge-data-centres-for-full-grid-connection-capacity-whether-they-use-it-or-not/
+• ElectraNet is planning to grow SA's network capacity to 25GW, with peak demand forecast to more than
+  double — from 3.3GW currently to over 6.5GW over the next 15 years — driven by data centres, AI,
+  defence (Osborne Naval Shipyard) and industrial loads; connection enquiries are at their highest
+  level in decades; this planning horizon confirms that grid-connected SA land will command a
+  structural scarcity premium as capacity tightens, and that South Energy should prioritise locking in
+  connection terms before the queue lengthens further. [HIGH RELEVANCE]
+  Source: ESD News | https://esdnews.com.au/australian-energy-week-2026/
+  Source: RenewEconomy | https://reneweconomy.com.au/peak-load-is-expected-to-double-as-industries-flock-to-australias-world-first-100-pct-renewables-grid/
 
-• ElectraNet's 2026 Transmission Annual Planning Report (TAPR) identifies the Northern
-  Transmission Project (NTx) — a potential $3.1 billion investment linking Adelaide to
-  SA's wind- and solar-rich northern regions — as the critical enabling infrastructure for
-  the next wave of large-load industrial development; the NTx Project Assessment Draft
-  Report (PADR) is now open for stakeholder input, and the route corridor will directly
-  determine which northern SA land parcels gain premium grid-connected status over the
-  coming planning horizon. [HIGH RELEVANCE]
-  Source: ESD News | https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
-  Source: ElectraNet NTx PADR | https://electranet.com.au/wp-content/uploads/2026/04/NTx-PADR-fact-sheet.pdf
-  Source: RenewEconomy | https://reneweconomy.com.au/south-australia-eyes-new-transmission-line-to-support-industrial-demand-drawn-to-100-pct-renewables/
+• AEMO has updated its demand forecasting methodology to create a standalone category for data centres
+  — split into commercial-scale (≤10MW, forecast by historical trends) and industrial-scale (>10MW,
+  tracked via direct operator data and network intelligence) — first implemented in the 2026 WEM
+  Electricity Statement of Opportunities; this institutionalises data centres as a distinct planning
+  class and signals that AEMO will apply deeper regulatory scrutiny to their grid integration
+  requirements, making early and well-structured connections more valuable.
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australian-energy-market-operator-creates-standalone-forecast-category-for-data-centers/
+  Source: AEMO | https://www.aemo.com.au/newsroom/news-updates/aemos-updated-forecasting-methodology-targets-rapidly-growing-electricity-loads
 
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-• Thermal energy storage company 1414 Degrees has entered a partnership to develop up to
-  1GW of AI data centre infrastructure at its Aurora Energy Precinct in South Australia,
-  anchored by firmed renewable generation and storage assets — a direct signal that
-  SA-based energy precinct developers are actively packaging firmed-renewable plus
-  data-centre-ready sites as investment products, validating the combined energy-plus-land
-  model South Energy is pursuing; the Aurora precinct deal demonstrates that a 1GW-scale
-  pipeline is commercially viable in SA right now. [HIGH RELEVANCE]
-  Source: ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
+• The federal government has locked in a Renewable Energy Transformation Agreement with South
+  Australia, underwriting a minimum 1GW of new wind and solar generation plus 400MW/1,600MWh of
+  storage, to guarantee SA's 100% net renewables target by 2027 — making SA the first non-hydro
+  gigawatt-scale grid in the world to achieve this milestone; this federal backstop eliminates
+  residual investor risk that SA's renewable transition might stall, and directly elevates the premium
+  that energy-sensitive buyers (hyperscalers, AI companies) will pay for SA-located data centre
+  projects anchored to a federally underwritten renewable supply. [HIGH RELEVANCE]
+  Source: RenewEconomy | https://reneweconomy.com.au/south-australia-locks-in-federal-funds-to-become-first-grid-in-world-to-reach-100-per-cent-net-wind-and-solar/
 
-• Major construction works have commenced on one of South Australia's largest new
-  renewable energy projects, expected to push SA's wind-and-solar share above 80% and
-  further strengthen the state's credentials as Australia's only hyperscale-ready renewable
-  destination; SA holds a $32.5 billion pipeline of large-scale renewable energy projects
-  under construction, under assessment, or holding development approval — confirming that
-  future grid capacity to support new data centre loads has strong underpinning. [HIGH RELEVANCE]
-  Source: RenewEconomy | https://reneweconomy.com.au/major-works-start-on-giant-project-that-will-propel-south-australia-to-more-than-80-pct-wind-and-solar/
-  Source: SA Government | https://www.energymining.sa.gov.au/home/news/latest/south-australia-open-for-more-renewable-energy-investment
+• SA's grid has recently recorded a consecutive 100%-net-renewables operational run exceeding 10 days,
+  providing empirical proof to prospective data centre buyers that the state's renewable credentials
+  are operational reality and not a future aspiration — a critical due-diligence data point for
+  technology companies evaluating long-term PPAs anchored to SA sites. [HIGH RELEVANCE]
+  Source: RenewEconomy | https://reneweconomy.com.au/south-australias-remarkable-100-per-cent-renewables-run-extends-to-over-10-days/
 
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• IREN — a US-based vertically integrated AI Cloud provider — has publicly committed to
-  building Australia's (and the Asia-Pacific region's) largest data centre in South
-  Australia, citing SA's status as Australia's first 100% (net) renewable grid and the
-  availability of direct high-voltage transmission access as the decisive factors; the
-  project's ~$10 billion capex and 800MW scale establish SA as the benchmark location for
-  future hyperscale AI builds in Australia and represent the most direct buying signal yet
-  that tech firms will pay a substantial premium for SA renewable-grid sites with secured
-  transmission access. [HIGH RELEVANCE]
-  Source: ESD News | https://esdnews.com.au/us-ai-firm-to-build-australias-biggest-data-centre-in-sa/
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/iren-targets-australia-for-800mw-data-center-campus/
-  Source: RenewEconomy | https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/
-
-• Australian operator CDC Data Centres has signed its largest-ever domestic data centre
-  deal — providing 555MW to an unnamed US investment-grade client widely understood to be
-  a hyperscaler — confirming that large-scale Australian data centre capacity is fully
-  absorbed at contract level as soon as it is available, with no material vacancy risk;
-  this pricing signal supports aggressive land acquisition and development timelines in SA.
+• Microsoft has announced a landmark AU$25 billion (US$18bn) commitment to expand its cloud and AI
+  infrastructure across Australia by end 2029 — the largest single hyperscaler commitment to Australia
+  ever made, building on a 2023 AU$5B pledge and expanding Azure capacity by over 140% — and has
+  simultaneously signed an MOU with the Australian Government committing to meet the national
+  "expectations for data centres," including covering transmission and infrastructure costs and
+  offering Australian organisations favourable terms; SA's 100%-renewable grid and the pre-existing
+  hyperscale connection template (IREN Bundey at 330kV, 800MW) position South Energy's pipeline sites
+  as the natural landing ground for the greenfield hyperscale portion of this record commitment.
   [HIGH RELEVANCE]
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/cdc-signs-largest-ever-aussie-data-center-deal-to-provide-555mw-for-us-client/
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/microsoft-pledges-18bn-to-expanding-cloud-and-ai-capacity-in-australia/
 
-• Anthropic — the AI safety company backed by Google and Amazon — is actively seeking
-  data centre leasing deals in Europe and Australia, adding a fourth major AI foundation-
-  model provider to the known SA demand pipeline alongside Microsoft, Google, and Amazon;
-  Anthropic's track record of favouring renewable-powered locations makes SA assets likely
-  to be evaluated early in any Australian site selection process.
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/anthropic-seeks-data-center-leasing-deals-in-europe-and-australia/
-
-• Meta has formally established 'Meta Compute' as a dedicated infrastructure division and
-  announced plans for multiple gigawatt-plus scale AI data centres globally, indicating
-  that Meta's Australian investment ambitions — discussed in industry circles for some
-  time — may crystallise into formal site searches in the near term.
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/meta-establishes-meta-compute-plans-multiple-gigawatt-plus-scale-ai-data-centers/
+• At Australian Energy Week 2026, data centre developers argued publicly that they should be permitted
+  to run diesel backup generator fleets while receiving renewable energy credits — a position in direct
+  tension with SA's clean-energy governance framework and the federal "expectations"; South Energy's
+  sites, underpinned by firmed renewable generation and battery storage, offer buyers a structurally
+  cleaner solution that avoids this emerging regulatory and reputational exposure, and provide a
+  marketable point of differentiation.
+  Source: RenewEconomy | https://reneweconomy.com.au/data-centres-says-they-will-drive-down-network-part-of-bills-and-want-us-to-embrace-their-diesel-generators/
 
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• The Australian Government's Department of Industry, Science, and Resources has published
-  a formal set of "expectations" for data centre developers under the National AI Plan —
-  the five expectations are: (1) prioritise Australia's national interest; (2) support the
-  energy transition (BYO firmed renewables, net energy generation into the grid);
-  (3) use water sustainably; (4) invest in Australian skills and jobs; and (5) strengthen
-  research, innovation, and local capability; projects that closely align will receive
-  prioritised regulatory approvals while non-compliant projects will not receive
-  preferential treatment — formally institutionalising the two-speed regulatory regime in
-  which SA's renewable-compliant projects hold a structural approval advantage, reinforcing
-  South Energy's value proposition to tech company buyers. [HIGH RELEVANCE]
-  Source: ESD News | https://esdnews.com.au/australia-has-set-new-expectations-for-ai-data-centres/
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australian-govt-publishes-expectations-for-data-centers-and-ai-infrastructure-projects/
+• Queensland and the Northern Territory have formally opposed the federal government's push to
+  legislate a mandatory BYO-renewables obligation for data centres, creating a two-speed Australian
+  data centre policy landscape — SA, which already operates under voluntary BYO-renewable deal
+  structures (IREN Bundey), is "ahead of the law" and can be marketed to buyers as de-risked from the
+  legislative transition costs that projects in hold-out states will face when legislation eventually
+  passes; this state-level resistance accelerates the relative advantage of SA-compliant projects.
+  [HIGH RELEVANCE]
+  Source: RenewEconomy | https://reneweconomy.com.au/data-centre-power-struggle-as-hold-out-states-oppose-federal-push-for-byo-renewables/
 
-• AEMO has published the final 2026 Integrated System Plan (ISP), the 25-year roadmap for
-  the National Electricity Market, explicitly identifying data centre demand growth as one
-  of the dominant forces reshaping the SA and national grid to 2050 — the ISP provides the
-  definitive long-term grid capacity and transmission investment schedule against which SA
-  project connection timelines should be benchmarked.
-  Source: AEMO | https://www.aemo.com.au/-/media/files/major-publications/isp/2026/2026-integrated-system-plan-isp.pdf
+• The Australian Energy Market Commission (AEMC) has ruled that data centres must bring their own
+  clean, firmed energy rather than drawing from the shared grid pool; with AEMO, the federal
+  government's five "expectations," and now the AEMC all aligned on mandatory BYO clean energy, SA
+  projects that already embed firmed renewable generation are structurally compliant with the
+  multi-regulator consensus while projects in other states face rising retrofit risk. [HIGH RELEVANCE]
+  Source: ESD News | https://esdnews.com.au/aemc-says-data-centres-must-bring-their-own-clean-firmed-energy/
 
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• The IREN Bundey campus defines the template that hyperscale buyers are willing to pay
-  for in SA: a site ~75km north-east of Adelaide with direct 330kV transmission access,
-  proximity to multiple operating wind farms, and submarine fibre links to Singapore,
-  Indonesia, South Korea, and Japan — the combination of renewable colocation,
-  high-voltage transmission, and intercontinental fibre connectivity is now the de facto
-  reference specification for hyperscale data centre site selection in Australia, and South
-  Energy should use this template to evaluate and market its own SA pipeline sites. [HIGH RELEVANCE]
-  Source: Data Center News Asia | https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/iren-targets-australia-for-800mw-data-center-campus/
+• ESD News analysis confirms that the data centre construction boom will not translate into higher
+  power prices for SA consumers if stalled renewable projects continue to be unlocked — directly
+  validating the central economic logic of South Energy's combined land-plus-renewable-integration
+  model as the politically sustainable and market-acceptable form of data centre development in SA,
+  and reinforcing that projects which package land with renewable co-location can be presented to
+  government as consumer-positive. [HIGH RELEVANCE]
+  Source: ESD News | https://esdnews.com.au/data-centre-boom-wont-mean-higher-prices-if-we-unlock-stalled-renewables/
 
-• The 1414 Degrees Aurora Energy Precinct deal in South Australia — up to 1GW of AI data
-  centre infrastructure anchored by firmed renewable storage — establishes Aurora as a
-  direct competitor/comparable for South Energy's project pipeline; understanding the
-  precinct's location, grid connection terms, and renewable supply structure is recommended
-  to sharpen South Energy's competitive positioning and deal terms with potential buyers.
-  [HIGH RELEVANCE]
-  Source: ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
-
-• South Australia opened two new release areas — Gawler Ranges East and Whyalla West —
-  for large-scale renewable energy feasibility licences under the Hydrogen and Renewable
-  Energy Act 2023, covering more than 11,000 square kilometres of high co-incident wind
-  and solar resources (twice the size of Kangaroo Island); while the tender application
-  window closed 28 June 2026, awarded licence holders will be the natural counterparties
-  for future renewable energy supply agreements underpinning SA data centre projects, and
-  the award outcome is strategically important for identifying land acquisition opportunities
-  in these corridors. [HIGH RELEVANCE]
-  Source: ESD News | https://esdnews.com.au/south-australia-opens-new-areas-for-renewables-investment/
-  Source: SA Government | https://www.energymining.sa.gov.au/home/news/latest/south-australia-powers-up-vast-new-renewable-energy-opportunities
+• RenewEconomy analysis ("100 pct renewable, 74 pct of the time") documents SA's strategic plan to
+  become an energy export powerhouse using its world-leading renewable grid, with ElectraNet
+  explicitly targeting 25GW network capacity and SA's transmission network attracting the highest
+  connection enquiry volume in decades; the analysis reinforces that direct high-voltage access to
+  SA's transmission backbone is the primary scarcity being bid for — ahead of land area or geographic
+  location — and that South Energy's site evaluation should weight substation proximity as the
+  decisive acquisition criterion.
+  Source: RenewEconomy | https://reneweconomy.com.au/100-pct-renewable-74-pct-of-the-time-how-australias-most-advanced-grid-plans-to-be-an-energy-powerhouse/
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Sources: ESD News (esdnews.com.au) | RenewEconomy (reneweconomy.com.au) |
-Data Center Dynamics (datacenterdynamics.com) | Data Center News Asia (datacenternews.asia) |
-ElectraNet (electranet.com.au) | AEMO (aemo.com.au) |
-SA Government – Energy & Mining (energymining.sa.gov.au)
+Data Center Dynamics (datacenterdynamics.com) | AEMO (aemo.com.au) |
+ElectraNet (electranet.com.au) | SA Government – Energy & Mining (energymining.sa.gov.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年8月15日
+📋 南澳州數據中心土地每日簡報 - 2026年8月16日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-• 美國AI基礎設施企業IREN已與南澳州輸電公司ElectraNet簽署輸電接入協議，
-  擬在阿德萊德東北約75公里的邦迪（Bundey）建設一座800兆瓦數據中心園區——
-  確保在無需任何電網升級的前提下使用邦迪變電站四條330千伏饋線出口，
-  目標於2028年起通電；估計投資額約100億澳元，該項目是澳大利亞及亞太地區
-  迄今宣佈的最大規模數據中心。此案充分證明，南澳州特定次輸電節點已具備
-  承接超大規模負荷的接入容量，且無需代價高昂的電網增強工程——
-  這正是東部各州項目在經濟上難以立足的主因。South Energy應立即盤點
-  其他ElectraNet具有類似剩餘容量且毗鄰可再生能源資源的變電站，
-  在類似接入協議相繼簽署之前，搶先鎖定下一批收購目標。【高度相關】
-  資料來源：ESD News | https://esdnews.com.au/us-ai-firm-to-build-australias-biggest-data-centre-in-sa/
-  資料來源：Data Center News Asia | https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
-  資料來源：RenewEconomy | https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/
+• 澳大利亞規模最大的輸電工程「能源互聯項目」（Project EnergyConnect，全長900公里，
+  因NSW段承建方Transgrid延誤及嚴重超支，預算從21億澳元膨脹至38億澳元）已正式通電；
+  南澳州段由ElectraNet按時按預算竣工，第二期可釋放最高800兆瓦南澳州至新南威爾士雙向
+  輸電容量，預計在測試條件允許的情況下於2026年第四季投入商業運行。此里程碑大幅提升
+  南澳州的電網安全憑證，及出口剩餘可再生電力或輸入調峰電力的能力——兩者均是超大規模
+  數據中心正常運行時間保障不可或缺的條件——並填補了南澳州通往東部沿岸電網骨幹的
+  最後一環。【高度相關】
+  資料來源：RenewEconomy | https://reneweconomy.com.au/not-easy-australias-biggest-transmission-project-energised-after-delays-and-cost-overruns/
+  資料來源：ESD News | https://esdnews.com.au/energyconnect-reaches-completion-after-delays-cost-blowouts/
 
-• 全國目前共有9吉瓦規模的數據中心項目正在排隊等候輸電接入，而南澳州的
-  數據中心項目已展現出削峰填谷效應，有效平抑州內的「太陽能鴨型曲線」，
-  使其在AEMO的審批中更具吸引力並更可能獲得加速審批；ElectraNet同時正就
-  「按合同容量全額收費」方案諮詢各方意見——即無論數據中心是否實際使用，
-  均按合同接入容量收費——此舉令現有優惠費率下的早期接入協議愈加
-  珍貴且時效緊迫。【高度相關】
-  資料來源：RenewEconomy | https://reneweconomy.com.au/data-centres-are-already-helping-flatten-solar-duck-curve-and-there-are-9-gigawatts-more-seeking-grid-connection/
-  資料來源：RenewEconomy | https://reneweconomy.com.au/network-seeks-to-charge-data-centres-for-full-grid-connection-capacity-whether-they-use-it-or-not/
+• ElectraNet正制定計劃，將南澳州電網容量擴展至25吉瓦；最高需求目前為3.3吉瓦，
+  未來15年預計將增至逾6.5吉瓦（增幅超過一倍）——主要由數據中心、人工智能、國防
+  （Osborne海軍造船廠）及工業負荷帶動；電網接入諮詢量現已達到數十年來最高水平。
+  這一規劃週期印證South Energy的長期投資論據：隨著容量限制日趨收緊，具備南澳州電網
+  接入條件的土地將享有結構性稀缺溢價，South Energy應優先在接入排隊進一步延長之前
+  鎖定接入條款。【高度相關】
+  資料來源：ESD News | https://esdnews.com.au/australian-energy-week-2026/
+  資料來源：RenewEconomy | https://reneweconomy.com.au/peak-load-is-expected-to-double-as-industries-flock-to-australias-world-first-100-pct-renewables-grid/
 
-• ElectraNet《2026年輸電年度規劃報告》（TAPR）將北部輸電項目（NTx）——
-  潛在投資額達31億澳元、連接阿德萊德與南澳州北部風光資源豐富地區的
-  重大輸電工程——列為推動下一波大型工業負荷發展的關鍵基礎設施；
-  NTx項目評估草案（PADR）現正公開徵求持份者意見，
-  路線走廊的最終確定將直接決定哪些南澳州北部地塊在未來規劃期內
-  取得優質電網接入地位。【高度相關】
-  資料來源：ESD News | https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
-  資料來源：ElectraNet NTx PADR | https://electranet.com.au/wp-content/uploads/2026/04/NTx-PADR-fact-sheet.pdf
-  資料來源：RenewEconomy | https://reneweconomy.com.au/south-australia-eyes-new-transmission-line-to-support-industrial-demand-drawn-to-100-pct-renewables/
+• AEMO已更新能源需求預測方法，將數據中心列為獨立預測類別——分為商業規模（不超過10兆瓦，
+  依歷史需求趨勢預測）及工業規模（超過10兆瓦，通過直接從運營商獲取數據及電網信息
+  等方式追蹤）——首次在《2026年WEM電力市場機遇報告》中實施；此舉在機構層面正式確立
+  數據中心為獨立規劃類別，並預示監管機構將對其電網整合要求施加更嚴格的審查，
+  令早期且結構完善的接入協議愈加珍貴。
+  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australian-energy-market-operator-creates-standalone-forecast-category-for-data-centers/
+  資料來源：AEMO | https://www.aemo.com.au/newsroom/news-updates/aemos-updated-forecasting-methodology-targets-rapidly-growing-electricity-loads
 
 
 ☀️ 2. 可再生能源與選址實況
 
-• 熱能儲存公司1414 Degrees已與合作方達成協議，擬在南澳州Aurora能源園區
-  開發多達1吉瓦的AI數據中心基礎設施，以有保障的可再生發電及儲能資產為基礎——
-  這是南澳州能源園區開發商正在主動將「有保障可再生能源＋數據中心就緒地塊」
-  打包作為投資產品的直接信號，印證了South Energy所追求的「能源+土地」
-  整合模式具有商業可行性；Aurora園區交易表明，1吉瓦規模的項目管線
-  在南澳州目前已具備商業條件。【高度相關】
-  資料來源：ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
+• 聯邦政府已與南澳州正式簽署「可再生能源轉型協議」（Renewable Energy Transformation
+  Agreement），承諾保底支持最少1吉瓦新增風能和太陽能發電，以及400兆瓦/1,600兆瓦時的
+  儲能，確保南澳州到2027年實現100%淨可再生能源目標——令南澳州成為全球首個達成此
+  里程碑的非水電吉瓦級電網；這一聯邦政府底牌消除了南澳州可再生能源轉型可能中途
+  受阻的殘餘投資者風險，並直接提升了對能源敏感買家（超大規模服務商、AI企業）而言
+  以聯邦保底可再生能源供應為錨定的南澳州數據中心項目之溢價空間。【高度相關】
+  資料來源：RenewEconomy | https://reneweconomy.com.au/south-australia-locks-in-federal-funds-to-become-first-grid-in-world-to-reach-100-per-cent-net-wind-and-solar/
 
-• 南澳州規模最大的新可再生能源項目之一已正式動工，預計將推動南澳州
-  風力和太陽能發電佔比超越80%，進一步鞏固其作為澳大利亞唯一具備
-  超大規模可再生能源條件目的地的地位；南澳州目前擁有325億澳元的
-  大規模可再生能源項目管線（在建、評審中或已獲開發審批），
-  意味著未來支撐數據中心新增負荷的電網容量具有充足支撐。【高度相關】
-  資料來源：RenewEconomy | https://reneweconomy.com.au/major-works-start-on-giant-project-that-will-propel-south-australia-to-more-than-80-pct-wind-and-solar/
-  資料來源：南澳州政府 | https://www.energymining.sa.gov.au/home/news/latest/south-australia-open-for-more-renewable-energy-investment
+• 南澳州電網近期曾持續以100%淨可再生能源運行超過連續10天，以實際運行數據向潛在
+  數據中心買家證明，州內的可再生能源認證是已實現的運行事實而非未來願景——這是科技
+  企業在評估以南澳州地塊為錨定的長期購電協議時盡職調查的關鍵參考點。【高度相關】
+  資料來源：RenewEconomy | https://reneweconomy.com.au/south-australias-remarkable-100-per-cent-renewables-run-extends-to-over-10-days/
 
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 美國垂直整合AI雲端服務商IREN公開宣佈，將在南澳州建設澳大利亞
-  （及亞太地區）規模最大的數據中心，其明確表示選址南澳州的決定性因素為：
-  南澳州是澳大利亞首個實現100%（淨）可再生電網的州份，以及能夠獲得
-  直接高壓電網接入。該項目估計資本開支約100億澳元、規模達800兆瓦，
-  確立了南澳州作為澳大利亞未來超大規模AI數據中心基準選址的地位，
-  也是迄今最直接的買家信號——科技企業願意為擁有已獲輸電接入保障的
-  南澳可再生能源地塊支付可觀溢價。【高度相關】
-  資料來源：ESD News | https://esdnews.com.au/us-ai-firm-to-build-australias-biggest-data-centre-in-sa/
-  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/iren-targets-australia-for-800mw-data-center-campus/
-  資料來源：RenewEconomy | https://reneweconomy.com.au/ai-giant-choose-australias-first-100-pct-net-renewable-grid-to-build-countrys-biggest-data-centre/
+• 微軟宣佈創紀錄的250億澳元（約180億美元）承諾，將在2029年底前大幅擴展在澳大利亞的
+  雲計算和人工智能基礎設施——這是迄今超大規模服務商對澳大利亞所作出的最大單一承諾，
+  在2023年50億澳元承諾基礎上進一步加碼，Azure容量將擴大逾140%；微軟同時與澳大利亞
+  政府簽署合作備忘錄，承諾遵守國家「數據中心期望標準」，包括承擔輸電及基礎設施費用
+  並向澳大利亞機構提供優惠條款；南澳州的100%可再生電網地位及現有超大規模接入範本
+  （IREN邦迪，330千伏，800兆瓦）使South Energy的管線地塊成為這筆創紀錄承諾中
+  用於新建超大規模設施的天然落地首選。【高度相關】
+  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/microsoft-pledges-18bn-to-expanding-cloud-and-ai-capacity-in-australia/
 
-• 澳大利亞本土數據中心運營商CDC Data Centres簽署了其在澳大利亞有史以來
-  規模最大的數據中心合同——向一家未具名美國投資級客戶提供555兆瓦容量，
-  業界普遍認為該客戶為某大型超大規模服務商——確認澳大利亞大規模數據中心容量
-  一旦入市即可實現合同滿載，幾乎不存在空置風險；此定價信號支持在南澳州
-  積極推進土地收購及項目開發。【高度相關】
-  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/cdc-signs-largest-ever-aussie-data-center-deal-to-provide-555mw-for-us-client/
-
-• 由谷歌和亞馬遜支持的AI安全與研究公司Anthropic，據報正積極物色
-  在歐洲及澳大利亞的數據中心租賃協議，令已知需求方除微軟、谷歌、
-  亞馬遜之外再添第四家大型AI基礎模型供應商；Anthropic一貫偏好採用
-  可再生能源供電的選址，令南澳州資產極可能在其澳大利亞選址評估中
-  被優先考察。
-  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/anthropic-seeks-data-center-leasing-deals-in-europe-and-australia/
-
-• Meta正式成立「Meta Compute」作為獨立基礎設施部門，宣佈計劃在全球
-  建設多個吉瓦級以上AI數據中心，顯示Meta在業界討論已久的澳大利亞
-  投資計劃或將於近期轉化為正式選址評估。
-  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/meta-establishes-meta-compute-plans-multiple-gigawatt-plus-scale-ai-data-centers/
+• 在2026年澳大利亞能源周上，數據中心開發商公開主張，在獲得可再生能源信用的同時，
+  亦應被允許運行柴油備用發電機組以保障正常運行時間——此立場與南澳州的清潔能源治理
+  框架及聯邦「期望標準」存在直接矛盾；South Energy以有保障可再生能源及電池儲能為
+  基礎的地塊，為買家提供從結構上更乾淨的解決方案，規避了這一新興監管和聲譽風險，
+  並構成可市場化的差異化賣點。
+  資料來源：RenewEconomy | https://reneweconomy.com.au/data-centres-says-they-will-drive-down-network-part-of-bills-and-want-us-to-embrace-their-diesel-generators/
 
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 澳大利亞聯邦工業、科學與資源部已在《國家AI計劃》框架下，正式發佈
-  針對數據中心開發商的一套「期望標準」——五項核心期望為：
-  （1）優先維護澳大利亞國家利益；（2）支持能源轉型（自備有保障可再生能源，
-  並向電網淨輸電）；（3）可持續及負責任地使用水資源；
-  （4）投資澳大利亞技術人才與就業；（5）強化研究、創新及本地能力；
-  符合標準的項目將在監管審批中獲得優先安排，不符合者不予優待——
-  這正式確立了「雙速監管」格局的制度基礎：符合可再生能源要求的南澳州項目
-  在審批上享有結構性優勢，強化了South Energy對科技買家的價值主張。【高度相關】
-  資料來源：ESD News | https://esdnews.com.au/australia-has-set-new-expectations-for-ai-data-centres/
-  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australian-govt-publishes-expectations-for-data-centers-and-ai-infrastructure-projects/
+• 昆士蘭州和北部地區（NT）已正式反對聯邦政府將數據中心「自備可再生能源」義務立法化
+  的計劃，在澳大利亞形成兩速並行的數據中心政策格局——南澳州已在自願基礎上採用
+  「自備可再生能源」交易結構（如IREN邦迪項目），在立法層面「領先於法律」，
+  可向買家展示其免受「持異見州份」項目在法規最終通過後所需承擔合規轉型成本的
+  結構性優勢；各州的抵制恰恰加速了南澳州合規項目的相對競爭優勢。【高度相關】
+  資料來源：RenewEconomy | https://reneweconomy.com.au/data-centre-power-struggle-as-hold-out-states-oppose-federal-push-for-byo-renewables/
 
-• AEMO已發佈最終版《2026年整合系統計劃》（ISP），作為未來25年國家電力市場
-  發展路線圖，明確將數據中心需求增長列為重塑南澳州及全國電網至2050年的
-  主要驅動力之一——該ISP為評估南澳州項目電網接入時間表提供了最具權威性的
-  長期電網容量及輸電投資排期參考。
-  資料來源：AEMO | https://www.aemo.com.au/-/media/files/major-publications/isp/2026/2026-integrated-system-plan-isp.pdf
+• 澳大利亞能源市場委員會（AEMC）裁定數據中心必須自行提供清潔、有保障的能源，
+  而非從共享電網中取用；在AEMO、聯邦政府五項「期望標準」及AEMC三方監管機構
+  一致要求自備清潔能源的背景下，已嵌入有保障可再生能源的南澳州項目在結構上
+  完全符合這一新興多監管機構共識，而其他州份的項目則面臨日益上升的改造風險。
+  【高度相關】
+  資料來源：ESD News | https://esdnews.com.au/aemc-says-data-centres-must-bring-their-own-clean-firmed-energy/
 
 
 🗺️ 5. 土地、規劃與市場動態
 
-• IREN邦迪園區定義了超大規模買家在南澳州願意付費的選址範本：
-  阿德萊德東北約75公里、直接330千伏輸電接入、毗鄰多個在運風電場，
-  並擁有通往新加坡、印尼、南韓及日本的海底光纜連接——可再生能源協同配置、
-  高壓輸電接入與洲際光纖的組合，已成為澳大利亞超大規模數據中心選址的
-  事實標準。South Energy應以此為參照規格，評估並推廣自身南澳州項目管線的地塊。
-  【高度相關】
-  資料來源：Data Center News Asia | https://datacenternews.asia/story/iren-signs-deal-for-800mw-south-australia-data-centre
-  資料來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/iren-targets-australia-for-800mw-data-center-campus/
+• ESD News分析確認，只要南澳州能持續解鎖停滯中的可再生能源項目，數據中心建設浪潮
+  並不會推高消費者電費——直接驗證了South Energy「土地＋可再生能源整合」模式的核心
+  經濟邏輯：這既是政治上可持續的，也是市場接受的南澳州數據中心開發路徑，
+  且使打包了可再生能源協同配置的項目可在政府面前呈現為消費者利好。【高度相關】
+  資料來源：ESD News | https://esdnews.com.au/data-centre-boom-wont-mean-higher-prices-if-we-unlock-stalled-renewables/
 
-• 南澳州1414 Degrees Aurora能源園區的最高1吉瓦AI數據中心基礎設施交易——
-  以有保障可再生儲能資產為基礎——使Aurora園區成為South Energy項目管線的
-  直接競爭方及可比案例；建議深入了解該園區的選址位置、電網接入條件及
-  可再生能源供應詳情，以進一步銳化South Energy的市場定位和交易條款。【高度相關】
-  資料來源：ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
-
-• 南澳州政府依據《2023年氫能與可再生能源法》，新開放格勒山脈東部
-  （Gawler Ranges East）及懷拉拉西部（Whyalla West）兩個大型可再生能源
-  可行性許可證申請區，總面積逾11,000平方公里（約為袋鼠島兩倍），
-  兩地均具有高度風光互補資源；申請截止日期為2026年6月28日，
-  已獲授予許可證的開發商將成為未來數據中心項目可再生能源供應協議的
-  天然對接方，掌握授予結果對評估上述走廊內的土地收購機會具有重要戰略意義。
-  【高度相關】
-  資料來源：ESD News | https://esdnews.com.au/south-australia-opens-new-areas-for-renewables-investment/
-  資料來源：南澳州政府 | https://www.energymining.sa.gov.au/home/news/latest/south-australia-powers-up-vast-new-renewable-energy-opportunities
+• RenewEconomy分析文章（「100%可再生，74%的時間」）詳述南澳州藉其世界領先可再生
+  電網打造能源出口強州的戰略藍圖，ElectraNet明確以25吉瓦電網容量為目標，南澳州輸電
+  網絡正吸引數十年來最高水平的接入咨詢量；分析強調，具備直接高壓接入南澳州骨幹
+  輸電網條件的土地，才是市場競相爭奪的核心稀缺資源——其優先性超越土地面積或地理
+  位置本身——South Energy的地塊評估應將變電站毗鄰度列為決定性收購標準。
+  資料來源：RenewEconomy | https://reneweconomy.com.au/100-pct-renewable-74-pct-of-the-time-how-australias-most-advanced-grid-plans-to-be-an-energy-powerhouse/
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 資料來源：ESD News（esdnews.com.au）| RenewEconomy（reneweconomy.com.au）|
-Data Center Dynamics（datacenterdynamics.com）| Data Center News Asia（datacenternews.asia）|
-ElectraNet（electranet.com.au）| AEMO（aemo.com.au）|
-南澳州政府能源與礦業部（energymining.sa.gov.au）
+Data Center Dynamics（datacenterdynamics.com）| AEMO（aemo.com.au）|
+ElectraNet（electranet.com.au）| 南澳州政府能源與礦業部（energymining.sa.gov.au）
