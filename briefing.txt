@@ -1,54 +1,12 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 3 September 2026
+📋 SA DATA CENTER LAND BRIEFING - 4 September 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-• AMPYR Australia Receives AEMO 5.3.4 Technical Approval for 270MW Grid-Forming
-  Battery at Port Augusta — Provides Critical Firming Capacity in the Bundey
-  Data Centre Corridor [HIGH RELEVANCE]: AMPYR Australia has received a 5.3.4
-  letter from the Australian Energy Market Operator (AEMO) for its 270MW Northern
-  Battery project near Port Augusta, South Australia — the formal technical
-  performance standards confirmation required before a generator can connect to
-  the National Electricity Market; the project is a grid-forming battery energy
-  storage system (BESS), meaning it provides synthetic inertia and system strength
-  in addition to energy storage, directly addressing the minimum system strength
-  requirements that AEMO must manage as the SA grid transitions to high renewable
-  penetration; for South Energy, the Port Augusta 270MW BESS sits within the same
-  transmission corridor as IREN's planned 800MW Bundey data centre campus and the
-  ElectraNet $3.5 billion Northern Transmission Project upgrade — its AEMO
-  approval is independent confirmation that the corridor can support additional
-  large BESS connections, and that grid-forming firming capacity is now being
-  installed at scale in the exact geographic region underpinning South Energy's
-  target development sites; buyers evaluating SA project engineering can reference
-  this approval as evidence that the firming and system-strength architecture
-  required to support continuous 100MW+ data centre loads is being constructed
-  commercially, not just planned.
-  [HIGH RELEVANCE]
-  Source: Energy Storage News (energy-storage.news) |
-  https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
-
-• AEMO Formally Discloses 5.4GW Australian Data Centre Grid Connection Pipeline
-  as of June 2026; Pipeline Now Exceeds Total Current Installed Data Centre
-  Capacity by a Factor of More Than Five [HIGH RELEVANCE]: AEMO has formally
-  disclosed that its current grid connection pipeline for Australian data centres
-  stands at 5.4GW as of June 2026 — representing the formal queue of data centre
-  projects that have engaged AEMO and the relevant network service providers to
-  begin connection assessment, and the most authoritative official quantification
-  of committed near-term data centre infrastructure investment; this 5.4GW
-  formal connection pipeline is separate from announced but unqueued projects and
-  provides AEMO's own view of credible development activity rather than market
-  commentary; for South Energy, AEMO's 5.4GW pipeline disclosure is a direct
-  signal that sophisticated buyers are already in the formal connection queue at
-  scale — meaning delay in presenting a shovel-ready SA project costs positioning
-  against sites already in that queue, and confirming that any SA project with
-  an existing or reserved connection agreement is now a materially more valuable
-  asset relative to projects that must enter a congested 5.4GW queue from scratch.
-  [HIGH RELEVANCE]
-  Source: Australia Data Centre Index / Certified Strategic (certifiedstrategic.com) |
-  https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026
+  No new updates today.
 
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
@@ -58,143 +16,143 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Deloitte August 2026 Project Tracker Records 33 Committed Australian Data Centre
-  Projects Worth A$104 Billion; CommBank Projects A$150 Billion in National Data
-  Centre Construction by 2030; Market Now Flagging 26% Power Bill Risk Without
-  Renewable Firming [HIGH RELEVANCE]: Deloitte's August 2026 project tracker has
-  identified 33 Australian data centre projects representing a combined A$104
-  billion in committed capital — the most comprehensive August snapshot of the
-  national committed pipeline and a significant escalation from earlier 2026
-  figures; separately, Commonwealth Bank of Australia projects the entire national
-  data centre build-out will reach A$150 billion of construction activity by 2030,
-  framing data centres as the single largest infrastructure investment category in
-  Australia's near-term capital programme; concurrent analysis flags that without
-  adequate renewable firming and grid investment, Australia's data centre expansion
-  risks triggering a 26% spike in power bills for consumers and businesses, creating
-  direct political pressure on state and federal governments to fast-track projects
-  that come grid-ready with renewable supply already contracted; for South Energy,
-  the Deloitte A$104 billion figure and CommBank A$150 billion projection confirm
-  that the buyer and investor universe for SA project exits is operating at a
-  capital commitment scale that materially exceeds the SA development pipeline
-  value, and the 26% power bill risk narrative increases urgency for governments
-  to approve and facilitate data centre developments that demonstrably reduce
-  rather than increase systemic power cost pressure — precisely the profile of a
-  Bundey or Port Augusta project with co-located renewable supply and BESS firming
-  already in place.
+• Firmus Technologies Commits US$300 Million to SUBCO's APX East Trans-Pacific
+  Submarine Cable as Anchor Customer, Directly Connecting SA AI Factory Sites
+  to US Hyperscale Cloud Buyers — Confirms Real Hyperscale Demand for South
+  Australia-Based AI Infrastructure is Now Contracting at Capacity Scale
+  [HIGH RELEVANCE]: Australian AI infrastructure company Firmus Technologies
+  has entered a landmark 25-year, US$300 million (approximately A$418 million)
+  agreement with submarine cable developer SUBCO, securing up to 150 Terabits
+  per second of dedicated international bandwidth as anchor customer for SUBCO's
+  planned APX East (Asia Pacific Express East) trans-Pacific subsea cable system;
+  the cable is designed as Australia's first sovereign-owned express international
+  hypercable and targets commercial activation in Q4 2028, purpose-built to
+  connect Firmus's nationwide AI Factory compute clusters — including its
+  renewable-powered sites in South Australia at Tailem Bend (up to 1.0 GW IT
+  load capacity) and Stirling North near Port Augusta (up to 1.3 GW IT load
+  capacity) — directly to US hyperscalers and AI-native developers; the deal
+  confirms that real hyperscale demand is already contracting connectivity
+  capacity in anticipation of SA AI factory sites coming online from 2028
+  onwards, and that the SA sites are being positioned not merely as domestic
+  compute nodes but as anchor points in an international AI token production
+  and export corridor spanning the trans-Pacific; for South Energy, the
+  Firmus-SUBCO agreement is among the clearest buyer-signal events yet
+  published for the SA data centre market — a US$300 million, 25-year
+  infrastructure commitment specifically to serve the same geographic corridor
+  (Tailem Bend, Port Augusta/Stirling North) where South Energy holds or
+  targets land positions, confirming that international hyperscale buyers
+  are already purchasing access to those sites at a capacity and tenure scale
+  that validates long-term exit valuations; any SA project with existing or
+  adjacent land to Firmus's SA corridors now benefits from demonstrated
+  international connectivity infrastructure, not just projected connectivity,
+  strengthening the site's completeness assessment against the full buyer
+  checklist: land, grid, renewable supply, planning, and now confirmed
+  international data transit.
   [HIGH RELEVANCE]
-  Source: Tech Insider Australia (tech-insider.org) |
-  https://tech-insider.org/au/australia-data-centre-boom-power-bill-2026/
-  Source: Data Centre Knowledge (datacenterknowledge.com) |
-  https://www.datacenterknowledge.com/hyperscalers/hyperscalers-in-2026-what-s-next-for-the-world-s-largest-data-center-operators-
+  Source: Submarine Networks (submarinenetworks.com) |
+  https://www.submarinenetworks.com/en/systems/trans-pacific/apx-east/firmus-commits-usd300m-to-subco-apx-east-cable
+  Source: w.media |
+  https://w.media/firmus-commits-usd-300m-to-subcos-apx-east-trans-pacific-cable/
 
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• Norton Rose Fulbright Publishes Formal Client Guidance on Australian
-  Government's New Data Centre Developer Expectations — Second Major Law Firm
-  in 48 Hours to Issue Compliance Analysis, Confirming Regulatory Framework
-  is Now Fully Actionable [HIGH RELEVANCE]: Global law firm Norton Rose Fulbright
-  has published a formal client alert titled "New expectations for data centre
-  operators and AI infrastructure developers," providing legal analysis of the
-  Australian Government's expectations framework for data centre developers —
-  including requirements to underwrite new renewable energy supply, bear the full
-  cost of new grid connectivity so charges are not passed to consumers, and
-  support demand flexibility mechanisms; this publication follows King & Wood
-  Mallesons' "Big day for data centres" publication (covered in yesterday's
-  briefing) and confirms that a second major global law firm has now issued
-  formal client compliance guidance on the same regulatory package within the
-  same 48-hour window; the publication of parallel substantive guidance by both
-  KWM and Norton Rose Fulbright is itself a market signal — it means sophisticated
-  buyers are receiving legal advice from multiple counsel simultaneously, and that
-  the legal due diligence workstream for SA project acquisitions is now formally
-  underway in the market; for South Energy, Norton Rose Fulbright's analysis
-  reinforces that any SA project with existing renewable supply agreements, grid
-  connection protocols, and planning approvals already in place arrives at a
-  buyer's legal due diligence fully configured against both firms' compliance
-  checklists — eliminating the procurement, negotiation, and approval timelines
-  that NRF specifically identifies as risk factors for developers starting fresh
-  in NSW or Victoria.
+• PM Albanese Concedes to Queensland and NT at National Cabinet — Australian
+  Government Effectively Drops Mandatory National BYO Renewables Rule for Data
+  Centres, Fragmenting the Compliance Framework and Increasing Relative Value
+  of SA Projects Already Contracted with Renewables [HIGH RELEVANCE]: Multiple
+  credible sources including Data Center Dynamics, ESD News, and RenewEconomy
+  report that Prime Minister Anthony Albanese conceded to Queensland Premier
+  David Crisafulli and the Northern Territory at the National Cabinet meeting,
+  with Queensland and the Northern Territory winning the ability to use fossil
+  fuels — coal and gas — to power data centres rather than being bound by a
+  national BYO renewables mandate; Data Center Dynamics reports the Australian
+  government "dropped plans for a data center renewable energy mandate" following
+  objections from both jurisdictions; ESD News reports "Qld and NT win fight to
+  use fossil fuels to power data centres"; this represents a material shift from
+  PM Albanese's July 15 announcement that data centres would face a "legal
+  obligation" to be net generators of renewable energy — the National Cabinet
+  outcome substitutes a case-by-case exemption pathway for a universal binding
+  standard, meaning the national framework is now split between states that
+  voluntarily apply the BYO renewables standard and states (QLD/NT) that can
+  apply to bypass it through the Australian Energy Regulator; for South Energy,
+  this is a paradoxical positive: South Australia's state government has
+  independently committed to a fully renewable grid and introduced dedicated
+  data centre and AI infrastructure legislation centred on renewable-powered
+  development — which means SA projects already carry binding renewable supply
+  at the state level and are definitively compliant with any version of the
+  national standard without requiring exemption applications, appeals, or AER
+  review; this eliminates the most significant approval risk that buyers face
+  when evaluating QLD or NT alternatives, and means SA's regulatory compliance
+  position is now more predictable and buyer-ready than any other jurisdiction
+  in Australia that depends on the federal process for mandate compliance.
   [HIGH RELEVANCE]
-  Source: Norton Rose Fulbright (nortonrosefulbright.com) |
-  https://www.nortonrosefulbright.com/en/knowledge/publications/746b2689/new-expectations-for-data-centre-operators-and-ai-infrastructure-developers
+  Source: Data Center Dynamics (datacenterdynamics.com) |
+  https://www.datacenterdynamics.com/en/news/australian-govt-drops-plans-for-data-center-renewable-energy-mandate-report/
+  Source: ESD News (esdnews.com.au) |
+  https://esdnews.com.au/qld-and-nt-win-fight-to-use-fossil-fuels-to-power-data-centres/
+  Source: RenewEconomy (reneweconomy.com.au) |
+  https://reneweconomy.com.au/data-centre-power-struggle-as-hold-out-states-oppose-federal-push-for-byo-renewables/
+
+• Energy Minister Bowen Insists Federal Legislation Will Still Mandate 100%
+  Renewables Plus Firming Nationally — But Introduces AER Case-by-Case
+  Exemption Pathway That Creates Compliance Uncertainty for All Non-SA
+  Jurisdictions [HIGH RELEVANCE]: In direct response to reports that the
+  national BYO renewables mandate had been abandoned, Climate Change and Energy
+  Minister Chris Bowen stated that the federal government "will legislate binding
+  national standards for data centres across the country without exception, which
+  will require 100% renewables backed by firming, which can be gas," but
+  clarified that the rules will allow state-owned fossil fuel assets to make a
+  case-by-case argument to the Australian Energy Regulator (AER) to power data
+  centres with fossil fuels, with the Commonwealth — not the state — making the
+  final exemption decision; this Bowen clarification, covered by both RenewEconomy
+  ("'No carve-outs' for states over renewables mandate for data centres, Bowen
+  says") and ESD News ("Bowen insists no 'carve-outs' in data centre
+  legislation"), introduces a significant new element that further differentiates
+  SA from every other jurisdiction: whether Bowen's interpretation or the QLD/NT
+  position prevails legislatively, buyers seeking certainty on compliance must
+  now either accept a multi-year AER exemption review process or locate in a
+  jurisdiction where the renewable mandate is met without application; South
+  Australia is the only state in Australia where both the state government
+  independently mandates renewable-powered development and where the transmission
+  grid already achieves over 74% renewable generation, meaning the federal
+  mandate compliance question is resolved at the state infrastructure layer
+  before it reaches the federal legislative layer; for South Energy, the
+  Bowen-vs-states policy tension is a direct commercial accelerant — buyers
+  with tight deployment timelines and ESG mandates (hyperscalers, institutional
+  data centre platforms, global PE-backed developers) cannot afford to wait for
+  an AER exemption ruling that may take 12 to 24 months, and will prioritise
+  jurisdictions with pre-resolved compliance; every week of federal policy
+  uncertainty adds urgency to SA project acquisitions as the only available
+  exit from the uncertainty.
+  [HIGH RELEVANCE]
+  Source: RenewEconomy (reneweconomy.com.au) |
+  https://reneweconomy.com.au/breaking-no-carve-outs-for-states-over-renewables-mandate-for-data-centres-bowen-says/
+  Source: ESD News (esdnews.com.au) |
+  https://esdnews.com.au/bowen-insists-no-carve-outs-in-data-centre-legislation/
 
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Partners Group (Swiss Private Equity, >US$150 Billion AUM) Acquires Australian
-  Data Centre Developer GreenSquareDC — Global Institutional Capital Now Entering
-  Australian Data Centre Land Banking Directly [HIGH RELEVANCE]: Partners Group,
-  one of the world's largest private equity and infrastructure asset managers with
-  over US$150 billion in assets under management, has acquired GreenSquareDC, an
-  Australian data centre developer that holds land options across strategic sites
-  in Sydney, Melbourne, and Perth; this acquisition represents the first direct
-  entry of a globally-ranked institutional private equity platform into Australian
-  data centre land development through outright acquisition of a local developer
-  — distinct from hyperscaler bilateral commitments or REIT-based colocation
-  expansion — and signals that the Australian data centre land banking and
-  development pipeline is now considered institutional-grade infrastructure by
-  global PE capital allocators; the GreenSquareDC transaction establishes a
-  precedent valuation and deal structure for Australian data centre developer
-  acquisitions, including land options as core assets; for South Energy, the
-  Partners Group/GreenSquareDC transaction is a direct validation that a
-  development-ready SA project with secured land, grid connection, and planning
-  approvals represents the same asset class that global institutional capital is
-  now acquiring directly — and that South Energy's project pipeline is a credible
-  exit target for institutions of Partners Group's scale and sophistication,
-  including PE platforms that may not have previously been identified as target
-  buyers in the context of hyperscaler bilateral transactions.
-  [HIGH RELEVANCE]
-  Source: Data Center Dynamics (datacenterdynamics.com) |
-  https://www.datacenterdynamics.com/en/news/partners-group-acquires-australian-data-center-firm-greensquaredc/
+  No new updates today.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: Energy Storage News (energy-storage.news) | Australia Data Centre Index /
-Certified Strategic (certifiedstrategic.com) | Tech Insider Australia (tech-insider.org) |
-Data Centre Knowledge (datacenterknowledge.com) | Norton Rose Fulbright (nortonrosefulbright.com) |
-Data Center Dynamics (datacenterdynamics.com)
+Sources: Submarine Networks (submarinenetworks.com) | w.media (w.media) |
+Data Center Dynamics (datacenterdynamics.com) | ESD News (esdnews.com.au) |
+RenewEconomy (reneweconomy.com.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年9月3日
+📋 南澳州數據中心土地每日簡報 - 2026年9月4日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-• AMPYR澳大利亞奧古斯塔港270兆瓦網格成形儲能電池獲AEMO技術認可——
-  為班迪數據中心走廊提供關鍵調峰容量【高度相關】：AMPYR澳大利亞已獲得
-  澳大利亞能源市場運營商（AEMO）針對其位於南澳州奧古斯塔港附近的270兆瓦
-  「北部電池」（Northern Battery）項目出具的5.3.4認可函，這是發電商接入
-  國家電力市場（NEM）前必須取得的正式技術性能標準確認文件；該項目為網格
-  成形儲能電池系統（BESS），可在提供儲能的同時輸出合成慣量和系統強度，
-  直接解決AEMO在南澳州電網向高可再生能源滲透率過渡期間必須管理的最低系
-  統強度要求；對South Energy而言，奧古斯塔港270兆瓦BESS與IREN計劃中的
-  800兆瓦班迪數據中心園區，以及ElectraNet 35億澳元北部輸電項目升級工程
-  處於同一輸電走廊之內——AEMO的認可批准是對該走廊可支持更多大型BESS
-  接入的獨立確認，且在南Energy目標開發場地所在地理區域，網格成形調峰容
-  量正在以商業規模安裝；評估南澳州項目工程技術條件的買方，可將此次批准
-  作為支撐100兆瓦以上數據中心連續運行所需調峰和系統強度架構已在商業上
-  落實建設的有力佐證。【高度相關】
-  資料來源：Energy Storage News（energy-storage.news）|
-  https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
-
-• AEMO正式披露截至2026年6月澳大利亞數據中心電網接入申請管線達5.4吉瓦，
-  規模超過現有全國數據中心裝機容量的五倍以上【高度相關】：澳大利亞能源
-  市場運營商（AEMO）正式披露，截至2026年6月，其受理的澳大利亞數據中心
-  電網接入申請管線達5.4吉瓦——代表已啟動接入評估流程的數據中心項目的正
-  式排隊規模，是目前最具權威性的官方近期數據中心基礎設施投資量化數據；
-  這一5.4吉瓦正式接入管線有別於已公告但未提交申請的項目，體現的是AEMO
-  自身對有效開發活動的判斷，而非市場評論；對South Energy而言，AEMO
-  5.4吉瓦管線披露直接表明，精明的買方已以龐大規模進入正式接入排隊流程
-  ——這意味著延誤提交一個「可即時啟動」南澳州項目，將喪失相對已在隊列
-  中的場地的先發優勢，同時確認任何持有現有或已預留接入協議的南澳州項目，
-  相對於必須從頭進入擁擠的5.4吉瓦隊列的項目，已具備實質性更高的資產
-  價值。【高度相關】
-  資料來源：澳大利亞數據中心指數 / Certified Strategic（certifiedstrategic.com）|
-  https://certifiedstrategic.com/insights/aemo-5-4gw-australian-data-centre-pipeline-june-2026
+  今日無新動態。
 
 
 ☀️ 2. 可再生能源與選址實況
@@ -204,73 +162,97 @@ Data Center Dynamics (datacenterdynamics.com)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 德勤2026年8月項目追蹤報告錄得33個澳大利亞數據中心項目，合計承諾資本
-  1040億澳元；澳大利亞聯邦銀行預測2030年前全國數據中心建設規模達1500億
-  澳元；市場警示若無可再生調峰，電費恐大漲26%【高度相關】：德勤2026年
-  8月項目追蹤器已識別33個澳大利亞數據中心項目，承諾資本合計1040億澳元
-  ——這是迄今最全面的全國承諾管線8月快照，較2026年早期數據顯著升級；另
-  據澳大利亞聯邦銀行預測，全國數據中心建設活動到2030年將達1500億澳元，
-  將數據中心定位為澳大利亞近期最大單一基礎設施投資品類；同期分析警示，
-  若缺乏充足的可再生調峰和電網投資，澳大利亞的數據中心擴張可能導致用電
-  客戶和企業電費上漲26%，由此直接形成對各州和聯邦政府加快審批已具備電
-  網就緒條件及已簽訂可再生能源供應合約項目的政治壓力；對South Energy而
-  言，德勤1040億澳元數據及聯邦銀行1500億澳元預測，確認南澳州項目退出的
-  買家和投資者圈子所運作的資本承諾規模，已實質性超過南澳州開發管線總值，
-  而26%電費上漲風險的輿論壓力，進一步凸顯政府批准和推動那些可明確降低
-  而非加劇系統性電力成本壓力的數據中心開發項目的緊迫性——這正是配套共
-  址可再生能源供應和BESS調峰的班迪或奧古斯塔港項目的核心差異化優勢所在。
+• Firmus科技以3億美元主力客戶身份加入SUBCO APX East跨太平洋海底光纜，
+  直接連通南澳州AI工廠選址與美國超大規模雲端買家——確認對南澳州AI基礎
+  設施的超大規模真實需求已在容量規模層面完成合約落實【高度相關】：澳大
+  利亞AI基礎設施企業Firmus科技與海底光纜開發商SUBCO達成一項為期25年、
+  金額高達3億美元（約4.18億澳元）的里程碑協議，以主力錨定客戶身份獲得
+  SUBCO計劃建設的APX East（亞太快速東線）跨太平洋海底光纜系統150太比特
+  每秒（Tbps）專屬國際帶寬；該光纜定位為澳大利亞首條主權所有的快速國際
+  超級光纜，目標2028年第四季度商業投運，專門連接Firmus旗下全國各地AI工
+  廠計算集群——包括其在南澳州塔萊姆本德（Tailem Bend，IT負荷容量最高達
+  1.0吉瓦）和奧古斯塔港附近斯特靈北（Stirling North，IT負荷容量最高達
+  1.3吉瓦）的可再生能源驅動場址——直接連通美國超大規模雲端客戶及AI原生
+  開發商；這筆交易確認，真實的超大規模需求已在南澳州AI工廠場址2028年後
+  陸續投運之前，在連通容量層面完成合約布局，南澳州場址被定位為橫跨太平
+  洋的國際AI算力生產與出口走廊上的錨定節點，而非單純的國內計算節點；對
+  South Energy而言，Firmus與SUBCO的協議是迄今南澳州數據中心市場已發布
+  的買方信號事件中最為清晰的之一——一筆專門服務於South Energy持有或目標
+  的土地位置所在地理走廊（塔萊姆本德、奧古斯塔港/斯特靈北）、金額3億美
+  元、期限25年的基礎設施承諾，確認國際超大規模買方已以足以支撐長期退出
+  估值的容量規模和協議期限購入這些場址的接入資源；任何毗鄰或位於Firmus
+  南澳州走廊的場址，均因此獲得已落地的國際連通基礎設施背書——而非僅有
+  預測性連通——進一步強化場址針對買方完整性評估清單各項的達標程度：土
+  地、電網、可再生能源供應、規劃審批，以及現在確認落實的國際數據傳輸。
   【高度相關】
-  資料來源：Tech Insider Australia（tech-insider.org）|
-  https://tech-insider.org/au/australia-data-centre-boom-power-bill-2026/
-  資料來源：Data Centre Knowledge（datacenterknowledge.com）|
-  https://www.datacenterknowledge.com/hyperscalers/hyperscalers-in-2026-what-s-next-for-the-world-s-largest-data-center-operators-
+  資料來源：Submarine Networks（submarinenetworks.com）|
+  https://www.submarinenetworks.com/en/systems/trans-pacific/apx-east/firmus-commits-usd300m-to-subco-apx-east-cable
+  資料來源：w.media |
+  https://w.media/firmus-commits-usd-300m-to-subcos-apx-east-trans-pacific-cable/
 
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 富而德（Norton Rose Fulbright）發布澳大利亞政府數據中心開發商新期望框架
-  正式客戶指引——48小時內第二家頂級律師事務所發布合規分析，確認監管框架
-  已完全可操作【高度相關】：全球律師事務所富而德（Norton Rose Fulbright）
-  發布題為「數據中心運營商及AI基礎設施開發商的新期望」的正式客戶簡訊，
-  就澳大利亞政府對數據中心開發商的期望框架提供法律解析——包括承擔新可
-  再生能源供應義務、完全承擔新電網接入費用（不得轉嫁消費者）及支持需求
-  響應機制的要求；此次發布緊隨昨日簡報所述金杜（King & Wood Mallesons）
-  「數據中心重磅日」的發布，確認第二家頂級全球律師事務所已在同一48小時
-  窗口就同一監管套件發布正式客戶合規指引；金杜與富而德的平行實質性指引
-  的同步發布本身即是一個市場信號——意味著精明的買方正同時從多位法律顧
-  問處獲得法律意見，南澳州項目收購的法律盡職調查工作流已在市場中正式啟
-  動；對South Energy而言，富而德的分析進一步印證，任何已具備可再生能源
-  購電協議、電網接入協議及規劃審批的南澳州項目，在到達買方法律盡職調查
-  環節時，已可完整對應兩家事務所合規清單——消除了富而德專門點名指出的、
-  在新南威爾士州或維多利亞州從頭啟動採購、談判和審批流程所涉及的風險因
-  素。【高度相關】
-  資料來源：富而德（nortonrosefulbright.com）|
-  https://www.nortonrosefulbright.com/en/knowledge/publications/746b2689/new-expectations-for-data-centre-operators-and-ai-infrastructure-developers
+• 澳大利亞總理阿爾巴尼斯在全國內閣會議上向昆士蘭州和北領地妥協——聯邦
+  政府實質上放棄對數據中心強制推行的全國「自帶可再生能源」規定，合規框
+  架碎片化，令已簽訂可再生能源合約的南澳州項目相對價值大幅提升【高度相
+  關】：Data Center Dynamics、ESD News及RenewEconomy多家權威媒體報道，
+  總理阿爾巴尼斯在全國內閣會議上向昆士蘭州長克里薩福利（Crisafulli）
+  及北領地妥協，昆士蘭州和北領地獲准使用化石燃料（煤炭和天然氣）為數
+  據中心供電，而非受制於全國性「自帶可再生能源」強制規定；Data Center
+  Dynamics報道，澳大利亞政府「取消了對數據中心可再生能源強制規定的計
+  劃」；ESD News報道「昆士蘭州和北領地贏得使用化石燃料為數據中心供電
+  的鬥爭」；這是對總理阿爾巴尼斯7月15日公告——數據中心將面臨「法律義
+  務」成為可再生能源淨發電主體——的重大背離；全國內閣結果以逐案豁免路
+  徑取代了全國統一約束性標準，意味著全國框架已一分為二：自願適用「自帶
+  可再生能源」標準的州份，以及可申請豁免的州份（昆士蘭州/北領地）；對
+  South Energy而言，這在矛盾中創造了利好：南澳州州政府已獨立作出全面
+  可再生電網承諾，並推出以可再生能源供電為核心的專項數據中心及AI基礎設
+  施立法——這意味着南澳州項目已在州層面實現具有約束力的可再生能源供應，
+  无需豁免申請、上訴或澳大利亞能源監管機構（AER）審查即可明確符合任何
+  版本的全國標準；這消除了買方評估昆士蘭州或北領地替代方案時面臨的最大
+  審批風險，使南澳州的監管合規立場比任何依賴聯邦程序達成強制合規的澳大
+  利亞司法管轄區都更具可預期性和買方就緒性。【高度相關】
+  資料來源：Data Center Dynamics（datacenterdynamics.com）|
+  https://www.datacenterdynamics.com/en/news/australian-govt-drops-plans-for-data-center-renewable-energy-mandate-report/
+  資料來源：ESD News（esdnews.com.au）|
+  https://esdnews.com.au/qld-and-nt-win-fight-to-use-fossil-fuels-to-power-data-centres/
+  資料來源：RenewEconomy（reneweconomy.com.au）|
+  https://reneweconomy.com.au/data-centre-power-struggle-as-hold-out-states-oppose-federal-push-for-byo-renewables/
+
+• 能源部長鮑文堅持聯邦立法仍將全國性強制100%可再生能源加調峰——但引入
+  澳大利亞能源監管機構（AER）逐案豁免路徑，為所有非南澳州司法管轄區製
+  造合規不確定性【高度相關】：針對全國「自帶可再生能源」強制規定已遭放
+  棄的報道，氣候變化與能源部長克里斯·鮑文（Chris Bowen）聲明，聯邦政府
+  「將立法在全國範圍對數據中心推行具有約束力的標準，毫無例外，要求100%
+  可再生能源配合調峰（調峰可由天然氣承擔）」；但鮑文同時澄清，相關規定
+  將允許州屬化石燃料資產向澳大利亞能源監管機構（AER）逐案申請以化石燃
+  料（天然氣或煤炭）為數據中心供電，且最終豁免決定權歸聯邦而非申請州政
+  府；鮑文的澄清聲明分別被RenewEconomy（「鮑文：各州不得就可再生能源強
+  制規定獲得'例外豁免'」）和ESD News（「鮑文堅稱數據中心立法無例外豁
+  免」）報道，引入了一個進一步凸顯南澳州差異化優勢的重要新元素：無論鮑
+  文的立法解讀最終勝出還是昆士蘭州/北領地的立場主導，尋求合規確定性的
+  買方現在必須要麼接受可能歷時12至24個月的AER豁免審查程序，要麼選擇在
+  無需申請即可達標的司法管轄區落戶；南澳州是澳大利亞唯一一個州政府獨立
+  強制推行可再生能源供電開發、且輸電電網本身已實現逾74%可再生能源發電
+  比例的州份，意味着聯邦強制合規問題在聯邦立法層面到達之前已在州基礎設
+  施層面得到解決；對South Energy而言，鮑文與各州之間的政策張力是直接的
+  商業催化劑——持有緊迫部署時間表和ESG授權的買方（超大規模雲端客戶、機
+  構數據中心平台、全球私募股權支持的開發商）無法承受等候可能耗時1至2年
+  的AER豁免裁決，必然優先考慮合規問題已預先解決的司法管轄區；聯邦政策
+  每持續一周的不確定性，都在為南澳州項目收購增加緊迫性——那是擺脫不確
+  定性的唯一現成出口。【高度相關】
+  資料來源：RenewEconomy（reneweconomy.com.au）|
+  https://reneweconomy.com.au/breaking-no-carve-outs-for-states-over-renewables-mandate-for-data-centres-bowen-says/
+  資料來源：ESD News（esdnews.com.au）|
+  https://esdnews.com.au/bowen-insists-no-carve-outs-in-data-centre-legislation/
 
 
 🗺️ 5. 土地、規劃與市場動態
 
-• 瑞士私募巨頭合眾集團（Partners Group，管理資產逾1500億美元）收購澳大利亞
-  數據中心開發商GreenSquareDC——全球機構資本以直接收購方式進入澳大利亞
-  數據中心土地儲備領域【高度相關】：全球最大私募股權與基礎設施資產管理機
-  構之一、管理資產規模逾1500億美元的合眾集團（Partners Group）已收購
-  GreenSquareDC——一家持有悉尼、墨爾本和珀斯多個戰略地點土地期權的澳大
-  利亞數據中心開發商；此次收購代表全球頂級機構私募股權平台首次通過直接
-  收購本地開發商的方式進入澳大利亞數據中心土地開發領域——有別於超大規模
-  客戶雙邊承諾或房地產投資信託基金（REIT）式托管擴張——標誌著澳大利亞數
-  據中心土地儲備和開發管線已被全球私募資本配置者視為機構級基礎設施資產；
-  GreenSquareDC交易為澳大利亞數據中心開發商收購建立了估值先例和交易結構
-  參照，其中土地期權被確認為核心資產；對South Energy而言，合眾集團收購
-  GreenSquareDC直接驗證了以下命題：一個已具備土地安全、電網接入和規劃
-  審批的開發就緒南澳州項目，代表的正是全球機構資本如今正在直接收購的同
-  一資產類別——南Energy的項目管線是合眾集團規模和成熟度的機構投資者的
-  可信退出目標，包括此前可能未被納入超大規模客戶雙邊交易語境中識別的私
-  募股權平台。【高度相關】
-  資料來源：Data Center Dynamics（datacenterdynamics.com）|
-  https://www.datacenterdynamics.com/en/news/partners-group-acquires-australian-data-center-firm-greensquaredc/
+  今日無新動態。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：Energy Storage News（energy-storage.news）| 澳大利亞數據中心指數 /
-Certified Strategic（certifiedstrategic.com）| Tech Insider Australia（tech-insider.org）|
-Data Centre Knowledge（datacenterknowledge.com）| 富而德（nortonrosefulbright.com）|
-Data Center Dynamics（datacenterdynamics.com）
+資料來源：Submarine Networks（submarinenetworks.com）| w.media（w.media）|
+Data Center Dynamics（datacenterdynamics.com）| ESD News（esdnews.com.au）|
+RenewEconomy（reneweconomy.com.au）
