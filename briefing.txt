@@ -1,50 +1,44 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 5 September 2026
+📋 SA DATA CENTER LAND BRIEFING - 6 September 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-• AEMO Opens Non-Network Options Consultation for Three Newly Actionable 2026 ISP
-  Projects — Submissions Close 17 September 2026, Creating Immediate Window for
-  Storage and Demand-Response Proponents to Register Alternatives to New
-  Transmission Lines [HIGH RELEVANCE]: The Australian Energy Market Operator
-  (AEMO) has opened formal consultation seeking non-network option proposals to
-  meet the identified investment needs for three newly actionable projects
-  confirmed in the 2026 Integrated System Plan (ISP), published 25 June 2026,
-  with submissions due by Thursday 17 September 2026; the 2026 ISP was driven
-  substantially by data centre load growth — AEMO's modelling disclosed a 5.4GW
-  data centre pipeline nationally, with South Australia flagged as receiving
-  increased connection demand from Greater Adelaide, the Mid North and the South
-  East as a direct result of data centres and the AI boom — and the ISP's three
-  newly actionable projects reflect grid investment needs that are now formally
-  open for non-network alternatives including co-located battery storage, demand
-  response facilities, and hybrid generation assets; although specific project
-  details require review of each consultation notice on the AEMO website, the
-  ElectraNet 2026 Transmission Annual Planning Report (TAPR) separately confirms
-  that peak electricity demand in South Australia is forecast to double over the
-  next 15 years from 3.3GW to more than 6.5GW, driven by data centres, AI load
-  and defence industry, and that the estimated AU$3.5 billion Northern
-  Transmission Project — spanning the northern and eastern parts of the state
-  and connecting Bundey (where IREN's 800MW AI campus is under development) to
-  the Adelaide metropolitan load centre and to the anticipated Cultana load
-  centre near Port Augusta — is now in active early planning with AER approval
-  sought for AU$29.5 million in early-works expenditure; for South Energy, the
-  AEMO non-network consultation is directly actionable: sites in the Mid North
-  and Spencer Gulf corridor that can offer demand flexibility, co-located storage,
-  or hybrid generation have a formal submission pathway to establish grid support
-  value before the September 17 close, potentially influencing which network
-  investment is required and where grid augmentation dollars flow; the ElectraNet
-  TAPR's doubling demand forecast further validates the long-term connection
-  scarcity argument for sites that secure early grid agreements.
+• AEMO 2026 Electricity Statement of Opportunities Confirms 40GW Pipeline and 9.1GW
+  Commissioned in FY2026 — Simultaneously Flags Data Centre Load Connections as One
+  of Four Priority National Grid Risks, Raising the Scarcity Value of SA Sites Already
+  Advanced in the ElectraNet Connection Queue [HIGH RELEVANCE]: The Australian Energy
+  Market Operator published its 2026 Electricity Statement of Opportunities (ESOO) on
+  25 August 2026, confirming a pipeline of approximately 40GW of committed and anticipated
+  generation and storage projects across the National Electricity Market and finding no
+  forecast reliability gap until 2030-31, with 9.1GW of new generation and storage
+  commissioned in FY2026 alone — described as the clearest reliability outlook the annual
+  report has carried in several years, conditional on projects arriving on time; critically
+  for large-load developers, AEMO simultaneously released the 2026 General Power System
+  Risk Review, which identified increasing large-load connections from data centres as one
+  of four priority grid risks nationally, alongside non-credible system-strength risks from
+  synchronous-machine retirements, large non-credible generation and network contingency
+  events, and voltage-control risks; operating data centres across the NEM had approximately
+  2.2GW of maximum connection capacity in Q1 2026 with actual demand representing only
+  approximately 27% of that capacity — meaning the 5.4GW pipeline (confirmed in the 2026
+  ISP) is largely uncommissioned and its load profile remains uncertain; for South Energy,
+  AEMO's formal classification of data centre load connections as a priority grid risk
+  formalises what was previously a planning challenge — it means AEMO is now actively
+  modelling and managing large-load connection risk at the system level, which in practice
+  signals that connection conditions, approval processes and cost recovery for new projects
+  are likely to tighten progressively over 2026-2027; SA sites that already hold firm
+  transmission connection agreements with ElectraNet, or are advanced in the ElectraNet
+  connection queue, therefore carry measurable option value over greenfield sites that will
+  face tighter conditions as AEMO implements system-level risk mitigations.
   [HIGH RELEVANCE]
   Source: AEMO (aemo.com.au) |
-  https://www.aemo.com.au/energy-systems/major-publications/integrated-system-plan-isp/2026-integrated-system-plan-isp
-  Source: ESD News (esdnews.com.au) |
-  https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
-  Source: PV Magazine Australia (pv-magazine-australia.com) |
-  https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/
+  https://www.aemo.com.au/newsroom/media-release/2026-esoo
+  Source: WattClarity (wattclarity.com.au) |
+  https://wattclarity.com.au/articles/2026/08/25aug-2026-esoo-release/
+  Source: Data Centre Magazine (datacentremagazine.com) |
+  https://datacentremagazine.com/news/australian-data-centres-aemo-2026-electricity-statement
 
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
@@ -54,102 +48,97 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Amazon Signs Asia-Pacific's First Standalone BESS Tolling Deal with Anza Power
-  for 50MW/200MWh Bairnsdale Battery in Victoria — Confirms Battery-Backed
-  Renewable Strategy as the Standard Hyperscale Procurement Template for
-  Australian Expansion, Raising the Value of SA Sites Already Adjacent to BESS
-  Development Corridors Such as Port Augusta [HIGH RELEVANCE]: Amazon Web
-  Services has executed Australia's first standalone battery energy storage
-  system (BESS) tolling agreement, signing with Sydney-headquartered Anza Power
-  to secure rights to the 50MW/200MWh Bairnsdale Battery Energy Storage System
-  in East Gippsland, Victoria — announced 2–3 September 2026 — representing
-  Amazon's first standalone battery storage tolling agreement in the Asia-Pacific
-  region and the first-of-its-kind arrangement in Australia for any non-energy
-  business; under the structure, Amazon gains contractual access to energy stored
-  in the Bairnsdale BESS, the right to control charging and discharging cycles,
-  and grid arbitrage capability, in exchange for a regular fixed fee paid to Anza
-  Power, without carrying construction, ownership or maintenance obligations for
-  the storage facility; the deal forms part of Amazon's AU$20 billion (US$13.86
-  billion) commitment to expand Australian data centre infrastructure by 2029,
-  supplementing nine existing Power Purchase Agreements for new renewable
-  generation across the country; the Amazon-Anza structure establishes a new
-  procurement archetype that is highly material to South Energy's buyer universe:
-  hyperscalers are now purchasing firm renewable capacity and grid flexibility at
-  the individual asset level — not via aggregated or legacy renewable energy
-  certificates — meaning buyers entering Australia's compliance environment under
-  the proposed REGO additionality and firming requirements can satisfy the
-  mandatory firming component through standalone BESS tolling agreements without
-  building or owning storage; for South Energy, this deal is a direct signal that
-  SA sites co-located with, or in close proximity to, committed BESS projects —
-  including the AMPYR-GGE 270MW/2,160MWh Northern Battery at Port Augusta
-  (which received its AEMO 5.3.4 connection approval in August 2026 and is
-  targeting financial close and construction commencement in Q4 2026) — now carry
-  a premium buyer-side attribute: a hyperscale-ready firming solution that
-  replicates the Amazon-Anza structure and satisfies the AEMC framework's firming
-  requirement without requiring the buyer to own or operate battery infrastructure;
-  the Port Augusta corridor specifically — where Firmus Technologies holds up to
-  1.3GW of planned IT load capacity at Stirling North and the AMPYR Northern
-  Battery is approaching construction — is now the closest Australian analogue to
-  a fully integrated hyperscale-ready site combining renewable supply, grid
-  connection, international data connectivity, and contracted battery firming in
-  a single geographic cluster.
+• Data Center World Australia Opens 7-9 September 2026 in Melbourne — Hyperscalers,
+  Colocation Operators and AI Infrastructure Builders Convene Amid A$104 Billion National
+  Pipeline at a Moment When Buyers Are Stress-Testing Site Strategies Against the New
+  Mandatory 100% Renewables Compliance Framework [HIGH RELEVANCE]: Data Center World
+  Australia commences 7 September 2026 at Melbourne Convention & Exhibition Centre, bringing
+  together data centre operators, hyperscalers, enterprises and technology providers to
+  discuss next-generation data centre design, sustainability and AI-ready connectivity;
+  the conference opens at a decisive moment for buyer-side site strategy: Deloitte's project
+  tracker counted 33 Australian data centre projects worth a combined A$104 billion as of
+  August 2026, CommBank estimates the entire national build-out at A$150 billion by 2030,
+  and hyperscaler commitments total approximately A$45 billion from Microsoft (A$25bn through
+  2029, its largest-ever country-level investment) and Amazon AWS (A$20bn) alone — yet the
+  National Cabinet mandatory 100% renewables requirement announced 26 August 2026 (see Policy
+  & Regulation below) fundamentally changes the site-selection calculus for every buyer
+  represented at the conference; for South Energy, the DCWA conference this week represents
+  a live and observable buyer-sentiment moment: procurement leads from hyperscalers attending
+  will be actively reassessing which Australian geographies can satisfy the incoming mandatory
+  net-generator and renewables-firming standards within their investment timelines — creating
+  a direct market signal for SA projects that already carry contracted renewable supply,
+  approved BESS firming and established grid connections as the only compliant-in-advance
+  corridor available nationally.
   [HIGH RELEVANCE]
-  Source: Energy Storage News (energy-storage.news) |
-  https://www.energy-storage.news/amazon-signs-first-asia-pacific-standalone-battery-storage-tolling-deal-for-50mw-bess-in-australia/
-  Source: Data Center Dynamics (datacenterdynamics.com) |
-  https://www.datacenterdynamics.com/en/news/amazon-signs-first-apac-battery-storage-tolling-deal-with-anza-power-in-victoria-australia/
-  Source: MediaNet Newshub (newshub.medianet.com.au) |
-  https://newshub.medianet.com.au/2026/09/amazon-and-anza-power-sign-first-standalone-battery-storage-tolling-agreement-in-asia-pacific/169180/
+  Source: Data Center World Australia (datacenterworldaustralia.com) |
+  https://datacenterworldaustralia.com/
+  Source: Hitachi Energy (hitachienergy.com) |
+  https://www.hitachienergy.com/news-and-events/events-and-webinars/2026/09/data-center-world-australia-2026
+  Source: Global Statistics (theglobalstatistics.com) |
+  https://www.theglobalstatistics.com/ai-data-center-statistics-in-australia/
 
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• AEMC Four-Part Data Centre Energy Framework Now Before Energy and Climate
-  Change Ministerial Council for September 2026 Formal Consideration — REGO
-  Additionality Rule, Firming Mandate, Market Registration and Flexible
-  Connection Requirements Enter the Formal Legislative Pipeline, Hardening the
-  Compliance Calculus That Advantages SA Projects [HIGH RELEVANCE]: The
-  Australian Energy Market Commission (AEMC) has advanced National Electricity
-  Rule change requests to the Energy and Climate Change Ministerial Council
-  (ECMC) for formal ministerial consideration in September 2026, following the
-  public release of the AEMC's full regulatory advice on 5 August 2026; the
-  AEMC's four-part framework requires large data centres to: (1) surrender
-  Renewable Electricity Guarantee of Origin (REGO) certificates linked
-  exclusively to new renewable energy generation — the additionality requirement
-  that closes the compliance loophole allowing purchase of certificates from
-  existing wind or solar plants without triggering a single megawatt of new
-  capacity; (2) contract alongside REGOs for firming capacity, making battery
-  storage the de facto compliance mechanism under the federal framework; (3)
-  register as formal market participants under National Electricity Market rules;
-  and (4) structure grid connection agreements specifically to enable flexible,
-  co-located, demand-response-capable operation; the AEMC estimates 12 months to
-  implement the REGO obligation from ministerial endorsement and 24 to 36 months
-  for the market registration and connections reforms; the Mallesons analysis
-  described the combined ECMC decisions of 5 August 2026 as "a big day for data
-  centres," encompassing not only the AEMC energy obligation advice but also new
-  cost-recovery rules requiring data centres to pay their full share of new grid
-  connection costs, ending the cross-subsidisation model that had effectively
-  hidden grid augmentation expenses across the broader consumer base; for South
-  Energy, the AEMC framework moving from advice into the formal ECMC legislative
-  process is the sharpest tightening of the compliance environment yet seen:
-  buyers cannot satisfy the REGO additionality requirement by purchasing legacy
-  green certificates, cannot avoid firming obligations with REGOs alone, and
-  must now pay full cost-reflective connection charges — all of which make sites
-  that already carry contracted new renewable supply, battery firming arrangements
-  and approved grid connections categorically more valuable than greenfield sites
-  in states where compliance requires building the entire renewable-firming stack
-  from scratch; South Australia's existing contracted renewable pipeline,
-  combined with the AMPYR Northern Battery approval and the Firmus-SUBCO
-  connectivity infrastructure, means the SA corridor is the only region in
-  Australia where the full AEMC compliance stack is already being assembled by
-  third parties, without requiring the buyer to originate each component.
+• National Cabinet Unanimously Endorses Mandatory National Standards for Large Data
+  Centres Requiring 100% Renewable Energy — 26 August 2026, Commonwealth Legislation
+  Committed for Early 2027, "No Exceptions and No Carve-Outs," Elevating the Compliance
+  Value of SA's Pre-Assembled Renewables-Firming Stack from Competitive Advantage to
+  Regulatory Necessity [HIGH RELEVANCE]: Australia's National Cabinet met on 26 August 2026
+  and unanimously endorsed a plan to develop mandatory national standards for large data
+  centres, committing all nine federal, state and territory governments to a single compliance
+  rulebook covering energy (100% renewable generation requirement), water efficiency, land
+  use and skills and training, with Commonwealth legislation committed for early 2027; Energy
+  and Climate Change Minister Chris Bowen stated explicitly that there would be "no exceptions
+  and no carve-outs" under the 100% renewable requirement, and the net-generator requirement
+  — requiring data centres to put at least as much power into the grid as they draw from it
+  — was confirmed as part of the legislated framework; the National Cabinet decision elevates
+  and politically solidifies the PM's July 15 mandatory net-generator announcement and the
+  AEMC's August 5 formal four-part framework advice (REGO additionality, firming mandate,
+  market registration, flexible connection) that entered ECMC consideration in September 2026
+  — all nine governments having endorsed the direction means the legislative pathway is
+  cleared and the compliance timetable is now a political commitment rather than a regulatory
+  recommendation; critically, the National Cabinet unanimous endorsement resolves the residual
+  sovereign risk question that sophisticated buyers will have been running against Australian
+  data centre investment cases: the mandatory renewables-firming compliance framework is no
+  longer an AEMC advice or a PM speech — it is a nine-government political commitment with a
+  firm legislative timetable of early 2027, eliminating the scenario where a change in
+  federal government or state-level resistance could delay or weaken implementation; for
+  South Energy, this is the most important policy development since the AEMC framework
+  entered the ECMC legislative pipeline: SA sites that already carry contracted new renewable
+  supply, BESS firming arrangements and approved grid connections are the only projects in
+  Australia demonstrably compliant in advance of legislation, converting their scarcity value
+  from a commercial differentiator into an absolute compliance differentiator.
   [HIGH RELEVANCE]
-  Source: AEMC (aemc.gov.au) |
-  https://www.aemc.gov.au/news-centre/media-releases/data-centres-bring-clean-firm-energy-be-flexible-and-pay-their-way-aemc-advises-ministers
-  Source: Mallesons (mallesons.com) |
-  https://www.mallesons.com/au/en/insights/latest-thinking/big-day-for-data-centres.html
-  Source: Energy Storage News (energy-storage.news) |
-  https://www.energy-storage.news/australia-advances-data-centre-energy-policy-on-three-fronts-as-battery-storage-emerges-as-key-compliance-tool/
+  Source: The ABJ (theabj.com.au) |
+  https://theabj.com.au/2026/08/27/australia-ai-data-centre-rules-national-cabinet/
+  Source: Bloomberg (bloomberg.com) |
+  https://www.bloomberg.com/news/articles/2026-08-24/australia-to-enforce-power-water-standards-for-data-centers
+  Source: Clayton Utz (claytonutz.com) |
+  https://www.claytonutz.com/insights/2026/august/nine-governments-one-rulebook-national-cabinet-backs-mandatory-ai-and-data-centre-standards
+  Source: Energy-Storage.News (energy-storage.news) |
+  https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/
+
+• South Australia Launches Australia's First Royal Commission into Artificial Intelligence —
+  Announced 10 August 2026, Commission Commences 1 October 2026 with Final Report Due
+  1 July 2027, Cementing SA's National Leadership Position in AI Governance and Reinforcing
+  the State's Brand as Australia's AI Infrastructure Capital: South Australian Premier Peter
+  Malinauskas announced on 10 August 2026 Australia's first Royal Commission into Artificial
+  Intelligence, a A$3 million inquiry focused on how AI is used across SA's economy and
+  society — including education, healthcare, industry and government services — rather than
+  on physical infrastructure; while the Royal Commission's terms of reference explicitly
+  exclude data centre and physical infrastructure regulation, its findings (due 1 July 2027)
+  will shape South Australia's AI social licence framework, which is directly relevant to
+  community acceptance of data centre clusters and to the Malinauskas Government's broader
+  political commitment to positioning SA as Australia's AI infrastructure capital; the
+  Commission commences 1 October 2026 and its public hearings will generate ongoing national
+  media coverage of SA's AI leadership, reinforcing the state's brand differentiation in
+  the buyer market at the precise moment hyperscalers are conducting Australian site
+  selection processes.
+  Source: ABC News (abc.net.au) |
+  https://www.abc.net.au/news/2026-08-10/artificial-intelligence-royal-commission-announced-in-sa/107017502
+  Source: SA Department of the Premier and Cabinet (dpc.sa.gov.au) |
+  https://www.dpc.sa.gov.au/news/royal-commission-into-artificial-intelligence-announced
 
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
@@ -157,51 +146,49 @@ Prepared for: South Energy | Land Acquisition & Project Integration
   No new updates today.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: AEMO (aemo.com.au) | ESD News (esdnews.com.au) |
-PV Magazine Australia (pv-magazine-australia.com) |
-Energy Storage News (energy-storage.news) |
-Data Center Dynamics (datacenterdynamics.com) |
-MediaNet Newshub (newshub.medianet.com.au) |
-AEMC (aemc.gov.au) | Mallesons (mallesons.com)
+Sources: AEMO (aemo.com.au) | WattClarity (wattclarity.com.au) |
+Data Centre Magazine (datacentremagazine.com) |
+Data Center World Australia (datacenterworldaustralia.com) |
+Hitachi Energy (hitachienergy.com) | The Global Statistics (theglobalstatistics.com) |
+The ABJ (theabj.com.au) | Bloomberg (bloomberg.com) |
+Clayton Utz (claytonutz.com) | Energy-Storage.News (energy-storage.news) |
+ABC News (abc.net.au) | SA Department of the Premier and Cabinet (dpc.sa.gov.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年9月5日
+📋 南澳州數據中心土地每日簡報 - 2026年9月6日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-• AEMO就2026年綜合系統規劃三個新增可執行項目啟動非網路方案諮詢——
-  截止日期為2026年9月17日，為儲能及需求響應方提交電網支援替代方案
-  創造即時窗口【高度相關】：澳大利亞能源市場運營商（AEMO）已就2026年
-  《綜合系統規劃》（ISP，於2026年6月25日發布）中確認的三個新增可執行
-  項目，正式啟動非網路方案提案諮詢，截止日期為2026年9月17日（星期四）；
-  本次2026年ISP很大程度上受數據中心負荷增長驅動——AEMO的建模揭示全國
-  數據中心管道容量達5.4吉瓦，南澳州因數據中心和AI熱潮的直接推動，被列
-  為來自大阿德萊德地區、中北部及東南部的連接需求顯著增加的地區——三個
-  新增可執行項目反映的電網投資需求，目前已正式對外開放非網路替代方案
-  申請，包括配套電池儲能、需求響應設施及混合發電資產；此外，ElectraNet
-  2026年《輸電年度規劃報告》（TAPR）另行確認，受數據中心、AI負荷及國防
-  工業帶動，南澳州的電力需求峰值預計在未來15年內從3.3吉瓦翻倍至逾
-  6.5吉瓦；估值約35億澳元的北部輸電項目（Northern Transmission Project）
-  ——覆蓋該州北部及東部，連接邦迪（Bundey，IREN 800兆瓦AI園區正在此
-  開發）與阿德萊德都會負荷中心及奧古斯塔港附近預期中的Cultana負荷中心
-  ——現已進入積極前期規劃階段，AER已收到2,950萬澳元前期施工支出的批准
-  申請；對South Energy而言，AEMO非網路方案諮詢具備直接可執行性：中北部
-  及斯賓塞灣走廊中能夠提供需求靈活性、配套儲能或混合發電的場址，擁有在
-  9月17日截止前提交正式申請的途徑，有潛力影響所需電網投資的規模和流向；
-  ElectraNet TAPR中需求倍增的預測，進一步印證了早期取得電網協議的場址
-  所具備的長期連接稀缺性論點。【高度相關】
+• AEMO 2026年《電力機遇聲明》確認40吉瓦管道及2026財年新增9.1吉瓦並網裝機
+  ——同步將數據中心大負荷接入列為全國四大電網優先風險之一，進一步強化
+  南澳州已進入ElectraNet接入排隊的場址的稀缺性溢價【高度相關】：澳大利亞
+  能源市場運營商（AEMO）於2026年8月25日發布2026年《電力機遇聲明》（ESOO），
+  確認全國電力市場（NEM）已承諾及預期中的發電和儲能項目管道合計約40吉瓦，
+  並預計至2030-31財年之前不存在可靠性缺口；2026財年已有9.1吉瓦新發電和儲能
+  裝機投入運行——被描述為該年度報告多年來所呈現的最樂觀可靠性展望，但前提
+  是相關項目必須按時落地；對大型負荷開發商而言更為關鍵的是：AEMO同步發布的
+  2026年《電力系統總體風險審查》，將數據中心大負荷接入連接增加列為全國四大
+  電網優先風險之一，其他三項分別為同步發電機退役導致的系統強度非可信事件
+  風險、大型非可信發電及電網突發事件風險，以及電壓控制風險；2026年第一季度
+  NEM在運數據中心的最大連接容量約為2.2吉瓦，但實際需求僅佔該容量的約27%，
+  意味著2026年綜合系統規劃（ISP）確認的5.4吉瓦管道大部分仍處於未投運狀態；
+  對South Energy而言，AEMO正式將數據中心負荷連接列為電網優先風險，標誌著此前
+  僅屬規劃層面的挑戰已上升為系統層面的主動管控議題，這在實踐中意味著電網連接
+  條件、審批流程及新項目成本回收機制很可能在2026至2027年間持續收緊；已與
+  ElectraNet簽訂固定輸電連接協議或已進入ElectraNet接入排隊的南澳州場址，因此
+  相對於尚未取得連接的未開發場址，具備可量化的期權價值。【高度相關】
   資料來源：AEMO（aemo.com.au）|
-  https://www.aemo.com.au/energy-systems/major-publications/integrated-system-plan-isp/2026-integrated-system-plan-isp
-  資料來源：ESD News（esdnews.com.au）|
-  https://esdnews.com.au/tapr-highlights-vital-transmission-projects-for-sas-growth/
-  資料來源：PV Magazine Australia（pv-magazine-australia.com）|
-  https://www.pv-magazine-australia.com/2026/03/31/electranet-unveils-transmission-plans-to-support-demand-growth/
+  https://www.aemo.com.au/newsroom/media-release/2026-esoo
+  資料來源：WattClarity（wattclarity.com.au）|
+  https://wattclarity.com.au/articles/2026/08/25aug-2026-esoo-release/
+  資料來源：Data Centre Magazine（datacentremagazine.com）|
+  https://datacentremagazine.com/news/australian-data-centres-aemo-2026-electricity-statement
 
 
 ☀️ 2. 可再生能源與選址實況
@@ -211,77 +198,77 @@ AEMC (aemc.gov.au) | Mallesons (mallesons.com)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 亞馬遜與Anza Power簽署亞太地區首個獨立電池儲能系統（BESS）託管協議，
-  標的為維多利亞州50兆瓦/200兆瓦時貝恩斯代爾電池——確認電池支撐可再生
-  能源策略已成超大規模雲端客戶澳大利亞擴張的標準採購範式，使鄰近BESS
-  開發走廊（如奧古斯塔港）的南澳州場址價值大幅提升【高度相關】：亞馬遜
-  雲端服務（AWS）於2026年9月2至3日宣布，與總部位於悉尼的Anza Power就
-  維多利亞州吉普斯蘭地區50兆瓦/200兆瓦時貝恩斯代爾電池儲能系統（BESS）
-  簽署澳大利亞首個獨立BESS託管協議，成為亞馬遜在亞太地區就獨立電池儲能
-  系統達成的首份託管協議，也是澳大利亞非能源業企業的首例同類安排；根據
-  協議，亞馬遜獲得貝恩斯代爾BESS所儲電能的合約使用權、充放電調度控制
-  權及電網套利能力，以向Anza Power支付固定費用作為對價，無需承擔儲能
-  設施的建設、所有權或運營責任；此協議是亞馬遜兌現其2029年前在澳大利亞
-  擴展數據中心基礎設施200億澳元（約合138.6億美元）承諾的組成部分，
-  並對現有9份可再生能源購電協議（PPA）形成補充；亞馬遜與Anza Power的
-  合作結構確立了一種對South Energy買方群體極具參考價值的新採購範式：
-  超大規模雲端客戶正以個別資產層面的獨立BESS託管方式購入堅實可再生
-  能源容量和電網靈活性，而非依賴匯總或歷史可再生能源證書——這意味著
-  在擬議中的REGO附加性和調峰要求下進入澳大利亞合規環境的買方，可通過
-  獨立BESS託管協議滿足強制調峰義務，而無需建設或持有儲能資產；對
-  South Energy而言，與已落實BESS項目毗鄰或緊靠的南澳州場址——包括
-  AMPYR-GGE於奧古斯塔港開發的270兆瓦/2,160兆瓦時北部電池（Northern
-  Battery，已於2026年8月獲AEMO 5.3.4條款連接批准，目標於2026年第四
-  季度完成財務決策並開工建設）——現已具備一項符合超大規模採購標準的
-  電網調峰解決方案，可複製亞馬遜-Anza結構，在買方無需擁有或運營電池
-  基礎設施的情況下滿足AEMC框架的調峰要求；奧古斯塔港走廊尤為值得
-  關注——Firmus科技在斯特靈北（Stirling North）規劃高達1.3吉瓦IT負荷
-  容量的數據中心場址，疊加AMPYR北部電池即將開工建設，使該走廊成為
-  澳大利亞最接近超大規模一體化就緒場址的集群，同時具備可再生能源供應、
-  電網連接、國際數據連通以及已合約化電池調峰四大核心要素。【高度相關】
-  資料來源：Energy Storage News（energy-storage.news）|
-  https://www.energy-storage.news/amazon-signs-first-asia-pacific-standalone-battery-storage-tolling-deal-for-50mw-bess-in-australia/
-  資料來源：Data Center Dynamics（datacenterdynamics.com）|
-  https://www.datacenterdynamics.com/en/news/amazon-signs-first-apac-battery-storage-tolling-deal-with-anza-power-in-victoria-australia/
-  資料來源：MediaNet Newshub（newshub.medianet.com.au）|
-  https://newshub.medianet.com.au/2026/09/amazon-and-anza-power-sign-first-standalone-battery-storage-tolling-agreement-in-asia-pacific/169180/
+• 澳大利亞數據中心世界峰會（DCWA）2026年9月7至9日在墨爾本召開——超大規模
+  雲端客戶、機房運營商及AI基礎設施建設方同場匯聚，1040億澳元全國管道背景下
+  買家正密集評估場址策略能否符合強制100%可再生能源合規新框架【高度相關】：
+  澳大利亞數據中心世界峰會（DCWA）2026年9月7日在墨爾本會展中心開幕，匯聚數據
+  中心運營商、超大規模雲端客戶、企業用戶及科技提供商，聚焦新一代數據中心設計、
+  可持續發展及AI就緒連通性議題；本次峰會在買方場址策略的關鍵節點召開：德勤
+  項目追蹤數據庫截至2026年8月已錄得33個澳大利亞數據中心項目，合計價值1,040億
+  澳元，澳聯邦銀行預計全國數據中心建設總規模在2030年前將達1,500億澳元；超大
+  規模雲端客戶承諾方面，微軟（2029年前250億澳元，其有史以來最大規模的單國
+  投資）和亞馬遜AWS（200億澳元）兩家合計已達約450億澳元——然而，2026年8月26日
+  全國內閣宣布的強制100%可再生能源要求（詳見下方「政策與法規」一欄）從根本上
+  改變了每位與會買方的場址篩選邏輯；對South Energy而言，本次DCWA峰會是一個
+  可即時觀察的買方情緒風向標：與會超大規模雲端客戶的採購負責人正積極重新評估
+  哪些澳大利亞地理位置能在其投資時間框架內滿足即將強制實施的淨發電及可再生能源
+  調峰合規標準——這為南澳州已具備已合約化可再生能源供應、批准的BESS調峰及已
+  建立電網連接的項目創造了直接的市場信號，使其成為全國唯一可提前達標的走廊。
+  【高度相關】
+  資料來源：Data Center World Australia（datacenterworldaustralia.com）|
+  https://datacenterworldaustralia.com/
+  資料來源：Hitachi Energy（hitachienergy.com）|
+  https://www.hitachienergy.com/news-and-events/events-and-webinars/2026/09/data-center-world-australia-2026
+  資料來源：The Global Statistics（theglobalstatistics.com）|
+  https://www.theglobalstatistics.com/ai-data-center-statistics-in-australia/
 
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• AEMC四部分數據中心能源框架規則修訂申請提交能源與氣候變化部長理事會
-  （ECMC）進行2026年9月正式審議——REGO附加性規定、強制調峰要求、市場
-  主體登記及靈活接入要求正式進入立法管道，進一步強化有利於南澳州項目的
-  合規邏輯【高度相關】：澳大利亞能源市場委員會（AEMC）已於2026年9月
-  將相關《全國電力規則》修訂申請提交能源與氣候變化部長理事會（ECMC）
-  進行正式審議，此前AEMC於2026年8月5日公開發布了其就數據中心能源義務
-  監管路徑提供的完整建議；AEMC的四部分框架要求大型數據中心：（一）須
-  繳交與全新可再生能源發電項目掛鉤的可再生電力原產地保證書（REGO）——
-  附加性要求堵住了從現有風電或光伏項目購入證書而無需拉動任何新增裝機
-  容量的合規漏洞；（二）在繳交REGO的同時，須另行合約落實調峰容量，
-  使電池儲能成為聯邦框架下的事實合規工具；（三）依據全國電力市場（NEM）
-  規則完成正式市場主體登記；（四）電網接入協議須具體設計為支持靈活、
-  配套及需求響應能力的運行模式；AEMC估計從部長批准到完成REGO義務的
-  實施約需12個月，市場主體登記及接入改革則需24至36個月；Mallesons的
-  分析將2026年8月5日ECMC的系列決定描述為「數據中心行業的大日子」，
-  涵蓋AEMC能源義務建議及電網接入成本分攤新規則，新規則要求數據中心
-  承擔其電網新接入費用的全額成本，終結了此前實際上由更廣大消費者群體
-  交叉補貼電網擴容費用的模式；對South Energy而言，AEMC框架從建議意見
-  正式進入ECMC立法程序，是迄今為止合規環境收緊程度最高的信號：買方
-  無法以歷史綠色證書滿足REGO附加性要求，無法僅憑REGO規避調峰義務，
-  且現在須支付完全成本反映的接入費用——上述所有要求，均使已落實新可再
-  生能源供應合約、電池調峰安排及批准電網連接的場址，在類別層面明顯
-  優於其他州的未開發場址（後者需要買方從零開始構建完整的可再生能源
-  調峰合規體系）；南澳州現有已合約化可再生能源管道、AMPYR北部電池
-  獲批及Firmus-SUBCO連通基礎設施三者疊加，意味著南澳走廊是澳大利亞
-  唯一一個完整AEMC合規技術棧已由第三方在同一地理集群範圍內構建中的
-  地區，無需買方逐一自行原創各個組成部分。【高度相關】
-  資料來源：AEMC（aemc.gov.au）|
-  https://www.aemc.gov.au/news-centre/media-releases/data-centres-bring-clean-firm-energy-be-flexible-and-pay-their-way-aemc-advises-ministers
-  資料來源：Mallesons（mallesons.com）|
-  https://www.mallesons.com/au/en/insights/latest-thinking/big-day-for-data-centres.html
-  資料來源：Energy Storage News（energy-storage.news）|
-  https://www.energy-storage.news/australia-advances-data-centre-energy-policy-on-three-fronts-as-battery-storage-emerges-as-key-compliance-tool/
+• 全國內閣一致通過對大型數據中心強制推行「100%可再生能源」國家標準——
+  2026年8月26日，聯邦立法承諾於2027年初出台，「無例外、無豁免」，南澳州
+  預建可再生能源調峰技術棧的合規價值從競爭優勢躍升為監管必要條件【高度相關】：
+  澳大利亞全國內閣於2026年8月26日一致通過為大型數據中心制定強制性國家標準的
+  計劃，承諾由聯邦、各州及各地區政府共同執行一份統一合規規則手冊，涵蓋能源
+  （100%可再生電力要求）、水效率、土地使用及技能培訓等方面，聯邦立法已承諾
+  於2027年初落地；能源與氣候變化部長克里斯·鮑文明確表示，100%可再生能源要求
+  「無例外、無豁免」；淨發電要求——要求數據中心向電網輸入的電力不低於其從
+  電網抽取的電力量——已確認納入立法框架；全國內閣決定在政治層面強化並確定了
+  總理7月15日的強制淨發電公告，以及AEMC於8月5日提交ECMC審議的四部分正式
+  框架建議（REGO附加性要求、強制調峰要求、市場主體登記及靈活接入）——九個
+  政府的一致背書意味著立法路徑已疏通，合規時間表已從監管建議升格為政治承諾；
+  最關鍵的是，全國內閣一致表態消除了精明買家一直針對澳大利亞數據中心投資案例
+  的剩餘主權風險疑慮：強制可再生能源調峰合規框架已不再僅是AEMC建議或總理演講
+  ——它是九個政府的政治承諾，具備2027年初的明確立法時間表，消除了因聯邦政府
+  更迭或州級阻力而導致實施延遲或弱化的情景；對South Energy而言，這是繼AEMC
+  框架進入ECMC立法管道以來最重要的政策進展：已具備已合約化新可再生能源供應、
+  BESS調峰安排及批准電網連接的南澳州場址，是澳大利亞唯一可在立法前即達標的
+  項目，其稀缺性已從商業差異化因素升格為絕對的合規差異化因素。【高度相關】
+  資料來源：The ABJ（theabj.com.au）|
+  https://theabj.com.au/2026/08/27/australia-ai-data-centre-rules-national-cabinet/
+  資料來源：Bloomberg（bloomberg.com）|
+  https://www.bloomberg.com/news/articles/2026-08-24/australia-to-enforce-power-water-standards-for-data-centers
+  資料來源：Clayton Utz（claytonutz.com）|
+  https://www.claytonutz.com/insights/2026/august/nine-governments-one-rulebook-national-cabinet-backs-mandatory-ai-and-data-centre-standards
+  資料來源：Energy-Storage.News（energy-storage.news）|
+  https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/
+
+• 南澳州啟動澳大利亞首個人工智慧皇家委員會調查——2026年8月10日宣布，
+  2026年10月1日正式運作，最終報告於2027年7月1日前提交，鞏固南澳州在AI
+  治理領域的全國領導地位，強化其作為澳大利亞AI基礎設施樞紐的品牌定位：
+  南澳州州長彼得·馬利諾斯卡斯於2026年8月10日宣布設立澳大利亞首個人工智慧
+  皇家委員會，這是一項耗資300萬澳元的調查，專注於AI在南澳州經濟和社會各領域
+  的應用方式——包括教育、醫療、工業及政府服務——而非聚焦於實體基礎設施；
+  儘管該皇家委員會的職責範圍明確排除了對數據中心及實體基礎設施的監管，其調查
+  結果（預計於2027年7月1日前提交）將塑造南澳州的AI社會許可框架，直接關係到
+  社區對數據中心集群的接受程度，以及馬利諾斯卡斯政府將南澳州定位為澳大利亞AI
+  基礎設施首選目的地的更廣泛政治承諾；委員會於2026年10月1日正式運作，其公開
+  聽證將持續吸引全國媒體報道南澳州的AI領導力，在超大規模雲端客戶開展澳大利亞
+  場址選擇的關鍵時期持續強化該州的品牌差異化定位。
+  資料來源：ABC News（abc.net.au）|
+  https://www.abc.net.au/news/2026-08-10/artificial-intelligence-royal-commission-announced-in-sa/107017502
+  資料來源：南澳州州長及內閣廳（dpc.sa.gov.au）|
+  https://www.dpc.sa.gov.au/news/royal-commission-into-artificial-intelligence-announced
 
 
 🗺️ 5. 土地、規劃與市場動態
@@ -289,9 +276,10 @@ AEMC (aemc.gov.au) | Mallesons (mallesons.com)
   今日無新動態。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：AEMO（aemo.com.au）| ESD News（esdnews.com.au）|
-PV Magazine Australia（pv-magazine-australia.com）|
-Energy Storage News（energy-storage.news）|
-Data Center Dynamics（datacenterdynamics.com）|
-MediaNet Newshub（newshub.medianet.com.au）|
-AEMC（aemc.gov.au）| Mallesons（mallesons.com）
+資料來源：AEMO（aemo.com.au）| WattClarity（wattclarity.com.au）|
+Data Centre Magazine（datacentremagazine.com）|
+Data Center World Australia（datacenterworldaustralia.com）|
+Hitachi Energy（hitachienergy.com）| The Global Statistics（theglobalstatistics.com）|
+The ABJ（theabj.com.au）| Bloomberg（bloomberg.com）|
+Clayton Utz（claytonutz.com）| Energy-Storage.News（energy-storage.news）|
+ABC News（abc.net.au）| 南澳州州長及內閣廳（dpc.sa.gov.au）
