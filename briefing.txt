@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 15 September 2026
+📋 SA DATA CENTER LAND BRIEFING - 16 September 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -8,12 +8,22 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
   No new updates today.
 
-  [ACTION — 2 DAYS] AEMO non-network options submissions for three newly
+  [ACTION — TOMORROW] AEMO non-network options submissions for three newly
   actionable 2026 ISP projects (Brisbane Area 275 kV Reinforcement, Central
   to North Queensland Reinforcement Stage 1, Tasmania REZ Expansion) CLOSE
   THURSDAY 17 SEPTEMBER 2026. Sites with secured SA transmission connections
   and integrated renewable firming should assess eligibility now — this
   deadline is live.
+
+  [MONITORING] AMPYR Australia has received an AEMO 5.3.4 letter for the
+  270 MW Northern Battery project near Port Augusta, targeting Q4 2026
+  financial close and construction start. The grid-forming BESS (270 MW /
+  1,080 MWh, 8-hour configuration) will connect via existing Port Augusta
+  substation infrastructure, adding firm storage capacity to the Upper Spencer
+  Gulf corridor — a South Energy land acquisition target zone co-incident with
+  Firmus Project Southgate. The 5.3.4 milestone is one of the most demanding
+  in Australia's grid connection process, confirming project bankability.
+  Source: Energy Storage News | AMPYR | ESD News (esdnews.com.au)
 
   [MONITORING] Project EnergyConnect full 800 MW bi-directional transfer
   capability between SA and NSW expected to be released by AEMO in Q4 2026.
@@ -54,27 +64,37 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Western Downs Digital Park (Zerra DC) Energy Analysis Confirms Scale of
-  Unmanaged Hyperscale AI Demand — SA Grid Advantage Strengthened:
-  ABC News published a detailed energy-impact analysis on 14 September 2026
-  of the 2.16 GW Western Downs Digital Park proposed near Dalby, Queensland
-  (Singapore-based Zerra DC); at full four-stage build-out, the development
-  application before Western Downs Regional Council would consume approximately
-  47 GWh per day — equivalent to 25% of Queensland's current daily electricity
-  usage — on a single 725.5-hectare site; the analysis highlights that the
-  project has no pre-secured transmission agreement and faces a grid impact
-  assessment of unprecedented scale; the contrast with SA's pre-secured Bundey
-  330 kV campus (IREN, 800 MW, four secured 330 kV feeder exits, fully
-  assessed) is the core buyer-conversion argument — grid-ready capacity in SA
-  vs multi-year grid-impact uncertainty in Queensland and NSW.
-  Source: ABC News |
-  https://www.abc.net.au/news/2026-09-14/western-downs-digital-park-data-centre-energy-queensland/107115082
+• BREAKING — Anthropic Signs First Australian Data Centre Deal at
+  Queensland's Western Downs Digital Park [HIGH RELEVANCE]:
+  Queensland Premier David Crisafulli announced in State Parliament on
+  16 September 2026 that AI company Anthropic has executed a lease agreement
+  with Zerra DC (Singapore-based AGP Sustainable Real Assets) for the first
+  hall of the $32 billion Western Downs Digital Park near Dalby, approximately
+  250 km west of Brisbane; the 725-hectare site targets a four-stage 2.16 GW
+  build-out, with Anthropic's hall to operate from 2027 on a coal, gas, and
+  new-renewables power mix; the project has no pre-secured transmission
+  agreement and the Queensland government has confirmed Anthropic will bear
+  the full cost of its grid connection including network upgrades; the lease
+  remains subject to Foreign Investment Review Board approval. Anthropic's
+  choice of an unverified-grid Queensland site over previously flagged SA
+  options (CDC, AirTrunk, NEXTDC, Firmus) confirms that speed-to-lease
+  currently precedes grid certainty at the first-mover decision stage — SA's
+  durable counter-argument is total-cost-of-connection compliance (REGO offset
+  mandate, AEMC full-capacity charging rule, 30 MW+ technical standards) and
+  regulatory risk exposure over the 2027–2030 period versus Queensland's
+  coal-mix grid.
+  Source: ABC News | https://www.abc.net.au/news/2026-09-16/queensland-data-centre-anthropic-dalby/107160640
+  [HIGH RELEVANCE — competitor deal; validates hyperscale demand urgency;
+  reinforces SA grid-certainty premium as Queensland connection costs escalate]
 
-  [ACTION — TOMORROW] DATA CENTER INVESTMENT SUMMIT AUSTRALIA (DCIS),
-  16 September 2026, ICC Sydney. Capital-markets summit for investors,
-  hyperscalers, operators, developers and policymakers; themes: AI demand,
-  power access, grid connection timelines. All announcements are immediate
-  watch-list items for tech buyer signals and competitor site moves.
+  [MONITORING] DATA CENTER INVESTMENT SUMMIT AUSTRALIA (DCIS) held today
+  16 September 2026 at ICC Sydney — capital-markets summit for investors,
+  hyperscalers, operators, developers and policymakers. All announcements
+  from today's summit are immediate watch-list items for tech buyer signals
+  and competitor site moves. Context highlighted at the summit includes CDC's
+  555 MW 30-year US-customer contract (May 2026), NEXTDC's 350 MW S4 Sydney
+  facility, Stockland's 168 MW data centre plans, and AWS's nine Australian
+  renewable agreements.
 
   [MONITORING] NVIDIA's 2 GW AI factory buildout with eight Australian
   partners (IREN, Firmus, NEXTDC, AirTrunk, CDC, Sharon AI, ResetData,
@@ -93,14 +113,25 @@ Prepared for: South Energy | Land Acquisition & Project Integration
   evaluating new Australian AI data centre sites. Global hyperscaler capex
   forecast at US$630–700 billion for 2026, up ~62% on 2025.
 
-  [MONITORING] Anthropic in active discussions for 300–500 MW of Australian
-  data centre capacity; CDC front-runner; AirTrunk, NEXTDC, Firmus also in
-  process. No signed lease confirmed as of this briefing.
-
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-  No new updates today.
+• SA Government's Proposed Data Centre and AI Infrastructure Act — Dedicated
+  Legislation Framework Confirmed [HIGH RELEVANCE]:
+  Premier Peter Malinauskas announced in June 2026 a new SA Data Centre
+  Strategy anchored by a proposed Data Centre and AI Infrastructure Act that
+  would designate data centres as essential infrastructure, empower the
+  Coordinator-General as single decision-making authority for major projects,
+  and require developers to match demand growth with new firmed renewable
+  supply ("new energy for new demand"); the Act will mandate operational
+  flexibility for grid stability, transparent energy-use reporting, clear
+  technical standards, and fair network cost allocation; the legislation is
+  currently in consultation and drafting stage with detailed exposure draft
+  not yet published. This framework, when enacted, will further entrench SA's
+  single-pathway planning advantage over NSW's multi-gateway model and create
+  statutory certainty for hyperscale buyer due diligence.
+  Source: W.Media | Capital Brief | ABC News (abc.net.au/news/2026-06-23)
+  [HIGH RELEVANCE — directly affects planning pathway value for SA projects]
 
   [MONITORING] ECMC September 2026 regulatory package now formally issued
   (confirmed via King & Wood Mallesons 14 September analysis): (1) mandatory
@@ -163,17 +194,17 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Sources: ABC News (abc.net.au) | AEMO (aemo.com.au) |
 ElectraNet (electranet.com.au) | King & Wood Mallesons (mallesons.com) |
-AER (aer.gov.au) | RenewEconomy (reneweconomy.com.au) |
-Data Center Dynamics (datacenterdynamics.com) |
-ESD News (esdnews.com.au) | SA Government (energymining.sa.gov.au) |
-W.media (w.media)
+Energy Storage News (energy-storage.news) | AMPYR (ampyr.com.au) |
+ESD News (esdnews.com.au) | W.Media (w.media) | Capital Brief (capitalbrief.com) |
+RenewEconomy (reneweconomy.com.au) | Data Center Dynamics (datacenterdynamics.com) |
+AER (aer.gov.au) | SA Government (energymining.sa.gov.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年9月15日
+📋 南澳州數據中心土地每日簡報 - 2026年9月16日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -181,11 +212,20 @@ W.media (w.media)
 
   今日無新動態。
 
-  【行動——還有2天】AEMO就2026年ISP三項新可行動項目（布里斯班
+  【行動——明天截止】AEMO就2026年ISP三項新可行動項目（布里斯班
   地區275千伏加強工程、昆士蘭中部至北部加強工程一期、塔斯馬尼亞
   可再生能源區擴建）發出非電網解決方案徵集——截止日期為2026年9月
   17日（星期四）。已獲南澳州輸電連接協議並集成可再生能源調峰的
   場址應立即評估資格——此截止期限為實時行動事項。
+
+  【持續監測】AMPYR澳大利亞已獲AEMO針對阿古斯塔港附近270兆瓦
+  北部電池項目頒發5.3.4函件，目標於2026年第四季度完成融資關閉並
+  啟動施工。該電網成形型儲能系統（270兆瓦/1,080兆瓦時，8小時配置）
+  將通過現有阿古斯塔港變電站基礎設施接入ElectraNet輸電網絡，為
+  Upper Spencer Gulf走廊——South Energy土地獲取目標區域，亦是Firmus
+  南門計劃所在地——增添有保障儲能容量。5.3.4里程碑是澳大利亞電網
+  接入流程中最嚴格的審核關卡之一，確認項目具備融資可行性。
+  來源：Energy Storage News | AMPYR | ESD News (esdnews.com.au)
 
   【持續監測】項目EnergyConnect全800兆瓦雙向輸電能力預計由
   AEMO於2026年第四季度發布。
@@ -224,26 +264,31 @@ W.media (w.media)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 西部丘陵數位園區（Zerra DC）能源影響分析揭示失控超大規模
-  AI需求規模——南澳州電網優勢進一步凸顯：
-  ABC新聞於2026年9月14日發布了針對昆士蘭州道比附近（距布里斯班
-  約250公里）擬建中的2.16吉瓦西部丘陵數位園區（新加坡開發商
-  Zerra DC）的詳細能源影響分析；按四期全面建成計算，目前正由
-  西部丘陵地區議會審議的開發申請每日用電量將達約47吉瓦時——
-  相當於昆士蘭州目前日均用電量的25%——僅佔地725.5公頃的
-  單一場址即可產生如此規模的電網衝擊；分析指出該項目尚無預確認
-  輸電連接協議，面臨前所未有規模的電網影響評估；相較之下，
-  南澳州邦迪330千伏園區（IREN 800兆瓦、四個確認330千伏饋線
-  出口、已完成全面評估）的優勢一目了然——南澳州提供電網就緒容量，
-  而昆士蘭州及新南威爾士州面臨多年電網影響不確定性。
-  資料來源：ABC新聞 |
-  https://www.abc.net.au/news/2026-09-14/western-downs-digital-park-data-centre-energy-queensland/107115082
+• 突發——Anthropic在昆士蘭西部丘陵數位園區簽署首份澳大利亞
+  數據中心租約 【高度相關】：
+  昆士蘭州州長David Crisafulli於2026年9月16日在州議會宣布，
+  AI公司Anthropic已與Zerra DC（新加坡AGP Sustainable Real Assets
+  旗下）簽署租約，租用西部丘陵數位園區（達比附近，距布里斯班
+  約250公里）第一棟機房大樓；該725公頃場址規劃四期2.16吉瓦
+  總建設規模，Anthropic機房大樓目標2027年投入運行，電力來源為
+  煤炭、天然氣及新增可再生能源混合；該項目尚未取得預確認輸電
+  連接協議，昆士蘭州政府已確認Anthropic須承擔全部電網接入費用
+  （含網絡升級）；租約尚待外商投資審查委員會批准。Anthropic選擇
+  電網未確認的昆士蘭場址，而非此前接洽的南澳州選項（CDC、
+  AirTrunk、NEXTDC、Firmus），表明首批租賃決策目前以交易速度
+  優先於電網確定性——南澳州的持久反駁論點在於2027至2030年
+  全周期連接合規成本（REGO抵消強制義務、AEMC全容量收費規則、
+  30兆瓦以上技術標準）及相較昆士蘭煤電電網的監管風險敞口。
+  來源：ABC新聞 | https://www.abc.net.au/news/2026-09-16/queensland-data-centre-anthropic-dalby/107160640
+  【高度相關——競品交易確認；印證超大規模需求緊迫性；
+  隨昆士蘭連接成本攀升，南澳州電網確定性溢價得到強化】
 
-  【行動——明天】澳大利亞數據中心投資峰會（DCIS），2026年9月
-  16日，悉尼國際會議中心。面向投資者、超大規模雲端商、運營商、
-  開發商及政策制定者的資本市場峰會；議題涵蓋AI需求、電力接入、
-  電網連接時間表。峰會所有公告均為買家信號及競品場址動態的
-  即時關注事項。
+  【持續監測】澳大利亞數據中心投資峰會（DCIS）今日（2026年9月16日）
+  在悉尼國際會議中心舉行——面向投資者、超大規模雲端商、運營商、
+  開發商及政策制定者的資本市場峰會。峰會所有公告均為科技買家信號
+  及競品場址動態的即時關注事項。峰會背景資料涵蓋：CDC 555兆瓦
+  30年美國客戶合同（2026年5月）、NEXTDC 350兆瓦S4悉尼設施、
+  Stockland 168兆瓦數據中心計劃及AWS九項澳大利亞可再生能源協議。
 
   【持續監測】英偉達與8家澳大利亞合作夥伴（IREN、Firmus、
   NEXTDC、AirTrunk、CDC、Sharon AI、ResetData、Megaport）聯合推
@@ -261,14 +306,22 @@ W.media (w.media)
   智能數據中心選址。全球超大規模雲端商2026年資本開支預測達
   6,300至7,000億美元，較2025年增長約62%。
 
-  【持續監測】Anthropic正積極洽談澳大利亞300–500兆瓦數據中心
-  容量；CDC據報為首選；AirTrunk、NEXTDC、Firmus亦在評選範圍。
-  截至本簡報，尚無正式租賃合同確認。
-
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-  今日無新動態。
+• 南澳州政府擬議《數據中心與AI基礎設施法》——專項立法框架確認
+  【高度相關】：
+  州長Peter Malinauskas於2026年6月宣布，SA新數據中心戰略以擬議
+  中的《數據中心與AI基礎設施法》為核心，將把數據中心指定為基本
+  基礎設施，授權總督察員作為重大項目的單一決策機構，並要求開發商
+  以新增有保障可再生能源匹配需求增長（「新需求配新能源」）；法案
+  將強制要求具備電網穩定性操作靈活度、透明能源使用報告、清晰技術
+  標準及公平電網費用分配；立法目前處於諮詢及起草階段，詳細草案
+  尚未公布。該框架一旦頒布，將進一步鞏固南澳州相對新南威爾士州
+  多通道審批模式的單一路徑規劃優勢，為超大規模買家盡職調查提供
+  法定確定性。
+  來源：W.Media | Capital Brief | ABC新聞（abc.net.au/news/2026-06-23）
+  【高度相關——直接影響南澳州項目規劃路徑價值】
 
   【持續監測】ECMC 2026年9月監管一攬子規則已正式頒布
   （金杜律師事務所9月14日分析確認）：（1）數據中心強制性
@@ -324,7 +377,7 @@ W.media (w.media)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 資料來源：ABC新聞（abc.net.au）| AEMO（aemo.com.au）|
 ElectraNet（electranet.com.au）| 金杜律師事務所（mallesons.com）|
-AER（aer.gov.au）| 再生能源經濟（reneweconomy.com.au）|
-Data Center Dynamics（datacenterdynamics.com）|
-ESD News（esdnews.com.au）| 南澳州政府（energymining.sa.gov.au）|
-W.media（w.media）
+Energy Storage News（energy-storage.news）| AMPYR（ampyr.com.au）|
+ESD News（esdnews.com.au）| W.Media（w.media）| Capital Brief（capitalbrief.com）|
+再生能源經濟（reneweconomy.com.au）| Data Center Dynamics（datacenterdynamics.com）|
+AER（aer.gov.au）| 南澳州政府（energymining.sa.gov.au）
