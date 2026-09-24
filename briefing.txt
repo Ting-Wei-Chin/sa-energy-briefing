@@ -1,46 +1,38 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 23 September 2026
+📋 SA DATA CENTER LAND BRIEFING - 24 September 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-• AEMO Confirms SA Reliability Outlook Has Improved Following Torrens Island B Extension [HIGH RELEVANCE]:
-  AEMO has published an updated South Australian reliability assessment — "Reliability outlook
-  improves, timely investment delivery essential" — formally confirming that the 2026–27
-  reliability gap has been resolved and that grid reliability can be maintained provided
-  committed investments are delivered on schedule. The release follows the SA Government
-  and AGL reaching their formal Torrens Island B funding agreement (announced 21 September
-  2026), and marks AEMO's first public confirmation that the gap is closed.
+No new updates today.
+
+  [MONITORING] AEMO Confirms SA Reliability Outlook Has Improved Following Torrens Island B
+  Extension (announced 21 September 2026): AEMO's updated South Australian reliability
+  assessment formally confirms the 2026–27 reliability gap is closed and grid reliability can
+  be maintained, provided committed investments are delivered on schedule.
   Source: AEMO | https://www.aemo.com.au/newsroom/media-release/reliability-outlook-improves-timely-investment-delivery-essential
-  [HIGH RELEVANCE — AEMO's formal updated reliability position directly de-risks large-load
-  connection projects targeting the 2027 commissioning window in the Bundey–Adelaide NTx
-  corridor; the "timely investment delivery essential" qualification reinforces the urgency
-  of advancing connection agreements now while the reliability buffer holds; South Energy
-  should cite this AEMO assessment in all active project negotiations and investor materials
-  as independent confirmation of grid readiness for large new loads]
 
   [MONITORING] SA Government and AGL Sign Funding Deal to Extend Torrens Island B to July 2028
-  (announced 21 September 2026): 600 MW (three units) extended from mid-2026 to 1 July 2028;
-  390 MW reliability gap fully eliminated; materially de-risks SA grid for new large loads
-  connecting over the next 24 months.
+  (announced 21 September 2026): 600 MW (three units) extended; 390 MW reliability gap fully
+  eliminated; materially de-risks SA grid for new large loads connecting over the next 24 months.
   Sources: RenewEconomy | SA Premier's Office
 
-  [MONITORING] AEMO 2026 Final Integrated System Plan: NTx (Bundey–Adelaide, A$3.1B) on the
-  Optimal Development Path (ODP). AER full-project regulatory approval is the next key
-  milestone. NTx's ODP designation confirms national policy prioritisation of the Bundey
-  corridor as South Energy's highest-priority land acquisition zone.
+  [MONITORING] AEMO 2026 Final ISP: NTx (Bundey–Adelaide, A$3.1B) on the Optimal Development
+  Path (ODP). AER full-project regulatory approval is the next key milestone. NTx's ODP
+  designation confirms national policy prioritisation of the Bundey corridor as South Energy's
+  highest-priority land acquisition zone.
 
   [MONITORING] ElectraNet 2026 TAPR (A$3.94B pipeline): Three priority transmission expansion
   zones — Eyre Peninsula Upgrade (Yadnarie North 275/132 kV substation, ~A$350M, 2027/28);
   South East Expansion (Tailem Bend–Tungkillo second 275 kV circuit, ~A$80–90M); NTx
   (Bundey–Adelaide, A$3.1B). SA peak demand projected to more than double from 3.3 GW to
-  6.5 GW+ in 15 years. AER has approved Stage 1b early works.
+  6.5 GW+ in 15 years.
 
-  [MONITORING] AEMO Grid Reference Transitional Services commenced 1 July 2026 (replacing
-  expired NSCAS contracts). AMPYR Northern Battery (270 MW, Port Augusta) targeting financial
-  close and construction commencement Q4 2026.
+  [MONITORING] AEMO Grid Reference Transitional Services commenced 1 July 2026. AMPYR Northern
+  Battery (270 MW, Port Augusta) has received AEMO 5.3.4 letter; targeting financial close and
+  construction commencement Q4 2026.
 
   [MONITORING] Project EnergyConnect (SA–NSW 900 km interconnector): Full 800 MW transfer
   capability targeted mid-2026, following NSW Stage 2 construction completion by Transgrid.
@@ -52,13 +44,14 @@ No new updates today.
 
   [MONITORING] NEM Sets New All-Time Curtailment Record 11,109 MW (21 September 2026) and
   7-Day Rolling Renewable Mean Tops 50% for First Time (22 September 2026): Back-to-back NEM
-  records confirm the structural mismatch between surging renewable generation capacity and
-  the grid's ability to absorb it — the quantitative commercial case for co-located data
-  centre flexible loads in SA.
+  records confirm the structural mismatch between surging renewable generation capacity and the
+  grid's ability to absorb it — the quantitative commercial case for co-located data centre
+  flexible loads in SA.
   Sources: pv magazine Australia | RenewEconomy
 
   [MONITORING] NEM Breaks 80% Renewables Barrier (19 September 2026): 80.5% at 12:25 pm;
-  ~54.8 GWh curtailed by 1:50 pm. SA was a key contributor.
+  ~54.8 GWh curtailed. SA was a key contributor. 8.4 GW of available renewable output
+  curtailed at the time of the record.
 
   [MONITORING] Goyder Battery Stage 2 (454 MW / 1,814 MWh): Contracts executed with Tesla
   (Megapack 3 / Megablock) and UGL; site works commenced August 2026; operational 2028.
@@ -75,31 +68,30 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Deloitte Counts 33 Australian Data Centre Projects Worth A$104B; CommBank Forecasts A$150B
-  National Build-Out by 2030:
-  Deloitte's Australia-wide project tracker counted 33 data centre projects worth a combined
-  A$104 billion as of August 2026, while CommBank projects the total national build-out at
-  A$150 billion by 2030 — providing authoritative third-party validation of the scale of
-  hyperscaler commitment to Australian digital infrastructure. The figures confirm that
-  Australia's data centre pipeline is among the largest globally relative to GDP.
-  Source: Tech Insider / Deloitte / CommBank analysis | https://tech-insider.org/au/australia-data-centre-boom-power-bill-2026/
-  [The Deloitte A$104B figure and CommBank A$150B forecast arm South Energy with credible
-  third-party market-scale benchmarks for use in investment pitches, land valuations, and
-  government engagement — confirming that SA data centre land with pre-secured transmission
-  sits within a national infrastructure buildout comparable in scale to Australia's largest-ever
-  resource projects; these figures directly support the case for a scarcity premium on
-  Coordinator-General-approved SA sites with executed connection agreements]
-
-  [MONITORING] Firmus Technologies ASX IPO: Institutional bookbuild opens 6 October 2026.
-  Project Southgate = Tailem Bend (~1.0 GW) + Stirling North/Port Augusta (~1.3 GW) = 2.7 GW
-  SA combined; 600 MW 12-year energy supply agreement with Gunvor Group executed; A$7 billion
-  raise (A$500M greenshoe option); OpenAI and Nvidia anchor investors. October 22 ASX trading
-  date is the trigger after which competition for adjacent land parcels will intensify
-  materially.
+• Firmus Draft Prospectus Confirms A$5B IPO Raise, Discloses A$77M Expected First-Half Loss,
+  Valuation Up to A$60B [HIGH RELEVANCE]:
+  Firmus Technologies' draft prospectus, released 24 September 2026, formally confirms the
+  institutional bookbuild opens 6 October at a A$5 billion raise (plus A$500M greenshoe) —
+  correcting earlier market rumours of a A$7B raise. The prospectus discloses an expected
+  A$77M first-half operating loss, attributed to early-stage build costs, and projects A$5B
+  in annual EBITDA within five years of campuses reaching full operation. The company is
+  valued at up to A$60B at the top of the range, which would make this the second-largest
+  IPO in Australian history behind Telstra. Firmus is backed by Blackstone and counts NVIDIA,
+  Meta and OpenAI as customers; two data centres are currently operational (Australia and
+  Singapore) with five more under development across Asia-Pacific.
+  Source: Reuters / The Star | https://www.thestar.com.my/tech/tech-news/2026/09/24/australia039s-firmus-expects-77-million-first-half-loss-as-it-plans-5-billion-ipo-sources-say
+  [HIGH RELEVANCE — The formal prospectus lodgment marks a point of no return: institutional
+  capital will begin mapping SA land parcels adjacent to Firmus Project Southgate (Tailem Bend
+  ~1.0 GW + Stirling North ~1.3 GW) from today, with a competition window of only 12 days
+  before the bookbuild closes. The up-to-A$60B valuation provides the most authoritative
+  public data point to date for pricing a SA Coordinator-General-approved data centre campus
+  at scale; South Energy should use this benchmark in active negotiations. The A$77M H1 loss
+  is a normal early-stage infrastructure development cost profile and does not indicate demand
+  weakness — the prospectus proceeds are for construction capital, not working capital recovery]
 
   [MONITORING] NEXTDC and OpenAI: dedicated AI campus in Sydney (OpenAI's first proprietary
-  compute facility in Australia); NEXTDC simultaneously evaluating new Adelaide expansion
-  sites. A$2.2B capital plan and A$1.6B senior debt facility in place.
+  compute facility in Australia); NEXTDC simultaneously evaluating new Adelaide expansion sites.
+  A$2.3B senior debt facility in place as at July 2026.
 
   [MONITORING] AirTrunk, CDC, NEXTDC, AWS, Microsoft: joint industry peak body formed to
   drive federal and SA policy engagement, including direct input into SA's proposed Data
@@ -117,43 +109,31 @@ No new updates today.
   NEXTDC, AirTrunk, CDC, Sharon AI, ResetData, Megaport) by 2027 — IREN Bundey SA campus and
   Firmus Project Southgate are SA-named sites.
 
-  [MONITORING] US hyperscalers (Google, Apple, Meta, AWS, Microsoft): ~A$45 billion committed
-  to Australian digital infrastructure over 22 months; all five confirmed actively evaluating
-  new Australian AI data centre sites.
+  [MONITORING] Deloitte: 33 Australian data centre projects worth A$104B (August 2026);
+  CommBank forecasts A$150B national build-out by 2030. US hyperscalers (Google, Apple, Meta,
+  AWS, Microsoft): ~A$45B committed to Australian digital infrastructure over 22 months.
 
   [MONITORING] AEMO ESOO 2026: data centre NEM consumption forecast 5 TWh (FY2025–26) → 34
-  TWh (FY2035–36); 66.9 GW connection requests on file; ~6 in 7 MW estimated "phantom demand."
+  TWh (FY2035–36); 66.9 GW connection requests on file.
 
-  [MONITORING] AirTrunk (Blackstone): seeking S$2B debt financing for Singapore REIT IPO —
-  PE-driven data centre asset monetisation trend in Asia-Pacific.
+  [MONITORING] AirTrunk (Blackstone): seeking S$2B debt financing for Singapore REIT IPO.
 
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• Mallesons Publishes Detailed Legal Analysis of ECMC September 2026 Data Centre Rules
-  [HIGH RELEVANCE]:
-  King & Wood Mallesons has published "Big day for data centres: New renewable energy, grid
-  connection and cost recovery rules explained," a detailed legal analysis of the three
-  simultaneous ECMC September 2026 rule changes now binding all large Australian data centres:
-  (1) mandatory REGO-backed renewable energy and firming offset obligation; (2) AEMC full
-  capacity charging cost recovery rule; and (3) AEMC 30 MW+ technical grid standards
-  (fault ride-through/LVRT). The analysis clarifies each compliance obligation and identifies
-  the site characteristics required to satisfy all three simultaneously.
-  Source: King & Wood Mallesons | https://www.mallesons.com/au/en/insights/latest-thinking/big-day-for-data-centres.html
-  [HIGH RELEVANCE — Mallesons' authoritative legal analysis is a primary reference document
-  for hyperscaler legal teams conducting site compliance due diligence; the analysis directly
-  validates South Energy's core proposition that only sites with pre-secured firm transmission
-  in renewable-rich locations satisfy all three obligations at connection without additional
-  capital investment; South Energy should reference the Mallesons analysis in project term
-  sheets and investor materials as independent legal confirmation that SA's compliance pathway
-  is established and externally validated; the timing — 9 days before PM&C submissions close
-  on 9 October — provides fresh authoritative content to anchor South Energy's policy
-  submission]
+No new updates today.
 
-  [MONITORING] Federal Consultation: "Getting It Right — Building AI Infrastructure that Works
-  for Australia" (PM&C, 18 September 2026): Submissions close 9 October 2026. Three-week
-  window to position SA as national template for compliant hyperscaler development.
+  [TIME-SENSITIVE] PM&C Consultation "Getting It Right — Building AI Infrastructure that Works
+  for Australia" (18 September 2026): Submissions close 9 October 2026 — 15 days remaining.
+  Three-week window to position SA as national template for compliant hyperscaler development.
   Source: PM&C | https://www.pmc.gov.au/domestic-policy/office-ai/getting-it-right-building-ai-infrastructure-works-australia
+
+  [MONITORING] Mallesons Publishes Detailed Legal Analysis of ECMC September 2026 Data Centre
+  Rules (23 September 2026): "Big day for data centres: New renewable energy, grid connection
+  and cost recovery rules explained" — authoritative analysis of three simultaneous binding
+  rule changes. Validates South Energy's proposition that only pre-secured firm transmission
+  in renewable-rich locations satisfies all three obligations without additional capex.
+  Source: King & Wood Mallesons | https://www.mallesons.com/au/en/insights/latest-thinking/big-day-for-data-centres.html
 
   [MONITORING] Industry Response (AirTrunk, CDC, Equinix back rules; NEXTDC urges execution
   focus): Confirms no major operator withdrawal from Australia; mandatory standards framework
@@ -166,24 +146,17 @@ No new updates today.
 
   [MONITORING] ECMC September 2026 regulatory package: mandatory REGO + firming offset
   obligation; AEMC full capacity charging cost recovery; AEMC 30 MW+ technical standards.
-  Only pre-secured firm transmission in renewable-rich locations satisfies all three without
-  additional capex.
+  Only pre-secured firm transmission in renewable-rich locations satisfies all three.
 
   [MONITORING] Australia to legislate mandatory net-generator requirement for large data
-  centres: operators must inject as much power as they consume. Federal draft legislation
-  targeting early 2027 Parliament introduction.
+  centres: federal draft legislation targeting early 2027 Parliament introduction.
 
   [MONITORING] Non-retrospective intent confirmed at National Cabinet (26 August 2026):
-  Projects obtaining SA Coordinator-General approval in 2026 may lock in pre-legislation
-  status.
+  Projects obtaining SA Coordinator-General approval in 2026 may lock in pre-legislation status.
 
-  [MONITORING] SA Government's proposed Data Centre and AI Infrastructure Act (announced
-  June 2026): data centres designated essential infrastructure; Coordinator-General as single
-  decision-making authority; "new energy for new demand" requirement; in consultation and
-  drafting stage.
-
-  [MONITORING] AEMC reviewing National Electricity Rule changes for 30 MW+ data centres
-  (fault ride-through/LVRT requirement); federal legislation targeted early 2027.
+  [MONITORING] SA Government's proposed Data Centre and AI Infrastructure Act (June 2026):
+  data centres designated essential infrastructure; Coordinator-General as single decision-
+  making authority; "new energy for new demand" requirement; in consultation and drafting stage.
 
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
@@ -191,86 +164,77 @@ No new updates today.
 No new updates today.
 
   [MONITORING] NEXTDC Expanding in SA: actively evaluating new Adelaide sites alongside
-  Geelong and Gold Coast; backed by A$2.2B capital plan and A$1.6B debt facility (July 2026).
-  Three simultaneous operator mandates — IREN (Bundey, 800 MW), Firmus (Tailem Bend +
-  Stirling North, 2.7 GW), NEXTDC — confirm acute supply scarcity in South Energy's core
-  acquisition pipeline.
+  Geelong and Gold Coast; backed by A$2.3B debt facility (closed July 2026). Three simultaneous
+  operator mandates — IREN (Bundey, 800 MW), Firmus (Tailem Bend + Stirling North, 2.7 GW),
+  NEXTDC — confirm acute supply scarcity in South Energy's core acquisition pipeline.
 
-  [MONITORING] SA data centre pipeline: 7 projects in development, 12 operating (RenewMap,
-  September 2026). IREN Bundey 800 MW is the largest single project under development.
-  Structural supply scarcity: 7 SA pipeline projects vs. 225 NEM connection applications
-  nationally.
+  [MONITORING] SA data centre pipeline: 7 projects in development, 12 operating, 19 tracked
+  active projects totalling ~1,311 MW (RenewMap, September 2026). IREN Bundey 800 MW is the
+  largest single project under development.
 
-  [MONITORING] NTx PADR (May 2026): Bundey–Bolivar/Dry Creek eastern 330 kV transmission
-  corridor under Coordinator-General assessment. Estimated net market benefit A$356M–A$640M
-  for Stage 1. NTx corridor is South Energy's priority co-location and adjacency land
-  acquisition target.
+  [MONITORING] NTx PADR (May 2026): Bundey–Bolivar/Dry Creek eastern 330 kV corridor under
+  Coordinator-General assessment. Estimated net market benefit A$356M–A$640M for Stage 1.
+  NTx corridor is South Energy's priority co-location and adjacency land acquisition target.
+  AER-approved NTx Stage 1b early works: land acquisition, environmental approvals and
+  procurement proceeding.
 
-  [MONITORING] AER-approved NTx Stage 1b early works: land acquisition, environmental
-  approvals and procurement proceeding.
+  [MONITORING] Partners Group (Swiss PE) acquisition of GreenSquareDC: PE-backed consolidation
+  benchmarks Australian data centre land asset values; confirms SA Coordinator-General-approved
+  regional sites command a structural scarcity premium.
 
-  [MONITORING] Partners Group (Swiss PE) acquisition of GreenSquareDC: PE-backed
-  consolidation benchmarks Australian data centre land asset values and confirms SA
-  Coordinator-General-approved regional sites command a structural scarcity premium.
-
-  [MONITORING] Transgrid: western Sydney grid capacity-constrained by 2033 — structural
-  driver redirecting hyperscale site selection to regional markets including SA.
+  [MONITORING] Transgrid: western Sydney grid capacity-constrained by 2033 — structural driver
+  redirecting hyperscale site selection to regional markets including SA.
 
   [MONITORING] Firmus Technologies' Project Southgate (Tailem Bend ~1.0 GW + Stirling
   North/Port Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX IPO bookbuild opens
-  6 October 2026.
+  6 October 2026. Draft prospectus lodged 24 September 2026.
 
   [MONITORING] ~84% of ~9 GW proposed NEM connection requests still at application stage
   (Deloitte, June 2026) — confirms structural premium of completed connection agreements.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: AEMO (aemo.com.au) | King & Wood Mallesons (mallesons.com) |
-Tech Insider (tech-insider.org) | RenewEconomy (reneweconomy.com.au) |
+Sources: Reuters / The Star (thestar.com.my) | AEMO (aemo.com.au) |
+King & Wood Mallesons (mallesons.com) | RenewEconomy (reneweconomy.com.au) |
 ElectraNet (electranet.com.au) | ESD News (esdnews.com.au) |
 pv magazine Australia (pv-magazine-australia.com) |
 Data Center Dynamics (datacenterdynamics.com) |
 SA Government (energymining.sa.gov.au) | PM&C (pmc.gov.au) |
-Deloitte / CommBank (via tech-insider.org)
+Bloomberg (bloomberg.com) | The Star (thestar.com.my)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年9月23日
+📋 南澳州數據中心土地每日簡報 - 2026年9月24日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-• AEMO確認南澳州電力可靠性前景改善——托倫斯島B站延壽協議落地後【高度相關】：
-  AEMO發布南澳州電力可靠性最新評估——《可靠性前景改善，及時推進投資至關重要》，
-  正式確認2026至2027年度可靠性缺口已獲解決，並指出只要已承諾投資按期落地，電網
-  可維持可靠運行。此次評估緊接南澳州政府與AGL能源公司於2026年9月21日宣布托倫斯
-  島B燃氣電站正式延壽資金協議之後發布，是AEMO首次公開確認缺口已閉合。
+今日無新消息。
+
+  【持續監測】AEMO確認托倫斯島B延壽協議落地後南澳州電力可靠性前景改善（2026年9月21日
+  宣布）：AEMO更新後的南澳州電力可靠性評估正式確認2026至2027年度可靠性缺口已閉合，
+  只要已承諾投資按期落地，電網即可維持可靠運行。
   來源：AEMO | https://www.aemo.com.au/newsroom/media-release/reliability-outlook-improves-timely-investment-delivery-essential
-  【高度相關——AEMO更新後的正式可靠性立場，直接降低了以2027年調試窗口為目標的大型
-  負荷接入項目在邦迪–阿德萊德NTx走廊的電網接入風險；「及時推進投資至關重要」的
-  條件性表述，強調了現在即推進接入協議的必要性，以在可靠性緩衝有效期內先行佔位；
-  South Energy應在所有活躍項目談判及投資人材料中引用此AEMO評估，作為電網具備接納
-  大型新負荷條件的獨立確認依據】
 
   【持續監測】南澳州政府與AGL簽署正式資金協議延壽托倫斯島B至2028年7月（2026年9月21日
-  宣布）：600兆瓦三台機組延壽；390兆瓦可靠性缺口已完全消除；有效降低未來24個月內
+  宣布）：600兆瓦三台機組獲延壽；390兆瓦可靠性缺口已完全消除；有效降低未來24個月內
   接入南澳州電網的大型新負荷風險。
   來源：RenewEconomy | 南澳州州長辦公室
 
-  【持續監測】AEMO 2026年最終ISP：NTx（邦迪–阿德萊德，31億澳元）納入最優發展路徑
-  （ODP）。AER全項目監管批准是下一個關鍵里程碑。NTx的ODP指定確認邦迪走廊已獲
-  國家政策優先支持，是South Energy最高優先土地獲取區域。
+  【持續監測】AEMO 2026年最終ISP：NTx（邦迪–阿德萊德，31億澳元）納入最優發展路徑。
+  AER全項目監管批准是下一個關鍵里程碑。NTx走廊已獲國家政策優先支持，是South Energy
+  最高優先土地獲取區域。
 
-  【持續監測】ElectraNet 2026年TAPR（39.4億澳元管道）：三大優先輸電擴建區域確認——
-  艾爾半島升級工程（亞德那瑞北275/132千伏變電站，約3.5億澳元，2027/28年）；東南
-  擴建工程（約8,000至9,000萬澳元）；NTx（邦迪–阿德萊德，31億澳元）。南澳州峰值
-  電力需求預計15年內從3.3吉瓦翻倍至6.5吉瓦以上。AER已批准一期甲段早期工程。
+  【持續監測】ElectraNet 2026年TAPR（39.4億澳元管道）：三大優先輸電擴建區域——艾爾半
+  島升級工程（亞德那瑞北275/132千伏，約3.5億澳元，2027/28年）；東南擴建（約8,000至
+  9,000萬澳元）；NTx（邦迪–阿德萊德，31億澳元）。南澳州峰值電力需求預計15年內從
+  3.3吉瓦翻倍至6.5吉瓦以上。
 
   【持續監測】AEMO電網參考過渡服務自2026年7月1日起啟動。AMPYR北部電池（270兆瓦，
-  阿古斯塔港）目標於2026年四季度完成融資關閉並啟動建設。
+  阿古斯塔港）已獲AEMO 5.3.4函件確認；目標2026年四季度完成融資關閉並啟動建設。
 
   【持續監測】EnergyConnect項目（南澳–新南威爾士州900公里聯絡線）：全部800兆瓦輸電
   能力目標於2026年中期實現。
@@ -281,21 +245,20 @@ Deloitte / CommBank (via tech-insider.org)
 今日無新消息。
 
   【持續監測】NEM創棄電量歷史新高11,109兆瓦（2026年9月21日）及七日滾動可再生能源
-  佔比首次突破50%（2026年9月22日，達50.8%）：連續創新高確認可再生能源發電裝機
-  持續增長與電網消納能力之間存在深層結構性失衡——大型就近配置靈活數據中心負荷
-  的商業依據因此更為充分。
+  佔比首次突破50%（2026年9月22日）：連續創新高確認可再生能源發電裝機持續增長與
+  電網消納能力之間存在深層結構性失衡——大型就近配置靈活數據中心負荷的商業依據
+  因此更為充分。
   來源：pv magazine Australia | RenewEconomy
 
-  【持續監測】NEM突破80%可再生能源大關（2026年9月19日）：80.5%；至下午1時50分約
-  54.8吉瓦時已被強制削減。南澳州是重要貢獻者。
+  【持續監測】NEM突破80%可再生能源大關（2026年9月19日）：80.5%；約54.8吉瓦時已被
+  強制削減。記錄時點有8.4吉瓦可再生能源發電被棄用。南澳州是重要貢獻者。
 
   【持續監測】高德爾電池二期（454兆瓦/1,814兆瓦時）：合同已與特斯拉及UGL簽署；
-  工地施工2026年8月啟動；預計2028年投運。與IREN邦迪800兆瓦園區同址，毗鄰邦迪
-  330千伏節點。
+  2026年8月啟動工地施工；2028年投運。與IREN邦迪800兆瓦園區同址，毗鄰邦迪330千伏節點。
 
   【持續監測】南澳州325億澳元大型可再生能源項目管道（2026年中期），為超大規模雲端商
-  履行REGO抵消義務提供深度PPA對接選擇。AEMO：自2026年一季度起新增4.4吉瓦電池
-  儲能裝機，日調峰總量翻三倍。
+  履行REGO抵消義務提供深度PPA對接選擇。AEMO：自2026年一季度起新增4.4吉瓦電池儲能
+  裝機，日調峰總量翻三倍。
 
   【持續監測】高德爾山脈東部（約5,200平方公里）及懷阿拉西部（約6,500平方公里）可再生
   能源競標區域：招標截至2026年6月28日；結果由南澳州政府評估中。
@@ -303,97 +266,90 @@ Deloitte / CommBank (via tech-insider.org)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 德勤統計澳大利亞33個數據中心項目合計1,040億澳元；聯邦銀行預測2030年前全國建設
-  總規模達1,500億澳元：
-  德勤項目追蹤顯示，截至2026年8月澳大利亞共有33個在建數據中心項目、合計估值
-  1,040億澳元；澳洲聯邦銀行預測全國數據中心建設總規模在2030年前將達1,500億澳元，
-  為超大規模雲端商對澳大利亞基礎設施承諾的規模提供了獨立市場級驗證，確認澳大利亞
-  數據中心管道按GDP比例計算屬全球最大之列。
-  來源：Tech Insider / 德勤 / 澳洲聯邦銀行分析 | https://tech-insider.org/au/australia-data-centre-boom-power-bill-2026/
-  【德勤1,040億澳元管道數字及聯邦銀行1,500億澳元預測，為South Energy在投資推介、
-  土地估值及政府溝通中提供了具有公信力的第三方市場規模參照數據，確認持有預先鎖定
-  輸電接入的南澳州數據中心土地正處於規模堪比澳大利亞有史以來最大資源項目的國家
-  級基礎設施建設浪潮之中；上述數字直接支持已獲總督察員批准的南澳州場址享有稀缺
-  溢價的定價邏輯】
+• Firmus科技草擬招股章程確認50億澳元IPO籌資規模，披露預期上半年虧損7,700萬澳元，
+  估值最高達600億澳元【高度相關】：
+  Firmus Technologies於2026年9月24日發布草擬招股章程，正式確認機構簿記建檔將於10月6日
+  開啟，籌資規模為50億澳元（另設5億澳元超額配售選擇權）——修正了此前市場流傳的70億
+  澳元傳聞數字。招股章程披露預期上半年虧損7,700萬澳元，原因為早期建設成本，並預測
+  各數據中心園區達滿負荷運營後五年內年息稅折舊攤銷前利潤（EBITDA）可達50億澳元。
+  公司估值最高可達600億澳元，將成為僅次於1997年澳大利亞電信（Telstra）100億澳元
+  上市的澳大利亞史上第二大IPO。Firmus獲貝萊德（Blackstone）支持，英偉達、Meta及
+  OpenAI均為其客戶；目前已有兩座數據中心投入運營（澳大利亞及新加坡），另有五座
+  在亞太地區開發中。
+  來源：路透社 / 星洲媒體 | https://www.thestar.com.my/tech/tech-news/2026/09/24/australia039s-firmus-expects-77-million-first-half-loss-as-it-plans-5-billion-ipo-sources-say
+  【高度相關——招股章程正式發布是不可逆轉的節點：機構資本從今日起將開始對Firmus「南門
+  計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北約1.3吉瓦）周邊南澳州地塊開展盡職調查，
+  距簿記建檔關閉僅剩12天競爭窗口。最高600億澳元的估值，是迄今最具權威性的公開數據
+  點，可用於定價南澳州協調員總督察員批准的規模化數據中心園區土地溢價；South Energy
+  應在活躍談判中引用此基準。7,700萬澳元上半年虧損屬正常的早期基礎設施開發成本結構，
+  不反映需求疲軟——招股所得資金用於建設資本，而非填補運營虧損】
 
-  【持續監測】Firmus Technologies ASX上市：機構認購簿記建檔2026年10月6日開放。
-  「南門計劃」= 塔萊姆本德（約1.0吉瓦）+ 史特靈北/阿古斯塔港（約1.3吉瓦）=
-  南澳州合計2.7吉瓦；600兆瓦12年能源供應協議已與Gunvor集團簽署；擬籌集70億澳元
-  （另設5億澳元超額配售選擇權）；OpenAI及英偉達為確認錨定投資者。10月22日ASX
-  掛牌日是周邊地塊競爭實質加劇的觸發節點。
-
-  【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區（OpenAI在澳大利亞的首個
-  自有算力設施）；NEXTDC同時評估阿德萊德新選址，22億澳元資本計劃及16億澳元優先
-  擔保債務融資已到位。
+  【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區（OpenAI在澳大利亞首個自有
+  算力設施）；NEXTDC同時評估阿德萊德新選址。截至2026年7月，23億澳元優先擔保債務
+  融資已完成。
 
   【持續監測】AirTrunk、CDC、NEXTDC、AWS、微軟聯合成立澳大利亞數據中心行業高峰機構，
-  將直接影響南澳州擬議中的《數據中心與AI基礎設施法》。
+  直接影響南澳州擬議中的《數據中心與AI基礎設施法》。
 
   【持續監測】Anthropic簽訂320億澳元昆士蘭數據中心租約（2.16吉瓦，西部低地/達爾比
   附近，2026年9月15至16日）。昆士蘭煤電電網暴露風險凸顯南澳州全可再生能源電網的
   結構性合規優勢。
 
-  【持續監測】AWS：21.7億澳元、235兆瓦格倫登寧路悉尼西部規劃批准（2026年9月）。
+  【持續監測】AWS：21.7億澳元、235兆瓦格倫登寧路悉尼西部規劃批准（2026年9月）。每一
+  個新南威爾士州批准項目都進一步收緊悉尼電網，促使超大規模雲端商將第二選址AI推理
+  投資轉向南澳州。
 
   【持續監測】英偉達與8家澳大利亞合作夥伴（IREN、Firmus、NEXTDC、AirTrunk、CDC、
   Sharon AI、ResetData、Megaport）聯合推進2027年前2吉瓦AI工廠建設——南澳州IREN
-  邦迪800兆瓦園區及Firmus「南門計劃」明確點名。
+  邦迪園區及Firmus「南門計劃」明確點名。
 
-  【持續監測】美國超大規模雲端商（谷歌、蘋果、Meta、AWS、微軟）在22個月內已向澳大利亞
-  數字基礎設施承諾約450億澳元；五家均確認積極評估澳大利亞新AI數據中心選址。
+  【持續監測】德勤：截至2026年8月，澳大利亞33個在建數據中心項目合計估值1,040億澳元；
+  澳洲聯邦銀行預測2030年前全國建設總規模達1,500億澳元。美國超大規模雲端商（谷歌、
+  蘋果、Meta、AWS、微軟）在22個月內已向澳大利亞數字基礎設施承諾約450億澳元。
 
   【持續監測】AEMO ESOO 2026：NEM數據中心消耗預測從2025–26財年5太瓦時增至2035–36
-  財年34太瓦時；存檔連接申請共66.9吉瓦；約六分之五為「幽靈需求」。
+  財年34太瓦時；存檔連接申請共66.9吉瓦。
 
   【持續監測】AirTrunk（貝萊德旗下）：尋求約20億新加坡元債務融資支持新加坡REIT上市。
 
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 金杜律師事務所發布ECMC 2026年9月數據中心監管新規詳細法律解析【高度相關】：
-  King & Wood Mallesons（金杜律師事務所）發布《數據中心的重要一天：新可再生能源、
-  電網接入及成本回收規則詳解》，對ECMC 2026年9月同時生效的三項監管規則作出深度
-  法律解析，涵蓋：（1）強制性REGO可再生能源及調峰抵消義務；（2）AEMC容量收費
-  全額成本回收規則；（3）AEMC 30兆瓦以上技術電網標準（故障穿越/LVRT）。分析
-  釐清了各項合規義務，並明確了能夠同時滿足三項要求的選址特徵。
-  來源：King & Wood Mallesons | https://www.mallesons.com/au/en/insights/latest-thinking/big-day-for-data-centres.html
-  【高度相關——Mallesons的三項規則同步生效權威法律解析，是超大規模雲端商法律團隊
-  開展選址合規盡職調查時的首要參考文件；此分析直接驗證了South Energy的核心立場：
-  僅持有可再生能源豐富場址預先鎖定輸電固定接入的項目，方可在接入時無需額外資本
-  支出即全面滿足三項義務；South Energy應在項目條款清單及投資人材料中引用Mallesons
-  分析，作為南澳州監管合規路徑已獲法律確認並具有外部權威背書的證據；此報告距PM&C
-  諮詢意見截止日（10月9日）僅9天，可為South Energy政策意見書提供最新、最具說服力的
-  引用依據】
+今日無新消息。
 
-  【持續監測】聯邦公眾諮詢：《正確推進——建設服務澳大利亞的AI基礎設施》（PM&C，
-  2026年9月18日）：意見徵詢截至2026年10月9日。三週窗口可將南澳州確立為符合全國
-  強制性標準的超大規模雲端商開發範本。
+  【時間敏感】PM&C諮詢《正確推進——建設服務澳大利亞的AI基礎設施》（2026年9月18日）：
+  意見徵詢截至2026年10月9日——距截止日僅剩15天。此窗口可將南澳州確立為符合全國強制
+  性標準的超大規模雲端商開發範本。
   來源：PM&C | https://www.pmc.gov.au/domestic-policy/office-ai/getting-it-right-building-ai-infrastructure-works-australia
 
-  【持續監測】行業對政府框架的回應——AirTrunk、CDC、Equinix表態支持；NEXTDC呼籲
-  聚焦執行：確認強制性標準不會導致大型運營商撤出澳大利亞。
+  【持續監測】金杜律師事務所發布ECMC 2026年9月數據中心監管新規詳細法律解析（2026年9月
+  23日）：《數據中心的重要一天：新可再生能源、電網接入及成本回收規則詳解》——對三項
+  同步生效的強制性規則作出權威法律解析。直接驗證South Energy的核心立場：僅持有可再生
+  能源豐富場址預先鎖定輸電固定接入的項目，方可在接入時無需額外資本支出全面滿足
+  三項義務。
+  來源：King & Wood Mallesons | https://www.mallesons.com/au/en/insights/latest-thinking/big-day-for-data-centres.html
+
+  【持續監測】行業回應——AirTrunk、CDC、Equinix表態支持；NEXTDC呼籲聚焦執行：確認強制
+  性標準不會導致大型運營商撤出澳大利亞。
   來源：w.media | https://w.media/airtrunk-cdc-and-equinix-back-govt-data-centre-rules-nextdc-urges-execution-focus/
 
   【持續監測】全國內閣昆士蘭州及北領地豁免條款（2026年8月26日）：昆士蘭州及北領地
-  拒絕採納強制性數據中心標準中的可再生能源捆綁要求；南澳州憑藉100%淨可再生能源
-  目標默認符合聯邦能源標準，形成結構性合規優勢。
+  拒絕採納強制性可再生能源捆綁要求；南澳州憑藉100%淨可再生能源目標默認符合聯邦
+  能源標準，形成結構性合規優勢。
 
   【持續監測】ECMC 2026年9月監管一攬子規則：強制性REGO可再生能源及調峰抵消義務；
   AEMC容量收費全額成本回收規則；AEMC 30兆瓦以上技術電網標準。僅擁有預先鎖定輸電
   連接的可再生能源豐富場址，方可在接入時無需額外資本支出全面滿足三項義務。
 
-  【持續監測】澳大利亞擬立法強制要求大型數據中心履行「淨發電商」義務——運營商須向
-  電網注入不少於其消耗的電量。聯邦立法草案目標2027年初提交議會。
+  【持續監測】澳大利亞擬立法強制要求大型數據中心履行「淨發電商」義務。聯邦立法草案
+  目標2027年初提交議會。
 
   【持續監測】全國內閣（2026年8月26日）確認聯邦強制性標準的不追溯效力。2026年取得
   南澳州總督察員規劃批准的項目，可能鎖定立法前身份。
 
   【持續監測】南澳州政府擬議《數據中心與AI基礎設施法》（2026年6月宣布）：數據中心
-  將被指定為基本基礎設施；總督察員為重大項目單一決策機構；「新需求配新能源」要求；
+  將被指定為基本基礎設施；總督察員為單一決策機構；「新需求配新能源」要求；
   目前處於諮詢及起草階段。
-
-  【持續監測】AEMC正審查針對30兆瓦以上數據中心的國家電力規則修改（故障穿越/LVRT
-  技術標準），聯邦立法目標2027年初提交議會。
 
 
 🗺️ 5. 土地、規劃與市場動態
@@ -401,39 +357,36 @@ Deloitte / CommBank (via tech-insider.org)
 今日無新消息。
 
   【持續監測】NEXTDC擴大南澳州業務佈局：積極評估阿德萊德新選址（同步評估吉朗及黃金
-  海岸），22億澳元資本計劃及16億澳元優先擔保債務融資已到位（2026年7月）。IREN
-  （邦迪，800兆瓦）、Firmus（塔萊姆本德 + 史特靈北，合計2.7吉瓦）及NEXTDC三家
-  運營商同時持有積極選址授權，確認South Energy核心土地獲取管道中存在嚴峻的供給
-  稀缺性。
+  海岸）；截至2026年7月，23億澳元優先擔保債務融資已完成。IREN（邦迪，800兆瓦）、
+  Firmus（塔萊姆本德 + 史特靈北，合計2.7吉瓦）及NEXTDC三家運營商同時持有積極選址授權，
+  確認South Energy核心土地獲取管道中存在嚴峻的供給稀缺性。
 
-  【持續監測】南澳州數據中心管道：開發中7個、已運行12個（RenewMap，2026年9月）。
-  IREN邦迪800兆瓦是在建最大單體項目。供給稀缺性確認：南澳州7個管道項目 vs. NEM
-  全國225個連接申請。
+  【持續監測】南澳州數據中心管道：開發中7個、已運行12個，RenewMap追蹤19個活躍項目
+  總容量約1,311兆瓦（2026年9月）。IREN邦迪800兆瓦是在建最大單體項目。
 
   【持續監測】NTx項目評估草案報告（2026年5月）：邦迪–博利瓦/幹溪新東部330千伏輸電
-  走廊正在接受總督察員評估；一期估算淨市場效益達3.56億至6.4億澳元。NTx走廊是
-  South Energy優先選定的聯合選址及毗鄰土地獲取目標。
+  走廊正在接受總督察員評估；一期估算淨市場效益達3.56億至6.4億澳元。NTx走廊是South
+  Energy優先選定的聯合選址及毗鄰土地獲取目標。AER批准NTx一期甲段早期工程：土地
+  獲取、環境審批及採購工作正在推進。
 
-  【持續監測】AER批准NTx一期甲段早期工程：土地獲取、環境審批及採購工作正在推進。
-
-  【持續監測】Partners Group（瑞士私募股權）完成收購GreenSquareDC——私募主導的行業
-  整合印證了已持有開發審批場址的收購溢價，確認南澳州獲總督察員批准的區域場址享有
-  結構性稀缺溢價。
+  【持續監測】Partners Group（瑞士私募股權）完成收購GreenSquareDC——印證持有已批准場址
+  的收購溢價；確認南澳州獲總督察員批准的區域場址享有結構性稀缺溢價。
 
   【持續監測】Transgrid正式宣布西悉尼電網將於2033年前達到容量上限，結構性地將超大規模
   選址活動引向南澳州等區域市場。
 
   【持續監測】Firmus科技「南門計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北/阿古斯塔港約
-  1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX IPO機構簿記建檔定於2026年10月6日開放。
+  1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX IPO機構簿記建檔2026年10月6日開啟。
+  草擬招股章程已於2026年9月24日發布。
 
   【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——
   確認已完成輸電連接協議場址的結構性稀缺溢價。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：AEMO（aemo.com.au）| 金杜律師事務所（mallesons.com）|
-Tech Insider（tech-insider.org）| RenewEconomy（reneweconomy.com.au）|
+資料來源：路透社 / 星洲媒體（thestar.com.my）| AEMO（aemo.com.au）|
+金杜律師事務所（mallesons.com）| RenewEconomy（reneweconomy.com.au）|
 ElectraNet（electranet.com.au）| ESD News（esdnews.com.au）|
 pv magazine Australia（pv-magazine-australia.com）|
 Data Center Dynamics（datacenterdynamics.com）|
 南澳州政府（energymining.sa.gov.au）| PM&C（pmc.gov.au）|
-德勤 / 澳洲聯邦銀行（via tech-insider.org）
+Bloomberg（bloomberg.com）
