@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 24 September 2026
+📋 SA DATA CENTER LAND BRIEFING - 25 September 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -68,26 +68,14 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Firmus Draft Prospectus Confirms A$5B IPO Raise, Discloses A$77M Expected First-Half Loss,
-  Valuation Up to A$60B [HIGH RELEVANCE]:
-  Firmus Technologies' draft prospectus, released 24 September 2026, formally confirms the
-  institutional bookbuild opens 6 October at a A$5 billion raise (plus A$500M greenshoe) —
-  correcting earlier market rumours of a A$7B raise. The prospectus discloses an expected
-  A$77M first-half operating loss, attributed to early-stage build costs, and projects A$5B
-  in annual EBITDA within five years of campuses reaching full operation. The company is
-  valued at up to A$60B at the top of the range, which would make this the second-largest
-  IPO in Australian history behind Telstra. Firmus is backed by Blackstone and counts NVIDIA,
-  Meta and OpenAI as customers; two data centres are currently operational (Australia and
-  Singapore) with five more under development across Asia-Pacific.
-  Source: Reuters / The Star | https://www.thestar.com.my/tech/tech-news/2026/09/24/australia039s-firmus-expects-77-million-first-half-loss-as-it-plans-5-billion-ipo-sources-say
-  [HIGH RELEVANCE — The formal prospectus lodgment marks a point of no return: institutional
-  capital will begin mapping SA land parcels adjacent to Firmus Project Southgate (Tailem Bend
-  ~1.0 GW + Stirling North ~1.3 GW) from today, with a competition window of only 12 days
-  before the bookbuild closes. The up-to-A$60B valuation provides the most authoritative
-  public data point to date for pricing a SA Coordinator-General-approved data centre campus
-  at scale; South Energy should use this benchmark in active negotiations. The A$77M H1 loss
-  is a normal early-stage infrastructure development cost profile and does not indicate demand
-  weakness — the prospectus proceeds are for construction capital, not working capital recovery]
+No new updates today.
+
+  [MONITORING] Firmus Technologies IPO: Full Timeline Confirmed — Institutional bookbuild
+  6–7 October; retail offering 12–19 October; ASX debut targeted 26 October 2026.
+  Draft prospectus lodged 24 September 2026 confirms A$5B raise (plus A$500M greenshoe),
+  valuation up to A$60B, and an expected A$77M first-half operating loss attributed to
+  early-stage build costs. 12 days remain until the bookbuild closes.
+  Source: Bloomberg | Reuters / The Star | https://www.thestar.com.my/tech/tech-news/2026/09/24/australia039s-firmus-expects-77-million-first-half-loss-as-it-plans-5-billion-ipo-sources-say
 
   [MONITORING] NEXTDC and OpenAI: dedicated AI campus in Sydney (OpenAI's first proprietary
   compute facility in Australia); NEXTDC simultaneously evaluating new Adelaide expansion sites.
@@ -121,11 +109,32 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-No new updates today.
+• Victoria's Sustainable Data Centre Action Plan: All New Data Centres Must Supply Own
+  Renewable Energy and Storage — SA Competitive Position Materially Strengthened [HIGH RELEVANCE]:
+  Victoria released its Sustainable Data Centre Action Plan on 22 September 2026, imposing four
+  binding requirements on all new data centre developments: (1) match new electricity demand
+  with new generation from 100% renewable sources; (2) meet own grid connection and network
+  upgrade costs; (3) use recycled or non-potable water for cooling; and (4) locate outside
+  residential zones and areas near schools. The rules apply to new developments and new DA
+  applications only — no retrospective effect. Victoria had been Australia's second-largest data
+  centre market after NSW, with 44 facilities and 11.4 GW in the NSW pipeline as context for
+  scale.
+  Sources: ABC News | Data Center Dynamics | pv magazine Australia | ESS News
+  https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/
+  https://www.pv-magazine-australia.com/2026/09/23/victoria-mandates-renewables-for-new-data-centres/
+  [HIGH RELEVANCE — Victoria's mandatory 100% own-generation + own-connection-cost requirement
+  mirrors SA's proposed "new energy for new demand" principle but adds incremental cost burdens
+  (network upgrade liability + water infrastructure) that SA's current framework does not impose.
+  This permanently widens the cost gap between SA Coordinator-General-approved sites and
+  comparable Victorian projects, and eliminates Melbourne as a cost-competitive alternative to
+  SA for hyperscalers evaluating greenfield AI inference campuses. South Energy's land parcels
+  adjacent to committed transmission nodes (Bundey, Tailem Bend, Stirling North) are now the
+  lowest all-in-cost greenfield option in the two most attractive eastern-seaboard states.]
 
-  [TIME-SENSITIVE] PM&C Consultation "Getting It Right — Building AI Infrastructure that Works
-  for Australia" (18 September 2026): Submissions close 9 October 2026 — 15 days remaining.
-  Three-week window to position SA as national template for compliant hyperscaler development.
+  [TIME-SENSITIVE — 14 DAYS REMAINING] PM&C Consultation "Getting It Right — Building AI
+  Infrastructure that Works for Australia" (18 September 2026): Submissions close 9 October
+  2026. Three-week window to position SA as national template for compliant hyperscaler
+  development.
   Source: PM&C | https://www.pmc.gov.au/domestic-policy/office-ai/getting-it-right-building-ai-infrastructure-works-australia
 
   [MONITORING] Mallesons Publishes Detailed Legal Analysis of ECMC September 2026 Data Centre
@@ -186,27 +195,27 @@ No new updates today.
   redirecting hyperscale site selection to regional markets including SA.
 
   [MONITORING] Firmus Technologies' Project Southgate (Tailem Bend ~1.0 GW + Stirling
-  North/Port Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX IPO bookbuild opens
-  6 October 2026. Draft prospectus lodged 24 September 2026.
+  North/Port Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX debut targeted 26 October
+  2026; retail offering 12–19 October; bookbuild opens 6 October.
 
   [MONITORING] ~84% of ~9 GW proposed NEM connection requests still at application stage
   (Deloitte, June 2026) — confirms structural premium of completed connection agreements.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: Reuters / The Star (thestar.com.my) | AEMO (aemo.com.au) |
+Sources: ABC News (abc.net.au) | Data Center Dynamics (datacenterdynamics.com) |
+pv magazine Australia (pv-magazine-australia.com) | ESS News (ess-news.com) |
+Reuters / The Star (thestar.com.my) | AEMO (aemo.com.au) |
 King & Wood Mallesons (mallesons.com) | RenewEconomy (reneweconomy.com.au) |
 ElectraNet (electranet.com.au) | ESD News (esdnews.com.au) |
-pv magazine Australia (pv-magazine-australia.com) |
-Data Center Dynamics (datacenterdynamics.com) |
 SA Government (energymining.sa.gov.au) | PM&C (pmc.gov.au) |
-Bloomberg (bloomberg.com) | The Star (thestar.com.my)
+Bloomberg (bloomberg.com)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年9月24日
+📋 南澳州數據中心土地每日簡報 - 2026年9月25日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -266,23 +275,13 @@ Bloomberg (bloomberg.com) | The Star (thestar.com.my)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• Firmus科技草擬招股章程確認50億澳元IPO籌資規模，披露預期上半年虧損7,700萬澳元，
-  估值最高達600億澳元【高度相關】：
-  Firmus Technologies於2026年9月24日發布草擬招股章程，正式確認機構簿記建檔將於10月6日
-  開啟，籌資規模為50億澳元（另設5億澳元超額配售選擇權）——修正了此前市場流傳的70億
-  澳元傳聞數字。招股章程披露預期上半年虧損7,700萬澳元，原因為早期建設成本，並預測
-  各數據中心園區達滿負荷運營後五年內年息稅折舊攤銷前利潤（EBITDA）可達50億澳元。
-  公司估值最高可達600億澳元，將成為僅次於1997年澳大利亞電信（Telstra）100億澳元
-  上市的澳大利亞史上第二大IPO。Firmus獲貝萊德（Blackstone）支持，英偉達、Meta及
-  OpenAI均為其客戶；目前已有兩座數據中心投入運營（澳大利亞及新加坡），另有五座
-  在亞太地區開發中。
-  來源：路透社 / 星洲媒體 | https://www.thestar.com.my/tech/tech-news/2026/09/24/australia039s-firmus-expects-77-million-first-half-loss-as-it-plans-5-billion-ipo-sources-say
-  【高度相關——招股章程正式發布是不可逆轉的節點：機構資本從今日起將開始對Firmus「南門
-  計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北約1.3吉瓦）周邊南澳州地塊開展盡職調查，
-  距簿記建檔關閉僅剩12天競爭窗口。最高600億澳元的估值，是迄今最具權威性的公開數據
-  點，可用於定價南澳州協調員總督察員批准的規模化數據中心園區土地溢價；South Energy
-  應在活躍談判中引用此基準。7,700萬澳元上半年虧損屬正常的早期基礎設施開發成本結構，
-  不反映需求疲軟——招股所得資金用於建設資本，而非填補運營虧損】
+今日無新消息。
+
+  【持續監測】Firmus科技IPO：完整時間表已確認——機構簿記建檔10月6至7日；零售發售
+  10月12至19日；目標ASX上市日期10月26日。草擬招股章程於2026年9月24日發布，確認
+  50億澳元籌資規模（另設5億澳元超額配售），估值最高達600億澳元，預期上半年虧損
+  7,700萬澳元（屬正常早期建設成本）。距簿記建檔截止僅剩12天。
+  來源：Bloomberg | 路透社 / 星洲媒體
 
   【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區（OpenAI在澳大利亞首個自有
   算力設施）；NEXTDC同時評估阿德萊德新選址。截至2026年7月，23億澳元優先擔保債務
@@ -315,10 +314,26 @@ Bloomberg (bloomberg.com) | The Star (thestar.com.my)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-今日無新消息。
+• 維多利亞州《可持續數據中心行動計劃》：所有新建數據中心須自備可再生能源發電及儲能
+  ——南澳州競爭優勢大幅強化【高度相關】：
+  維多利亞州於2026年9月22日發布《可持續數據中心行動計劃》，對所有新建數據中心項目
+  設定四項強制要求：（1）新增用電負荷須100%由自備可再生能源發電匹配；（2）自行承擔
+  電網接入費用及網絡升級成本；（3）冷卻系統須使用再生水或非飲用水；（4）選址禁止
+  設於住宅區或學校附近。上述規則僅適用於新開發項目及新提交的規劃申請，不具追溯效力。
+  維多利亞州此前是澳大利亞第二大數據中心市場（次於新南威爾士州）。
+  來源：ABC新聞 | Data Center Dynamics | pv magazine Australia | ESS News
+  https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/
+  https://www.pv-magazine-australia.com/2026/09/23/victoria-mandates-renewables-for-new-data-centres/
+  【高度相關——維多利亞州強制性「100%自備發電 + 自承接入成本」要求與南澳州擬議中的
+  「新需求配新能源」原則高度吻合，但在此基礎上額外增加了網絡升級費用責任及用水基礎
+  設施義務，而南澳州現行框架目前不設此類負擔。這從根本上拉大了南澳州協調員總督察員
+  批准場址與可比維多利亞州項目之間的全口徑成本差距，並消除了墨爾本作為超大規模雲端
+  商評估新建AI推理設施時可與南澳州競爭的低成本選項。South Energy毗鄰已承諾輸電節點
+  （邦迪、塔萊姆本德、史特靈北）的地塊，目前是東部兩個最具吸引力州份中全口徑成本
+  最低的綠地選址方案。】
 
-  【時間敏感】PM&C諮詢《正確推進——建設服務澳大利亞的AI基礎設施》（2026年9月18日）：
-  意見徵詢截至2026年10月9日——距截止日僅剩15天。此窗口可將南澳州確立為符合全國強制
+  【時間敏感——距截止日剩14天】PM&C諮詢《正確推進——建設服務澳大利亞的AI基礎設施》
+  （2026年9月18日）：意見徵詢截至2026年10月9日。此窗口可將南澳州確立為符合全國強制
   性標準的超大規模雲端商開發範本。
   來源：PM&C | https://www.pmc.gov.au/domestic-policy/office-ai/getting-it-right-building-ai-infrastructure-works-australia
 
@@ -376,17 +391,17 @@ Bloomberg (bloomberg.com) | The Star (thestar.com.my)
   選址活動引向南澳州等區域市場。
 
   【持續監測】Firmus科技「南門計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北/阿古斯塔港約
-  1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX IPO機構簿記建檔2026年10月6日開啟。
-  草擬招股章程已於2026年9月24日發布。
+  1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX上市目標日期2026年10月26日；零售發售
+  10月12至19日；機構簿記建檔10月6日開啟。
 
   【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——
   確認已完成輸電連接協議場址的結構性稀缺溢價。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：路透社 / 星洲媒體（thestar.com.my）| AEMO（aemo.com.au）|
+資料來源：ABC新聞（abc.net.au）| Data Center Dynamics（datacenterdynamics.com）|
+pv magazine Australia（pv-magazine-australia.com）| ESS News（ess-news.com）|
+路透社 / 星洲媒體（thestar.com.my）| AEMO（aemo.com.au）|
 金杜律師事務所（mallesons.com）| RenewEconomy（reneweconomy.com.au）|
 ElectraNet（electranet.com.au）| ESD News（esdnews.com.au）|
-pv magazine Australia（pv-magazine-australia.com）|
-Data Center Dynamics（datacenterdynamics.com）|
 南澳州政府（energymining.sa.gov.au）| PM&C（pmc.gov.au）|
 Bloomberg（bloomberg.com）
