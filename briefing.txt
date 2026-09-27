@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 26 September 2026
+📋 SA DATA CENTER LAND BRIEFING - 27 September 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -68,14 +68,20 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-No new updates today.
-
-  [MONITORING] Firmus Technologies IPO: Full Timeline Confirmed — Institutional bookbuild
-  6–7 October; retail offering 12–19 October; ASX debut targeted 26 October 2026.
-  Draft prospectus lodged 24 September 2026 confirms A$5B raise (plus A$500M greenshoe),
-  valuation up to A$60B, and an expected A$77M first-half operating loss attributed to
-  early-stage build costs. 11 days remain until the bookbuild opens.
-  Source: Bloomberg | Reuters / The Star | https://www.thestar.com.my/tech/tech-news/2026/09/24/australia039s-firmus-expects-77-million-first-half-loss-as-it-plans-5-billion-ipo-sources-say
+• Firmus Technologies IPO — October 22 ASX Debut Now Confirmed; A$7B AUD Raise [HIGH
+  RELEVANCE]: Multiple independent media sources (iTnews, Startup Daily) now confirm the ASX
+  debut date as October 22, 2026 — four days earlier than the October 26 date reported by
+  some earlier sources. The A$7 billion AUD denomination (equivalent to approximately US$5B)
+  is now consistent across coverage. Firmus is backed by Blackstone and counts NVIDIA, Meta
+  and OpenAI as customers; its Project Southgate sites at Tailem Bend (~1.0 GW) and Stirling
+  North/Port Augusta (~1.3 GW) are SA-named in the prospectus. 9 days to institutional
+  bookbuild opening October 6.
+  Sources: iTnews | https://www.itnews.com.au/news/australias-firmus-to-launch-7-billion-ipo-on-october-6-629079
+  Startup Daily | https://www.startupdaily.net/topic/asx/ai-data-centre-startup-firmus-gears-up-to-raise-7-billion-for-an-asx-ipo-next-month/
+  [HIGH RELEVANCE — A publicly-listed Firmus with a confirmed A$7B AUD capital raise accelerates
+  its ability to execute binding land-purchase agreements at Tailem Bend and Stirling North.
+  The October 22 debut is 5 weeks away. South Energy should treat the 4-week window between
+  now and listing as the optimal window for any pre-IPO land-option engagement with Firmus.]
 
   [MONITORING] NEXTDC and OpenAI: dedicated AI campus in Sydney (OpenAI's first proprietary
   compute facility in Australia); NEXTDC simultaneously evaluating new Adelaide expansion sites.
@@ -109,25 +115,48 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• Law Firms Publish Detailed Regulatory Threshold Analyses of PM&C AI Data Centre Consultation
-  — 13 Days to Submission Deadline [HIGH RELEVANCE]: Herbert Smith Freehills and White & Case
-  have each published substantive legal analyses of the September 2026 PM&C AI infrastructure
-  consultation, clarifying the proposed tiered mandatory standards architecture: (1) facilities
-  below 30 MW are fully excluded from national mandatory requirements; (2) facilities with an
-  ultimate connection capacity of 30–100 MW face baseline energy, water, and community
-  obligations; (3) facilities above 100 MW, or a cumulative portfolio equivalent of 150 MW,
-  face substantially higher requirements including the mandatory net-generator energy obligation
-  and frontier AI training conditions. White & Case specifically identifies South Australia's
-  fully-renewable grid as the cleanest compliance pathway for operators targeting the
-  above-100 MW tier. Submissions close 5pm AEDT 9 October 2026 — 13 days remain.
-  Sources: Herbert Smith Freehills | https://www.hsfkramer.com/insights/2026-09/australias-ai-infrastructure-consultation-proposed-standards-for-data-centres-and-frontier-ai
+• Victorian Coalition Pledges to Scrap BYO Renewables Mandate for Data Centres; Will Push Gas
+  Instead [HIGH RELEVANCE]: The Victorian state opposition has refused to adopt Labor's
+  September 22 mandatory BYO renewables framework for data centres, proposing instead to "let
+  data centres rip" with no grid guardrails and prioritising new gas generation and exploration.
+  Shadow Minister Dan Tehan labelled the renewables-only approach "ideologically-driven" and
+  argued each state should choose its own energy mix. The Coalition has also pledged to scrap
+  the VNI West transmission project. Victorian state election: November 2026. This political
+  divide creates regulatory uncertainty for any Melbourne-region data centre project regardless
+  of which party wins. South Australia — with bipartisan SA government support for its
+  fully-renewable Data Centre and AI Infrastructure Act framework — is the lowest political-risk
+  data centre investment jurisdiction in mainland Australia.
+  Source: RenewEconomy | https://reneweconomy.com.au/victorian-labor-toes-federal-line-on-byo-renewables-for-data-centres-coalition-still-pushing-gas/
+  [HIGH RELEVANCE — Investor uncertainty over Victorian post-election policy directly
+  strengthens South Energy's pitch to any hyperscaler or developer evaluating SA vs. VIC.
+  SA's bipartisan commitment provides regulatory certainty that Victoria cannot currently offer.]
+
+• ECMC Formally Endorses AEMO Governance Review — All 14 Reforms Approved; SA Agrees "In
+  Principle" [HIGH RELEVANCE]: Energy ministers from all jurisdictions agreed to all 14
+  recommendations from the independent Nigel Ray governance review of AEMO. Approved reforms
+  include: AEMO transitioning to 100% government membership; enhanced board skills reflecting
+  demand-side expertise; a statutory duty-to-inform embedded in national energy laws; and
+  improved accountability and transparency mechanisms. South Australia and Queensland agreed
+  "in principle," noting an alternative governance structure could be reconsidered if the current
+  approach proves insufficient. The reforms directly strengthen AEMO's institutional capacity
+  to process the rapidly expanding large-load connections pipeline, which includes data centre
+  applications across SA.
+  Sources: AEMO | https://www.aemo.com.au/newsroom/news-updates/outcome-of-ecmc-review-of-aemos-governance-arrangements
+  Mirage News | https://www.miragenews.com/review-recommends-updates-to-aemos-governance-1723756/
+  [HIGH RELEVANCE — SA's "in principle" agreement preserves flexibility to push for a stronger
+  governance structure while supporting current reforms. Faster AEMO connections processing
+  directly benefits South Energy's customers (IREN, Firmus, NEXTDC) awaiting connection
+  decisions on SA sites.]
+
+• PM&C AI Data Centre Consultation — 12 Days to Submission Deadline (9 October 2026): The
+  national consultation on mandatory minimum standards remains open. Law firm analyses
+  (Herbert Smith Freehills, White & Case, King & Wood Mallesons) confirm the 30/100/150 MW
+  threshold architecture. White & Case continues to identify SA's fully-renewable grid as the
+  cleanest compliance pathway for above-100 MW operators. Submissions close 5pm AEDT 9
+  October 2026.
+  Sources: PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
+  Herbert Smith Freehills | https://www.hsfkramer.com/insights/2026-09/australias-ai-infrastructure-consultation-proposed-standards-for-data-centres-and-frontier-ai
   White & Case | https://www.whitecase.com/insight-alert/australian-ai-update-pms-ai-and-data-centre-speech-key-takeaways-data-centre
-  [HIGH RELEVANCE — The 30/100/150 MW threshold architecture directly informs South Energy's
-  project sizing strategy: sites designed for above-100 MW connection are where the regulatory
-  compliance premium concentrates. Any project obtaining SA Coordinator-General approval in 2026
-  that locks in above-100 MW connection capacity will sit above the highest mandatory threshold
-  while retaining non-retrospective status under National Cabinet's August 2026 commitment.
-  This is the highest-value project size window for South Energy's current acquisition pipeline.]
 
   [MONITORING] Victoria's Sustainable Data Centre Action Plan: All New Data Centres Must Supply
   Own Renewable Energy and Storage — SA Competitive Position Materially Strengthened
@@ -195,28 +224,28 @@ No new updates today.
   redirecting hyperscale site selection to regional markets including SA.
 
   [MONITORING] Firmus Technologies' Project Southgate (Tailem Bend ~1.0 GW + Stirling
-  North/Port Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX debut targeted 26 October
-  2026; retail offering 12–19 October; bookbuild opens 6 October.
+  North/Port Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX debut confirmed October 22,
+  2026; retail offering 12–19 October; bookbuild opens October 6.
 
   [MONITORING] ~84% of ~9 GW proposed NEM connection requests still at application stage
   (Deloitte, June 2026) — confirms structural premium of completed connection agreements.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: Herbert Smith Freehills (hsfkramer.com) | White & Case (whitecase.com) |
-ABC News (abc.net.au) | Data Center Dynamics (datacenterdynamics.com) |
-pv magazine Australia (pv-magazine-australia.com) | ESS News (ess-news.com) |
-Reuters / The Star (thestar.com.my) | AEMO (aemo.com.au) |
-King & Wood Mallesons (mallesons.com) | RenewEconomy (reneweconomy.com.au) |
+Sources: iTnews (itnews.com.au) | Startup Daily (startupdaily.net) |
+RenewEconomy (reneweconomy.com.au) | AEMO (aemo.com.au) |
+Mirage News (miragenews.com) | The Energy (theenergy.co) |
+PM&C (pmc.gov.au) | Herbert Smith Freehills (hsfkramer.com) |
+White & Case (whitecase.com) | King & Wood Mallesons (mallesons.com) |
+Data Center Dynamics (datacenterdynamics.com) | ABC News (abc.net.au) |
 ElectraNet (electranet.com.au) | ESD News (esdnews.com.au) |
-SA Government (energymining.sa.gov.au) | PM&C (pmc.gov.au) |
-Bloomberg (bloomberg.com)
+SA Government (energymining.sa.gov.au) | Bloomberg (bloomberg.com)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年9月26日
+📋 南澳州數據中心土地每日簡報 - 2026年9月27日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -276,13 +305,17 @@ Bloomberg (bloomberg.com)
 
 🏢 3. 科技公司需求（潛在買家）
 
-今日無新消息。
-
-  【持續監測】Firmus科技IPO：完整時間表已確認——機構簿記建檔10月6至7日；零售發售
-  10月12至19日；目標ASX上市日期10月26日。草擬招股章程於2026年9月24日發布，確認
-  50億澳元籌資規模（另設5億澳元超額配售），估值最高達600億澳元，預期上半年虧損
-  7,700萬澳元（屬正常早期建設成本）。距簿記建檔開啟僅剩11天。
-  來源：Bloomberg | 路透社 / 星洲媒體
+• Firmus科技IPO——ASX上市日期確認為10月22日，籌資澳元70億元【高度相關】：多家獨立
+  媒體（iTnews、Startup Daily）現確認ASX上市日期為2026年10月22日，較部分早前報道的
+  10月26日提前四天。澳元70億元（約合美元50億元）的籌資額已在主要媒體間保持一致。
+  Firmus由貝萊德支持，英偉達、Meta及OpenAI均為其客戶；招股章程中明確點名的南澳州
+  選址包括塔萊姆本德（約1.0吉瓦）及史特靈北/阿古斯塔港（約1.3吉瓦）。距10月6日
+  機構簿記建檔開啟僅剩9天。
+  來源：iTnews | https://www.itnews.com.au/news/australias-firmus-to-launch-7-billion-ipo-on-october-6-629079
+  Startup Daily | https://www.startupdaily.net/topic/asx/ai-data-centre-startup-firmus-gears-up-to-raise-7-billion-for-an-asx-ipo-next-month/
+  【高度相關——Firmus完成澳元70億元IPO後，其執行塔萊姆本德和史特靈北土地購置協議的能力
+  將顯著提升。距上市僅剩5周，現在至上市前的4周窗口是South Energy與Firmus就土地期權
+  進行IPO前接觸的最佳時機。】
 
   【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區（OpenAI在澳大利亞首個自有
   算力設施）；NEXTDC同時評估阿德萊德新選址。截至2026年7月，23億澳元優先擔保債務
@@ -315,21 +348,38 @@ Bloomberg (bloomberg.com)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 律師事務所發布PM&C AI數據中心諮詢詳細監管門檻解析——距提交截止日剩13天【高度相關】：
-  Herbert Smith Freehills及White & Case分別發布對2026年9月PM&C AI基礎設施諮詢的深度
-  法律解析，明確擬議強制標準的三級門檻架構：（1）30兆瓦以下設施完全豁免於全國強制
-  要求；（2）最終接入容量在30至100兆瓦之間的設施須遵守基本層面的能源、用水及社區
-  義務；（3）超過100兆瓦的設施，或投資組合合計達到150兆瓦等效容量，須遵守更高層次
-  要求，包括強制性「淨發電商」能源義務及前沿AI訓練附加條件。White & Case在分析中特別
-  指出，南澳州全可再生能源電網是運營商合規達到100兆瓦以上門檻的最潔淨路徑。
-  意見提交截止：2026年10月9日澳東夏令時下午5時——距今剩13天。
-  來源：Herbert Smith Freehills | https://www.hsfkramer.com/insights/2026-09/australias-ai-infrastructure-consultation-proposed-standards-for-data-centres-and-frontier-ai
+• 維多利亞州反對黨承諾廢除數據中心自備可再生能源強制要求，改推天然氣【高度相關】：
+  維多利亞州反對黨（聯盟黨）拒絕採納工黨於9月22日頒布的強制性「自備可再生能源」
+  框架，轉而主張讓數據中心「自由發展」（無電網門檻限制），並優先發展天然氣發電與
+  勘探。影子部長Dan Tehan將純可再生能源政策定性為「意識形態驅動」，並主張各州應自行
+  決定數據中心能源組合。反對黨亦承諾廢除VNI West輸電項目。維多利亞州議會選舉：
+  2026年11月。無論哪個黨派勝選，墨爾本地區的數據中心項目都面臨監管不確定性。
+  南澳州——擁有兩黨一致支持的《數據中心與AI基礎設施法》框架——是澳大利亞大陸
+  政治風險最低的數據中心投資管轄區。
+  來源：RenewEconomy | https://reneweconomy.com.au/victorian-labor-toes-federal-line-on-byo-renewables-for-data-centres-coalition-still-pushing-gas/
+  【高度相關——維多利亞州政策不確定性直接強化了South Energy向超大規模雲端商及開發商
+  推介「南澳州 vs. 維多利亞州」方案的論據。南澳州的兩黨承諾提供了維多利亞州目前
+  無法提供的監管確定性。】
+
+• ECMC正式批准AEMO治理審查——14項改革全部通過；南澳州「原則同意」【高度相關】：
+  各司法管轄區能源部長一致同意Nigel Ray獨立治理審查的全部14項建議。已批准改革包括：
+  AEMO過渡為100%政府成員制；提升董事會在需求側方面的專業技能；在全國能源法中納入
+  法定「告知義務」；以及強化問責制與透明度機制。南澳州及昆士蘭州表示「原則同意」，
+  並指出若現行做法不足，未來可重新考慮替代治理架構。上述改革直接增強了AEMO處理快速
+  擴大的大型負荷連接申請管道的機構能力，其中包括南澳州各數據中心的連接申請。
+  來源：AEMO | https://www.aemo.com.au/newsroom/news-updates/outcome-of-ecmc-review-of-aemos-governance-arrangements
+  Mirage News | https://www.miragenews.com/review-recommends-updates-to-aemos-governance-1723756/
+  【高度相關——南澳州的「原則同意」保留了在現行改革被證明不足時推動更強力治理架構的
+  彈性。AEMO連接審批提速直接惠及在南澳州選址等待連接決定的South Energy客戶，包括
+  IREN、Firmus和NEXTDC。】
+
+• PM&C AI數據中心諮詢——距提交截止日還剩12天（2026年10月9日）：全國性強制最低標準
+  諮詢仍在進行中。律師事務所分析（Herbert Smith Freehills、White & Case、金杜）已確認
+  30/100/150兆瓦門檻架構。White & Case繼續將南澳州全可再生能源電網定性為100兆瓦以上
+  運營商的最潔淨合規路徑。意見提交截止：2026年10月9日澳東夏令時下午5時。
+  來源：PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
+  Herbert Smith Freehills | https://www.hsfkramer.com/insights/2026-09/australias-ai-infrastructure-consultation-proposed-standards-for-data-centres-and-frontier-ai
   White & Case | https://www.whitecase.com/insight-alert/australian-ai-update-pms-ai-and-data-centre-speech-key-takeaways-data-centre
-  【高度相關——30/100/150兆瓦門檻架構直接指導South Energy的項目規模策略：設計目標接入
-  容量超過100兆瓦的選址，正是監管合規溢價最集中之處。任何在2026年取得南澳州總督察員
-  批准、且鎖定100兆瓦以上接入容量的項目，既落於最高強制門檻之上，同時保留全國內閣
-  2026年8月承諾的不追溯法律地位。這是South Energy當前獲取管道中價值最高的項目規模
-  窗口。】
 
   【持續監測】維多利亞州《可持續數據中心行動計劃》（2026年9月22日）：四項強制要求——
   100%自備可再生能源發電匹配；自行承擔電網接入及網絡升級成本；使用再生水/非飲用水
@@ -390,18 +440,18 @@ Bloomberg (bloomberg.com)
   選址活動引向南澳州等區域市場。
 
   【持續監測】Firmus科技「南門計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北/阿古斯塔港約
-  1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX上市目標日期2026年10月26日；零售發售
+  1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX上市確認日期：2026年10月22日；零售發售
   10月12至19日；機構簿記建檔10月6日開啟。
 
   【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——
   確認已完成輸電連接協議場址的結構性稀缺溢價。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：Herbert Smith Freehills（hsfkramer.com）| White & Case（whitecase.com）|
-ABC新聞（abc.net.au）| Data Center Dynamics（datacenterdynamics.com）|
-pv magazine Australia（pv-magazine-australia.com）| ESS News（ess-news.com）|
-路透社 / 星洲媒體（thestar.com.my）| AEMO（aemo.com.au）|
-金杜律師事務所（mallesons.com）| RenewEconomy（reneweconomy.com.au）|
+資料來源：iTnews（itnews.com.au）| Startup Daily（startupdaily.net）|
+RenewEconomy（reneweconomy.com.au）| AEMO（aemo.com.au）|
+Mirage News（miragenews.com）| The Energy（theenergy.co）|
+PM&C（pmc.gov.au）| Herbert Smith Freehills（hsfkramer.com）|
+White & Case（whitecase.com）| 金杜律師事務所（mallesons.com）|
+Data Center Dynamics（datacenterdynamics.com）| ABC新聞（abc.net.au）|
 ElectraNet（electranet.com.au）| ESD News（esdnews.com.au）|
-南澳州政府（energymining.sa.gov.au）| PM&C（pmc.gov.au）|
-Bloomberg（bloomberg.com）
+南澳州政府（energymining.sa.gov.au）| Bloomberg（bloomberg.com）
