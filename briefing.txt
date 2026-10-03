@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 2 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 3 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -8,15 +8,15 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
 No new updates today.
 
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards Due Late October 2026 [HIGH RELEVANCE]:
-  The AEMC's binding technical connection standards for data centres (30 MW+ threshold, disturbance
-  ride-through requirements, alignment with Texas, Ireland and Finland) are due final determination
-  this month. Projects holding existing connection agreements face minimal new compliance cost exposure;
-  projects still in the queue face the highest risk. Pre-secured firm transmission agreements at Bundey
-  and the NTx corridor are specifically structured to satisfy these technical standards.
-  Sources: AEMC | https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections
-  w.media | https://w.media/aemc-warns-on-data-centre-grid-risks-as-new-standards-loom/
-  PV Tech | https://www.pv-tech.org/australias-aemc-proposes-new-standards-to-prevent-data-centre-blackouts-amid-rising-energy-demand/
+  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 29 October 2026 [HIGH RELEVANCE]:
+  The AEMC has confirmed its final determination on binding technical connection standards for data
+  centres (30 MW+ threshold, disturbance ride-through requirements, alignment with Texas, Ireland and
+  Finland) will be published on 29 October 2026 — a now-firm calendar date. Projects holding existing
+  connection agreements face minimal new compliance cost exposure; projects still in the queue face the
+  highest risk. Pre-secured firm transmission agreements at Bundey and the NTx corridor are specifically
+  structured to satisfy these technical standards.
+  Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
+  WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
 
   [MONITORING] Genassi Energy Secures Federal CIS Contract for 300 MW Bundey Solar Farm + 300 MW/
   1,200 MWh Battery: Confirms Bundey as SA's deepest co-located renewable and storage cluster —
@@ -75,29 +75,26 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Diraq and Equinix Complete World-First Quantum Computer Deployment Inside Australian Commercial
-  Data Centre (October 2026):
-  Diraq's 8-qubit silicon-spin quantum computer has been installed and commissioned at Equinix's
-  Sydney data centre — the world's first deployment of a quantum computer inside a shared commercial
-  colocation facility. The system consumes under 20 kW, fits alongside conventional servers, and is
-  designed to upgrade via chip replacement without changes to surrounding infrastructure, enabling
-  scalable hybrid quantum-classical AI workloads. As quantum computing migrates from lab to colocation,
-  SA's large-format AI factory campuses (IREN Bundey, Firmus Southgate) anchored on Australia's only
-  100% net renewable grid are positioned as the platform where converged compute infrastructure will
-  scale beyond Sydney's grid-constrained facilities.
-  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/
-  Yahoo Finance | https://finance.yahoo.com/technology/ai/articles/diraq-deploy-quantum-computer-inside-210000135.html
-  HPCwire | https://www.hpcwire.com/off-the-wire/diraq-to-deploy-a-quantum-computer-inside-an-equinix-data-center/
+• Firmus IPO Price Confirmed at A$11/Share — A$43.7B Valuation; Bookbuild Extended, Closes
+  9 October (1 October 2026) [HIGH RELEVANCE]:
+  Bloomberg reports that Firmus Grid Ltd. has confirmed its institutional offer price at A$11 per
+  share, implying a market capitalisation of approximately A$43.7 billion (US$30.3 billion). The base
+  raise has been refined to A$5 billion, with a 10% overallotment option bringing the maximum to
+  approximately A$5.5 billion — a tighter structure than earlier term-sheet figures suggested. The
+  institutional bookbuild has been extended by two days and now closes 9 October (previously 7 October);
+  retail offering runs 12–19 October; ASX debut is now targeted for 23 October. SA sites remain Tailem
+  Bend (~1.0 GW) and Stirling North/Port Augusta (~1.3 GW), anchored by 900 MW of contracted capacity
+  from OpenAI and backed by a US$10 billion Blackstone debt facility. Pre-IPO land option engagement
+  with Firmus closes at bookbuild open on 6 October — three days from today.
+  Source: Bloomberg | https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports
 
-  [MONITORING] Firmus IPO — Institutional Bookbuild Opens in 4 Days (6 October 2026) [HIGH RELEVANCE]:
-  The Firmus institutional bookbuild (seeking to raise up to A$7.5 billion including greenshoe — the
-  second-largest ASX IPO in history) opens Monday 6 October, closes 7 October; prospectus lodged
-  8 October; retail offering 12–19 October; ASX debut targeted 22 October. The float is backed by
-  a US$10 billion Blackstone debt facility and 900 MW of contracted capacity anchored by OpenAI. SA
-  sites: Tailem Bend (~1.0 GW) and Stirling North/Port Augusta (~1.3 GW). Pre-IPO land-option
-  engagement window closes at bookbuild open.
-  Sources: Bloomberg | https://www.bloomberg.com/news/articles/2026-09-21/firmus-seeks-to-raise-5-billion-in-landmark-australian-ipo
-  The Star | https://www.thestar.com.my/tech/tech-news/2026/09/21/australia039s-firmus-to-launch-5-billion-ipo-on-october-6-term-sheet-shows
+  [MONITORING] Diraq and Equinix Complete World-First Quantum Computer Deployment Inside Australian
+  Commercial Data Centre (October 2026): Diraq's 8-qubit silicon-spin quantum computer commissioned
+  at Equinix's Sydney data centre — the world's first deployment in a shared commercial colocation
+  facility. SA's large-format AI factory campuses (IREN Bundey, Firmus Southgate) on Australia's only
+  100% net renewable grid are positioned as the platform where converged compute will scale beyond
+  Sydney's grid-constrained facilities.
+  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/
 
   [MONITORING] NEXTDC and OpenAI: dedicated AI campus in Sydney (OpenAI's first proprietary compute
   facility in Australia); NEXTDC simultaneously evaluating new Adelaide expansion sites.
@@ -130,7 +127,7 @@ No new updates today.
 
 No new updates today.
 
-  [MONITORING] PM&C AI Data Centre Consultation — 7 Days to Submission Deadline (9 October 2026):
+  [MONITORING] PM&C AI Data Centre Consultation — 6 Days to Submission Deadline (9 October 2026):
   Mandatory minimum standards consultation open; 30/100/150 MW threshold architecture confirmed.
   SA's fully-renewable grid remains the cleanest compliance pathway for above-100 MW operators.
   Submissions close 5pm AEDT 9 October 2026.
@@ -165,7 +162,7 @@ No new updates today.
 
   [MONITORING] ECMC September 2026 regulatory package: mandatory REGO + firming offset obligation;
   AEMC full capacity charging cost recovery; AEMC 30 MW+ technical standards (final determination
-  due late October 2026).
+  29 October 2026).
 
   [MONITORING] Australia to legislate mandatory net-generator requirement for large data centres:
   federal draft legislation targeting early 2027 Parliament introduction.
@@ -180,24 +177,17 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• CDC Data Centres Plans A$15 Billion / 1.4 GW Wagga Wagga Regional Campus (30 September 2026)
-  [HIGH RELEVANCE]:
-  CDC Data Centres (Infratil-backed) has filed planning documents for a gigawatt-scale AI data centre
-  campus on 103.8 hectares at Gregadoo, 11 km south of Wagga Wagga in regional NSW — co-located
-  1.3 km from TransGrid's new Wagga Terminal Station. The four-building campus would total 1.4 GW of
-  compute capacity at full build-out, each building delivering 240 MW / 47,275 sqm, with an estimated
-  development cost of A$15 billion. This is the largest regional-NSW data centre planning application
-  on record, driven by the same structural forces benefiting SA's NTx corridor: the need to escape
-  Sydney grid congestion and secure land with firm transmission access. Critical contrast for South
-  Energy: the Wagga Wagga site sits on NSW's coal-blended grid and will require full BYO-renewable
-  compliance under federal mandatory standards, adding significant capex; SA NTx corridor sites operate
-  on Australia's only 100% net renewable grid by default, eliminating that compliance cost and
-  execution risk entirely. CDC is simultaneously a member of the joint industry peak body driving SA
-  Data Centre and AI Infrastructure Act engagement — confirming CDC as a likely SA expansion candidate
-  once NSW planning clears.
+No new updates today.
+
+  [MONITORING] CDC Data Centres Plans A$15 Billion / 1.4 GW Wagga Wagga Regional Campus
+  (30 September 2026) [HIGH RELEVANCE]: Planning documents filed for gigawatt-scale campus on
+  103.8 ha at Gregadoo, NSW — driven by same structural forces benefiting SA's NTx corridor.
+  Critical contrast: Wagga Wagga site sits on NSW's coal-blended grid and requires full BYO-renewable
+  compliance; SA NTx corridor sites operate on Australia's only 100% net renewable grid by default.
+  CDC is simultaneously a member of the joint industry peak body driving SA Data Centre and AI
+  Infrastructure Act engagement — confirming CDC as a likely SA expansion candidate.
   Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
   ABC News | https://www.abc.net.au/news/2026-09-30/15-billion-dollar-data-centre-proposed-for-wagga-wagga/107191146
-  Capital Brief | https://www.capitalbrief.com/briefing/cdc-plans-one-of-australias-largest-data-centre-campuses-in-nsw-f45f1148-faef-4d83-8987-97c759195b58/
 
   [MONITORING] HyperDC Files Planning Permit for 400 MW/39-Hectare Data Centre Campus at
   Moorabool, Victoria (29 September 2026): First large-scale greenfield planning application in
@@ -233,28 +223,27 @@ No new updates today.
   redirecting hyperscale site selection to regional markets including SA.
 
   [MONITORING] Firmus Technologies' Project Southgate (Tailem Bend ~1.0 GW + Stirling North/Port
-  Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX debut targeted October 22–26, 2026;
-  retail offering 12–19 October; bookbuild opens October 6.
+  Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX debut targeted 23 October 2026;
+  retail offering 12–19 October; bookbuild opens 6 October, closes 9 October.
 
   [MONITORING] ~84% of ~9 GW proposed NEM connection requests still at application stage
   (Deloitte, June 2026) — confirms structural premium of completed connection agreements.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: AEMC (aemc.gov.au) | w.media (w.media) | PV Tech (pv-tech.org) |
+Sources: AEMC (aemc.gov.au) | WattClarity (wattclarity.com.au) | Bloomberg (bloomberg.com) |
 Data Center Dynamics (datacenterdynamics.com) | ABC News (abc.net.au) |
-Capital Brief (capitalbrief.com) | Yahoo Finance (finance.yahoo.com) |
-HPCwire (hpcwire.com) | Bloomberg (bloomberg.com) |
 RenewEconomy (reneweconomy.com.au) | AEMO (aemo.com.au) | PM&C (pmc.gov.au) |
 ElectraNet (electranet.com.au) | King & Wood Mallesons (mallesons.com) |
 SA Government (energymining.sa.gov.au) | ASCLA (ascla.org) |
-CommBank (commbank.com.au) | Deloitte (deloitte.com.au)
+CommBank (commbank.com.au) | Deloitte (deloitte.com.au) | w.media (w.media) |
+pv magazine Australia (pv-magazine-australia.com)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月2日
+📋 南澳州數據中心土地每日簡報 - 2026年10月3日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -262,15 +251,14 @@ CommBank (commbank.com.au) | Deloitte (deloitte.com.au)
 
 今日無新消息。
 
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定將於2026年10月底發布【高度相關】：
-  澳大利亞能源市場委員會（AEMC）就大型數據中心電網接入制定的具法律約束力技術標準
-  （30兆瓦以上門檻、擾動穿越要求、對標美國德州/愛爾蘭/芬蘭國際標準），最終裁定將於
-  本月公布。持有現有接入協議的項目面臨的新合規成本風險最低；仍處於申請隊列中的項目
-  風險最高。邦迪及NTx走廊的預先鎖定固定輸電接入協議，在結構上已針對上述技術標準作出
-  對應安排。
-  來源：AEMC | https://www.aemc.gov.au/news-centre/media-releases/aemc-proposes-new-grid-standards-data-centre-connections
-  w.media | https://w.media/aemc-warns-on-data-centre-grid-risks-as-new-standards-loom/
-  PV Tech | https://www.pv-tech.org/australias-aemc-proposes-new-standards-to-prevent-data-centre-blackouts-amid-rising-energy-demand/
+  【持續監測】AEMC數據中心電網接入技術標準最終裁定確定日期：2026年10月29日【高度相關】：
+  澳大利亞能源市場委員會（AEMC）已確認，就大型數據中心電網接入制定的具法律約束力技術標準
+  （30兆瓦以上門檻、擾動穿越要求、對標美國德州/愛爾蘭/芬蘭國際標準）最終裁定，將於
+  2026年10月29日正式公布——現已確認為固定日期。持有現有接入協議的項目面臨的新合規成本
+  風險最低；仍處於申請隊列中的項目風險最高。邦迪及NTx走廊的預先鎖定固定輸電接入協議，
+  在結構上已針對上述技術標準作出對應安排。
+  來源：AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
+  WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
 
   【持續監測】Genassi Energy獲聯邦容量投資計劃合同——南澳州邦迪300兆瓦光伏電站+
   300兆瓦/1,200兆瓦時電池：確認邦迪是南澳州集中度最高的可再生能源與儲能協同基礎
@@ -326,25 +314,24 @@ CommBank (commbank.com.au) | Deloitte (deloitte.com.au)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• Diraq與Equinix完成澳大利亞首個商業數據中心量子計算機部署（2026年10月）：
-  Diraq的8量子位硅自旋量子計算機已在Equinix悉尼數據中心完成安裝與調試——這是全球首台
-  部署於共用商業同置設施的量子計算機。系統功耗低於20千瓦，可與傳統服務器並排放置，
-  設計支持通過芯片替換方式升級而無需改動周邊基礎設施，為可擴展的量子-經典融合AI計算
-  奠定基礎。隨著量子計算從實驗室向同置設施遷移，南澳州以澳大利亞唯一百分之百淨可再生
-  能源電網為依托的大型AI工廠園區（IREN邦迪、Firmus Southgate），正在成為此類融合算力
-  基礎設施在突破悉尼電網瓶頸後規模化擴張的最優平台。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/
-  Yahoo Finance | https://finance.yahoo.com/technology/ai/articles/diraq-deploy-quantum-computer-inside-210000135.html
-  HPCwire | https://www.hpcwire.com/off-the-wire/diraq-to-deploy-a-quantum-computer-inside-an-equinix-data-center/
+• Firmus IPO發行價確認為每股11澳元——估值達437億澳元（303億美元）；
+  機構簿記建檔延長至10月9日截止（2026年10月1日）【高度相關】：
+  彭博社報道，Firmus Grid Ltd.已確認機構發行價為每股11澳元，隱含市值約437億澳元
+  （約合303億美元）。基礎募資規模精確為50億澳元，附帶10%超額配售選擇權，最高可達
+  55億澳元——較早期認購意向書所反映的數字有所調整。機構簿記建檔窗口延長兩天，
+  截止日由原定10月7日更新為10月9日；零售發售期為10月12至19日；ASX上市目標日期
+  調整為10月23日。南澳州選址：塔萊姆本德（約1.0吉瓦）及史特靈北/阿古斯塔港
+  （約1.3吉瓦），以OpenAI 900兆瓦已簽約容量為基礎，並由貝萊德100億美元債務融資
+  提供支撐。IPO前與Firmus就土地期權的接觸窗口將於10月6日簿記建檔開啟時正式關閉
+  ——距今僅剩三天。
+  來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports
 
-  【持續監測】Firmus IPO——機構簿記建檔距今4天（2026年10月6日）【高度相關】：
-  Firmus機構簿記建檔（目標籌資最高75億澳元含超額配售，擬成為澳大利亞史上第二大IPO）
-  將於10月6日（星期一）開啟，7日截止；招股說明書10月8日登記；零售發售10月12至19日；
-  ASX上市目標10月22日。本次上市由貝萊德100億美元債務融資背書，並已鎖定OpenAI為主力
-  客戶（900兆瓦已簽約容量）。南澳州選址：塔萊姆本德（約1.0吉瓦）及史特靈北/
-  阿古斯塔港（約1.3吉瓦）。IPO前土地期權接觸窗口將於簿記建檔開啟時關閉。
-  來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-09-21/firmus-seeks-to-raise-5-billion-in-landmark-australian-ipo
-  The Star | https://www.thestar.com.my/tech/tech-news/2026/09/21/australia039s-firmus-to-launch-5-billion-ipo-on-october-6-term-sheet-shows
+  【持續監測】Diraq與Equinix完成澳大利亞首個商業數據中心量子計算機部署（2026年10月）：
+  Diraq的8量子位硅自旋量子計算機已在Equinix悉尼數據中心完成安裝與調試——全球首台部署
+  於共用商業同置設施的量子計算機。南澳州以澳大利亞唯一百分之百淨可再生能源電網為依托
+  的大型AI工廠園區（IREN邦迪、Firmus Southgate），正在成為此類融合算力基礎設施在突破
+  悉尼電網瓶頸後規模化擴張的最優平台。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/
 
   【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區（OpenAI在澳大利亞首個自有
   算力設施）；NEXTDC同時評估阿德萊德新選址。
@@ -377,7 +364,7 @@ CommBank (commbank.com.au) | Deloitte (deloitte.com.au)
 
 今日無新消息。
 
-  【持續監測】PM&C AI數據中心諮詢——距提交截止日還剩7天（2026年10月9日）：
+  【持續監測】PM&C AI數據中心諮詢——距提交截止日還剩6天（2026年10月9日）：
   強制最低標準諮詢進行中；30/100/150兆瓦門檻架構已確認。南澳州全可再生能源電網仍是
   100兆瓦以上運營商的最潔淨合規路徑。意見提交截止：2026年10月9日澳東夏令時下午5時。
   來源：PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
@@ -408,7 +395,7 @@ CommBank (commbank.com.au) | Deloitte (deloitte.com.au)
   能源目標默認滿足聯邦能源標準——形成結構性合規優勢。
 
   【持續監測】ECMC 2026年9月監管一攬子規則：強制性REGO可再生能源及調峰抵消義務；
-  AEMC容量收費全額成本回收；AEMC 30兆瓦以上技術標準（最終裁定預計2026年10月底）。
+  AEMC容量收費全額成本回收；AEMC 30兆瓦以上技術標準（最終裁定2026年10月29日）。
 
   【持續監測】澳大利亞擬立法強制要求大型數據中心履行「淨發電商」義務：聯邦立法草案
   目標2027年初提交議會。
@@ -423,21 +410,15 @@ CommBank (commbank.com.au) | Deloitte (deloitte.com.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• CDC數據中心計劃在新南威爾士州沃加沃加建設150億澳元/1.4吉瓦區域園區（2026年9月30日）
-  【高度相關】：
-  CDC Data Centres（Infratil旗下）已就沃加沃加市區南部11公里格雷加杜（Gregadoo）一處
-  103.8公頃地塊的吉瓦級AI數據中心園區提交規劃申請，距TransGrid新沃加沃加輸電樞紐站
-  僅1.3公里。四棟單層數據中心建築分期建設，全部建成後總算力容量達1.4吉瓦（每棟
-  240兆瓦/47,275平方米），估算開發成本達150億澳元，是新南威爾士州區域市場迄今最大
-  數據中心規劃申請。其背後驅動力與南澳州NTx走廊所受益的結構性因素相同：擺脫悉尼電網
-  壓力，尋找擁有固定輸電接入的土地。對South Energy的核心啟示：沃加沃加選址位於新南威爾士
-  州煤電混合電網，須在聯邦強制性標準下全面履行自備可再生能源義務，將增加大量資本支出；
-  而南澳州NTx走廊場址依托澳大利亞唯一百分之百淨可再生能源電網，天然免除上述合規成本及
-  執行風險。此外，CDC同時是聯合推動南澳州《數據中心與AI基礎設施法》政策參與的行業峰值
-  機構成員，進一步確認其為南澳州潛在擴張對象。
+今日無新消息。
+
+  【持續監測】CDC數據中心計劃在新南威爾士州沃加沃加建設150億澳元/1.4吉瓦區域園區
+  （2026年9月30日）【高度相關】：規劃申請已提交，103.8公頃地塊，距TransGrid新沃加沃加
+  輸電樞紐站僅1.3公里。核心對比：沃加沃加選址位於新南威爾士州煤電混合電網，須在聯邦
+  強制性標準下全面履行自備可再生能源義務；而南澳州NTx走廊場址天然免除上述合規成本及
+  執行風險。CDC亦是推動南澳州《數據中心與AI基礎設施法》政策參與行業峰值機構成員。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
   ABC新聞 | https://www.abc.net.au/news/2026-09-30/15-billion-dollar-data-centre-proposed-for-wagga-wagga/107191146
-  Capital Brief | https://www.capitalbrief.com/briefing/cdc-plans-one-of-australias-largest-data-centre-campuses-in-nsw-f45f1148-faef-4d83-8987-97c759195b58/
 
   【持續監測】HyperDC向維多利亞州提交摩洛布爾400兆瓦/39公頃數據中心園區規劃許可申請
   （2026年9月29日）：《行動計劃》公佈後維多利亞州首個大型綠地規劃申請，須遵守自備
@@ -471,18 +452,17 @@ CommBank (commbank.com.au) | Deloitte (deloitte.com.au)
   選址活動引向南澳州等區域市場。
 
   【持續監測】Firmus科技「南門計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北/阿古斯塔港約
-  1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX上市目標約2026年10月22至26日；零售發售
-  10月12至19日；機構簿記建檔10月6日開啟。
+  1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX上市目標2026年10月23日；零售發售10月
+  12至19日；機構簿記建檔10月6日開啟，10月9日截止。
 
   【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——
   確認已完成輸電連接協議場址的結構性稀缺溢價。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：AEMC（aemc.gov.au）| w.media（w.media）| PV Tech（pv-tech.org）|
+資料來源：AEMC（aemc.gov.au）| WattClarity（wattclarity.com.au）| Bloomberg（bloomberg.com）|
 Data Center Dynamics（datacenterdynamics.com）| ABC新聞（abc.net.au）|
-Capital Brief（capitalbrief.com）| Yahoo Finance（finance.yahoo.com）|
-HPCwire（hpcwire.com）| Bloomberg（bloomberg.com）|
 RenewEconomy（reneweconomy.com.au）| AEMO（aemo.com.au）| PM&C（pmc.gov.au）|
 ElectraNet（electranet.com.au）| 金杜律師事務所（mallesons.com）|
 南澳州政府（energymining.sa.gov.au）| 澳大利亞供應鏈與物流協會（ascla.org）|
-澳洲聯邦銀行（commbank.com.au）| 德勤（deloitte.com.au）
+澳洲聯邦銀行（commbank.com.au）| 德勤（deloitte.com.au）| w.media（w.media）|
+pv magazine Australia（pv-magazine-australia.com）
