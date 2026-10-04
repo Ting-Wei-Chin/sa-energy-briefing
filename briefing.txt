@@ -1,12 +1,20 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 3 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 4 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
 No new updates today.
+
+  [MONITORING] NTx PACR Milestone Confirmed: December 2026 [HIGH RELEVANCE]:
+  AEMO's consultation page confirms the Northern Transmission Project (NTx) Project Assessment
+  Conclusion Report (PACR) is scheduled for publication by December 2026 — the regulatory
+  precursor to AER full-project approval. Once the PACR clears, it accelerates final investment
+  decisions for projects holding land in the NTx (Bundey–Adelaide) corridor. South Energy's
+  NTx corridor land positions are directly aligned with this milestone.
+  Source: AEMO NTx PADR Consultation | https://www.aemo.com.au/consultations/current-and-closed-consultations/padr-northern-transmission-project
 
   [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 29 October 2026 [HIGH RELEVANCE]:
   The AEMC has confirmed its final determination on binding technical connection standards for data
@@ -17,6 +25,13 @@ No new updates today.
   structured to satisfy these technical standards.
   Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
   WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
+
+  [MONITORING] AEMC Gas Connection Charges Rule Commenced 1 October 2026:
+  Updated National Electricity Rules incorporating the AEMC's final rule on gas connection charges
+  formally commenced 1 October 2026. While focused on gas (not data centres directly), this
+  represents ongoing regulatory tightening that structurally disadvantages gas-dependent grid
+  alternatives versus SA's renewable-first infrastructure.
+  Source: AEMC / Ashurst Energy Alert | https://www.ashurst.com/en/insights/energy-alert-australian-electricity-and-gas-markets-february-2026-update/
 
   [MONITORING] Genassi Energy Secures Federal CIS Contract for 300 MW Bundey Solar Farm + 300 MW/
   1,200 MWh Battery: Confirms Bundey as SA's deepest co-located renewable and storage cluster —
@@ -31,7 +46,7 @@ No new updates today.
   600 MW (three units) extended; 390 MW reliability gap fully eliminated.
 
   [MONITORING] AEMO 2026 Final ISP: NTx (Bundey–Adelaide, A$3.1B) on the Optimal Development Path.
-  AER full-project regulatory approval is the next key milestone.
+  AER full-project regulatory approval is the next key milestone after PACR (December 2026).
 
   [MONITORING] ElectraNet 2026 TAPR (A$3.94B pipeline): Three priority zones — Eyre Peninsula
   Upgrade (~A$350M, 2027/28); South East Expansion (~A$80–90M); NTx (A$3.1B). Over 75 prospective
@@ -75,18 +90,17 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Firmus IPO Price Confirmed at A$11/Share — A$43.7B Valuation; Bookbuild Extended, Closes
-  9 October (1 October 2026) [HIGH RELEVANCE]:
-  Bloomberg reports that Firmus Grid Ltd. has confirmed its institutional offer price at A$11 per
-  share, implying a market capitalisation of approximately A$43.7 billion (US$30.3 billion). The base
-  raise has been refined to A$5 billion, with a 10% overallotment option bringing the maximum to
-  approximately A$5.5 billion — a tighter structure than earlier term-sheet figures suggested. The
-  institutional bookbuild has been extended by two days and now closes 9 October (previously 7 October);
-  retail offering runs 12–19 October; ASX debut is now targeted for 23 October. SA sites remain Tailem
-  Bend (~1.0 GW) and Stirling North/Port Augusta (~1.3 GW), anchored by 900 MW of contracted capacity
-  from OpenAI and backed by a US$10 billion Blackstone debt facility. Pre-IPO land option engagement
-  with Firmus closes at bookbuild open on 6 October — three days from today.
-  Source: Bloomberg | https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports
+• ⚡ URGENT — Firmus Institutional Bookbuild Opens TOMORROW (6 October): Pre-IPO
+  Land Option Window Closes in Under 48 Hours [HIGH RELEVANCE]:
+  The Firmus Grid institutional bookbuild opens tomorrow, 6 October, marking the close of the
+  pre-IPO land option engagement window for South Energy. Post-bookbuild, Firmus transitions to
+  ASX-listed entity status with lock-up restrictions affecting pre-IPO commercial arrangements.
+  Retail offering runs 12–19 October; ASX debut targeted 23 October. SA sites remain Tailem Bend
+  (~1.0 GW) and Stirling North/Port Augusta (~1.3 GW), anchored by 900 MW of contracted capacity
+  from OpenAI and backed by a US$10 billion Blackstone debt facility. The confirmed offer price
+  remains A$11/share (A$43.7 billion valuation), with the base raise at A$5 billion.
+  Sources: Bloomberg | https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports
+  The Next Web | https://thenextweb.com/news/firmus-ipo-october-timetable-asx
 
   [MONITORING] Diraq and Equinix Complete World-First Quantum Computer Deployment Inside Australian
   Commercial Data Centre (October 2026): Diraq's 8-qubit silicon-spin quantum computer commissioned
@@ -125,12 +139,12 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-No new updates today.
-
-  [MONITORING] PM&C AI Data Centre Consultation — 6 Days to Submission Deadline (9 October 2026):
-  Mandatory minimum standards consultation open; 30/100/150 MW threshold architecture confirmed.
-  SA's fully-renewable grid remains the cleanest compliance pathway for above-100 MW operators.
-  Submissions close 5pm AEDT 9 October 2026.
+• PM&C AI Data Centre Consultation — 5 Days to Submission Deadline (9 October 2026) [HIGH RELEVANCE]:
+  The federal mandatory minimum standards consultation enters its final 5-day window before
+  submissions close at 5pm AEDT on 9 October 2026. The 30/100/150 MW threshold architecture remains
+  confirmed. SA's fully-renewable grid remains the cleanest compliance pathway for above-100 MW
+  operators — any submission framing SA's Coordinator-General-approved projects as pre-legislation
+  assets will benefit from this alignment.
   Source: PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
 
   [MONITORING] Victorian Coalition Pledges to Scrap BYO Renewables Mandate for Data Centres; Will
@@ -208,8 +222,9 @@ No new updates today.
   single project under development.
 
   [MONITORING] NTx PADR (May 2026): Bundey–Bolivar/Dry Creek eastern 330 kV corridor under
-  Coordinator-General assessment. Estimated net market benefit A$356M–A$640M for Stage 1.
-  NTx corridor is South Energy's priority co-location and adjacency land acquisition target.
+  Coordinator-General assessment. PACR expected December 2026. Estimated net market benefit A$356M–
+  A$640M for Stage 1. NTx corridor is South Energy's priority co-location and adjacency land
+  acquisition target.
 
   [MONITORING] Partners Group (Swiss PE) acquisition of GreenSquareDC: PE-backed consolidation
   benchmarks Australian data centre land asset values; confirms SA Coordinator-General-approved
@@ -224,7 +239,7 @@ No new updates today.
 
   [MONITORING] Firmus Technologies' Project Southgate (Tailem Bend ~1.0 GW + Stirling North/Port
   Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX debut targeted 23 October 2026;
-  retail offering 12–19 October; bookbuild opens 6 October, closes 9 October.
+  retail offering 12–19 October; bookbuild OPENS TOMORROW 6 October, closes 9 October.
 
   [MONITORING] ~84% of ~9 GW proposed NEM connection requests still at application stage
   (Deloitte, June 2026) — confirms structural premium of completed connection agreements.
@@ -236,14 +251,14 @@ RenewEconomy (reneweconomy.com.au) | AEMO (aemo.com.au) | PM&C (pmc.gov.au) |
 ElectraNet (electranet.com.au) | King & Wood Mallesons (mallesons.com) |
 SA Government (energymining.sa.gov.au) | ASCLA (ascla.org) |
 CommBank (commbank.com.au) | Deloitte (deloitte.com.au) | w.media (w.media) |
-pv magazine Australia (pv-magazine-australia.com)
+pv magazine Australia (pv-magazine-australia.com) | The Next Web (thenextweb.com)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月3日
+📋 南澳州數據中心土地每日簡報 - 2026年10月4日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -251,19 +266,30 @@ pv magazine Australia (pv-magazine-australia.com)
 
 今日無新消息。
 
+  【持續監測】NTx項目評估結論報告（PACR）里程碑確認：2026年12月【高度相關】：
+  AEMO諮詢頁面確認，北部輸電項目（NTx）項目評估結論報告（PACR）預計於2026年12月
+  發布——這是獲得AER全項目監管批准的前置程序步驟。PACR一旦完成，將加速NTx走廊
+  （邦迪–阿德萊德）土地持有項目的最終投資決策。South Energy在NTx走廊的土地部署與
+  此里程碑直接掛鉤。
+  來源：AEMO NTx PADR諮詢 | https://www.aemo.com.au/consultations/current-and-closed-consultations/padr-northern-transmission-project
+
   【持續監測】AEMC數據中心電網接入技術標準最終裁定確定日期：2026年10月29日【高度相關】：
-  澳大利亞能源市場委員會（AEMC）已確認，就大型數據中心電網接入制定的具法律約束力技術標準
-  （30兆瓦以上門檻、擾動穿越要求、對標美國德州/愛爾蘭/芬蘭國際標準）最終裁定，將於
-  2026年10月29日正式公布——現已確認為固定日期。持有現有接入協議的項目面臨的新合規成本
-  風險最低；仍處於申請隊列中的項目風險最高。邦迪及NTx走廊的預先鎖定固定輸電接入協議，
-  在結構上已針對上述技術標準作出對應安排。
+  澳大利亞能源市場委員會（AEMC）已確認，就大型數據中心電網接入制定的具法律約束力技術
+  標準（30兆瓦以上門檻、擾動穿越要求、對標美國德州/愛爾蘭/芬蘭國際標準）最終裁定，
+  將於2026年10月29日正式公布——現已確認為固定日期。持有現有接入協議的項目面臨的新合規
+  成本風險最低；仍處於申請隊列中的項目風險最高。
   來源：AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
   WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
+
+  【持續監測】AEMC天然氣接入費用規則自2026年10月1日起正式生效：
+  包含天然氣接入費用最終規則修訂的《國家電力規則》更新版已於2026年10月1日正式生效。
+  此規則直接針對天然氣（而非數據中心），但代表著持續收緊的監管趨勢，在結構上加大了
+  依賴天然氣電網替代方案的競爭劣勢，相比之下南澳州可再生能源優先的電網優勢更加突出。
+  來源：AEMC / Ashurst Energy Alert | https://www.ashurst.com/en/insights/energy-alert-australian-electricity-and-gas-markets-february-2026-update/
 
   【持續監測】Genassi Energy獲聯邦容量投資計劃合同——南澳州邦迪300兆瓦光伏電站+
   300兆瓦/1,200兆瓦時電池：確認邦迪是南澳州集中度最高的可再生能源與儲能協同基礎
   設施地點——亦是South Energy在NTx走廊最優先的土地獲取目標。
-  來源：RenewEconomy關聯IREN邦迪公告背景
 
   【持續監測】AEMO確認托倫斯島B延壽後南澳州電力可靠性前景改善（2026年9月21日）：
   2026至2027年度可靠性缺口已正式閉合。
@@ -273,7 +299,7 @@ pv magazine Australia (pv-magazine-australia.com)
   機組獲延壽；390兆瓦可靠性缺口完全消除。
 
   【持續監測】AEMO 2026年最終ISP：NTx（邦迪–阿德萊德，31億澳元）納入最優發展路徑。
-  AER全項目監管批准為下一關鍵里程碑。
+  PACR（2026年12月）完成後，AER全項目監管批准為下一關鍵里程碑。
 
   【持續監測】ElectraNet 2026年TAPR（39.4億澳元管道）：三大優先輸電擴建區域——艾爾半
   島升級（約3.5億澳元，2027/28年）；東南擴建（約8,000至9,000萬澳元）；NTx（31億澳元）。
@@ -289,7 +315,7 @@ pv magazine Australia (pv-magazine-australia.com)
   【持續監測】AEMO：目前有11個大型數據中心、合計逾5吉瓦最大需求正在推進NEM輸電接入程序。
 
 
-☀️ 2. 可再生能源與選址實況
+☀️ 2. 可再生能源與選址時實況
 
 今日無新消息。
 
@@ -314,23 +340,21 @@ pv magazine Australia (pv-magazine-australia.com)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• Firmus IPO發行價確認為每股11澳元——估值達437億澳元（303億美元）；
-  機構簿記建檔延長至10月9日截止（2026年10月1日）【高度相關】：
-  彭博社報道，Firmus Grid Ltd.已確認機構發行價為每股11澳元，隱含市值約437億澳元
-  （約合303億美元）。基礎募資規模精確為50億澳元，附帶10%超額配售選擇權，最高可達
-  55億澳元——較早期認購意向書所反映的數字有所調整。機構簿記建檔窗口延長兩天，
-  截止日由原定10月7日更新為10月9日；零售發售期為10月12至19日；ASX上市目標日期
-  調整為10月23日。南澳州選址：塔萊姆本德（約1.0吉瓦）及史特靈北/阿古斯塔港
-  （約1.3吉瓦），以OpenAI 900兆瓦已簽約容量為基礎，並由貝萊德100億美元債務融資
-  提供支撐。IPO前與Firmus就土地期權的接觸窗口將於10月6日簿記建檔開啟時正式關閉
-  ——距今僅剩三天。
+• ⚡ 緊急提示——Firmus機構簿記建檔明日（10月6日）開啟：IPO前土地期權接觸
+  窗口將在48小時內關閉【高度相關】：
+  Firmus Grid機構簿記建檔將於明日10月6日開啟，標誌著South Energy與Firmus進行
+  IPO前土地期權商談接觸窗口的正式關閉。簿記建檔開啟後，Firmus將轉入ASX上市主體
+  狀態，IPO前商業安排受到閉鎖期限制。零售發售期為10月12至19日；ASX上市目標10月23日。
+  南澳州選址：塔萊姆本德（約1.0吉瓦）及史特靈北/阿古斯塔港（約1.3吉瓦），以OpenAI
+  900兆瓦已簽約容量為基礎，並由貝萊德100億美元債務融資提供支撐。確認發行價仍為每股
+  11澳元（估值437億澳元），基礎募資規模50億澳元。
   來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports
+  The Next Web | https://thenextweb.com/news/firmus-ipo-october-timetable-asx
 
   【持續監測】Diraq與Equinix完成澳大利亞首個商業數據中心量子計算機部署（2026年10月）：
   Diraq的8量子位硅自旋量子計算機已在Equinix悉尼數據中心完成安裝與調試——全球首台部署
   於共用商業同置設施的量子計算機。南澳州以澳大利亞唯一百分之百淨可再生能源電網為依托
-  的大型AI工廠園區（IREN邦迪、Firmus Southgate），正在成為此類融合算力基礎設施在突破
-  悉尼電網瓶頸後規模化擴張的最優平台。
+  的大型AI工廠園區，正在成為此類融合算力基礎設施規模化擴張的最優平台。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/
 
   【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區（OpenAI在澳大利亞首個自有
@@ -362,11 +386,11 @@ pv magazine Australia (pv-magazine-australia.com)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-今日無新消息。
-
-  【持續監測】PM&C AI數據中心諮詢——距提交截止日還剩6天（2026年10月9日）：
-  強制最低標準諮詢進行中；30/100/150兆瓦門檻架構已確認。南澳州全可再生能源電網仍是
-  100兆瓦以上運營商的最潔淨合規路徑。意見提交截止：2026年10月9日澳東夏令時下午5時。
+• PM&C AI數據中心諮詢——距提交截止日還剩5天（2026年10月9日）【高度相關】：
+  聯邦強制最低標準諮詢進入最後5天倒計時，提交截止為2026年10月9日澳東夏令時下午5時。
+  30/100/150兆瓦門檻架構已確認。南澳州全可再生能源電網仍是100兆瓦以上運營商的最潔淨
+  合規路徑——任何將南澳州總督察員批准項目定位為立法前存量資產的提交意見，均受益於
+  此合規優勢。
   來源：PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
 
   【持續監測】維多利亞州反對黨承諾廢除數據中心自備可再生能源強制要求，改推天然氣
@@ -438,8 +462,8 @@ pv magazine Australia (pv-magazine-australia.com)
   總容量約1,311兆瓦（2026年9月）。IREN邦迪800兆瓦是在建最大單體項目。
 
   【持續監測】NTx項目評估草案報告（2026年5月）：邦迪–博利瓦/幹溪東部330千伏走廊正在
-  接受總督察員評估；一期估算淨市場效益達3.56億至6.4億澳元。NTx走廊是South Energy
-  優先選定的聯合選址及毗鄰土地獲取目標。
+  接受總督察員評估；PACR預計2026年12月發布。一期估算淨市場效益達3.56億至6.4億澳元。
+  NTx走廊是South Energy優先選定的聯合選址及毗鄰土地獲取目標。
 
   【持續監測】Partners Group（瑞士私募股權）完成收購GreenSquareDC——印證持有已批准場址
   的收購溢價；確認南澳州獲總督察員批准的區域場址享有結構性稀缺溢價。
@@ -453,7 +477,7 @@ pv magazine Australia (pv-magazine-australia.com)
 
   【持續監測】Firmus科技「南門計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北/阿古斯塔港約
   1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX上市目標2026年10月23日；零售發售10月
-  12至19日；機構簿記建檔10月6日開啟，10月9日截止。
+  12至19日；機構簿記建檔明日10月6日開啟，10月9日截止。
 
   【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——
   確認已完成輸電連接協議場址的結構性稀缺溢價。
@@ -465,4 +489,4 @@ RenewEconomy（reneweconomy.com.au）| AEMO（aemo.com.au）| PM&C（pmc.gov.au�
 ElectraNet（electranet.com.au）| 金杜律師事務所（mallesons.com）|
 南澳州政府（energymining.sa.gov.au）| 澳大利亞供應鏈與物流協會（ascla.org）|
 澳洲聯邦銀行（commbank.com.au）| 德勤（deloitte.com.au）| w.media（w.media）|
-pv magazine Australia（pv-magazine-australia.com）
+pv magazine Australia（pv-magazine-australia.com）| The Next Web（thenextweb.com）
