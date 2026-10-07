@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 6 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 7 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -16,13 +16,13 @@ No new updates today.
   NTx corridor land positions are directly aligned with this milestone.
   Source: AEMO NTx PADR Consultation | https://www.aemo.com.au/consultations/current-and-closed-consultations/padr-northern-transmission-project
 
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 29 October 2026 [HIGH RELEVANCE]:
-  The AEMC has confirmed its final determination on binding technical connection standards for data
-  centres (30 MW+ threshold, disturbance ride-through requirements, alignment with Texas, Ireland and
-  Finland) will be published on 29 October 2026 — a now-firm calendar date. Projects holding existing
-  connection agreements face minimal new compliance cost exposure; projects still in the queue face
-  the highest risk. Pre-secured firm transmission agreements at Bundey and the NTx corridor are
-  specifically structured to satisfy these technical standards.
+  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 22 Days Away — 29 October 2026 [HIGH RELEVANCE]:
+  The AEMC final determination on binding technical connection standards for data centres (30 MW+
+  threshold, disturbance ride-through requirements, alignment with Texas, Ireland and Finland) is
+  now 22 days away. Projects holding existing connection agreements face minimal new compliance
+  cost exposure; projects still in the queue face the highest risk. Pre-secured firm transmission
+  agreements at Bundey and the NTx corridor are specifically structured to satisfy these technical
+  standards.
   Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
   WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
 
@@ -90,27 +90,25 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Firmus Institutional Bookbuild NOW OPEN — Day 1 of ASX IPO Roadshow (6 October 2026) [HIGH RELEVANCE]:
-  The Firmus institutional bookbuild officially opened this morning, 6 October 2026, as scheduled.
-  Pre-IPO commercial arrangements are now subject to lock-up restrictions under ASX listing rules.
-  Bookbuild closes 9 October; retail offering runs 12–19 October; ASX debut targeted 23 October.
-  Confirmed offer price: A$11/share (A$43.7 billion valuation); base raise A$5 billion. SA sites:
-  Tailem Bend (~1.0 GW) and Stirling North/Port Augusta (~1.3 GW), anchored by 900 MW contracted
-  from OpenAI and backed by a US$10 billion Blackstone debt facility. As Firmus transitions from
-  private to public entity, it becomes a transaction counterparty with listed-market liquidity and
-  institutional governance — directly increasing its capacity to execute land option and acquisition
-  agreements on SA sites adjacent to its confirmed campuses.
+• Firmus Institutional Bookbuild Day 2 of 3 — Closes TOMORROW 9 October [HIGH RELEVANCE]:
+  The Firmus institutional bookbuild is now in its second of three days (7 October 2026), with
+  close scheduled for TOMORROW (9 October). Retail offering opens 12 October; ASX debut targeted
+  23 October 2026. Confirmed offer price: A$11/share (A$43.7 billion valuation); base raise
+  A$5 billion. SA sites: Tailem Bend (~1.0 GW) and Stirling North/Port Augusta (~1.3 GW),
+  anchored by 900 MW contracted from OpenAI and backed by a US$10 billion Blackstone debt
+  facility. Once institutional demand is confirmed at tomorrow's bookbuild close, Firmus enters
+  the pre-retail lock-up phase as a structurally committed listed entity — directly enhancing
+  its capacity to execute land option and acquisition agreements on adjacent SA sites.
   Sources: Bloomberg | https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports
   The Next Web | https://thenextweb.com/news/firmus-ipo-october-timetable-asx
 
-• New Market Report: Australia Data Center Colocation Market Forecast USD 5.60B by 2031, 65 Upcoming Facilities (Published 6 October 2026) [HIGH RELEVANCE]:
-  A new Arizton Advisory & Intelligence market report published today (GlobeNewsWire, 6 October 2026)
-  confirms Australia's data center colocation market will grow at a 16.49% CAGR through 2031, driven
-  by AI and cloud demand, with 65 upcoming facilities identified as expanding capacity across more
-  than 20 cities. The wholesale/hyperscale segment is the fastest-growing category — structurally
-  favouring large-format, transmission-connected regional SA sites (Bundey 330 kV, NTx corridor)
-  over grid-constrained metropolitan colocation. The report's 65-facility pipeline count confirms
-  the depth of demand that SA's pre-approved land inventory is positioned to capture.
+  [MONITORING] New Market Report: Australia Data Center Colocation Market Forecast USD 5.60B by
+  2031, 65 Upcoming Facilities (Published 6 October 2026) [HIGH RELEVANCE]:
+  Arizton Advisory & Intelligence confirms Australia's data center colocation market will grow at
+  a 16.49% CAGR through 2031, driven by AI and cloud demand, with 65 upcoming facilities expanding
+  capacity across more than 20 cities. The wholesale/hyperscale segment is the fastest-growing
+  category — structurally favouring large-format, transmission-connected regional SA sites
+  (Bundey 330 kV, NTx corridor) over grid-constrained metropolitan colocation.
   Source: GlobeNewsWire / Arizton Advisory & Intelligence | https://www.globenewswire.com/news-release/2026/10/06/3375179/28124/en/australia-data-center-colocation-market-supply-and-demand-analysis-and-forecast-2026-2031-ai-and-cloud-demand-drive-16-49-cagr-and-wholesale-growth-through-2031.html
 
   [MONITORING] Apple & Meta Now Confirmed in Active Australian Data Centre Buyer Pipeline [HIGH RELEVANCE]:
@@ -165,15 +163,13 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-No new updates today.
-
-  [MONITORING] PM&C AI Data Centre Consultation — 3 Days to Submission Deadline (9 October 2026) [HIGH RELEVANCE]:
-  The federal mandatory minimum standards consultation enters its final 3-day window before
-  submissions close at 5pm AEDT on 9 October 2026. The 30/100/150 MW threshold architecture remains
-  confirmed. SA's fully-renewable grid remains the cleanest compliance pathway for above-100 MW
-  operators — any submission framing SA's Coordinator-General-approved projects as pre-legislation
-  assets will benefit from this alignment. Note: The Firmus bookbuild close date (9 October)
-  coincides exactly with this submission deadline.
+• PM&C AI Data Centre Consultation — Closes TOMORROW 9 October 2026 [HIGH RELEVANCE]:
+  The federal mandatory minimum standards consultation for AI data centres closes TOMORROW at
+  5pm AEDT (9 October 2026) — today is the final effective day to prepare and lodge submissions.
+  The 30/100/150 MW threshold architecture is confirmed; SA's fully-renewable grid remains
+  the cleanest compliance pathway for above-100 MW operators. Note: The Firmus bookbuild closes
+  on the same day (9 October) — a double catalyst that concentrates market attention on SA's
+  pre-legislation, pre-approved project pipeline.
   Source: PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
 
   [MONITORING] Victorian Coalition Pledges to Scrap BYO Renewables Mandate for Data Centres; Will
@@ -205,7 +201,7 @@ No new updates today.
 
   [MONITORING] ECMC September 2026 regulatory package: mandatory REGO + firming offset obligation;
   AEMC full capacity charging cost recovery; AEMC 30 MW+ technical standards (final determination
-  29 October 2026).
+  29 October 2026 — now 22 days away).
 
   [MONITORING] Australia to legislate mandatory net-generator requirement for large data centres:
   federal draft legislation targeting early 2027 Parliament introduction.
@@ -284,27 +280,28 @@ No new updates today.
 
   [MONITORING] Firmus Technologies' Project Southgate (Tailem Bend ~1.0 GW + Stirling North/Port
   Augusta ~1.3 GW) = 2.7 GW combined SA capacity. ASX debut targeted 23 October 2026;
-  retail offering 12–19 October; bookbuild OPEN 6 October, closes 9 October.
+  retail offering 12–19 October; bookbuild closes TOMORROW 9 October.
 
   [MONITORING] ~84% of ~9 GW proposed NEM connection requests still at application stage
   (Deloitte, June 2026) — confirms structural premium of completed connection agreements.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: Bloomberg (bloomberg.com) | GlobeNewsWire / Arizton Advisory (globenewswire.com) |
-The Next Web (thenextweb.com) | AEMC (aemc.gov.au) | WattClarity (wattclarity.com.au) |
-Data Center Dynamics (datacenterdynamics.com) | ABC News (abc.net.au) |
-RenewEconomy (reneweconomy.com.au) | AEMO (aemo.com.au) | PM&C (pmc.gov.au) |
-ElectraNet (electranet.com.au) | King & Wood Mallesons (mallesons.com) |
-SA Government (energymining.sa.gov.au) | ASCLA (ascla.org) |
-CommBank (commbank.com.au) | Deloitte (deloitte.com.au) | w.media (w.media) |
-pv magazine Australia (pv-magazine-australia.com) | AirTrunk / tech-insider.org (tech-insider.org)
+Sources: Bloomberg (bloomberg.com) | The Next Web (thenextweb.com) |
+GlobeNewsWire / Arizton Advisory (globenewswire.com) | AEMC (aemc.gov.au) |
+WattClarity (wattclarity.com.au) | Data Center Dynamics (datacenterdynamics.com) |
+ABC News (abc.net.au) | RenewEconomy (reneweconomy.com.au) | AEMO (aemo.com.au) |
+PM&C (pmc.gov.au) | ElectraNet (electranet.com.au) |
+King & Wood Mallesons (mallesons.com) | SA Government (energymining.sa.gov.au) |
+ASCLA (ascla.org) | CommBank (commbank.com.au) | Deloitte (deloitte.com.au) |
+w.media (w.media) | pv magazine Australia (pv-magazine-australia.com) |
+AirTrunk / tech-insider.org (tech-insider.org) | RenewMap (renewmap.com.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月6日
+📋 南澳州數據中心土地每日簡報 - 2026年10月7日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -319,11 +316,12 @@ pv magazine Australia (pv-magazine-australia.com) | AirTrunk / tech-insider.org 
   此里程碑直接掛鉤。
   來源：AEMO NTx PADR諮詢 | https://www.aemo.com.au/consultations/current-and-closed-consultations/padr-northern-transmission-project
 
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定確定日期：2026年10月29日【高度相關】：
-  澳大利亞能源市場委員會（AEMC）已確認，就大型數據中心電網接入制定的具法律約束力技術
-  標準（30兆瓦以上門檻、擾動穿越要求、對標美國德州/愛爾蘭/芬蘭國際標準）最終裁定，
-  將於2026年10月29日正式公布——現已確認為固定日期。持有現有接入協議的項目面臨的新合規
-  成本風險最低；仍處於申請隊列中的項目風險最高。
+  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩22天（2026年10月29日）【高度相關】：
+  澳大利亞能源市場委員會（AEMC）就大型數據中心電網接入制定的具法律約束力技術標準
+  （30兆瓦以上門檻、擾動穿越要求、對標美國德州/愛爾蘭/芬蘭國際標準）最終裁定，
+  距公布僅剩22天。持有現有接入協議的項目面臨的新合規成本風險最低；仍處於申請隊列
+  中的項目風險最高。邦迪及NTx走廊的預先鎖定固定輸電協議，已專門針對這些技術標準
+  進行結構設計。
   來源：AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
   WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
 
@@ -386,25 +384,22 @@ pv magazine Australia (pv-magazine-australia.com) | AirTrunk / tech-insider.org 
 
 🏢 3. 科技公司需求（潛在買家）
 
-• ⚡ Firmus機構簿記建檔正式開啟——ASX IPO路演第一天（2026年10月6日）【高度相關】：
-  Firmus機構簿記建檔已於今日（2026年10月6日）上午正式開啟。隨著簿記建檔啟動，Firmus
-  正式進入ASX上市流程，IPO前商業安排現已受到閉鎖期規則限制。簿記建檔截止：10月9日；
-  零售發售期：10月12至19日；ASX上市目標：10月23日。確認發行價每股11澳元（估值437億澳元）；
-  基礎募資50億澳元。南澳州選址：塔萊姆本德（約1.0吉瓦）及史特靈北/阿古斯塔港（約1.3吉瓦），
-  以OpenAI 900兆瓦已簽約容量為基礎，並由貝萊德100億美元債務融資提供支撐。Firmus從私人
-  公司轉型為上市主體後，具備更強的資本流動性與機構治理架構，直接提升其就南澳州毗鄰
-  已確認園區的土地期權及收購協議執行能力。
+• ⚡ Firmus機構簿記建檔第2天（共3天）——明日（10月9日）截止【高度相關】：
+  Firmus機構簿記建檔今日（2026年10月7日）進入第二天，明日（10月9日）截止。
+  零售發售期：10月12日至19日；ASX上市目標：10月23日。確認發行價每股11澳元
+  （估值437億澳元）；基礎募資50億澳元。南澳州選址：塔萊姆本德（約1.0吉瓦）及
+  史特靈北/阿古斯塔港（約1.3吉瓦），以OpenAI 900兆瓦已簽約容量為基礎，並由
+  貝萊德100億美元債務融資提供支撐。明日簿記建檔關閉後，機構需求一旦正式確認，
+  Firmus即進入零售發售前閉鎖期，作為正式掛牌主體其執行毗鄰場址土地期權及收購
+  協議的能力將顯著增強。
   來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports
   The Next Web | https://thenextweb.com/news/firmus-ipo-october-timetable-asx
 
-• 新市場報告：澳大利亞數據中心同置市場預計2031年達56億美元，65個在建設施確認【高度相關】
-  （發布日期：2026年10月6日）：
-  Arizton Advisory & Intelligence今日（2026年10月6日）在GlobeNewsWire發布最新市場報告，
-  確認澳大利亞數據中心同置市場將以16.49%複合年增長率增長至2031年，受AI與雲端需求驅動，
-  目前已識別65個在建設施正在擴大容量，覆蓋逾20座城市。批發/超大規模部分是增長最快的
-  細分市場——在結構上利好具備輸電接入的大型南澳州區域場址（邦迪330千伏、NTx走廊），
-  而非電網受限的都市同置設施。65個在建設施的管道規模，印證了南澳州預先批准土地庫存
-  所能把握的需求深度。
+  【持續監測】新市場報告：澳大利亞數據中心同置市場預計2031年達56億美元，65個在建設施
+  確認（發布日期：2026年10月6日）【高度相關】：
+  Arizton Advisory & Intelligence確認澳大利亞數據中心同置市場將以16.49%複合年增長率
+  增長至2031年，受AI與雲端需求驅動，65個在建設施覆蓋逾20座城市。批發/超大規模部分
+  是增長最快的細分市場，結構上利好具備輸電接入的大型南澳州區域場址。
   來源：GlobeNewsWire / Arizton Advisory & Intelligence | https://www.globenewswire.com/news-release/2026/10/06/3375179/28124/en/australia-data-center-colocation-market-supply-and-demand-analysis-and-forecast-2026-2031-ai-and-cloud-demand-drive-16-49-cagr-and-wholesale-growth-through-2031.html
 
   【持續監測】Apple與Meta正式確認進入澳大利亞數據中心需求採購管道【高度相關】：
@@ -417,15 +412,14 @@ pv magazine Australia (pv-magazine-australia.com) | AirTrunk / tech-insider.org 
   【持續監測】CDC簽署澳大利亞有史以來最大數據中心合同——555兆瓦（2026年5月）【高度相關】：
   CDC數據中心於2026年5月簽署澳大利亞有史以來規模最大的數據中心單筆合同：與一家美國
   投資級超大規模雲端商簽署555兆瓦協議，合同容量將於FY28至FY29年度在各CDC園區陸續投入
-  運營。CDC同步向新南威爾士州沃加沃加提交1.4吉瓦園區規劃申請（2026年9月），該項目
-  位於新南威爾士州煤電混合電網，須全面承擔自備可再生能源合規義務——而南澳州NTx走廊
-  場址無需承擔上述成本。CDC同時是推動南澳州《數據中心與AI基礎設施法》政策參與行業
-  峰值機構的成員，確認其南澳州擴張意圖。
+  運營。CDC同步提交沃加沃加1.4吉瓦園區規劃申請（2026年9月），位於NSW煤電混合電網，
+  須全面承擔自備可再生能源合規義務。CDC同時是推動南澳州《數據中心與AI基礎設施法》
+  行業峰值機構的成員，確認其南澳州擴張意圖。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
   【持續監測】Diraq與Equinix完成澳大利亞首個商業數據中心量子計算機部署（2026年10月）：
-  Diraq的8量子位硅自旋量子計算機已在Equinix悉尼數據中心完成安裝與調試——全球首台部署
-  於共用商業同置設施的量子計算機。
+  Diraq的8量子位硅自旋量子計算機已在Equinix悉尼數據中心完成安裝——全球首台部署於
+  共用商業同置設施的量子計算機。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/
 
   【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區（OpenAI在澳大利亞首個自有
@@ -457,13 +451,11 @@ pv magazine Australia (pv-magazine-australia.com) | AirTrunk / tech-insider.org 
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-今日無新消息。
-
-  【持續監測】PM&C AI數據中心諮詢——距提交截止日還剩3天（2026年10月9日）【高度相關】：
-  聯邦強制最低標準諮詢進入最後3天倒計時，提交截止為2026年10月9日澳東夏令時下午5時。
-  30/100/150兆瓦門檻架構已確認。南澳州全可再生能源電網仍是100兆瓦以上運營商的最潔淨
-  合規路徑——任何將南澳州總督察員批准項目定位為立法前存量資產的提交意見，均受益於
-  此合規優勢。注：Firmus簿記建檔截止日期（10月9日）與本諮詢截止日期完全重疊。
+• ⚡ PM&C AI數據中心諮詢——明日（2026年10月9日）截止【高度相關】：
+  聯邦強制最低標準諮詢明日（2026年10月9日）澳東夏令時下午5時截止——今日為業界
+  提交意見的最後有效備稿日。30/100/150兆瓦門檻架構已確認；南澳州全可再生能源電網
+  仍是100兆瓦以上運營商最潔淨的合規路徑。注：Firmus機構簿記建檔同樣於10月9日截止
+  ——雙重催化劑同步觸發，市場聚焦南澳州立法前已批准項目管道。
   來源：PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
 
   【持續監測】維多利亞州反對黨承諾廢除數據中心自備可再生能源強制要求，改推天然氣
@@ -492,7 +484,8 @@ pv magazine Australia (pv-magazine-australia.com) | AirTrunk / tech-insider.org 
   能源目標默認滿足聯邦能源標準——形成結構性合規優勢。
 
   【持續監測】ECMC 2026年9月監管一攬子規則：強制性REGO可再生能源及調峰抵消義務；
-  AEMC容量收費全額成本回收；AEMC 30兆瓦以上技術標準（最終裁定2026年10月29日）。
+  AEMC容量收費全額成本回收；AEMC 30兆瓦以上技術標準（最終裁定2026年10月29日——
+  距今僅22天）。
 
   【持續監測】澳大利亞擬立法強制要求大型數據中心履行「淨發電商」義務：聯邦立法草案
   目標2027年初提交議會。
@@ -512,21 +505,19 @@ pv magazine Australia (pv-magazine-australia.com) | AirTrunk / tech-insider.org 
   【持續監測】NEXTDC在維多利亞州傑隆附近收購169公頃土地（2026年6月）【高度相關】：
   NEXTDC在墨爾本附近傑隆購入169公頃土地，這一超大規模土地部署與其同步進行的南澳州
   阿德萊德新選址評估形成雙軌策略。結合過去四個月逾34億澳元的新增融資，NEXTDC在阿德萊德
-  的評估工作具備充足的資本支撐。同時布局墨爾本/傑隆及南澳州，確認NEXTDC為近期南澳州
-  場址收購的有力候選方。
+  的評估工作具備充足的資本支撐。確認NEXTDC為近期南澳州場址收購的有力候選方。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
   【持續監測】Centuria集團在墨爾本申請建設40兆瓦數據中心（2026年）：
-  澳大利亞上市房地產集團Centuria已提交墨爾本40兆瓦數據中心規劃申請——這是一家非專業
-  數據中心運營商進入市場的新案例，印證傳統工業地產持有方正通過土地用途轉換來獲取
-  20%至63%的估值溢價。此趨勢直接加大了對南澳州NTx走廊輸電節點毗鄰的預先分區工業用地
-  的競爭需求。
+  澳大利亞上市房地產集團Centuria已提交墨爾本40兆瓦數據中心規劃申請——印證傳統工業
+  地產持有方正通過土地用途轉換來獲取20%至63%的估值溢價。此趨勢直接加大了對南澳州
+  NTx走廊輸電節點毗鄰的預先分區工業用地的競爭需求。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/centuria-plans-40mw-data-center-in-melbourne-australia/
 
   【持續監測】CDC數據中心計劃在新南威爾士州沃加沃加建設150億澳元/1.4吉瓦區域園區
   （2026年9月30日）【高度相關】：規劃申請已提交，103.8公頃地塊。核心對比：沃加沃加
-  選址位於新南威爾士州煤電混合電網，須在聯邦強制性標準下全面履行自備可再生能源義務；
-  而南澳州NTx走廊場址天然免除上述合規成本及執行風險。
+  選址位於新南威爾士州煤電混合電網，須全面履行自備可再生能源義務；南澳州NTx走廊場址
+  天然免除上述合規成本。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
   ABC新聞 | https://www.abc.net.au/news/2026-09-30/15-billion-dollar-data-centre-proposed-for-wagga-wagga/107191146
 
@@ -563,17 +554,18 @@ pv magazine Australia (pv-magazine-australia.com) | AirTrunk / tech-insider.org 
 
   【持續監測】Firmus科技「南門計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北/阿古斯塔港約
   1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。ASX上市目標2026年10月23日；零售發售10月
-  12至19日；機構簿記建檔已於10月6日正式開啟，10月9日截止。
+  12至19日；機構簿記建檔明日（10月9日）截止。
 
   【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——
   確認已完成輸電連接協議場址的結構性稀缺溢價。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：Bloomberg（bloomberg.com）| GlobeNewsWire / Arizton Advisory（globenewswire.com）|
-The Next Web（thenextweb.com）| AEMC（aemc.gov.au）| WattClarity（wattclarity.com.au）|
-Data Center Dynamics（datacenterdynamics.com）| ABC新聞（abc.net.au）|
-RenewEconomy（reneweconomy.com.au）| AEMO（aemo.com.au）| PM&C（pmc.gov.au）|
-ElectraNet（electranet.com.au）| 金杜律師事務所（mallesons.com）|
+資料來源：Bloomberg（bloomberg.com）| The Next Web（thenextweb.com）|
+GlobeNewsWire / Arizton Advisory（globenewswire.com）| AEMC（aemc.gov.au）|
+WattClarity（wattclarity.com.au）| Data Center Dynamics（datacenterdynamics.com）|
+ABC新聞（abc.net.au）| RenewEconomy（reneweconomy.com.au）| AEMO（aemo.com.au）|
+PM&C（pmc.gov.au）| ElectraNet（electranet.com.au）| 金杜律師事務所（mallesons.com）|
 南澳州政府（energymining.sa.gov.au）| 澳大利亞供應鏈與物流協會（ascla.org）|
 澳洲聯邦銀行（commbank.com.au）| 德勤（deloitte.com.au）| w.media（w.media）|
-pv magazine Australia（pv-magazine-australia.com）| AirTrunk / tech-insider.org（tech-insider.org）
+pv magazine Australia（pv-magazine-australia.com）| AirTrunk / tech-insider.org（tech-insider.org）|
+RenewMap（renewmap.com.au）
