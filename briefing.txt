@@ -1,12 +1,33 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 14 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 15 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-No new updates today.
+• [NEW] AEMO Launches World-First Trial: Grid Operation with Zero Synchronous Generation [HIGH RELEVANCE]
+  AEMO has commenced a world-first trial using grid-scale battery inverters to sustain stable
+  operation of Australia's interconnected grid with no synchronous generation online. If validated
+  at commercial scale, this directly removes the system strength barrier that currently requires
+  synchronous gas plant to remain online — a structural constraint limiting how fast large new
+  loads can connect without triggering system strength obligations or incurring synchronous
+  condenser costs. South Australia, with the NEM's highest renewable penetration and the Bundey
+  330 kV anchor node, is the primary proving ground for this operating mode. A successful outcome
+  materially reduces the per-MW compliance cost for new data centre connections in the NTx
+  corridor.
+  Source: RenewEconomy | https://reneweconomy.com.au/aemo-turns-to-battery-inverters-for-world-first-trial-of-running-big-grids-with-no-synchronous-generation/
+
+• [UPDATED COUNTDOWN — 14 DAYS] AEMC Final Determination on Data Centre Grid Standards:
+  29 October 2026 [HIGH RELEVANCE]
+  One day closer: the AEMC binding technical standard for 30 MW+ data centres (disturbance
+  ride-through, system strength self-remediation or charge, alignment with Texas/Ireland/Finland
+  benchmarks) is now 14 days away. Pre-secured firm transmission agreements at Bundey and the NTx
+  corridor are specifically structured to satisfy these standards from day one of the
+  determination's commencement. Projects still in the connection queue face the highest compliance
+  exposure post-determination.
+  Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
+  WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
 
   [MONITORING] NTx PACR Milestone Confirmed: December 2026 [HIGH RELEVANCE]:
   AEMO's consultation page confirms the Northern Transmission Project (NTx) Project Assessment
@@ -15,44 +36,6 @@ No new updates today.
   decisions for projects holding land in the NTx (Bundey–Adelaide) corridor. South Energy's
   NTx corridor land positions are directly aligned with this milestone.
   Source: AEMO NTx PADR Consultation | https://www.aemo.com.au/consultations/current-and-closed-consultations/padr-northern-transmission-project
-
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 15 DAYS AWAY — 29 October 2026 [HIGH RELEVANCE]:
-  The AEMC final determination on binding technical connection standards for data centres (30 MW+
-  threshold, disturbance ride-through requirements, alignment with Texas, Ireland and Finland) is
-  now 15 days away. Projects holding existing connection agreements face minimal new compliance
-  cost exposure; projects still in the queue face the highest risk. Pre-secured firm transmission
-  agreements at Bundey and the NTx corridor are specifically structured to satisfy these technical
-  standards.
-  Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
-  WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
-
-  [MONITORING] AEMO SA Voltage Support Intervention Notice (9 October 2026) — Subsequently Withdrawn:
-  AEMO issued a possible voltage-related intervention notice for the South Australia region on
-  9 October 2026, then withdrew it the same day after confirming the power system security concern
-  was resolved. The episode reflects increasing grid management complexity as large new industrial
-  and data centre loads progress through connection. SA's Bundey 330 kV node — the primary
-  transmission anchor for South Energy's NTx corridor positions — remains central to voltage
-  profile management under expanded load scenarios.
-  Source: AEMO Market Notices | https://www.aemo.com.au/market-notices
-
-  [MONITORING] AEMC Gas Connection Charges Rule Commenced 1 October 2026:
-  Updated National Electricity Rules incorporating the AEMC's final rule on gas connection charges
-  formally commenced 1 October 2026. This represents ongoing regulatory tightening that
-  structurally disadvantages gas-dependent grid alternatives versus SA's renewable-first
-  infrastructure.
-  Source: AEMC / Ashurst Energy Alert | https://www.ashurst.com/en/insights/energy-alert-australian-electricity-and-gas-markets-february-2026-update/
-
-  [MONITORING] Genassi Energy Secures Federal CIS Contract for 300 MW Bundey Solar Farm + 300 MW/
-  1,200 MWh Battery: Confirms Bundey as SA's deepest co-located renewable and storage cluster —
-  South Energy's highest-priority NTx corridor land acquisition target.
-  Source: RenewEconomy context via IREN Bundey announcement
-
-  [MONITORING] AEMO Confirms SA Reliability Outlook Improved Following Torrens Island B Extension
-  (21 September 2026): 2026–27 reliability gap formally closed.
-  Source: AEMO | https://www.aemo.com.au/newsroom/media-release/reliability-outlook-improves-timely-investment-delivery-essential
-
-  [MONITORING] SA Government and AGL Sign Funding Deal to Extend Torrens Island B to July 2028:
-  600 MW (three units) extended; 390 MW reliability gap fully eliminated.
 
   [MONITORING] AEMO 2026 Final ISP: NTx (Bundey–Adelaide, A$3.1B) on the Optimal Development Path.
   AER full-project regulatory approval is the next key milestone after PACR (December 2026).
@@ -66,9 +49,6 @@ No new updates today.
   data centres, AI, defence, mining and green steel.
   Sources: ElectraNet TAPR 2026 | pv magazine Australia
 
-  [MONITORING] AEMO Grid Reference Transitional Services commenced 1 July 2026. AMPYR Northern
-  Battery (270 MW, Port Augusta) targeting financial close Q4 2026.
-
   [MONITORING] Project EnergyConnect (SA–NSW interconnector): SA construction completed, including
   SA's first 330 kV substation at Bundey (206 km Robertstown–NSW border line). Full 800 MW
   transfer capability targeted following NSW Stage 2 completion.
@@ -77,27 +57,37 @@ No new updates today.
   [MONITORING] AEMO: 11 large data centres representing more than 5 GW of maximum demand currently
   working through transmission connection in the NEM.
 
+  [MONITORING] AEMC Gas Connection Charges Rule Commenced 1 October 2026: ongoing regulatory
+  tightening that structurally disadvantages gas-dependent grid alternatives versus SA's
+  renewable-first infrastructure.
+
+  [MONITORING] Genassi Energy Secures Federal CIS Contract for 300 MW Bundey Solar Farm + 300 MW/
+  1,200 MWh Battery: Confirms Bundey as SA's deepest co-located renewable and storage cluster —
+  South Energy's highest-priority NTx corridor land acquisition target.
+
+  [MONITORING] SA Government and AGL Sign Funding Deal to Extend Torrens Island B to July 2028:
+  600 MW (three units) extended; 390 MW reliability gap fully eliminated.
+
+  [MONITORING] AEMO Grid Reference Transitional Services commenced 1 July 2026.
+
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-No new updates today.
+• [NEW] AMPYR Australia Receives AEMO Section 5.3.4 Connection Letter for 270 MW Grid-Forming
+  Battery at Port Augusta [HIGH RELEVANCE]
+  AMPYR Australia has received its AEMO section 5.3.4 connection enquiry response letter for its
+  270 MW grid-forming battery energy storage system at Port Augusta — the first formal AEMO
+  connection process milestone for this project. Grid-forming (not grid-following) inverter
+  technology enables the battery to provide synthetic inertia and system strength services without
+  synchronous plant, directly supporting data centre connection viability at the Bundey 330 kV
+  node and throughout the NTx corridor. AMPYR is targeting financial close Q4 2026; once
+  operational, the battery substantially reduces per-MW system strength compliance costs for NTx
+  corridor land positions.
+  Source: Energy-Storage.News | https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
 
-  [MONITORING] Goyder North Wind Farm Construction Commenced — 7 October 2026: Construction of
-  the Goyder North Wind Farm has formally started, adding a major wind generation component to
-  the Goyder Renewables Zone precinct — the same corridor hosting Goyder Battery Stage 2
-  (454 MW/1,814 MWh, operational 2028) co-located with IREN's 800 MW Bundey data centre campus.
-  The wind farm further deepens the stacked renewable generation and storage profile at South
-  Energy's highest-priority NTx corridor land acquisition target.
+  [MONITORING] Goyder North Wind Farm Construction Commenced — 7 October 2026: adds major wind
+  generation to the Goyder Renewables Zone precinct, co-located with IREN's 800 MW Bundey campus.
   Source: pv magazine Australia | https://www.pv-magazine-australia.com/
-
-  [MONITORING] Owner of Australia's Largest Wind Farm Submits Plans for 1 GW/4-Hour Standalone
-  Battery into Federal Connection Queue (29 September 2026): Adds ~4 GWh to grid-scale flexible
-  storage pipeline alongside surging renewable capacity.
-  Source: RenewEconomy | https://reneweconomy.com.au/
-
-  [MONITORING] NEM Sets New All-Time Curtailment Record 11,109 MW (21 September 2026) and 7-Day
-  Rolling Renewable Mean Tops 50% for First Time (22 September 2026).
-  Sources: pv magazine Australia | RenewEconomy
 
   [MONITORING] Goyder Battery Stage 2 (454 MW/1,814 MWh): Contracts executed with Tesla
   (Megapack 3/Megablock) and UGL; site works commenced August 2026; operational 2028. Co-located
@@ -110,94 +100,68 @@ No new updates today.
   [MONITORING] Gawler Ranges East (~5,200 km²) and Whyalla West (~6,500 km²) renewable energy
   release areas: tender closed 28 June 2026; outcomes under assessment by SA Government.
 
+  [MONITORING] Owner of Australia's Largest Wind Farm Submits Plans for 1 GW/4-Hour Standalone
+  Battery into Federal Connection Queue (29 September 2026): Adds ~4 GWh to grid-scale flexible
+  storage pipeline.
+  Source: RenewEconomy | https://reneweconomy.com.au/
+
+  [MONITORING] NEM Sets New All-Time Curtailment Record 11,109 MW (21 September 2026) and 7-Day
+  Rolling Renewable Mean Tops 50% for First Time (22 September 2026).
+  Sources: pv magazine Australia | RenewEconomy
+
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• [HIGH RELEVANCE] CDC Formally Ends 1.6 GW Project Southgate Partnership with Firmus — Only 42 MW Deployed — October 2026:
-  CDC Data Centres CEO Greg Boorer confirmed the company has ended its Project Southgate
-  partnership with Firmus Technologies, with only 42 MW delivered against a target of 1.6 GW
-  by 2028. CDC will now pursue its own independent data centre developments. This is a
-  structurally significant development for SA: CDC is now an unconstrained, independent
-  buyer for large-format SA land. CDC retains A$15B / 1.4 GW plans in Wagga Wagga (NSW coal
-  grid) and the structural compliance cost disadvantage of that site versus SA's fully-renewable
-  NTx corridor is now CDC's own problem to solve — making an SA expansion more likely than at
-  any point since the partnership began. CDC is already a member of the joint industry body
-  driving the SA Data Centre and AI Infrastructure Act.
+No new updates today.
+
+  [MONITORING] CDC Formally Ends 1.6 GW Project Southgate Partnership with Firmus — Only 42 MW
+  Deployed — October 2026 [HIGH RELEVANCE]: CDC is now an unconstrained, independent buyer for
+  large-format SA land. CDC's A$15B / 1.4 GW Wagga Wagga (NSW coal grid) compliance cost
+  disadvantage now falls entirely on CDC — making an SA expansion more likely than at any point
+  since the partnership began.
   Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/firmus-and-cdc-end-16gw-project-southgate-collaboration-deploy-just-42mw/
   w.media | https://w.media/firmus-and-cdc-end-project-southgate-partnership-after-42mw-rollout/
   The Tech Capital | https://thetechcapital.com/firmus-reportedly-weighs-ipo-repricing-cdc-partnership-ends/
 
   [MONITORING] Anthropic Eyeing Investment in Australian Regional Data Center Sites — 13 October 2026:
-  Anthropic International Special Envoy Jeff Bleich disclosed at the AFR Energy and Climate Summit
-  in Sydney that Anthropic is actively evaluating Australian data centre investments, with a
-  specific stated preference for regional areas and brownfield sites. Multiple state premiers have
-  already pitched specific projects to Anthropic. SA's 100% net-renewable grid, pre-secured NTx
-  330 kV transmission, and Coordinator-General fast-track approval pathway directly satisfy
-  Anthropic's stated regional/brownfield preference — and its existing 2.16 GW Queensland campus
-  lease confirms the scale of its Australian demand appetite. Anthropic now joins Google, Apple,
-  Meta, Amazon, and Microsoft as a confirmed active Australian data centre acquisition candidate.
+  Anthropic International Special Envoy Jeff Bleich confirmed at the AFR Energy and Climate Summit
+  that Anthropic is actively evaluating Australian data centre investments with stated preference
+  for regional/brownfield sites. SA's 100% net-renewable grid and NTx 330 kV transmission
+  directly satisfy this preference. Anthropic now joins Google, Apple, Meta, Amazon, and Microsoft
+  as a confirmed active Australian data centre acquisition candidate.
   Sources: Bloomberg | https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says
   MarketScreener | https://www.marketscreener.com/news/amazon-backed-anthropic-eyes-data-center-investments-in-australia-ce785ddddd80f426
 
-  [MONITORING] Macquarie DC Acquires 34,200 sqm Sydney Site for 200MW Data Centre Campus:
-  Infrastructure-backed Macquarie DC has acquired a 34,200 sqm site in Sydney for a planned
-  200MW data centre campus, further compressing NSW grid access and reinforcing SA's NTx corridor
-  as the preferred alternative for hyperscale second-site AI inference deployment.
-  Source: Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
-
-  [MONITORING] Stockland & Fife Capital File for 168MW Western Sydney Data Centre Campus:
-  Australia's largest ASX-listed developer, Stockland, has filed planning documents for a 168MW
-  campus in western Sydney in partnership with specialist Fife Capital — confirming the mainstream
-  listed property sector's entry into large-format data centre development and adding further
-  pressure to Sydney grid connection capacity.
-  Source: Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
-
-  [MONITORING] Firmus IPO COLLAPSED — Investment Banks Halted Bookbuilding October 8; Stock
-  Sank 23% [HIGH RELEVANCE]: Firmus's A$30 billion Australian IPO has collapsed. The planned
-  A$5 billion raise is cancelled, eliminating Firmus's near-term capacity to fund SA land
-  acquisitions at Tailem Bend (~1.0 GW) and Stirling North/Port Augusta (~1.3 GW). Firmus is
-  removed as an imminent SA land-acquisition counterparty — but the underlying demand it
-  represented (900 MW contracted to OpenAI; Blackstone US$10B debt facility) redirects toward
-  surviving well-capitalised operators (IREN, CDC, NEXTDC, AirTrunk) with active SA pipelines.
+  [MONITORING] Firmus IPO COLLAPSED — October 8 2026 [HIGH RELEVANCE]: A$30B IPO cancelled;
+  Firmus no longer a near-term SA land-acquisition counterparty. Demand (900 MW contracted to
+  OpenAI; Blackstone US$10B facility) redirects to IREN, CDC, NEXTDC, AirTrunk.
   Source: au.investing.com | https://au.investing.com/news/stock-market-news/a-stock-sinks-23-as-australias-30bn-firmus-ai-datacentre-ipo-collapses-4680887
 
   [MONITORING] New Market Report: Australia Data Center Colocation Market Forecast USD 5.60B by
-  2031, 65 Upcoming Facilities (Published 6 October 2026) [HIGH RELEVANCE]:
-  Arizton Advisory & Intelligence confirms Australia's data center colocation market will grow at
-  a 16.49% CAGR through 2031, driven by AI and cloud demand, with 65 upcoming facilities expanding
-  capacity across more than 20 cities. The wholesale/hyperscale segment is the fastest-growing
-  category — structurally favouring large-format, transmission-connected regional SA sites.
-  Source: GlobeNewsWire / Arizton Advisory & Intelligence | https://www.globenewswire.com/news-release/2026/10/06/3375179/28124/en/australia-data-center-colocation-market-supply-and-demand-analysis-and-forecast-2026-2031-ai-and-cloud-demand-drive-16-49-cagr-and-wholesale-growth-through-2031.html
+  2031, 65 Upcoming Facilities (Published 6 October 2026) [HIGH RELEVANCE]. Wholesale/hyperscale
+  segment fastest-growing, structurally favouring large-format SA sites.
+  Source: GlobeNewsWire / Arizton | https://www.globenewswire.com/news-release/2026/10/06/3375179/28124/en/australia-data-center-colocation-market-supply-and-demand-analysis-and-forecast-2026-2031-ai-and-cloud-demand-drive-16-49-cagr-and-wholesale-growth-through-2031.html
 
   [MONITORING] Apple & Meta Now Confirmed in Active Australian Data Centre Buyer Pipeline [HIGH RELEVANCE]:
-  AirTrunk confirmed stronger-than-expected interest from Google, Apple, Meta, Amazon and Microsoft
-  for new Australian data centre capacity over the past 6–8 months. SA's 100% net-renewable grid,
-  pre-secured NTx 330 kV connection, and Coordinator-General fast-track pathway directly satisfy
-  Apple and Meta's Scope 2 zero-carbon procurement requirements for AI inference infrastructure.
+  AirTrunk confirmed stronger-than-expected interest from Google, Apple, Meta, Amazon and Microsoft.
+  SA's 100% net-renewable grid, NTx 330 kV connection, and Coordinator-General fast-track pathway
+  directly satisfy Scope 2 zero-carbon requirements.
   Source: AirTrunk (via tech-insider.org)
 
-  [MONITORING] CDC Signs Australia's Largest Data Centre Contract — 555 MW (May 2026) [HIGH RELEVANCE]:
-  CDC Data Centres signed the largest data centre contract in Australian history in May 2026: a
-  555 MW deal with a single US investment-grade hyperscale customer, to be delivered across CDC
-  campuses commencing FY28 and FY29. CDC simultaneously filed planning documents for a 1.4 GW
-  campus at Wagga Wagga, NSW (September 2026) — on the coal-blended NSW grid under full
-  BYO-renewable compliance obligations that SA NTx corridor sites do not carry. CDC's active
-  membership of the joint industry body driving SA's Data Centre and AI Infrastructure Act
-  confirms it as a near-term SA expansion candidate.
+  [MONITORING] CDC Signs Australia's Largest Data Centre Contract — 555 MW (May 2026) [HIGH RELEVANCE].
+  CDC filing for 1.4 GW Wagga Wagga on NSW coal grid; SA NTx corridor sites structurally superior
+  on renewable compliance.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
-  [MONITORING] Diraq and Equinix Complete World-First Quantum Computer Deployment Inside Australian
-  Commercial Data Centre (October 2026): Diraq's 8-qubit silicon-spin quantum computer commissioned
-  at Equinix's Sydney data centre — the world's first deployment in a shared commercial colocation
-  facility.
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/
-
-  [MONITORING] NEXTDC and OpenAI: dedicated AI campus in Sydney (OpenAI's first proprietary compute
-  facility in Australia); NEXTDC simultaneously evaluating new Adelaide expansion sites.
+  [MONITORING] NEXTDC and OpenAI: dedicated AI campus in Sydney; NEXTDC simultaneously evaluating
+  new Adelaide expansion sites. Total fresh capital exceeds A$3.4B across four months.
 
   [MONITORING] AirTrunk, CDC, NEXTDC, AWS, Microsoft: joint industry peak body formed to drive
   federal and SA policy engagement, including input into SA's proposed Data Centre and AI
   Infrastructure Act.
+
+  [MONITORING] AEMO ESOO 2026: data centre NEM consumption forecast 5 TWh (FY2025–26) →
+  34 TWh (FY2035–36); 66.9 GW connection requests on file.
 
   [MONITORING] Anthropic A$32B Queensland data centre lease (2.16 GW, Western Downs near Dalby):
   QLD coal-grid exposure creates structural compliance contrast favouring SA's fully-renewable grid.
@@ -207,62 +171,44 @@ No new updates today.
   AI inference investment toward SA.
 
   [MONITORING] NVIDIA 2 GW AI factory buildout with eight Australian partners (IREN, Firmus,
-  NEXTDC, AirTrunk, CDC, Sharon AI, ResetData, Megaport) by 2027 — IREN Bundey SA campus and
-  Firmus Project Southgate are SA-named sites.
+  NEXTDC, AirTrunk, CDC, Sharon AI, ResetData, Megaport) by 2027 — IREN Bundey SA campus named.
 
   [MONITORING] Deloitte: 33 Australian data centre projects worth A$104B (August 2026); CommBank
   forecasts A$150B national build-out by 2030. US hyperscalers: ~A$45B committed over 22 months.
-
-  [MONITORING] AEMO ESOO 2026: data centre NEM consumption forecast 5 TWh (FY2025–26) →
-  34 TWh (FY2035–36); 66.9 GW connection requests on file.
 
   [MONITORING] AirTrunk (Blackstone): seeking S$2B debt financing for Singapore REIT IPO.
 
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-No new updates today.
-
-  [MONITORING] PM&C AI Data Centre Consultation CLOSED 9 October 2026 — Government Now Processing
-  Submissions [HIGH RELEVANCE]: The federal mandatory minimum standards consultation closed at
-  5pm AEDT on 9 October 2026. The Department of the Prime Minister and Cabinet will now process
-  all submissions before drafting legislation targeting early 2027 Parliament introduction.
-  The 30/100/150 MW tiered threshold architecture is confirmed; SA's fully-renewable grid remains
-  the cleanest compliance pathway for above-100 MW operators. Projects obtaining SA
-  Coordinator-General approval in 2026 remain on track to lock in pre-legislation status under
-  the confirmed non-retrospective intent — the pre-legislative window is now narrowing as the
-  government moves from consultation to drafting.
-  Source: PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
-
-  [MONITORING] Senate Committee on AI and Data Centres — Reports in 33 Days (16 November 2026) [HIGH RELEVANCE]:
-  The federal Senate Committee on AI and Data Centres (referred 13 May 2026) is due to report
-  by 16 November 2026 — 33 days from today. The Committee's final report will directly shape
-  the government's mandatory national standards legislation (targeted early 2027 Parliament
-  introduction). SA's Coordinator-General fast-track model, renewable-first grid, and the proposed
-  Data Centre and AI Infrastructure Act are expected to feature as benchmark compliance pathways
-  in committee testimony.
+• [UPDATED COUNTDOWN — 32 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
+  [HIGH RELEVANCE]
+  32 days remain to the federal Senate Committee's final report on AI and data centres. The
+  Committee's recommendations will directly shape mandatory national standards legislation targeted
+  for early 2027 Parliament introduction. SA's Coordinator-General fast-track model,
+  renewable-first grid, and the proposed Data Centre and AI Infrastructure Act are expected to
+  feature as benchmark compliance pathways in testimony. The non-retrospective window for 2026
+  Coordinator-General approvals continues to narrow.
   Source: Australian Parliament / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 15 DAYS AWAY — 29 October 2026 [HIGH RELEVANCE]:
-  The AEMC final determination on binding technical connection standards for data centres (30 MW+
-  threshold, disturbance ride-through requirements, alignment with Texas, Ireland and Finland)
-  is now 15 days away. Projects holding pre-secured firm transmission agreements at Bundey and
-  the NTx corridor are specifically structured to satisfy these technical standards.
-  Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
-  WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
+  [MONITORING] PM&C AI Data Centre Consultation CLOSED 9 October 2026 — Government Now Processing
+  Submissions [HIGH RELEVANCE]: Government is now drafting legislation targeting early 2027
+  Parliament introduction. 30/100/150 MW tiered threshold architecture confirmed; SA's
+  fully-renewable grid remains the cleanest compliance pathway for above-100 MW operators.
+  Source: PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
 
-  [MONITORING] SA AI Royal Commission Commenced 1 October 2026 — Data Centres Explicitly Out of Scope:
-  South Australia's AI Royal Commission commenced on 1 October 2026. Its terms of reference
-  explicitly exclude matters relating to data centres, confirming that the AI royal commission
-  process imposes no additional regulatory burden on SA data centre approvals. The Coordinator-
-  General fast-track pathway and the proposed Data Centre and AI Infrastructure Act remain the
-  sole approval architecture for SA data centre projects.
+  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 14 DAYS AWAY — 29 October
+  2026 [HIGH RELEVANCE]. See Section 1.
+  Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
+
+  [MONITORING] SA AI Royal Commission Commenced 1 October 2026 — Data Centres Explicitly Out of
+  Scope: Coordinator-General fast-track pathway and proposed Data Centre and AI Infrastructure Act
+  remain the sole approval architecture.
   Source: Certified Strategic | https://certifiedstrategic.com/insights/south-australia-ai-royal-commission-data-centres-out-of-scope
 
-  [MONITORING] Victorian Coalition Pledges to Scrap BYO Renewables Mandate for Data Centres; Will
-  Push Gas Instead (22–25 September 2026). SA — with bipartisan support for its fully-renewable
-  Data Centre and AI Infrastructure Act — remains lowest political-risk jurisdiction on mainland
-  Australia.
+  [MONITORING] Victorian Coalition Pledges to Scrap BYO Renewables Mandate; Will Push Gas Instead
+  (22–25 September 2026). SA — with bipartisan support for its fully-renewable Data Centre and AI
+  Infrastructure Act — remains lowest political-risk jurisdiction on mainland Australia.
   Source: RenewEconomy
 
   [MONITORING] ECMC Formally Endorses AEMO Governance Review — All 14 Reforms Approved; SA Agrees
@@ -287,8 +233,7 @@ No new updates today.
   satisfies federal energy standards by default — structural compliance advantage.
 
   [MONITORING] ECMC September 2026 regulatory package: mandatory REGO + firming offset obligation;
-  AEMC full capacity charging cost recovery; AEMC 30 MW+ technical standards (final determination
-  29 October 2026 — now 15 days away).
+  AEMC full capacity charging cost recovery; AEMC 30 MW+ technical standards.
 
   [MONITORING] Australia to legislate mandatory net-generator requirement for large data centres:
   federal draft legislation targeting early 2027 Parliament introduction.
@@ -296,8 +241,8 @@ No new updates today.
   [MONITORING] Non-retrospective intent confirmed at National Cabinet (26 August 2026): Projects
   obtaining SA Coordinator-General approval in 2026 may lock in pre-legislation status.
 
-  [MONITORING] SA Government's proposed Data Centre and AI Infrastructure Act (June 2026): data
-  centres designated essential infrastructure; Coordinator-General as single decision-making
+  [MONITORING] SA Government's proposed Data Centre and AI Infrastructure Act (June 2026):
+  data centres designated essential infrastructure; Coordinator-General as single decision-making
   authority; "new energy for new demand" requirement; in consultation and drafting stage.
 
 
@@ -306,89 +251,65 @@ No new updates today.
 No new updates today.
 
   [MONITORING] Inligo Networks Targets SA as Subsea Cable Landing Anchor; Non-Binding 1 GW AI
-  Campus Agreement with 1414 Degrees [HIGH RELEVANCE]: Subsea cable operator Inligo Networks
-  has outlined South Australia as a key anchor landing point for its cable systems, disclosing a
-  non-binding agreement with SA-based thermal energy storage company 1414 Degrees for a staged
-  AI campus deployment tied to available grid capacity that could scale to 1 GW. This represents
-  a new class of SA entrant — cable-landing-anchored AI campus integrators whose site selection
-  is driven by SA's renewable grid, NTx corridor transmission access, and proximity to subsea
-  cable routes.
+  Campus Agreement with 1414 Degrees [HIGH RELEVANCE]: New class of SA entrant — cable-landing-
+  anchored AI campus integrators.
   Source: Inligo Networks | https://www.inligonetworks.com/south-australias-digital-future-data-centres-energy-precincts-and-the-cable-systems/
 
   [MONITORING] SA Data Centre Strategy: Two Mandatory Lodgement Prerequisites Now in Force [HIGH RELEVANCE]:
-  South Australia's Data Centre Strategy (published 28 June 2026) has introduced two mandatory
-  prerequisites at development application lodgement: (1) a certificate from SA Water confirming
-  sufficient water supply to meet the data centre's requirements; and (2) a certificate from the
-  Technical Regulator confirming compliance with power system reliability, security and stability
-  requirements. Sites without pre-secured grid connections cannot satisfy the Technical Regulator
-  certificate at lodgement — adding a material approval bottleneck before the statutory clock even
-  starts. South Energy's NTx corridor positions, anchored by pre-secured 330 kV Bundey transmission
-  connection, satisfy the Technical Regulator certificate requirement at lodgement — a structural
-  timing advantage over unconnected competitors.
+  (1) SA Water certificate confirming water supply; (2) Technical Regulator certificate confirming
+  power system compliance. South Energy's NTx corridor positions satisfy the Technical Regulator
+  certificate requirement at lodgement — structural timing advantage over unconnected competitors.
   Source: JWS Lawyers | https://jws.com.au/what-we-think/data-centre-development-focus-the-evolving-regulatory-landscape-across-australia/
 
-  [MONITORING] NSW Data Centre Guidelines Released August 2026:
-  NSW published formal data centre development guidelines in August 2026, introducing equivalent
-  certificate requirements for power, water and planning compliance — confirming that both major
-  east-coast markets now require lodgement-ready infrastructure evidence. SA's Coordinator-General
-  pathway (single decision authority, no BYO-renewable obligation, pre-zoned transmission-connected
-  land) remains structurally faster and lower-risk for large-format AI inference campuses seeking
-  to meet the 2026–27 pre-legislation approval window.
+  [MONITORING] NSW Data Centre Guidelines Released August 2026: equivalent certificate requirements
+  now apply in NSW. SA Coordinator-General pathway remains structurally faster and lower-risk.
   Source: Lexology | https://www.lexology.com/library/detail.aspx?g=94e11e45-b231-4d9b-8ea8-03f14e0f5b21
 
   [MONITORING] NEXTDC Acquires 169 Hectares Near Geelong, Victoria (June 2026) [HIGH RELEVANCE]:
-  NEXTDC purchased 169 hectares outside Melbourne near Geelong — a new hyperscale land position
-  complementing its simultaneously active SA Adelaide site evaluation. Combined with A$3.4 billion
-  in fresh capital raised over four months, NEXTDC's Adelaide assessment is backed by committed
-  funding. Dual-track Melbourne/Geelong AND SA positioning confirms NEXTDC as a near-term SA
-  acquisition candidate with capital to deploy.
+  Dual-track Melbourne/Geelong AND SA positioning confirms NEXTDC as a near-term SA acquisition
+  candidate with A$3.4B+ in committed capital.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
-  [MONITORING] Centuria Group Files Plans for 40 MW Data Centre in Melbourne (2026):
-  Listed Australian property group Centuria has filed plans for a 40 MW data centre in Melbourne —
-  a new non-specialist entrant to the data centre market, confirming that traditional industrial
-  property owners are converting land to data centre use to capture the 20–63% valuation premium.
-  This trend directly increases competition for pre-zoned SA industrial land adjacent to NTx
-  corridor transmission nodes.
+  [MONITORING] Centuria Group Files Plans for 40 MW Data Centre in Melbourne (2026): confirms
+  traditional industrial property owners converting land to data centre use to capture 20–63%
+  valuation premium, increasing competition for pre-zoned SA industrial land.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/centuria-plans-40mw-data-center-in-melbourne-australia/
 
   [MONITORING] CDC Data Centres Plans A$15 Billion / 1.4 GW Wagga Wagga Regional Campus
-  (30 September 2026) [HIGH RELEVANCE]: Planning documents filed for gigawatt-scale campus on
-  103.8 ha at Gregadoo, NSW — driven by same structural forces benefiting SA's NTx corridor.
-  Critical contrast: Wagga Wagga site sits on NSW's coal-blended grid and requires full BYO-renewable
-  compliance; SA NTx corridor sites operate on Australia's only 100% net renewable grid by default.
-  CDC is simultaneously a member of the joint industry body driving SA Data Centre and AI
-  Infrastructure Act engagement — confirming CDC as a likely SA expansion candidate. NOTE: CDC has
-  now ended the Project Southgate partnership with Firmus and will pursue independent developments.
+  (30 September 2026) [HIGH RELEVANCE]: NSW coal-grid BYO-renewable obligation is CDC's problem
+  to solve; SA NTx corridor sites operate on Australia's only 100% net renewable grid by default.
+  CDC has now ended Project Southgate and will pursue independent SA developments.
   Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
   ABC News | https://www.abc.net.au/news/2026-09-30/15-billion-dollar-data-centre-proposed-for-wagga-wagga/107191146
 
   [MONITORING] HyperDC Files Planning Permit for 400 MW/39-Hectare Data Centre Campus at
-  Moorabool, Victoria (29 September 2026): First large-scale greenfield planning application in
-  Victoria since the Action Plan was gazetted; subject to BYO-renewables and own-connection-cost
-  obligations that do not apply to SA Coordinator-General-approved sites.
+  Moorabool, Victoria (29 September 2026): Subject to Victoria's BYO-renewables and own-connection-
+  cost obligations that do not apply to SA Coordinator-General-approved sites.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/
 
   [MONITORING] Goodman Group Abandoned A$1.2 Billion/90 MW "Project Mars" in Lane Cove, Sydney
-  (28 September 2026): Social-licence defeat; addressable market in Sydney and Melbourne continues
-  to contract. SA industrial corridor sites carry zero social-licence risk.
+  (28 September 2026): Social-licence defeat; SA industrial corridor sites carry zero social-licence
+  risk.
   Source: ABC News | https://www.abc.net.au/news/2026-09-28/lane-cove-ai-data-centre-plans-abandoned-by-goodman-group/107205120
 
-  [MONITORING] NEXTDC Expanding in SA: actively evaluating new Adelaide sites alongside Geelong and
-  Gold Coast; total fresh capital across four months exceeds AU$3.4 billion.
+  [MONITORING] Macquarie DC Acquires 34,200 sqm Sydney Site for 200MW Data Centre Campus:
+  further compressing NSW grid access.
+  Source: Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
+
+  [MONITORING] Stockland & Fife Capital File for 168MW Western Sydney Data Centre Campus:
+  adds further pressure to Sydney grid connection capacity.
+  Source: Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
 
   [MONITORING] SA data centre pipeline: 7 projects in development, 12 operating, 19 tracked active
   projects totalling ~1,311 MW (RenewMap, September 2026). IREN Bundey 800 MW is the largest
   single project under development.
 
   [MONITORING] NTx PADR (May 2026): Bundey–Bolivar/Dry Creek eastern 330 kV corridor under
-  Coordinator-General assessment. PACR expected December 2026. Estimated net market benefit A$356M–
-  A$640M for Stage 1. NTx corridor is South Energy's priority co-location and adjacency land
-  acquisition target.
+  Coordinator-General assessment. PACR expected December 2026. Estimated net market benefit
+  A$356M–A$640M for Stage 1.
 
   [MONITORING] Partners Group (Swiss PE) acquisition of GreenSquareDC: PE-backed consolidation
-  benchmarks Australian data centre land asset values; confirms SA Coordinator-General-approved
-  regional sites command a structural scarcity premium.
+  benchmarks Australian data centre land asset values.
 
   [MONITORING] Data Centre Industrial Land Premiums: 20.4–63.3% above comparable industrially
   zoned land values across Australia in 2025–26. Record 900 ha absorbed in 2025, 300+ ha in 2026.
@@ -406,105 +327,101 @@ No new updates today.
   (Deloitte, June 2026) — confirms structural premium of completed connection agreements.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: AEMO Market Notices (aemo.com.au) | Bloomberg (bloomberg.com) |
-MarketScreener (marketscreener.com) | Certified Strategic (certifiedstrategic.com) |
-Global Data Center Hub (globaldatacenterhub.com) |
-Inligo Networks (inligonetworks.com) | GlobeNewsWire / Arizton Advisory (globenewswire.com) |
-AEMC (aemc.gov.au) | WattClarity (wattclarity.com.au) | Data Center Dynamics (datacenterdynamics.com) |
-ABC News (abc.net.au) | RenewEconomy (reneweconomy.com.au) | AEMO (aemo.com.au) |
-PM&C (pmc.gov.au) | ElectraNet (electranet.com.au) | Utility Magazine (utilitymagazine.com.au) |
+Sources: RenewEconomy (reneweconomy.com.au) | Energy-Storage.News (energy-storage.news) |
+AEMO (aemo.com.au) | AEMC (aemc.gov.au) | ElectraNet (electranet.com.au) |
+SafeAI-Aus / Australian Parliament (safeaiaus.org) | PM&C (pmc.gov.au) |
+Data Center Dynamics (datacenterdynamics.com) | ESD News (esdnews.com.au) |
+Bloomberg (bloomberg.com) | WattClarity (wattclarity.com.au) |
+Certified Strategic (certifiedstrategic.com) | Inligo Networks (inligonetworks.com) |
+GlobeNewsWire / Arizton Advisory (globenewswire.com) | ABC News (abc.net.au) |
+Utility Magazine (utilitymagazine.com.au) | JWS Lawyers (jws.com.au) |
+Lexology (lexology.com) | w.media (w.media) | ASCLA (ascla.org) |
+au.investing.com (au.investing.com) | pv magazine Australia (pv-magazine-australia.com) |
 King & Wood Mallesons (mallesons.com) | SA Government (energymining.sa.gov.au) |
-ASCLA (ascla.org) | CommBank (commbank.com.au) | Deloitte (deloitte.com.au) |
-w.media (w.media) | AirTrunk / tech-insider.org (tech-insider.org) | RenewMap (renewmap.com.au) |
-JWS Lawyers (jws.com.au) | Lexology (lexology.com) |
-SafeAI-Aus / Australian Parliament (safeaiaus.org) | au.investing.com (au.investing.com) |
-pv magazine Australia (pv-magazine-australia.com) | The Tech Capital (thetechcapital.com) |
-Telecompaper (telecompaper.com)
+CommBank (commbank.com.au) | Deloitte (deloitte.com.au) | AirTrunk / tech-insider.org (tech-insider.org) |
+Global Data Center Hub (globaldatacenterhub.com) | RenewMap (renewmap.com.au) |
+The Tech Capital (thetechcapital.com) | Telecompaper (telecompaper.com)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月14日
+📋 南澳州數據中心土地每日簡報 - 2026年10月15日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-今日無新消息。
+• 【新消息】AEMO啟動全球首個零同步發電機電網運行試驗【高度相關】
+  AEMO已啟動全球首個利用電網規模電池逆變器在零同步發電機在線狀態下維持澳大利亞
+  互聯電網穩定運行的試驗。若在商業規模得到驗證，將直接消除目前要求同步天然氣電廠
+  保持在線的系統強度約束——這一結構性障礙目前限制著大型新負荷（數據中心）在不觸
+  發系統強度義務或承擔同步調相機成本的情況下快速接入電網。南澳州作為NEM系統中可
+  再生能源滲透率最高的州、以邦迪330千伏節點為錨點，是本次試驗的主要驗證場所。
+  試驗成功將大幅降低NTx走廊新數據中心接入的每兆瓦合規成本。
+  來源：RenewEconomy | https://reneweconomy.com.au/aemo-turns-to-battery-inverters-for-world-first-trial-of-running-big-grids-with-no-synchronous-generation/
 
-  【持續監測】NTx項目評估結論報告（PACR）里程碑確認：2026年12月【高度相關】：
-  AEMO諮詢頁面確認，北部輸電項目（NTx）項目評估結論報告（PACR）預計於2026年12月
-  發布——這是獲得AER全項目監管批准的前置程序步驟。PACR一旦完成，將加速NTx走廊
-  （邦迪–阿德萊德）土地持有項目的最終投資決策。South Energy在NTx走廊的土地部署與
-  此里程碑直接掛鉤。
-  來源：AEMO NTx PADR諮詢 | https://www.aemo.com.au/consultations/current-and-closed-consultations/padr-northern-transmission-project
-
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩15天（2026年10月29日）【高度相關】：
-  澳大利亞能源市場委員會（AEMC）就大型數據中心電網接入制定的具法律約束力技術標準
-  （30兆瓦以上門檻、擾動穿越要求、對標美國德州/愛爾蘭/芬蘭國際標準）最終裁定，
-  距公布僅剩15天。持有現有接入協議的項目面臨的新合規成本風險最低；仍處於申請隊列
-  中的項目風險最高。邦迪及NTx走廊的預先鎖定固定輸電協議，已專門針對這些技術標準
-  進行結構設計。
+• 【倒計時更新——14天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日【高度相關】
+  倒計時再縮短一天：AEMC針對30兆瓦以上數據中心的具法律約束力技術標準（擾動穿越
+  要求、系統強度自我修復或收費、對標美國德州/愛爾蘭/芬蘭國際基準）最終裁定距公布
+  僅剩14天。邦迪及NTx走廊預先鎖定的固定輸電協議已專門針對上述技術標準進行結構設計，
+  自裁定生效首日起即可達標。仍處於接入隊列中的項目在裁定公布後面臨最高合規成本敞口。
   來源：AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
   WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
 
-  【持續監測】AEMO南澳州電壓支持干預通知（2026年10月9日）——隨即撤回：
-  AEMO於2026年10月9日就南澳州區域發布可能的電壓相關干預通知，同日確認電力系統安全
-  隱患已解除後撤回通知。本次事件反映隨著大型新工業及數據中心負荷推進接入程序，電網
-  管理複雜性持續上升。南澳州邦迪330千伏節點——South Energy在NTx走廊土地部署的核心
-  輸電錨點——在擴大負荷情景下仍是電壓曲線管理的關鍵設施。
-  來源：AEMO市場通知 | https://www.aemo.com.au/market-notices
+  【持續監測】NTx PACR里程碑確認：2026年12月【高度相關】：
+  AEMO諮詢頁面確認，北部輸電項目（NTx）PACR預計於2026年12月發布——AER全項目
+  監管批准的前置步驟。South Energy在NTx走廊的土地部署與此里程碑直接掛鉤。
+  來源：AEMO | https://www.aemo.com.au/consultations/current-and-closed-consultations/padr-northern-transmission-project
 
-  【持續監測】AEMC天然氣接入費用規則自2026年10月1日起正式生效：
-  包含天然氣接入費用最終規則修訂的《國家電力規則》更新版已於2026年10月1日正式生效，
-  持續收緊的監管趨勢在結構上加大了依賴天然氣電網替代方案的競爭劣勢，相比之下南澳州
-  可再生能源優先的電網優勢更加突出。
-  來源：AEMC / Ashurst Energy Alert | https://www.ashurst.com/en/insights/energy-alert-australian-electricity-and-gas-markets-february-2026-update/
+  【持續監測】AEMO 2026年最終ISP：NTx（邦迪–阿德萊德，31億澳元）確認納入最優發展
+  路徑；南澳州100%淨可再生能源目標永久適用，所有ISP情景模型均反映南澳州電網優勢。
 
-  【持續監測】Genassi Energy獲聯邦容量投資計劃合同——南澳州邦迪300兆瓦光伏電站+
-  300兆瓦/1,200兆瓦時電池：確認邦迪是南澳州集中度最高的可再生能源與儲能協同基礎
-  設施地點——亦是South Energy在NTx走廊最優先的土地獲取目標。
+  【持續監測】ElectraNet 2026年TAPR（39.4億澳元管道）：三大優先輸電擴建區域——艾爾半
+  島升級（約3.5億澳元，2027/28年）；東南擴建（約8,000至9,000萬澳元）；NTx（31億澳元）。
+  逾75個潛在項目、41個申請方正在洽談接入南澳州輸電網絡。南澳州高峰電力需求預計在
+  未來15年內從3.3吉瓦翻倍增至逾6.5吉瓦。
+  來源：ElectraNet TAPR 2026 | pv magazine Australia
 
-  【持續監測】AEMO確認托倫斯島B延壽後南澳州電力可靠性前景改善（2026年9月21日）：
-  2026至2027年度可靠性缺口已正式閉合。
-  來源：AEMO | https://www.aemo.com.au/newsroom/media-release/reliability-outlook-improves-timely-investment-delivery-essential
+  【持續監測】EnergyConnect項目（南澳–新南威爾士州聯絡線）：南澳州建設已竣工，包括
+  南澳州首座330千伏變電站（邦迪）。新南威爾士州第二階段完成後全部800兆瓦輸電能力
+  即可實現。
+  來源：Utility Magazine | https://utilitymagazine.com.au/project-energyconnect-successfully-delivering-electranets-largest-transmission-project/
+
+  【持續監測】AEMO：目前有11個大型數據中心、合計逾5吉瓦最大需求正在推進NEM輸電接入
+  程序。
+
+  【持續監測】AEMC天然氣接入費用規則自2026年10月1日起正式生效：持續收緊的監管趨勢
+  在結構上加大了依賴天然氣電網替代方案的競爭劣勢。
 
   【持續監測】南澳州政府與AGL簽署正式資金協議延壽托倫斯島B至2028年7月：600兆瓦三台
   機組獲延壽；390兆瓦可靠性缺口完全消除。
 
-  【持續監測】AEMO 2026年最終ISP：NTx（邦迪–阿德萊德，31億澳元）納入最優發展路徑。
-  PACR（2026年12月）完成後，AER全項目監管批准為下一關鍵里程碑。AEMO已將南澳州100%
-  淨可再生能源目標（2027年）設定為永久性目標，確認南澳州電網優勢在所有ISP情景模型
-  中均得到體現。
 
-  【持續監測】ElectraNet 2026年TAPR（39.4億澳元管道）：三大優先輸電擴建區域——艾爾半
-  島升級（約3.5億澳元，2027/28年）；東南擴建（約8,000至9,000萬澳元）；NTx（31億澳元）。
-  逾75個潛在項目、41個申請方正在洽談接入南澳州輸電網絡。南澳州高峰電力需求預計在未來
-  15年內從3.3吉瓦翻倍增至逾6.5吉瓦，增長動力來自數據中心、AI、國防工業、礦業及綠鋼。
-  來源：ElectraNet TAPR 2026 | pv magazine Australia
+☀️ 2. 可再生能源與選址條件
 
-  【持續監測】AEMO電網參考過渡服務自2026年7月1日起啟動。AMPYR北部電池（270兆瓦，
-  阿古斯塔港）目標2026年四季度完成融資關閉。
+• 【新消息】AMPYR澳大利亞收到AEMO第5.3.4條款接入信函——阿古斯塔港270兆瓦電網成型
+  電池儲能系統【高度相關】
+  AMPYR澳大利亞已收到AEMO就其阿古斯塔港270兆瓦電網成型電池儲能系統發出的第5.3.4
+  條款接入查詢回復函——這是該項目在AEMO正式接入流程中的首個里程碑節點。電網成型
+  （非電網跟蹤）逆變器技術使電池在無需同步發電機組在線的情況下即可提供合成慣量及
+  系統強度服務，直接增強邦迪330千伏節點及整個NTx走廊的數據中心接入可行性。AMPYR
+  目標2026年四季度完成融資關閉；投入運行後，將大幅降低NTx走廊土地部署的每兆瓦系統
+  強度合規成本。
+  來源：Energy-Storage.News | https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
 
-  【持續監測】EnergyConnect項目（南澳–新南威爾士州聯絡線）：南澳州建設已竣工，包括
-  南澳州首座330千伏變電站（邦迪），206公里羅伯茨頓至新南威爾士州邊境線路。
-  新南威爾士州第二階段完成後全部800兆瓦輸電能力即可實現。
-  來源：Utility Magazine | https://utilitymagazine.com.au/project-energyconnect-successfully-delivering-electranets-largest-transmission-project/
-
-  【持續監測】AEMO：目前有11個大型數據中心、合計逾5吉瓦最大需求正在推進NEM輸電接入程序。
-
-
-☀️ 2. 可再生能源與選址時實況
-
-今日無新消息。
-
-  【持續監測】高德爾北部風電場正式開工——2026年10月7日：高德爾北部風電場已正式啟動建設，
-  為高德爾可再生能源區注入重要的風力發電組件。該區域與高德爾電池二期（454兆瓦/
-  1,814兆瓦時，2028年投運）及IREN邦迪800兆瓦數據中心園區同址共建，進一步強化South Energy
-  最優先NTx走廊土地收購目標的可再生能源疊加發電及儲能基礎設施密度。
+  【持續監測】高德爾北部風電場正式開工——2026年10月7日：為高德爾可再生能源區注入重
+  要的風力發電組件，與高德爾電池二期及IREN邦迪800兆瓦數據中心園區同址共建。
   來源：pv magazine Australia | https://www.pv-magazine-australia.com/
+
+  【持續監測】高德爾電池二期（454兆瓦/1,814兆瓦時）：合同已簽署（特斯拉Megapack 3/
+  Megablock及UGL）；2026年8月啟動工地施工；2028年投運。與IREN邦迪800兆瓦園區同址，
+  毗鄰邦迪330千伏節點。
+
+  【持續監測】南澳州325億澳元大型可再生能源項目管道（2026年中期）：為超大規模雲端商
+  提供深度PPA選擇空間。高德爾山脈東部（約5,200平方公里）及懷阿拉西部（約6,500平方
+  公里）可再生能源競標區域：招標截至2026年6月28日；結果由南澳州政府評估中。
 
   【持續監測】澳大利亞最大風電場業主向聯邦接入隊列提交1吉瓦/4小時獨立電池儲能項目
   計劃（2026年9月29日）：為電網規模靈活儲能管道增加約4吉瓦時容量。
@@ -512,170 +429,118 @@ Telecompaper (telecompaper.com)
 
   【持續監測】NEM創棄電量歷史新高11,109兆瓦（2026年9月21日）及七日滾動可再生能源
   佔比首次突破50%（2026年9月22日）。
-  來源：pv magazine Australia | RenewEconomy
-
-  【持續監測】高德爾電池二期（454兆瓦/1,814兆瓦時）：合同已簽署（特斯拉Megapack 3/
-  Megablock及UGL）；2026年8月啟動工地施工；2028年投運。與IREN邦迪800兆瓦園區同址，
-  毗鄰邦迪330千伏節點。
-
-  【持續監測】南澳州325億澳元大型可再生能源項目管道（2026年中期）：為超大規模雲端商
-  提供深度PPA選擇空間。AEMO：自2026年一季度起新增4.4吉瓦電池儲能裝機，日調峰總量翻三倍。
-
-  【持續監測】高德爾山脈東部（約5,200平方公里）及懷阿拉西部（約6,500平方公里）可再生
-  能源競標區域：招標截至2026年6月28日；結果由南澳州政府評估中。
 
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 【高度相關】CDC正式終止與Firmus的1.6吉瓦「南門計劃」合作——僅部署42兆瓦——2026年10月：
-  CDC數據中心首席執行官Greg Boorer確認，CDC已終止與Firmus科技共同開發「南門計劃」的
-  合作關係，雙方設定的1.6吉瓦部署目標最終僅落實42兆瓦。CDC將轉型為獨立運營商，自主
-  推進澳大利亞數據中心業務拓展。此次合作終止對南澳州具有重大戰略意義：CDC現已成為
-  完全自主、不受任何合資束縛的大型南澳州土地潛在買家。CDC在新南威爾士州沃加沃加的
-  150億澳元/1.4吉瓦項目（NSW煤電電網）所面臨的自備可再生能源合規成本劣勢，現在完全
-  由CDC自行承擔——令其轉向南澳州NTx走廊的可能性高於合作期間的任何時點。CDC已是推動
-  南澳州《數據中心與AI基礎設施法》的行業峰值機構成員。
+今日無新消息。
+
+  【持續監測】CDC正式終止與Firmus的1.6吉瓦「南門計劃」合作——僅部署42兆瓦——2026年
+  10月【高度相關】：CDC數據中心CEO Greg Boorer確認，CDC已終止合作關係，現為完全
+  自主的大型南澳州土地潛在買家。CDC在沃加沃加的150億澳元/1.4吉瓦項目（NSW煤電
+  電網）自備可再生能源合規成本劣勢現由CDC自行承擔，令其轉向南澳州NTx走廊的可能
+  性高於合作期間任何時點。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/firmus-and-cdc-end-16gw-project-southgate-collaboration-deploy-just-42mw/
   w.media | https://w.media/firmus-and-cdc-end-project-southgate-partnership-after-42mw-rollout/
   The Tech Capital | https://thetechcapital.com/firmus-reportedly-weighs-ipo-repricing-cdc-partnership-ends/
 
   【持續監測】Anthropic宣布積極考慮在澳大利亞區域場址投資數據中心——2026年10月13日：
-  Anthropic國際特別大使Jeff Bleich昨日在悉尼舉行的AFR能源與氣候峰會上宣布，Anthropic
-  正積極評估澳大利亞數據中心投資機會，明確偏好區域場址和棕地開發項目。南澳州100%
-  淨可再生能源電網、預先鎖定的NTx走廊330千伏輸電協議及總督察員快速審批通道，直接
-  滿足Anthropic所表述的「區域/棕地」選址偏好。Anthropic現與Google、Apple、Meta、
-  Amazon、Microsoft一同成為經確認的澳大利亞數據中心積極採購方。
+  Anthropic國際特別大使Jeff Bleich在AFR能源與氣候峰會上宣布，Anthropic偏好區域/
+  棕地選址。南澳州100%淨可再生能源電網及NTx走廊預先鎖定的330千伏輸電協議直接滿足
+  其選址偏好。Anthropic現與Google、Apple、Meta、Amazon、Microsoft一同成為確認的
+  澳大利亞數據中心積極採購方。
   來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says
   MarketScreener | https://www.marketscreener.com/news/amazon-backed-anthropic-eyes-data-center-investments-in-australia-ce785ddddd80f426
 
-  【持續監測】麥格理DC在雪梨收購34,200平方米場址用於建設200兆瓦數據中心園區：
-  基礎設施背景運營商麥格理DC已在雪梨收購一幅34,200平方米土地，計劃建設200兆瓦數據
-  中心園區，進一步壓縮新南威爾士州電網接入空間，強化南澳州NTx走廊作為超大規模AI
-  推理第二選址的優先替代地位。
-  來源：Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
-
-  【持續監測】Stockland與Fife Capital提交168兆瓦西雪梨數據中心園區規劃申請：
-  澳大利亞最大ASX上市房地產開發商Stockland與Fife Capital合作，提交西雪梨168兆瓦數據
-  中心園區規劃文件——確認主流上市房地產板塊已全面進入大型數據中心開發，並進一步加重
-  雪梨電網接入容量的競爭壓力。
-  來源：Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
-
-  【持續監測】Firmus IPO正式崩盤——投資銀行約於10月8日停止簿記建檔；股價暴跌23%【高度相關】：
-  Firmus 300億澳元IPO已宣告崩盤，與CDC的南門計劃合作同步終止。計劃中的50億澳元融資
-  已告取消，令Firmus喪失在塔萊姆本德及史特靈北/阿古斯塔港執行南澳州土地收購的近期
-  資本能力。相關需求轉移至在業有資本實力運營商（IREN、CDC、NEXTDC、AirTrunk）。
+  【持續監測】Firmus IPO正式崩盤——約2026年10月8日【高度相關】：300億澳元IPO取消；
+  Firmus已不再是近期有資本支撐的南澳州土地收購方。相關需求轉移至IREN、CDC、
+  NEXTDC、AirTrunk。
   來源：au.investing.com | https://au.investing.com/news/stock-market-news/a-stock-sinks-23-as-australias-30bn-firmus-ai-datacentre-ipo-collapses-4680887
 
   【持續監測】新市場報告：澳大利亞數據中心同置市場預計2031年達56億美元，65個在建設施
-  確認（發布日期：2026年10月6日）【高度相關】：
-  Arizton Advisory & Intelligence確認澳大利亞數據中心同置市場將以16.49%複合年增長率增長
-  至2031年，批發/超大規模部分是增長最快的細分市場，結構上利好具備輸電接入的大型南澳州
-  區域場址。
-  來源：GlobeNewsWire / Arizton Advisory & Intelligence | https://www.globenewswire.com/news-release/2026/10/06/3375179/28124/en/australia-data-center-colocation-market-supply-and-demand-analysis-and-forecast-2026-2031-ai-and-cloud-demand-drive-16-49-cagr-and-wholesale-growth-through-2031.html
+  （2026年10月6日）【高度相關】：批發/超大規模部分增長最快，利好具備輸電接入的大型
+  南澳州區域場址。
+  來源：GlobeNewsWire / Arizton Advisory | https://www.globenewswire.com/news-release/2026/10/06/3375179/28124/en/australia-data-center-colocation-market-supply-and-demand-analysis-and-forecast-2026-2031-ai-and-cloud-demand-drive-16-49-cagr-and-wholesale-growth-through-2031.html
 
   【持續監測】Apple與Meta正式確認進入澳大利亞數據中心需求採購管道【高度相關】：
-  AirTrunk確認，過去6至8個月間收到來自Google、Apple、Meta、Amazon及Microsoft對澳大利亞
-  數據中心新建項目超出預期的強烈需求。南澳州的100%淨可再生能源電網、NTx走廊預先鎖定的
-  330千伏接入協議及總督察員快速審批通道，直接符合Apple和Meta的AI推理基礎設施零碳採購要求。
-  來源：AirTrunk（經tech-insider.org報道）
+  AirTrunk確認，過去6至8個月間收到來自Google、Apple、Meta、Amazon及Microsoft對澳大
+  利亞數據中心新建項目超出預期的強烈需求。南澳州的100%淨可再生能源電網直接符合其
+  AI推理基礎設施零碳採購要求。
 
-  【持續監測】CDC簽署澳大利亞有史以來最大數據中心合同——555兆瓦（2026年5月）【高度相關】：
-  CDC數據中心於2026年5月簽署澳大利亞有史以來規模最大的數據中心單筆合同：與一家美國投資
-  級超大規模雲端商簽署555兆瓦協議。CDC同步提交沃加沃加1.4吉瓦園區規劃申請（2026年9月），
-  且已終止與Firmus的南門計劃合作，將獨立推進澳大利亞擴張計劃。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
+  【持續監測】CDC簽署澳大利亞有史以來最大數據中心合同——555兆瓦（2026年5月）【高度相關】。
+  CDC已終止南門計劃合作，將獨立推進澳大利亞擴張計劃。
 
-  【持續監測】Diraq與Equinix完成澳大利亞首個商業數據中心量子計算機部署（2026年10月）：
-  Diraq的8量子位硅自旋量子計算機已在Equinix悉尼數據中心完成安裝——全球首台部署於
-  共用商業同置設施的量子計算機。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/diraq-and-equinix-to-deploy-first-quantum-computer-inside-an-australian-commercial-data-center/
+  【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區；NEXTDC同時評估阿德萊德
+  新選址；四個月內累計新增融資逾34億澳元。
 
-  【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區（OpenAI在澳大利亞首個自有算力
-  設施）；NEXTDC同時評估阿德萊德新選址。
+  【持續監測】AirTrunk、CDC、NEXTDC、AWS、微軟聯合成立行業峰值機構，推動聯邦及南澳
+  州政策參與。
 
-  【持續監測】AirTrunk、CDC、NEXTDC、AWS、微軟聯合成立行業峰值機構，推動聯邦及南澳州
-  政策參與，包括就南澳州擬議《數據中心與AI基礎設施法》提出意見。
+  【持續監測】AEMO ESOO 2026：NEM數據中心消耗預測從5太瓦時（FY2025–26）升至
+  34太瓦時（FY2035–36）；存檔接入申請66.9吉瓦。
 
   【持續監測】Anthropic簽訂320億澳元昆士蘭數據中心租約（2.16吉瓦，西部低地/達爾比）：
   昆士蘭煤電電網凸顯南澳州全可再生能源電網的結構性合規優勢。
 
-  【持續監測】AWS：21.7億澳元、235兆瓦格倫登寧路悉尼西部規劃批准（2026年9月）：每個
-  新南威爾士州批准項目持續收緊悉尼電網，促使超大規模雲端商將AI推理第二選址投資轉向南澳州。
+  【持續監測】AWS：21.7億澳元、235兆瓦格倫登寧路悉尼西部規劃批准（2026年9月）。
 
-  【持續監測】英偉達與8家澳大利亞合作夥伴（IREN、Firmus、NEXTDC、AirTrunk、CDC、
-  Sharon AI、ResetData、Megaport）聯合推進2027年前2吉瓦AI工廠建設——IREN邦迪南澳州
-  園區及Firmus Project Southgate均為南澳州已命名場址。
+  【持續監測】英偉達與8家澳大利亞合作夥伴聯合推進2027年前2吉瓦AI工廠建設，
+  IREN邦迪南澳州園區為已命名場址之一。
 
   【持續監測】德勤：截至2026年8月，澳大利亞33個在建項目合計估值1,040億澳元；
-  澳洲聯邦銀行預測2030年前全國建設總規模達1,500億澳元。美國超大規模雲端商：
-  22個月內已承諾約450億澳元。
-
-  【持續監測】AEMO ESOO 2026：NEM數據中心消耗預測從5太瓦時（FY2025–26）升至
-  34太瓦時（FY2035–36）；存檔連接申請66.9吉瓦。
+  澳洲聯邦銀行預測2030年前全國建設總規模達1,500億澳元。
 
   【持續監測】AirTrunk（貝萊德旗下）：尋求約20億新加坡元債務融資支持新加坡REIT上市。
 
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-今日無新消息。
-
-  【持續監測】PM&C AI數據中心諮詢已於2026年10月9日正式關閉——政府進入意見處理階段【高度相關】：
-  聯邦強制最低標準諮詢已於2026年10月9日澳東夏令時下午5時正式關閉。總理暨內閣部現將
-  處理所有提交意見，為目標2027年初提交議會的立法草案做準備。30/100/150兆瓦分級門檻架構
-  已確認；南澳州全可再生能源電網仍是100兆瓦以上運營商最潔淨的合規路徑。2026年取得南澳州
-  總督察員批准的項目，依據已確認的不追溯效力，仍可鎖定立法前身份——隨著政府從諮詢轉向
-  起草階段，立法前窗口期正在收窄。
-  來源：PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
-
-  【持續監測】澳大利亞參議院人工智能與數據中心委員會——預計33天後（2026年11月16日）發布報告【高度相關】：
-  聯邦參議院人工智能與數據中心調查委員會（2026年5月13日移交）預計於2026年11月16日
-  發布最終報告——距今約33天。委員會報告將直接影響政府的強制性全國標準立法。南澳州
-  總督察員快速審批模式、可再生能源優先電網及擬議《數據中心與AI基礎設施法》預計將
-  在委員會聽證中被引用為合規基準路徑。
+• 【倒計時更新——32天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
+  【高度相關】
+  距聯邦參議院委員會最終報告公布僅剩32天。委員會建議將直接塑造目標2027年初提交
+  議會的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議
+  《數據中心與AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督察
+  員批准的立法前窗口期持續收窄。
   來源：澳大利亞議會 / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩15天（2026年10月29日）【高度相關】：
-  AEMC就大型數據中心制定的具法律約束力電網接入技術標準（30兆瓦以上門檻）最終裁定，
-  距公布僅剩15天。邦迪及NTx走廊預先鎖定的固定輸電接入協議，已專門針對這些技術標準
-  進行結構設計。
-  來源：AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
-  WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
+  【持續監測】PM&C AI數據中心諮詢已於2026年10月9日正式關閉——政府進入意見處理階段
+  【高度相關】：總理暨內閣部將處理所有提交意見，為目標2027年初提交議會的立法草案
+  做準備。30/100/150兆瓦分級門檻架構已確認；南澳州全可再生能源電網仍是100兆瓦以上
+  運營商最潔淨的合規路徑。立法前窗口期正在收窄。
+  來源：PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
 
-  【持續監測】南澳州AI皇家委員會自2026年10月1日起正式開始——數據中心明確排除在職權範圍之外：
-  南澳州AI皇家委員會已於2026年10月1日正式啟動，其職權範圍條款明確將數據中心相關事項
-  排除在外，確認AI皇家委員會程序不對南澳州數據中心審批構成額外監管負擔。總督察員快速
-  審批通道及擬議《數據中心與AI基礎設施法》仍是南澳州數據中心項目的唯一審批架構。
+  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩14天（2026年10月29日）
+  【高度相關】。見第1節。
+  來源：AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
+
+  【持續監測】南澳州AI皇家委員會自2026年10月1日起正式開始——數據中心明確排除在職
+  權範圍之外：總督察員快速審批通道及擬議《數據中心與AI基礎設施法》仍是南澳州數據
+  中心項目的唯一審批架構。
   來源：Certified Strategic | https://certifiedstrategic.com/insights/south-australia-ai-royal-commission-data-centres-out-of-scope
 
   【持續監測】維多利亞州反對黨承諾廢除數據中心自備可再生能源強制要求，改推天然氣
   （2026年9月22至25日）。南澳州擁有兩黨支持的全可再生能源《數據中心與AI基礎設施法》，
   是澳大利亞大陸政治風險最低的投資管轄區。
-  來源：RenewEconomy
 
   【持續監測】ECMC正式批准AEMO治理審查——14項改革全部通過；南澳州「原則同意」
   （2026年9月25日）。
-  來源：AEMO | https://www.aemo.com.au/newsroom/news-updates/outcome-of-ecmc-review-of-aemos-governance-arrangements
 
   【持續監測】維多利亞州《可持續數據中心行動計劃》（2026年9月22日）：四項強制要求
-  ——100%自備可再生能源匹配；自行承擔電網接入及網絡升級成本；使用再生水冷卻；
-  選址禁止毗鄰住宅區。消除墨爾本作為南澳州的低成本競爭替代選項。
+  消除墨爾本作為南澳州的低成本競爭替代選項。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/
 
-  【持續監測】金杜律師事務所法律解析：僅持有可再生能源豐富場址預先鎖定固定輸電
-  接入的項目，方可在接入時無需額外資本支出全面滿足三項ECMC義務（2026年9月23日）。
+  【持續監測】金杜律師事務所法律解析：僅持有可再生能源豐富場址預先鎖定固定輸電接入
+  的項目，方可在接入時無需額外資本支出全面滿足三項ECMC義務（2026年9月23日）。
   來源：King & Wood Mallesons | https://www.mallesons.com/au/en/insights/latest-thinking/big-day-for-data-centres.html
 
   【持續監測】行業回應——AirTrunk、CDC、Equinix表態支持；NEXTDC呼籲聚焦執行：確認
   強制性標準不會導致大型運營商撤出澳大利亞。
-  來源：w.media | https://w.media/airtrunk-cdc-and-equinix-back-govt-data-centre-rules-nextdc-urges-execution-focus/
 
-  【持續監測】全國內閣昆士蘭州及北領地豁免條款（2026年8月26日）：南澳州100%淨可再生
-  能源目標默認滿足聯邦能源標準——形成結構性合規優勢。
+  【持續監測】全國內閣昆士蘭州及北領地豁免條款（2026年8月26日）：南澳州100%淨可再
+  生能源目標默認滿足聯邦能源標準——形成結構性合規優勢。
 
   【持續監測】ECMC 2026年9月監管一攬子規則：強制性REGO可再生能源及調峰抵消義務；
-  AEMC容量收費全額成本回收；AEMC 30兆瓦以上技術標準（最終裁定2026年10月29日——
-  距今僅15天）。
+  AEMC容量收費全額成本回收；AEMC 30兆瓦以上技術標準。
 
   【持續監測】澳大利亞擬立法強制要求大型數據中心履行「淨發電商」義務：聯邦立法草案
   目標2027年初提交議會。
@@ -685,7 +550,7 @@ Telecompaper (telecompaper.com)
 
   【持續監測】南澳州政府擬議《數據中心與AI基礎設施法》（2026年6月宣布）：數據中心
   將被指定為基本基礎設施；總督察員為單一決策機構；「新需求配新能源」要求；目前處於
-  諮詢及起草階段。
+  諮詢及草擬階段。
 
 
 🗺️ 5. 土地、規劃與市場動態
@@ -693,96 +558,88 @@ Telecompaper (telecompaper.com)
 今日無新消息。
 
   【持續監測】Inligo Networks瞄準南澳州作為海底電纜登陸錨點；與1414 Degrees簽署1吉瓦
-  AI園區非約束性協議【高度相關】：海底電纜基礎設施運營商Inligo Networks已發布其以南
-  澳州作為電纜系統錨定登陸點的戰略，披露與南澳州本地熱能儲存企業1414 Degrees達成的
-  非約束性協議——擬分階段建設AI數據中心園區，規模可達1吉瓦，代表南澳州市場出現的
-  一類新型進入者。
+  AI園區非約束性協議【高度相關】。
   來源：Inligo Networks | https://www.inligonetworks.com/south-australias-digital-future-data-centres-energy-precincts-and-the-cable-systems/
 
   【持續監測】南澳州數據中心戰略：兩項強制性申請提交前置要求正式生效【高度相關】：
-  南澳州《數據中心戰略》（2026年6月28日發布）已引入兩項強制性前置要求，須在提交開發
-  申請時一併提供：（1）SA Water確認供水量充足的書面確認書；（2）技術監管局確認符合
-  電力系統可靠性、安全性及穩定性要求的書面確認書。South Energy的NTx走廊場址已預先
-  鎖定邦迪330千伏輸電接入協議，可在申請提交時直接滿足技術監管局確認書要求——相較
-  無接入協議的競爭者具備結構性時間優勢。
+  （1）SA Water確認供水量充足的書面確認書；（2）技術監管局確認符合電力系統可靠性、
+  安全性及穩定性要求的書面確認書。South Energy的NTx走廊場址已預先鎖定邦迪330千伏
+  輸電接入協議，可在申請提交時直接滿足技術監管局確認書要求——具備結構性時間優勢。
   來源：JWS Lawyers | https://jws.com.au/what-we-think/data-centre-development-focus-the-evolving-regulatory-landscape-across-australia/
 
-  【持續監測】新南威爾士州數據中心開發指引於2026年8月正式發布：
-  新南威爾士州於2026年8月發布正式數據中心開發指引，引入電力、水務及規劃合規確認書的
-  申請提交要求。南澳州總督察員審批路徑（單一決策機構、免除自備可再生能源義務、已預先
-  分區的輸電接入土地）仍在審批速度和風險水平上保持結構性優勢。
+  【持續監測】新南威爾士州數據中心開發指引於2026年8月正式發布：引入等效確認書要求。
+  南澳州總督察員審批路徑仍具結構性速度和風險優勢。
   來源：Lexology | https://www.lexology.com/library/detail.aspx?g=94e11e45-b231-4d9b-8ea8-03f14e0f5b21
 
   【持續監測】NEXTDC在維多利亞州傑隆附近收購169公頃土地（2026年6月）【高度相關】：
-  NEXTDC在墨爾本附近傑隆購入169公頃土地，與其同步進行的南澳州阿德萊德新選址評估
-  形成雙軌策略。結合過去四個月逾34億澳元的新增融資，確認NEXTDC為近期南澳州場址
-  收購的有力候選方。
+  雙軌策略確認NEXTDC為近期南澳州場址收購有力候選方，已承諾逾34億澳元新增融資。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
-  【持續監測】Centuria集團在墨爾本申請建設40兆瓦數據中心（2026年）：
-  澳大利亞上市房地產集團Centuria已提交墨爾本40兆瓦數據中心規劃申請，印證傳統工業地產
-  持有方正通過土地用途轉換來獲取20%至63%的估值溢價，直接加大了對南澳州NTx走廊輸電節點
-  毗鄰的預先分區工業用地的競爭需求。
+  【持續監測】Centuria集團在墨爾本申請建設40兆瓦數據中心（2026年）：印證傳統工業地
+  產持有方正通過用途轉換獲取20%至63%的估值溢價，直接加大南澳州NTx走廊輸電節點毗
+  鄰的預先分區工業用地競爭需求。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/centuria-plans-40mw-data-center-in-melbourne-australia/
 
   【持續監測】CDC數據中心計劃在新南威爾士州沃加沃加建設150億澳元/1.4吉瓦區域園區
-  （2026年9月30日）【高度相關】：規劃申請已提交，103.8公頃地塊。核心對比：沃加沃加
-  選址位於新南威爾士州煤電混合電網，須全面履行自備可再生能源義務；南澳州NTx走廊場址
-  天然免除上述合規成本。注：CDC已終止南門計劃合作，將獨立推進澳大利亞開發計劃。
+  （2026年9月30日）【高度相關】：核心對比——沃加沃加選址位於NSW煤電混合電網，須全
+  面履行自備可再生能源義務；南澳州NTx走廊場址天然免除上述合規成本。注：CDC已終止
+  南門計劃合作，將獨立推進澳大利亞開發計劃。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
   ABC新聞 | https://www.abc.net.au/news/2026-09-30/15-billion-dollar-data-centre-proposed-for-wagga-wagga/107191146
 
   【持續監測】HyperDC向維多利亞州提交摩洛布爾400兆瓦/39公頃數據中心園區規劃許可申請
-  （2026年9月29日）：《行動計劃》公佈後維多利亞州首個大型綠地規劃申請，須遵守自備
-  可再生能源及自行承擔電網接入費用等強制要求，這些義務在南澳州獲總督察員批准的場址
-  中均不適用。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/
+  （2026年9月29日）：須遵守維多利亞州自備可再生能源及自行承擔電網接入費用等強制要
+  求，這些義務在南澳州獲總督察員批准的場址中均不適用。
 
   【持續監測】古德曼集團放棄悉尼藍灣「火星計劃」12億澳元/90兆瓦數據中心（2026年9月
-  28日）：社區反對迫使項目撤回；悉尼及墨爾本兩大市場可尋址空間持續收窄。南澳州工業
-  走廊場址具備零社會許可風險及兩黨立法支持。
+  28日）：社區反對迫使項目撤回。南澳州工業走廊場址具備零社會許可風險。
   來源：ABC新聞 | https://www.abc.net.au/news/2026-09-28/lane-cove-ai-data-centre-plans-abandoned-by-goodman-group/107205120
 
-  【持續監測】NEXTDC擴大南澳州業務佈局：積極評估阿德萊德新選址；四個月內累計新增
-  融資規模逾34億澳元。
+  【持續監測】麥格理DC在雪梨收購34,200平方米場址用於建設200兆瓦數據中心園區：進一步
+  壓縮新南威爾士州電網接入空間，強化南澳州NTx走廊作為超大規模AI推理第二選址的優先
+  替代地位。
+
+  【持續監測】Stockland與Fife Capital提交168兆瓦西雪梨數據中心園區規劃申請：進一步加
+  重雪梨電網接入容量的競爭壓力。
 
   【持續監測】南澳州數據中心管道：開發中7個、已運行12個，RenewMap追蹤19個活躍項目
   總容量約1,311兆瓦（2026年9月）。IREN邦迪800兆瓦是在建最大單體項目。
 
-  【持續監測】NTx項目評估草案報告（2026年5月）：邦迪–博利瓦/幹溪東部330千伏走廊正在
-  接受總督察員評估；PACR預計2026年12月發布。一期估算淨市場效益達3.56億至6.4億澳元。
-  NTx走廊是South Energy優先選定的聯合選址及毗鄰土地獲取目標。
+  【持續監測】NTx項目評估草案報告（2026年5月）：邦迪–博利瓦/幹溪東部330千伏走廊正
+  在接受總督察員評估；PACR預計2026年12月發布。一期估算淨市場效益達3.56億至6.4億澳元。
 
-  【持續監測】Partners Group（瑞士私募股權）完成收購GreenSquareDC——印證持有已批准場址
-  的收購溢價；確認南澳州獲總督察員批准的區域場址享有結構性稀缺溢價。
+  【持續監測】Partners Group（瑞士私募股權）完成收購GreenSquareDC——印證持有已批准場
+  址的收購溢價；確認南澳州獲總督察員批准的區域場址享有結構性稀缺溢價。
 
-  【持續監測】數據中心工業用地溢價：2025至2026年間達20.4%至63.3%。數據中心獲取
-  推動2025年工業用地創紀錄消化900公頃，2026年迄今已消化逾300公頃。
+  【持續監測】數據中心工業用地溢價：2025至2026年間達20.4%至63.3%。2025年創紀錄消化
+  900公頃，2026年迄今已消化逾300公頃。
   來源：澳大利亞供應鏈與物流協會（ASCLA）
 
-  【持續監測】Transgrid正式宣布西悉尼電網將於2033年前達到容量上限，結構性地將超大規模
-  選址活動引向南澳州等區域市場。
+  【持續監測】Transgrid正式宣布西悉尼電網將於2033年前達到容量上限，結構性地將超大規
+  模選址活動引向南澳州等區域市場。
 
   【持續監測】Firmus科技「南門計劃」（塔萊姆本德約1.0吉瓦 + 史特靈北/阿古斯塔港約
   1.3吉瓦）= 南澳州合計2.7吉瓦規劃容量。IPO約於2026年10月8日崩盤；與CDC的合作關係
   已正式終止——Firmus已不再是近期有資本支撐的南澳州土地收購方；相關場址需求轉移至
   在業運營商。
 
-  【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——
-  確認已完成輸電連接協議場址的結構性稀缺溢價。
+  【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——確
+  認已完成輸電連接協議場址的結構性稀缺溢價。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：AEMO市場通知（aemo.com.au）| Bloomberg（bloomberg.com）|
-MarketScreener（marketscreener.com）| Certified Strategic（certifiedstrategic.com）|
-Global Data Center Hub（globaldatacenterhub.com）|
-Inligo Networks（inligonetworks.com）| GlobeNewsWire / Arizton Advisory（globenewswire.com）|
-AEMC（aemc.gov.au）| WattClarity（wattclarity.com.au）| Data Center Dynamics（datacenterdynamics.com）|
-ABC新聞（abc.net.au）| RenewEconomy（reneweconomy.com.au）| AEMO（aemo.com.au）|
-PM&C（pmc.gov.au）| ElectraNet（electranet.com.au）| Utility Magazine（utilitymagazine.com.au）|
+資料來源：RenewEconomy（reneweconomy.com.au）| Energy-Storage.News（energy-storage.news）|
+AEMO（aemo.com.au）| AEMC（aemc.gov.au）| ElectraNet（electranet.com.au）|
+SafeAI-Aus / 澳大利亞議會（safeaiaus.org）| PM&C（pmc.gov.au）|
+Data Center Dynamics（datacenterdynamics.com）| ESD News（esdnews.com.au）|
+Bloomberg（bloomberg.com）| WattClarity（wattclarity.com.au）|
+Certified Strategic（certifiedstrategic.com）| Inligo Networks（inligonetworks.com）|
+GlobeNewsWire / Arizton Advisory（globenewswire.com）| ABC新聞（abc.net.au）|
+Utility Magazine（utilitymagazine.com.au）| JWS Lawyers（jws.com.au）|
+Lexology（lexology.com）| w.media（w.media）|
+澳大利亞供應鏈與物流協會（ascla.org）| au.investing.com（au.investing.com）|
+pv magazine Australia（pv-magazine-australia.com）|
 金杜律師事務所（mallesons.com）| 南澳州政府（energymining.sa.gov.au）|
-澳大利亞供應鏈與物流協會（ascla.org）| 澳洲聯邦銀行（commbank.com.au）|
-德勤（deloitte.com.au）| w.media（w.media）| AirTrunk / tech-insider.org（tech-insider.org）|
-RenewMap（renewmap.com.au）| JWS Lawyers（jws.com.au）| Lexology（lexology.com）|
-SafeAI-Aus / 澳大利亞議會（safeaiaus.org）| au.investing.com（au.investing.com）|
-pv magazine Australia（pv-magazine-australia.com）| The Tech Capital（thetechcapital.com）|
-Telecompaper（telecompaper.com）
+澳洲聯邦銀行（commbank.com.au）| 德勤（deloitte.com.au）|
+AirTrunk / tech-insider.org（tech-insider.org）| RenewMap（renewmap.com.au）|
+Global Data Center Hub（globaldatacenterhub.com）|
+The Tech Capital（thetechcapital.com）| Telecompaper（telecompaper.com）
