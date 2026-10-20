@@ -1,14 +1,16 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 19 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 20 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-• [UPDATED COUNTDOWN — 10 DAYS] AEMC Final Determination on Data Centre Grid Standards:
+No new updates today.
+
+  [UPDATED COUNTDOWN — 9 DAYS] AEMC Final Determination on Data Centre Grid Standards:
   29 October 2026 [HIGH RELEVANCE]
-  Ten days remain to the AEMC's binding technical standard for 30 MW+ data centres
+  Nine days remain to the AEMC's binding technical standard for 30 MW+ data centres
   (disturbance ride-through, system strength self-remediation or charge, alignment with
   Texas/Ireland/Finland benchmarks). Pre-secured firm transmission agreements at Bundey and
   the NTx corridor are specifically structured to satisfy these standards from day one of the
@@ -106,18 +108,14 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-• [NEW] SA Government Selects Four Developers for Whyalla West 12.7 GW Renewable Energy Release
-  Area — 19 October 2026 [HIGH RELEVANCE]
-  The SA Government has named four developers for the 6,500 km² Whyalla West renewable energy
-  release area, unlocking a pathway to up to 12.7 GW of wind and solar capacity in the Upper
-  Spencer Gulf: Windlab (up to 6 GW wind and solar across 2,386 km²), Altra Energy (4.7 GW wind
-  and solar, 586 km²), Heron Energy (1.6 GW wind, 314 km²), and Neoen (350 MW solar, 81 km²).
-  Selected developers may now apply for renewable energy feasibility licences — the first formal
-  step toward project development in the area. Neoen's existing Goyder Battery platform and
-  Bundey-corridor track record makes it a direct PPA counterparty for data centre operators
-  evaluating NTx corridor sites. The Whyalla West outcome confirms the Spencer Gulf belt as SA's
-  second major renewable energy development corridor after the NTx/Bundey cluster, broadening
-  the geographic spread of green PPA options for future data centre campuses.
+No new updates today.
+
+  [MONITORING] SA Government Selects Four Developers for Whyalla West 12.7 GW Renewable Energy
+  Release Area (19 October 2026) [HIGH RELEVANCE]: Windlab (up to 6 GW wind and solar, 2,386 km²),
+  Altra Energy (4.7 GW wind and solar, 586 km²), Heron Energy (1.6 GW wind, 314 km²), and Neoen
+  (350 MW solar, 81 km²). Selected developers may now apply for renewable energy feasibility
+  licences. Confirms Spencer Gulf belt as SA's second major renewable energy corridor after
+  NTx/Bundey, broadening green PPA options for future data centre campuses.
   Sources: pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
   TaiyangNews | https://taiyangnews.info/markets/south-australia-advances-13-gw-renewable-energy-capacity
 
@@ -238,9 +236,11 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• [UPDATED COUNTDOWN — 28 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
+No new updates today.
+
+  [UPDATED COUNTDOWN — 27 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
   [HIGH RELEVANCE]
-  28 days remain to the federal Senate Committee's final report on AI and data centres. The
+  27 days remain to the federal Senate Committee's final report on AI and data centres. The
   Committee's recommendations will directly shape mandatory national standards legislation targeted
   for early 2027 Parliament introduction. SA's Coordinator-General fast-track model,
   renewable-first grid, and the proposed Data Centre and AI Infrastructure Act are expected to
@@ -262,7 +262,7 @@ No new updates today.
   designation.
   Source: Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 10 DAYS AWAY — 29 October
+  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 9 DAYS AWAY — 29 October
   2026 [HIGH RELEVANCE]. See Section 1.
   Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
 
@@ -313,17 +313,14 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• [NEW] Whyalla West Renewable Zone Developer Selections Activate Large-Scale Land Activity in
-  Upper Spencer Gulf — 19 October 2026 [HIGH RELEVANCE]
-  The SA Government's selection of four developers for the Whyalla West release area activates
-  renewable energy feasibility licence processes across more than 3,300 km² of pastoral land west
-  of Whyalla within Barngarla Country — a region adjacent to the Eyre Peninsula upgrade corridor
-  and the Whyalla industrial precinct. Neoen's inclusion (350 MW solar, 81 km²) extends the
-  Goyder platform operator's SA footprint beyond the Bundey node into the Spencer Gulf belt.
-  Windlab's 6 GW claim over 2,386 km² is the largest single proposal and, if developed, would
-  constitute a utility-scale renewable precinct capable of anchoring a dedicated data centre PPA.
-  Land within or adjacent to this corridor now carries a new renewable energy development signal
-  alongside existing Eyre Peninsula transmission augmentation activity.
+No new updates today.
+
+  [MONITORING] Whyalla West Renewable Zone Developer Selections Activate Large-Scale Land Activity
+  in Upper Spencer Gulf (19 October 2026) [HIGH RELEVANCE]: Selection of four developers across
+  3,300+ km² of pastoral land west of Whyalla activates feasibility licence processes in the
+  Spencer Gulf belt — adjacent to the Eyre Peninsula upgrade corridor. Windlab's 6 GW claim over
+  2,386 km² is the largest single proposal and, if developed, would anchor a utility-scale
+  renewable precinct capable of supporting a dedicated data centre PPA.
   Source: pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
   TaiyangNews | https://taiyangnews.info/markets/south-australia-advances-13-gw-renewable-energy-capacity
 
@@ -440,15 +437,17 @@ TaiyangNews (taiyangnews.info)
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月19日
+📋 南澳州數據中心土地每日簡報 - 2026年10月20日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-• 【倒計時更新——10天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
+今日無新消息。
+
+  【倒計時更新——9天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
   【高度相關】
-  距AEMC針對30兆瓦以上數據中心的具法律約束力技術標準最終裁定公布僅剩10天（涵蓋擾動
+  距AEMC針對30兆瓦以上數據中心的具法律約束力技術標準最終裁定公布僅剩9天（涵蓋擾動
   穿越要求、系統強度自我修復或收費義務，並對標美國德州/愛爾蘭/芬蘭國際基準）。邦迪及
   NTx走廊預先鎖定的固定輸電協議已針對上述標準進行結構性設計，自裁定生效首日起即可
   達標。仍處於接入隊列中的項目在裁定公布後面臨最高合規成本敞口。
@@ -522,28 +521,25 @@ TaiyangNews (taiyangnews.info)
 
 ☀️ 2. 可再生能源與選址條件
 
-• 【新消息】南澳州政府為懷阿拉西部12.7吉瓦可再生能源釋放區域選定四家開發商——
-  2026年10月19日【高度相關】
-  南澳州政府已為6,500平方公里的懷阿拉西部可再生能源釋放區域選定四家開發商，為斯賓塞
-  灣上游最高達12.7吉瓦的風能和太陽能容量開發提供路徑：Windlab（最高6吉瓦風能及太陽
-  能，2,386平方公里）、Altra Energy（4.7吉瓦風能及太陽能，586平方公里）、Heron Energy
-  （1.6吉瓦風能，314平方公里）及Neoen（350兆瓦太陽能，81平方公里）。獲選開發商現可
-  申請可再生能源可行性許可證——即該地區項目開發的首個正式程序步驟。Neoen已在邦迪走廊
-  深度佈局（高德爾電池等），其進入懷阿拉西部意味著可再生能源PPA選擇已延伸至整個斯賓
-  塞灣地帶。此次懷阿拉西部結果確認斯賓塞灣走廊為南澳州繼NTx/邦迪集群之後的第二大可
-  再生能源開發走廊，拓寬未來數據中心園區的綠色PPA地理覆蓋範圍。
+今日無新消息。
+
+  【持續監測】南澳州政府為懷阿拉西部12.7吉瓦可再生能源釋放區域選定四家開發商
+  （2026年10月19日）【高度相關】：Windlab（最高6吉瓦風能及太陽能，2,386平方公里）、
+  Altra Energy（4.7吉瓦風能及太陽能，586平方公里）、Heron Energy（1.6吉瓦風能，314平方
+  公里）及Neoen（350兆瓦太陽能，81平方公里）。獲選開發商現可申請可再生能源可行性許可
+  證。確認斯賓塞灣走廊為南澳州繼NTx/邦迪集群之後的第二大可再生能源開發走廊，拓寬未來
+  數據中心園區的綠色PPA地理覆蓋範圍。
   來源：pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
   TaiyangNews | https://taiyangnews.info/markets/south-australia-advances-13-gw-renewable-energy-capacity
 
   【持續監測】貝萊德旗下Brookfield藉由Neoen平台在南澳州推進逾2.6吉瓦可再生能源組合
   【高度相關】：高德爾北部（600兆瓦風電，2026年10月7日正式開工）、高德爾南部風能太陽能，
-  以及高德爾電池二期（454兆瓦/1,814兆瓦時，特斯拉Megapack 3，2028年投運）——邦迪330千
-  伏節點規模可再生能源開發，為超大規模數據中心承租方提供深度長期PPA選擇空間。
+  以及高德爾電池二期（454兆瓦/1,814兆瓦時，特斯拉Megapack 3，2028年投運）。
   來源：pv magazine Australia | https://www.pv-magazine-australia.com/
 
   【持續監測】AMPYR澳大利亞收到AEMO第5.3.4條款接入信函——阿古斯塔港270兆瓦電網成型
-  電池儲能系統：AMPYR目標2026年四季度完成融資關閉；投入運行後，將大幅降低NTx走廊
-  土地部署的每兆瓦系統強度合規成本。
+  電池儲能系統：AMPYR目標2026年四季度完成融資關閉；投入運行後，將降低NTx走廊每兆瓦
+  系統強度合規成本。
   來源：Energy-Storage.News | https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/
 
   【持續監測】高德爾電池二期（454兆瓦/1,814兆瓦時）：合同已簽署（特斯拉Megapack 3及
@@ -591,15 +587,14 @@ TaiyangNews (taiyangnews.info)
   （2026年10月6日）【高度相關】。
   來源：GlobeNewsWire / Arizton | https://www.globenewswire.com/news-release/2026/10/06/3375179/28124/en/australia-data-center-colocation-market-supply-and-demand-analysis-and-forecast-2026-2031-ai-and-cloud-demand-drive-16-49-cagr-and-wholesale-growth-through-2031.html
 
-  【持續監測】Apple與Meta正式確認進入澳大利亞數據中心需求採購管道【高度相關】：
-  AirTrunk確認Google、Apple、Meta、Amazon及Microsoft對澳大利亞數據中心需求超出預期。
+  【持續監測】Apple與Meta正式確認進入澳大利亞數據中心需求採購管道【高度相關】。
 
   【持續監測】CDC簽署澳大利亞有史以來最大數據中心合同——555兆瓦（2026年5月）【高度相關】。
 
   【持續監測】NEXTDC與OpenAI在悉尼合作開發AI數據中心園區；NEXTDC同時評估阿德萊德新選址。
 
-  【持續監測】AirTrunk MEL2墨爾本園區：354兆瓦，約57億澳元投資——AirTrunk主要擴建集中
-  在墨爾本，確認南澳州為具備更優越可再生能源合規屬性的獨立非競爭市場。
+  【持續監測】AirTrunk MEL2墨爾本園區：354兆瓦，約57億澳元投資——確認南澳州為具備更
+  優越可再生能源合規屬性的獨立非競爭市場。
 
   【持續監測】AEMO ESOO 2026：NEM數據中心消耗預測從5太瓦時（FY2025–26）升至34太瓦時
   （FY2035–36）；存檔接入申請66.9吉瓦。
@@ -620,9 +615,11 @@ TaiyangNews (taiyangnews.info)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 【倒計時更新——28天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
+今日無新消息。
+
+  【倒計時更新——27天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
   【高度相關】
-  距聯邦參議院委員會最終報告公布僅剩28天。委員會建議將直接塑造目標2027年初提交議會
+  距聯邦參議院委員會最終報告公布僅剩27天。委員會建議將直接塑造目標2027年初提交議會
   的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議《數據中心
   與AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督察員批准的立法
   前窗口期持續收窄。
@@ -635,11 +632,10 @@ TaiyangNews (taiyangnews.info)
 
   【持續監測】澳大利亞政府「國家利益」數據中心優先支持機制【高度相關】：政府框架明確
   賦予緊密符合其期望（包括可再生能源匹配及電網貢獻）的數據中心項目在聯邦監管程序中
-  的優先審核地位。具備NTx走廊輸電接入及100%淨可再生能源電網支撐、已取得南澳州總督
-  察員批准的項目，在結構上具備獲得此類指定資格的條件。
+  的優先審核地位。
   來源：Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩10天（2026年10月29日）
+  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩9天（2026年10月29日）
   【高度相關】。見第1節。
 
   【持續監測】南澳州AI皇家委員會自2026年10月1日起正式開始——數據中心明確排除在職
@@ -677,18 +673,14 @@ TaiyangNews (taiyangnews.info)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• 【新消息】懷阿拉西部可再生能源區域開發商選定，斯賓塞灣上游大規模土地活動啟動——
-  2026年10月19日【高度相關】
-  南澳州政府為懷阿拉西部釋放區域選定四家開發商（2026年10月19日），正式啟動懷阿拉以
-  西逾3,300平方公里的牧場用地（巴恩加拉（Barngarla）傳統土地）可再生能源可行性許可
-  程序——該地區毗鄰艾爾半島輸電升級走廊及懷阿拉工業區。Neoen以81平方公里申請350兆
-  瓦太陽能可行性許可，標誌著高德爾電池平台運營商的南澳州佈局從邦迪節點延伸至斯賓塞
-  灣地帶。Windlab在2,386平方公里內聲索最高6吉瓦裝機容量，若最終落地，將構成足以
-  錨定專屬數據中心PPA的公用事業規模可再生能源前區。此走廊土地因此獲得新的可再生能
-  源開發信號，疊加現有艾爾半島輸電增容活動，進一步強化斯賓塞灣作為南澳州第二條數
-  據中心基礎設施走廊的戰略定位。
+今日無新消息。
+
+  【持續監測】懷阿拉西部可再生能源區域開發商選定，斯賓塞灣上游大規模土地活動啟動
+  （2026年10月19日）【高度相關】：南澳州政府為懷阿拉西部釋放區域選定四家開發商，正式
+  啟動懷阿拉以西逾3,300平方公里牧場用地（巴恩加拉傳統土地）的可再生能源可行性許可
+  程序。Windlab在2,386平方公里內聲索最高6吉瓦裝機容量，若最終落地，將構成足以錨定
+  專屬數據中心PPA的公用事業規模可再生能源前區。
   來源：pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
-  TaiyangNews | https://taiyangnews.info/markets/south-australia-advances-13-gw-renewable-energy-capacity
 
   【持續監測】南澳州規劃法規修訂：數據中心早期工程現已豁免取得開發許可【高度相關】：
   修正案（2026年8月13日生效）豁免了數據中心場址的挖填土方、施工道路建設及場地圍欄
@@ -711,29 +703,24 @@ TaiyangNews (taiyangnews.info)
   【持續監測】NEXTDC在維多利亞州傑隆附近收購169公頃土地（2026年6月）【高度相關】：
   雙軌策略確認NEXTDC為近期南澳州場址收購有力候選方。
 
-  【持續監測】DoverDC向維多利亞州提交200兆瓦SM1B墨爾本設施規劃申請（2026年8月）：
-  又一維州運營商進場——進一步印證墨爾本吸納次級運營商，而南澳州總督察員通道吸引
-  超大規模層級。
+  【持續監測】DoverDC向維多利亞州提交200兆瓦SM1B墨爾本設施規劃申請（2026年8月）。
 
   【持續監測】Centuria集團在墨爾本申請建設40兆瓦數據中心（2026年）：印證傳統工業地產
   持有方獲取20%至63%估值溢價，加大對南澳州預先分區工業用地的競爭需求。
 
   【持續監測】CDC數據中心計劃在新南威爾士州沃加沃加建設150億澳元/1.4吉瓦區域園區
   （2026年9月30日）【高度相關】：CDC已終止南門計劃合作，將獨立推進開發計劃。
-  南澳州NTx走廊場址天然免除NSW煤電電網的自備可再生能源合規成本。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
 
   【持續監測】HyperDC向維多利亞州提交摩洛布爾400兆瓦/39公頃數據中心園區規劃許可
-  申請（2026年9月29日）：須遵守維多利亞州強制義務，SA總督察員批准場址均不適用。
+  申請（2026年9月29日）。
 
   【持續監測】古德曼集團放棄悉尼藍灣「火星計劃」12億澳元/90兆瓦數據中心（2026年9月
   28日）：社區反對迫使項目撤回。南澳州工業走廊場址具備零社會許可風險。
 
-  【持續監測】麥格理DC在雪梨收購34,200平方米場址用於建設200兆瓦數據中心園區：
-  進一步壓縮新南威爾士州電網接入空間。
+  【持續監測】麥格理DC在雪梨收購34,200平方米場址用於建設200兆瓦數據中心園區。
 
-  【持續監測】Stockland與Fife Capital提交168兆瓦西雪梨數據中心園區規劃申請：
-  進一步加重雪梨電網接入容量競爭壓力。
+  【持續監測】Stockland與Fife Capital提交168兆瓦西雪梨數據中心園區規劃申請。
 
   【持續監測】南澳州數據中心管道：開發中7個、已運行12個，RenewMap追蹤19個活躍項目
   總容量約1,311兆瓦（2026年9月）。IREN邦迪800兆瓦是在建最大單體項目。
@@ -752,8 +739,7 @@ TaiyangNews (taiyangnews.info)
   模選址活動引向南澳州等區域市場。
 
   【持續監測】Firmus科技「南門計劃」IPO約於2026年10月8日崩盤；與CDC的合作關係
-  已正式終止——Firmus已不再是近期有資本支撐的南澳州土地收購方；相關場址需求轉移至
-  在業運營商。
+  已正式終止——Firmus已不再是近期有資本支撐的南澳州土地收購方。
 
   【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）——確
   認已完成輸電連接協議場址的結構性稀缺溢價。
