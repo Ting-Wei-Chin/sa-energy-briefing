@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 20 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 21 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -8,9 +8,9 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
 No new updates today.
 
-  [UPDATED COUNTDOWN — 9 DAYS] AEMC Final Determination on Data Centre Grid Standards:
+  [UPDATED COUNTDOWN — 8 DAYS] AEMC Final Determination on Data Centre Grid Standards:
   29 October 2026 [HIGH RELEVANCE]
-  Nine days remain to the AEMC's binding technical standard for 30 MW+ data centres
+  Eight days remain to the AEMC's binding technical standard for 30 MW+ data centres
   (disturbance ride-through, system strength self-remediation or charge, alignment with
   Texas/Ireland/Finland benchmarks). Pre-secured firm transmission agreements at Bundey and
   the NTx corridor are specifically structured to satisfy these standards from day one of the
@@ -74,10 +74,12 @@ No new updates today.
   data centres, AI, defence, mining and green steel.
   Sources: ElectraNet TAPR 2026 | pv magazine Australia
 
-  [MONITORING] Project EnergyConnect (SA–NSW interconnector): SA construction completed, including
-  SA's first 330 kV substation at Bundey (206 km Robertstown–NSW border line). Full 800 MW
-  transfer capability targeted following NSW Stage 2 completion.
-  Source: Utility Magazine | https://utilitymagazine.com.au/project-energyconnect-successfully-delivering-electranets-largest-transmission-project/
+  [MONITORING] Project EnergyConnect (SA–NSW interconnector): Stage 2 (Transgrid, NSW side)
+  entered energisation phase June 2026 with AEMO inter-network testing underway; full 800 MW
+  transfer capability expected by end 2027. SA's first 330 kV substation at Bundey (206 km
+  Robertstown–NSW border line) is already operational.
+  Sources: ESD News | https://esdnews.com.au/energyconnect-reaches-completion-after-delays-cost-blowouts/
+  Transgrid | https://www.transgrid.com.au/media-publications/news-articles/energyconnect-powers-up-as-clean-energy-transition-forges-ahead/
 
   [MONITORING] AEMO Q2 2026: SA Battery Fleet Sets New Price-Setting Record; LOR 3 Managed Without
   Load Shedding [HIGH RELEVANCE]: AEMO confirms South Australia recorded the highest cap return
@@ -238,9 +240,9 @@ No new updates today.
 
 No new updates today.
 
-  [UPDATED COUNTDOWN — 27 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
+  [UPDATED COUNTDOWN — 26 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
   [HIGH RELEVANCE]
-  27 days remain to the federal Senate Committee's final report on AI and data centres. The
+  26 days remain to the federal Senate Committee's final report on AI and data centres. The
   Committee's recommendations will directly shape mandatory national standards legislation targeted
   for early 2027 Parliament introduction. SA's Coordinator-General fast-track model,
   renewable-first grid, and the proposed Data Centre and AI Infrastructure Act are expected to
@@ -262,7 +264,7 @@ No new updates today.
   designation.
   Source: Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 9 DAYS AWAY — 29 October
+  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 8 DAYS AWAY — 29 October
   2026 [HIGH RELEVANCE]. See Section 1.
   Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
 
@@ -313,7 +315,16 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-No new updates today.
+• AI Data Centre Developer Cold-Calls Tasmanian Landowners Adjacent to Substation
+  (21 October 2026) [HIGH RELEVANCE]: ABC News reports a Sydney-based consultancy firm has been
+  approaching rural residents near Nook, north-west Tasmania, about selling agricultural land
+  adjacent to a substation for a large data centre development — prompting a Tasmanian Greens
+  inquiry call. Tasmania's Energy Minister confirmed: "We are aware that there is a proposal in
+  the north-west that is moving forward." The incident confirms that the national race to secure
+  transmission-adjacent land is intensifying into previously untargeted rural markets, reinforcing
+  the strategic scarcity premium of SA sites with pre-secured Bundey 330 kV agreements and
+  existing industrial zoning.
+  Source: ABC News | https://abc.net.au/news/2026-10-21/ai-data-centre-company-cold-calling-land-sales-tasmania/107291938
 
   [MONITORING] Whyalla West Renewable Zone Developer Selections Activate Large-Scale Land Activity
   in Upper Spencer Gulf (19 October 2026) [HIGH RELEVANCE]: Selection of four developers across
@@ -430,14 +441,14 @@ Global Data Center Hub (globaldatacenterhub.com) | RenewMap (renewmap.com.au) |
 The Tech Capital (thetechcapital.com) | Telecompaper (telecompaper.com) |
 Pinsent Masons (pinsentmasons.com) | Global Transmission Report (globaltransmission.info) |
 Dataconomy (dataconomy.com) | TechBriefly (techbriefly.com) |
-TaiyangNews (taiyangnews.info)
+TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月20日
+📋 南澳州數據中心土地每日簡報 - 2026年10月21日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -445,9 +456,9 @@ TaiyangNews (taiyangnews.info)
 
 今日無新消息。
 
-  【倒計時更新——9天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
+  【倒計時更新——8天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
   【高度相關】
-  距AEMC針對30兆瓦以上數據中心的具法律約束力技術標準最終裁定公布僅剩9天（涵蓋擾動
+  距AEMC針對30兆瓦以上數據中心的具法律約束力技術標準最終裁定公布僅剩8天（涵蓋擾動
   穿越要求、系統強度自我修復或收費義務，並對標美國德州/愛爾蘭/芬蘭國際基準）。邦迪及
   NTx走廊預先鎖定的固定輸電協議已針對上述標準進行結構性設計，自裁定生效首日起即可
   達標。仍處於接入隊列中的項目在裁定公布後面臨最高合規成本敞口。
@@ -496,9 +507,11 @@ TaiyangNews (taiyangnews.info)
   來源：ElectraNet TAPR 2026 | pv magazine Australia
 
   【持續監測】EnergyConnect項目（南澳州—新南威爾士州聯絡線）：南澳州建設已竣工，
-  包括南澳州首座330千伏變電站（邦迪）；新南威爾士州第二階段完成後全部800兆瓦輸電能力
-  即可實現。
-  來源：Utility Magazine | https://utilitymagazine.com.au/project-energyconnect-successfully-delivering-electranets-largest-transmission-project/
+  包括南澳州首座330千伏變電站（邦迪）；第二階段（Transgrid，新南威爾士州側）已於
+  2026年6月進入帶電調試，AEMO網間測試持續進行中；全部800兆瓦輸電能力預計於2027年
+  底前實現。
+  來源：ESD News | https://esdnews.com.au/energyconnect-reaches-completion-after-delays-cost-blowouts/
+  Transgrid | https://www.transgrid.com.au/media-publications/news-articles/energyconnect-powers-up-as-clean-energy-transition-forges-ahead/
 
   【持續監測】AEMO 2026年第二季度報告：南澳州電池儲能創電價引領記錄；LOR 3條件在不
   限電情況下成功化解【高度相關】：南澳州在全國電力市場中錄得最高容量上限回報（每兆瓦
@@ -617,9 +630,9 @@ TaiyangNews (taiyangnews.info)
 
 今日無新消息。
 
-  【倒計時更新——27天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
+  【倒計時更新——26天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
   【高度相關】
-  距聯邦參議院委員會最終報告公布僅剩27天。委員會建議將直接塑造目標2027年初提交議會
+  距聯邦參議院委員會最終報告公布僅剩26天。委員會建議將直接塑造目標2027年初提交議會
   的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議《數據中心
   與AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督察員批准的立法
   前窗口期持續收窄。
@@ -635,7 +648,7 @@ TaiyangNews (taiyangnews.info)
   的優先審核地位。
   來源：Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩9天（2026年10月29日）
+  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩8天（2026年10月29日）
   【高度相關】。見第1節。
 
   【持續監測】南澳州AI皇家委員會自2026年10月1日起正式開始——數據中心明確排除在職
@@ -673,13 +686,21 @@ TaiyangNews (taiyangnews.info)
 
 🗺️ 5. 土地、規劃與市場動態
 
-今日無新消息。
+• AI數據中心開發商致電塔斯馬尼亞州農場主——變電站毗鄰土地收購行動引發質詢
+  （2026年10月21日）【高度相關】：澳大利亞廣播公司（ABC News）報道，一家悉尼諮詢公司
+  正在就出售鄰近變電站的農業用地一事接觸塔斯馬尼亞州西北部努克（Nook）地區的農村居
+  民，疑似為大型數據中心項目收地，此舉引發塔斯馬尼亞州綠黨要求展開立法質詢。塔斯馬
+  尼亞州能源部長確認：「我們知道西北部有一個項目正在推進。」事件表明，全國圍繞緊鄰
+  輸電基礎設施的土地所展開的搶佔競賽，已延伸至此前從未被納入視野的偏遠農業市場——
+  進一步強化了南澳州擁有預先鎖定邦迪330千伏接入協議及現有工業分區場址的結構性稀缺
+  溢價。
+  來源：ABC News | https://abc.net.au/news/2026-10-21/ai-data-centre-company-cold-calling-land-sales-tasmania/107291938
 
   【持續監測】懷阿拉西部可再生能源區域開發商選定，斯賓塞灣上游大規模土地活動啟動
   （2026年10月19日）【高度相關】：南澳州政府為懷阿拉西部釋放區域選定四家開發商，正式
-  啟動懷阿拉以西逾3,300平方公里牧場用地（巴恩加拉傳統土地）的可再生能源可行性許可
-  程序。Windlab在2,386平方公里內聲索最高6吉瓦裝機容量，若最終落地，將構成足以錨定
-  專屬數據中心PPA的公用事業規模可再生能源前區。
+  啟動懷阿拉以西逾3,300平方公里牧場用地的可再生能源可行性許可程序。Windlab在2,386平方
+  公里內聲索最高6吉瓦裝機容量，若最終落地，將構成足以錨定專屬數據中心PPA的公用事業
+  規模可再生能源前區。
   來源：pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
 
   【持續監測】南澳州規劃法規修訂：數據中心早期工程現已豁免取得開發許可【高度相關】：
@@ -763,4 +784,4 @@ Global Data Center Hub（globaldatacenterhub.com）|
 The Tech Capital（thetechcapital.com）| Telecompaper（telecompaper.com）|
 Pinsent Masons（pinsentmasons.com）| Global Transmission Report（globaltransmission.info）|
 Dataconomy（dataconomy.com）| TechBriefly（techbriefly.com）|
-TaiyangNews（taiyangnews.info）
+TaiyangNews（taiyangnews.info）| Transgrid（transgrid.com.au）
