@@ -1,16 +1,24 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 21 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 22 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-No new updates today.
+• AEMO Connections Scorecard: 80.9 GW Pipeline Overtakes Installed NEM Capacity for First Time
+  (22 October 2026) [HIGH RELEVANCE]: AEMO's latest Connections Scorecard reports 80.9 GW of
+  generation and storage projects now in the NEM connection queue — a 43% year-on-year increase
+  driven primarily by battery storage. For the first time in NEM history, the proposed new
+  generation and storage pipeline exceeds Australia's current total installed capacity (~77 GW),
+  confirming that pre-secured firm transmission agreements represent the most structurally scarce
+  assets in the market. SA's Bundey 330 kV pre-secured positions bypass this queue entirely —
+  an unmatched structural timing advantage over the 80+ GW of applicants still waiting.
+  Source: ESD News | https://esdnews.com.au/batteries-lead-record-pipeline-of-projects-seeking-grid-connection/
 
-  [UPDATED COUNTDOWN — 8 DAYS] AEMC Final Determination on Data Centre Grid Standards:
+  [UPDATED COUNTDOWN — 7 DAYS] AEMC Final Determination on Data Centre Grid Standards:
   29 October 2026 [HIGH RELEVANCE]
-  Eight days remain to the AEMC's binding technical standard for 30 MW+ data centres
+  Seven days remain to the AEMC's binding technical standard for 30 MW+ data centres
   (disturbance ride-through, system strength self-remediation or charge, alignment with
   Texas/Ireland/Finland benchmarks). Pre-secured firm transmission agreements at Bundey and
   the NTx corridor are specifically structured to satisfy these standards from day one of the
@@ -240,9 +248,9 @@ No new updates today.
 
 No new updates today.
 
-  [UPDATED COUNTDOWN — 26 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
+  [UPDATED COUNTDOWN — 25 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
   [HIGH RELEVANCE]
-  26 days remain to the federal Senate Committee's final report on AI and data centres. The
+  25 days remain to the federal Senate Committee's final report on AI and data centres. The
   Committee's recommendations will directly shape mandatory national standards legislation targeted
   for early 2027 Parliament introduction. SA's Coordinator-General fast-track model,
   renewable-first grid, and the proposed Data Centre and AI Infrastructure Act are expected to
@@ -264,7 +272,7 @@ No new updates today.
   designation.
   Source: Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 8 DAYS AWAY — 29 October
+  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 7 DAYS AWAY — 29 October
   2026 [HIGH RELEVANCE]. See Section 1.
   Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
 
@@ -315,7 +323,9 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• AI Data Centre Developer Cold-Calls Tasmanian Landowners Adjacent to Substation
+No new updates today.
+
+  [MONITORING] AI Data Centre Developer Cold-Calls Tasmanian Landowners Adjacent to Substation
   (21 October 2026) [HIGH RELEVANCE]: ABC News reports a Sydney-based consultancy firm has been
   approaching rural residents near Nook, north-west Tasmania, about selling agricultural land
   adjacent to a substation for a large data centre development — prompting a Tasmanian Greens
@@ -448,17 +458,24 @@ TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au)
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月21日
+📋 南澳州數據中心土地每日簡報 - 2026年10月22日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-今日無新消息。
+• AEMO接入計分卡：80.9吉瓦申請管道首次超越全國現有裝機容量
+  （2026年10月22日）【高度相關】：AEMO最新接入計分卡顯示，全國電力市場（NEM）目前
+  在接入隊列中的發電及儲能項目合計已達80.9吉瓦，同比增長43%，增量主要來自電池儲能
+  項目。這是NEM歷史上首次出現擬建新增發電與儲能管道容量超越澳大利亞現有總裝機容量
+  （約77吉瓦）的情況，確認預先鎖定固定輸電協議已成為市場上最稀缺的結構性資產。South
+  Energy在邦迪330千伏的預先鎖定接入部署完全不受上述隊列制約——相較仍在等候的80吉瓦
+  以上申請方，優勢無可比擬。
+  來源：ESD News | https://esdnews.com.au/batteries-lead-record-pipeline-of-projects-seeking-grid-connection/
 
-  【倒計時更新——8天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
+  【倒計時更新——7天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
   【高度相關】
-  距AEMC針對30兆瓦以上數據中心的具法律約束力技術標準最終裁定公布僅剩8天（涵蓋擾動
+  距AEMC針對30兆瓦以上數據中心的具法律約束力技術標準最終裁定公布僅剩7天（涵蓋擾動
   穿越要求、系統強度自我修復或收費義務，並對標美國德州/愛爾蘭/芬蘭國際基準）。邦迪及
   NTx走廊預先鎖定的固定輸電協議已針對上述標準進行結構性設計，自裁定生效首日起即可
   達標。仍處於接入隊列中的項目在裁定公布後面臨最高合規成本敞口。
@@ -525,6 +542,10 @@ TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au)
 
   【持續監測】AEMC天然氣接入費用規則自2026年10月1日起正式生效：持續收緊監管趨勢
   在結構上加大了依賴天然氣替代方案的競爭劣勢。
+
+  【持續監測】Genassi Energy獲聯邦CIS合約——邦迪300兆瓦太陽能電廠及300兆瓦/1,200兆瓦
+  時電池：確認邦迪為南澳州可再生能源與儲能聯合部署最密集的節點，亦是South Energy最優
+  先的NTx走廊土地收購目標。
 
   【持續監測】南澳州政府與AGL簽署正式資金協議延壽托倫斯島B至2028年7月：600兆瓦三台
   機組獲延壽；390兆瓦可靠性缺口完全消除。
@@ -630,9 +651,9 @@ TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au)
 
 今日無新消息。
 
-  【倒計時更新——26天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
+  【倒計時更新——25天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
   【高度相關】
-  距聯邦參議院委員會最終報告公布僅剩26天。委員會建議將直接塑造目標2027年初提交議會
+  距聯邦參議院委員會最終報告公布僅剩25天。委員會建議將直接塑造目標2027年初提交議會
   的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議《數據中心
   與AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督察員批准的立法
   前窗口期持續收窄。
@@ -648,7 +669,7 @@ TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au)
   的優先審核地位。
   來源：Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩8天（2026年10月29日）
+  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩7天（2026年10月29日）
   【高度相關】。見第1節。
 
   【持續監測】南澳州AI皇家委員會自2026年10月1日起正式開始——數據中心明確排除在職
@@ -686,7 +707,9 @@ TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• AI數據中心開發商致電塔斯馬尼亞州農場主——變電站毗鄰土地收購行動引發質詢
+今日無新消息。
+
+  【持續監測】AI數據中心開發商致電塔斯馬尼亞州農場主——變電站毗鄰土地收購行動引發質詢
   （2026年10月21日）【高度相關】：澳大利亞廣播公司（ABC News）報道，一家悉尼諮詢公司
   正在就出售鄰近變電站的農業用地一事接觸塔斯馬尼亞州西北部努克（Nook）地區的農村居
   民，疑似為大型數據中心項目收地，此舉引發塔斯馬尼亞州綠黨要求展開立法質詢。塔斯馬
