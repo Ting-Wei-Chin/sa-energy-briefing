@@ -1,16 +1,14 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 26 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 27 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-No new updates today.
-
-  [UPDATED COUNTDOWN — 3 DAYS] AEMC Final Determination on Data Centre Grid Standards:
+  [UPDATED COUNTDOWN — 2 DAYS] AEMC Final Determination on Data Centre Grid Standards:
   29 October 2026 [HIGH RELEVANCE]
-  Three days remain to the AEMC's binding technical standard for 30 MW+ data centres
+  Two days remain to the AEMC's binding technical standard for 30 MW+ data centres
   (disturbance ride-through, system strength self-remediation or charge, alignment with
   Texas/Ireland/Finland benchmarks). Pre-secured firm transmission agreements at Bundey and
   the NTx corridor are specifically structured to satisfy these standards from day one of the
@@ -157,7 +155,24 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-No new updates today.
+• AirTrunk Secures A$4.25 Billion Green Loan for SYD3 Western Sydney Campus
+  (27 October 2026) [HIGH RELEVANCE]: A consortium of 32 local and international lenders
+  backed AirTrunk's A$4.25 billion (approximately US$3.0 billion) green loan for its Huntingwood
+  campus targeting 400+ MW of AI and cloud capacity, with the expansion phase due for completion
+  mid-2028; the deal brings AirTrunk's total committed Australian debt financing to over A$19.8
+  billion and further compresses already-constrained Sydney grid access, concentrating hyperscale
+  second-site AI inference demand on SA.
+  Sources: AirTrunk | https://airtrunk.com/airtrunk-secures-a4-25b-green-loan-for-syd3-western-sydney-expansion-supporting-australias-digital-economy/
+  ESG News | https://esgnews.com/airtrunk-green-loan-syd3-western-sydney/
+  Data Center Dynamics | https://www.datacenterdynamics.com/en/news/google-warns-aussie-govt-that-high-taxes-could-prevent-au20bn-investment/
+
+• Anthropic Faces Community Backlash at Western Downs Queensland Campus
+  (26 October 2026): CNN reports that Zerra DC's proposed AU$22 billion Western Downs Digital
+  Park — with Anthropic as its first tenant — is encountering deep local distrust over water
+  consumption, energy supply and community consent; QLD community opposition to large-scale AI
+  campuses reinforces SA NTx corridor's established social-licence advantage as Australia's
+  lowest-risk hyperscale destination.
+  Source: CNN | https://cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk
 
   [MONITORING] Anthropic Signs Unannounced Multiyear Cloud Deal with IREN — SA Bundey Campus
   Directly Implicated [HIGH RELEVANCE]: Anthropic has signed an undisclosed multiyear cloud
@@ -232,11 +247,21 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-No new updates today.
+• Smart Energy Council: Unmatched Data Centre Load Could Add AU$2.1 Billion to SA Wholesale
+  Costs (26 October 2026) [HIGH RELEVANCE]: The Smart Energy Council published independent
+  analysis modelling 5 GW of new data centre load connecting to the NEM without matching new
+  supply from July 2028, finding an additional AU$2.1 billion in SA wholesale electricity costs
+  and AU$661 per SA household over the six-year period 2029-30 to 2034-35; the AU$40 billion
+  national total (QLD AU$19.9B, VIC AU$9.1B, NSW AU$8.9B, SA AU$2.1B) substantially strengthens
+  the mandatory BYO-renewables policy trajectory, with SA's fully-renewable grid already satisfying
+  the requirement by default.
+  Sources: Smart Energy Council | https://smartenergy.org.au/dirty-data-the-40-billion-ai-power-bill-from-fossil-fuel/
+  RenewEconomy | https://reneweconomy.com.au/letting-data-centres-build-first-catch-up-on-renewables-later-could-add-40-billion-to-power-bills/
+  pv-tech | https://www.pv-tech.org/data-centres-could-add-au40-billion-to-australian-power-costs-warns-smart-energy-council/
 
-  [UPDATED COUNTDOWN — 21 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
+  [UPDATED COUNTDOWN — 20 DAYS] Senate Committee on AI and Data Centres: 16 November 2026
   [HIGH RELEVANCE]
-  21 days remain to the federal Senate Committee's final report on AI and data centres. The
+  20 days remain to the federal Senate Committee's final report on AI and data centres. The
   Committee's recommendations will directly shape mandatory national standards legislation targeted
   for early 2027 Parliament introduction. SA's Coordinator-General fast-track model,
   renewable-first grid, and the proposed Data Centre and AI Infrastructure Act are expected to
@@ -256,7 +281,7 @@ No new updates today.
   energy matching and grid contribution.
   Source: Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 3 DAYS AWAY — 29 October
+  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: 2 DAYS AWAY — 29 October
   2026 [HIGH RELEVANCE]. See Section 1.
   Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
 
@@ -307,7 +332,29 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• AirTrunk Conditionally Acquires 52-Hectare Kemps Creek Site for Up to 1 GW Sydney Campus
+• Quantum DC's Proposed 1.2GW SA Tungkillo Campus Faces Organised Community Opposition
+  (27 October 2026) [HIGH RELEVANCE]: Quantum DC's planned 1.2GW data centre and energy hub on
+  a 220-hectare site near Tungkillo in SA's Adelaide Hills has drawn 720+ residents into formal
+  opposition, citing light and sound pollution within Australia's first River Murray Dark Sky
+  Reserve, shared groundwater depletion and road damage — the first organised SA data centre
+  community opposition campaign, underscoring that only NTx corridor industrial-zoned land
+  positions carry zero social-licence risk; Quantum DC is holding community drop-in sessions
+  29 and 31 October ahead of lodging its planning application.
+  Sources: ABC News | https://www.abc.net.au/news/2026-10-27/community-opposes-proposed-data-centre-near-dark-sky-reserve/107312876
+  w.media | https://w.media/quantum-dc-proposes-1-2gw-data-centre-and-energy-hub-in-south-australia/
+  5MU | https://www.5mu.com.au/local-news/proposed-tungkillo-data-centre-faces-community-pushback/
+
+• CBA Upgrades Australian Data Centre Pipeline to A$260 Billion / 7GW Feasible Capacity
+  (27 October 2026) [HIGH RELEVANCE]: Commonwealth Bank economists raised their estimate of
+  Australia's achievable additional data centre pipeline from 6GW to 7GW, projecting investment
+  of approximately A$150 billion by 2030 and A$260 billion by the mid-2030s with peak construction
+  in FY2028–29; CBA identifies energy supply, community opposition and copyright policy as the
+  three key constraints on delivery — all three structurally favour NTx corridor-adjacent land
+  positions over the broader announced-but-undeliverable pipeline.
+  Sources: CBA | https://www.commbank.com.au/articles/newsroom/2026/10/data-centre-pipeline-260bn-decade-cba.html
+  Webull / CBA Research | https://www.webull.com/news/15817171505917952
+
+  [MONITORING] AirTrunk Conditionally Acquires 52-Hectare Kemps Creek Site for Up to 1 GW Sydney Campus
   [HIGH RELEVANCE]: AirTrunk is the conditional buyer of a 52-hectare site at Mamre Road,
   Kemps Creek, acquired from ISPT, with plans for a data centre campus of up to 1 GW. The
   purchase is contingent on planning approval. This is AirTrunk's second major Sydney expansion
@@ -315,7 +362,7 @@ No new updates today.
   already-constrained grid and accelerating hyperscale demand redirection toward SA.
   Source: Commercial Property Marketing | https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/
 
-• Goodman Group Completes A$4 Billion Capital Raise; Australian Power Bank Reaches 1.3 GW
+  [MONITORING] Goodman Group Completes A$4 Billion Capital Raise; Australian Power Bank Reaches 1.3 GW
   [HIGH RELEVANCE]: Goodman Group — Australia's largest industrial property owner — has
   converted its industrial land bank into a dedicated data centre business, supported by a
   A$4 billion capital raise, and now holds approximately 1.3 GW of Australian data centre power
@@ -460,24 +507,24 @@ The Tech Capital (thetechcapital.com) | Telecompaper (telecompaper.com) |
 Pinsent Masons (pinsentmasons.com) | Global Transmission Report (globaltransmission.info) |
 Dataconomy (dataconomy.com) | TechBriefly (techbriefly.com) |
 TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au) |
-Commercial Property Marketing (commercialpropertymarketing.com.au)
+Commercial Property Marketing (commercialpropertymarketing.com.au) |
+Smart Energy Council (smartenergy.org.au) | ESG News (esgnews.com) |
+CNN (cnn.com) | pv-tech (pv-tech.org) | 5MU (5mu.com.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月26日
+📋 南澳州數據中心土地每日簡報 - 2026年10月27日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-今日無新消息。
-
-  【倒計時更新——3天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
+  【倒計時更新——2天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
   【高度相關】
-  距AEMC針對30兆瓦以上數據中心的具法律約束力技術標準最終裁定公布僅剩3天（涵蓋擾動
+  距AEMC針對30兆瓦以上數據中心的具法律約束力技術標準最終裁定公布僅剩2天（涵蓋擾動
   穿越要求、系統強度自我修復或收費義務，並對標美國德州/愛爾蘭/芬蘭國際基準）。邦迪及
   NTx走廊預先鎖定的固定輸電協議已針對上述標準進行結構性設計，自裁定生效首日起即可
   達標。仍處於接入隊列中的項目在裁定公布後面臨最高合規成本敞口。
@@ -589,7 +636,21 @@ Commercial Property Marketing (commercialpropertymarketing.com.au)
 
 🏢 3. 科技公司需求（潛在買家）
 
-今日無新消息。
+• AirTrunk完成42.5億澳元綠色貸款——SYD3西悉尼數據中心園區擴張
+  （2026年10月27日）【高度相關】：32家本地及國際貸款機構組成的銀團為AirTrunk的西悉尼
+  Huntingwood園區提供42.5億澳元（約30億美元）綠色融資，目標建設逾400兆瓦AI及雲端就緒
+  容量，擴張階段預計2028年中竣工；此次融資使AirTrunk在澳大利亞的承諾債務融資總額超過
+  198億澳元，進一步壓縮已嚴重緊張的悉尼電網接入容量，將超大規模第二站AI推理需求更集中
+  地轉移至南澳州。
+  來源：AirTrunk | https://airtrunk.com/airtrunk-secures-a4-25b-green-loan-for-syd3-western-sydney-expansion-supporting-australias-digital-economy/
+  ESG News | https://esgnews.com/airtrunk-green-loan-syd3-western-sydney/
+
+• Anthropic在昆士蘭西部低地園區遭遇社區強烈反對（2026年10月26日）：美國CNN報道，
+  Zerra DC擬建的220億澳元「西部低地數碼園區」——以Anthropic為首席租戶——在澳大利亞
+  農村社區中遭遇深層不信任，居民對水資源消耗、能源供應及社區同意問題表達強烈關切；
+  昆士蘭大型AI園區社區反對浪潮進一步強化南澳州NTx走廊作為澳大利亞社會許可風險最低
+  超大規模選址目的地的既有優勢。
+  來源：CNN | https://cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk
 
   【持續監測】Anthropic與IREN簽署未公開多年期雲端協議——直接關聯南澳州邦迪園區
   【高度相關】：Anthropic已與IREN簽署一份多年期雲端運算協議。IREN在澳大利亞的核心資產
@@ -640,11 +701,20 @@ Commercial Property Marketing (commercialpropertymarketing.com.au)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-今日無新消息。
+• 智慧能源委員會警告：未配套可再生能源的數據中心負荷或為南澳州增加21億澳元批發電費
+  （2026年10月26日）【高度相關】：智慧能源委員會（Smart Energy Council）發布獨立分析，
+  對自2028年7月起5吉瓦新增數據中心負荷在無配套新供應電力的情況下接入NEM的情景進行
+  壓力測試，測算結果顯示南澳州批發電費將在2029-30至2034-35財年的六年期間額外增加21億
+  澳元，相當于每戶家庭增加661澳元；全國總額400億澳元（昆士蘭199億、維多利亞91億、
+  新南威爾士89億、南澳州21億）大幅強化了強制自備可再生能源政策的推進動力，而南澳州
+  的全可再生能源電網已在默認情況下滿足相關要求。
+  來源：智慧能源委員會 | https://smartenergy.org.au/dirty-data-the-40-billion-ai-power-bill-from-fossil-fuel/
+  RenewEconomy | https://reneweconomy.com.au/letting-data-centres-build-first-catch-up-on-renewables-later-could-add-40-billion-to-power-bills/
+  pv-tech | https://www.pv-tech.org/data-centres-could-add-au40-billion-to-australian-power-costs-warns-smart-energy-council/
 
-  【倒計時更新——21天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
+  【倒計時更新——20天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
   【高度相關】
-  距聯邦參議院委員會最終報告公布僅剩21天。委員會建議將直接塑造目標2027年初提交議會
+  距聯邦參議院委員會最終報告公布僅剩20天。委員會建議將直接塑造目標2027年初提交議會
   的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議《數據中心與
   AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督察員批准的立法前
   窗口期持續收窄。
@@ -659,7 +729,7 @@ Commercial Property Marketing (commercialpropertymarketing.com.au)
   審核地位。
   來源：Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩3天（2026年10月29日）
+  【持續監測】AEMC數據中心電網接入技術標準最終裁定：距公布還剩2天（2026年10月29日）
   【高度相關】。見第1節。
 
   【持續監測】南澳州AI皇家委員會自2026年10月1日起正式開始——數據中心明確排除在職權範圍
@@ -697,13 +767,33 @@ Commercial Property Marketing (commercialpropertymarketing.com.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• AirTrunk有條件收購悉尼坎普斯克里克52公頃地塊——規劃最高1吉瓦園區【高度相關】：
+• Quantum DC擬建南澳州騰基羅1.2吉瓦園區遭遇有組織社區反對
+  （2026年10月27日）【高度相關】：Quantum DC計劃在南澳州阿德萊德山區騰基羅附近的220
+  公頃場址建設1.2吉瓦數據中心及能源樞紐，但已引發720餘名居民的有組織反對，理由涉及
+  對澳大利亞首個默里河黑暗天空保護區內光污染與噪音污染的憂慮、共用地下含水層的地下水
+  消耗風險及道路破壞問題——此乃南澳州首個有組織的數據中心社區反對案例，凸顯只有NTx
+  走廊工業分區土地部署方具備零社會許可風險屬性；Quantum DC計劃於10月29日及31日舉辦
+  社區說明會，隨後提交規劃申請。
+  來源：ABC新聞 | https://www.abc.net.au/news/2026-10-27/community-opposes-proposed-data-centre-near-dark-sky-reserve/107312876
+  w.media | https://w.media/quantum-dc-proposes-1-2gw-data-centre-and-energy-hub-in-south-australia/
+  5MU | https://www.5mu.com.au/local-news/proposed-tungkillo-data-centre-faces-community-pushback/
+
+• 澳洲聯邦銀行（CBA）上調澳大利亞數據中心管道預測至2,600億澳元/7吉瓦可交付容量
+  （2026年10月27日）【高度相關】：澳洲聯邦銀行經濟學家將澳大利亞可實現的新增數據中心
+  管道估算從6吉瓦上調至7吉瓦，預測投資總額約於2030年達到1,500億澳元、2030年代中期
+  達2,600億澳元，建設活動峰值出現在FY2028–29財年；CBA指出能源供應、社區反對及著作權
+  政策是三大交付制約因素——三項因素均從結構上有利於NTx走廊毗鄰土地部署，優於已宣布
+  但難以落地的更廣泛管道。
+  來源：CBA | https://www.commbank.com.au/articles/newsroom/2026/10/data-centre-pipeline-260bn-decade-cba.html
+  Webull / CBA Research | https://www.webull.com/news/15817171505917952
+
+  【持續監測】AirTrunk有條件收購悉尼坎普斯克里克52公頃地塊——規劃最高1吉瓦園區【高度相關】：
   AirTrunk已有條件從ISPT收購位於坎普斯克里克馬姆雷路52公頃地塊，計劃開發最高1吉瓦的
-  數據中心園區，交易生效尚待規劃批准。此舉是AirTrunk繼MEL2墨爾本園區後在悉尼的第二次
-  重大擴張行動，進一步壓縮西悉尼本已緊張的電網接入容量，加速超大規模需求向南澳州轉移。
+  數據中心園區，交易生效尚待規劃批准。此舉進一步壓縮西悉尼本已緊張的電網接入容量，
+  加速超大規模需求向南澳州轉移。
   來源：Commercial Property Marketing | https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/
 
-• 古德曼集團完成40億澳元融資；澳大利亞數據中心電力儲備達1.3吉瓦【高度相關】：
+  【持續監測】古德曼集團完成40億澳元融資；澳大利亞數據中心電力儲備達1.3吉瓦【高度相關】：
   澳大利亞最大工業地產持有方古德曼集團已將其工業土地儲備轉型為數據中心業務，依托40億
   澳元融資，目前持有約1.3吉瓦的澳大利亞數據中心電力開發管道。古德曼的全面轉型確認了
   澳大利亞預先分區工業用地的結構性重新定價，並加劇了具備預先固定輸電接入協議場址的競
@@ -802,4 +892,6 @@ The Tech Capital（thetechcapital.com）| Telecompaper（telecompaper.com）|
 Pinsent Masons（pinsentmasons.com）| Global Transmission Report（globaltransmission.info）|
 Dataconomy（dataconomy.com）| TechBriefly（techbriefly.com）|
 TaiyangNews（taiyangnews.info）| Transgrid（transgrid.com.au）|
-Commercial Property Marketing（commercialpropertymarketing.com.au）
+Commercial Property Marketing（commercialpropertymarketing.com.au）|
+智慧能源委員會（smartenergy.org.au）| ESG News（esgnews.com）|
+CNN（cnn.com）| pv-tech（pv-tech.org）| 5MU（5mu.com.au）
