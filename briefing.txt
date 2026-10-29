@@ -1,21 +1,25 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 28 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 29 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-  [UPDATED COUNTDOWN — TOMORROW] AEMC Final Determination on Data Centre Grid
-  Standards: 29 October 2026 [HIGH RELEVANCE]
-  The AEMC's binding technical standard for 30 MW+ data centres releases TOMORROW —
-  covering disturbance ride-through, system strength self-remediation or charge, and
-  alignment with Texas/Ireland/Finland benchmarks. Pre-secured firm transmission
-  agreements at Bundey and the NTx corridor are specifically structured to satisfy
-  these standards from day one of the determination's commencement. Operators still
-  in the connection queue face the highest compliance exposure from tomorrow onwards.
-  Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
-  WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
+• [CONFIRMED TODAY] AEMC Final Determination Published: "Data Centres Must Bring
+  Clean, Firm Energy and Be Flexible" (29 October 2026) [HIGH RELEVANCE]:
+  The AEMC today published its final determination — "AEMC modernises grid connection
+  rules to accelerate energy transition, manage AI boom" — setting binding technical
+  standards for data centres 30 MW and above. In its simultaneous advisory to federal
+  Energy Ministers, the AEMC stated that data centres must bring clean, firm energy, be
+  flexible (able to reduce load when the grid is under stress), and pay their share of
+  connection and network upgrade costs. The determination covers disturbance ride-through,
+  system strength self-remediation or charge, and aligns with Texas/Ireland/Finland
+  benchmarks. South Energy's pre-secured Bundey 330 kV firm transmission agreements are
+  structured to satisfy these standards from day one of commencement. Operators still in
+  the connection queue now face this regime immediately.
+  Sources: AEMC | https://www.aemc.gov.au/news-centre/media-releases/aemc-modernises-grid-connection-rules-accelerate-energy-transition-manage-ai-boom
+  AEMC | https://www.aemc.gov.au/news-centre/media-releases/data-centres-bring-clean-firm-energy-be-flexible-and-pay-their-way-aemc-advises-ministers
 
   [MONITORING] AEMO Connections Scorecard: 80.9 GW Pipeline Overtakes Installed NEM
   Capacity for First Time (22 October 2026) [HIGH RELEVANCE]: AEMO's latest Connections
@@ -180,7 +184,6 @@ No new updates today.
   inference demand on SA.
   Sources: AirTrunk | https://airtrunk.com/airtrunk-secures-a4-25b-green-loan-for-syd3-western-sydney-expansion-supporting-australias-digital-economy/
   ESG News | https://esgnews.com/airtrunk-green-loan-syd3-western-sydney/
-  Data Center Dynamics | https://www.datacenterdynamics.com/en/news/google-warns-aussie-govt-that-high-taxes-could-prevent-au20bn-investment/
 
   [MONITORING] Anthropic Faces Community Backlash at Western Downs Queensland Campus
   (26 October 2026): CNN reports that Zerra DC's proposed AU$22 billion Western Downs
@@ -271,7 +274,19 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• Joint Select Committee on AI: Final Report Due 30 November 2026 [HIGH RELEVANCE]:
+• [UPDATED COUNTDOWN — 18 DAYS] Senate Committee on AI and Data Centres: 16 November
+  2026 [HIGH RELEVANCE]
+  18 days remain to the federal Senate Committee's final report on AI and data centres.
+  The Committee's recommendations will directly shape mandatory national standards
+  legislation targeted for early 2027 Parliament introduction. SA's
+  Coordinator-General fast-track model, renewable-first grid, and the proposed Data
+  Centre and AI Infrastructure Act are expected to feature as benchmark compliance
+  pathways in testimony. The non-retrospective window for 2026 Coordinator-General
+  approvals continues to narrow. The AEMC final determination published today directly
+  informs the Committee's technical standards chapter.
+  Source: Australian Parliament / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
+
+  [MONITORING] Joint Select Committee on AI: Final Report Due 30 November 2026 [HIGH RELEVANCE]:
   Separate from the Senate Committee on AI and Data Centres (16 November), the Joint
   Select Committee on AI is a second parallel parliamentary inquiry due to deliver its
   final report by 30 November 2026. Its scope covers AI governance frameworks, compute
@@ -281,17 +296,6 @@ No new updates today.
   expected to feature in both reports as benchmark compliance pathways.
   Source: SafeAI-Aus / Australian Parliament | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
   Norton Rose Fulbright | https://www.nortonrosefulbright.com/en/knowledge/publications/746b2689/new-expectations-for-data-centre-operators-and-ai-infrastructure-developers
-
-  [UPDATED COUNTDOWN — 19 DAYS] Senate Committee on AI and Data Centres: 16 November
-  2026 [HIGH RELEVANCE]
-  19 days remain to the federal Senate Committee's final report on AI and data centres.
-  The Committee's recommendations will directly shape mandatory national standards
-  legislation targeted for early 2027 Parliament introduction. SA's
-  Coordinator-General fast-track model, renewable-first grid, and the proposed Data
-  Centre and AI Infrastructure Act are expected to feature as benchmark compliance
-  pathways in testimony. The non-retrospective window for 2026 Coordinator-General
-  approvals continues to narrow.
-  Source: Australian Parliament / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
   [MONITORING] Smart Energy Council: Unmatched Data Centre Load Could Add AU$2.1
   Billion to SA Wholesale Costs (26 October 2026) [HIGH RELEVANCE]: The Smart Energy
@@ -317,10 +321,6 @@ No new updates today.
   in Commonwealth regulatory processes to data centre projects that closely align with
   its expectations — including renewable energy matching and grid contribution.
   Source: Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
-
-  [MONITORING] AEMC Final Determination on Data Centre Grid Standards: TOMORROW —
-  29 October 2026 [HIGH RELEVANCE]. See Section 1.
-  Sources: AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
 
   [MONITORING] SA AI Royal Commission Commenced 1 October 2026 — Data Centres
   Explicitly Out of Scope: Coordinator-General fast-track pathway and proposed Data
@@ -360,7 +360,7 @@ No new updates today.
 
   [MONITORING] ECMC September 2026 regulatory package: mandatory REGO + firming
   offset obligation; AEMC full capacity charging cost recovery; AEMC 30 MW+ technical
-  standards.
+  standards (now final — see new item above).
 
   [MONITORING] Australia to legislate mandatory net-generator requirement for large
   data centres: federal draft legislation targeting early 2027 Parliament introduction.
@@ -377,19 +377,21 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Quantum DC Tungkillo Community Sessions Begin Tomorrow (29 October 2026)
-  [HIGH RELEVANCE]: Quantum DC's first community drop-in session for its proposed
-  1.2 GW data centre and energy hub near Tungkillo — opposed by 720+ residents
-  — is scheduled for tomorrow (29 October), with a second session on 31 October,
-  ahead of formal lodgement of its planning application. The organised opposition
-  citing the River Murray Dark Sky Reserve, groundwater depletion and road damage
-  remains SA's first and only active data centre social-licence contest; the imminent
-  lodgement will formally test SA's Coordinator-General approval pathway against
-  community opposition at scale. South Energy's NTx corridor industrial-zoned
-  positions face zero equivalent exposure.
-  Sources: ABC News | https://www.abc.net.au/news/2026-10-27/community-opposes-proposed-data-centre-near-dark-sky-reserve/107312876
-  w.media | https://w.media/quantum-dc-proposes-1-2gw-data-centre-and-energy-hub-in-south-australia/
-  5MU | https://www.5mu.com.au/local-news/proposed-tungkillo-data-centre-faces-community-pushback/
+• Quantum DC Tungkillo Community Session CANCELLED: "Credible Bomb Threat"
+  (29 October 2026) [HIGH RELEVANCE]:
+  Data Center Dynamics reports that Quantum DC cancelled its first Tungkillo community
+  drop-in session — scheduled for today at the Tungkillo Soldiers Memorial Hall —
+  after CEO Alby Tomassi cited a "credible" bomb threat. The session has been
+  postponed with no confirmed rescheduled date; the status of the second session in
+  Mannum on 31 October is unclear. This marks a significant escalation: SA's only
+  active data centre social-licence contest has now attracted security threats,
+  introducing a further complication into Quantum DC's planning application timeline.
+  Community opposition at Tungkillo — citing the River Murray Dark Sky Reserve,
+  groundwater depletion, road damage and now security concerns — is now operating at a
+  level not seen in any other Australian data centre approval process. South Energy's
+  NTx corridor industrial-zoned positions carry zero equivalent social-licence or
+  security risk exposure.
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
 
   [MONITORING] CBA Upgrades Australian Data Centre Pipeline to A$260 Billion / 7GW
   Feasible Capacity (27 October 2026) [HIGH RELEVANCE]: Commonwealth Bank economists
@@ -564,20 +566,23 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月28日
+📋 南澳州數據中心土地每日簡報 - 2026年10月29日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-  【倒計時更新——明天】AEMC數據中心電網接入技術標準最終裁定：2026年10月29日
-  【高度相關】
-  AEMC針對30兆瓦以上數據中心的具法律約束力技術標準將於明天正式公布——涵蓋擾動
-  穿越要求、系統強度自我修復或收費義務，並對標美國德州/愛爾蘭/芬蘭國際基準。
-  邦迪及NTx走廊預先鎖定的固定輸電協議已針對上述標準進行結構性設計，自裁定生效
-  首日起即可達標。仍處於接入隊列中的市場參與者自明日起面臨最高合規成本敞口。
-  來源：AEMC | https://www.aemc.gov.au/rule-changes/improving-nem-access-standards-package-2
-  WattClarity | https://wattclarity.com.au/articles/2026/04/05april-aemc-draft-datacentre/
+• 【今日確認】AEMC最終裁定正式發布：「數據中心必須帶來清潔穩定電力並保持靈活性」
+  （2026年10月29日）【高度相關】：
+  AEMC今日正式發布最終裁定——「AEMC現代化電網接入規則，加速能源轉型並應對AI
+  熱潮」——為30兆瓦及以上數據中心制定具有法律約束力的技術標準。在向聯邦能源
+  部長的同步諮詢意見中，AEMC指出數據中心必須帶來清潔穩定電力、保持靈活性
+  （在電網承壓時能夠降低負荷），並承擔其應負擔的接入及網絡升級費用。裁定涵蓋
+  擾動穿越要求、系統強度自我修復或收費義務，並對標美國德州/愛爾蘭/芬蘭國際
+  基準。South Energy預先鎖定的邦迪330千伏固定輸電接入協議自裁定生效首日起即可
+  達標。仍處於接入隊列中的市場參與者即日起須立即面對這一監管環境。
+  來源：AEMC | https://www.aemc.gov.au/news-centre/media-releases/aemc-modernises-grid-connection-rules-accelerate-energy-transition-manage-ai-boom
+  AEMC | https://www.aemc.gov.au/news-centre/media-releases/data-centres-bring-clean-firm-energy-be-flexible-and-pay-their-way-aemc-advises-ministers
 
   【持續監測】AEMO接入計分卡：80.9吉瓦申請管道首次超越全國現有裝機容量
   （2026年10月22日）【高度相關】：AEMO最新接入計分卡顯示，全國電力市場（NEM）目前在
@@ -754,22 +759,22 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 聯邦人工智能聯合委員會（Joint Select Committee on AI）：最終報告截止日
+• 【倒計時更新——18天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
+  【高度相關】
+  距聯邦參議院委員會最終報告公布僅剩18天。委員會建議將直接塑造目標2027年初提交
+  議會的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議
+  《數據中心與AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督
+  察員批准的立法前窗口期持續收窄。今日發布的AEMC最終裁定將直接為委員會技術標準
+  章節提供依據。
+  來源：澳大利亞議會 / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
+
+  【持續監測】聯邦人工智能聯合委員會（Joint Select Committee on AI）：最終報告截止日
   2026年11月30日【高度相關】：有別於參議院AI與數據中心委員會（11月16日），
   聯邦聯合特設委員會是另一項平行議會調查，最終報告截止日期為2026年11月30日。
   其審查範圍涵蓋AI治理框架、算力治理及數據中心政策，為目標2027年初提交議會的
-  強制性全國標準立法提供第二波立法意見輸入。南澳州總督察員快速審批模式及全可
-  再生能源電網，預計將在兩份報告中均被引用為合規基準路徑。
+  強制性全國標準立法提供第二波立法意見輸入。
   來源：SafeAI-Aus / 澳大利亞議會 | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
   Norton Rose Fulbright | https://www.nortonrosefulbright.com/en/knowledge/publications/746b2689/new-expectations-for-data-centre-operators-and-ai-infrastructure-developers
-
-  【倒計時更新——19天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
-  【高度相關】
-  距聯邦參議院委員會最終報告公布僅剩19天。委員會建議將直接塑造目標2027年初提交
-  議會的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議
-  《數據中心與AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督
-  察員批准的立法前窗口期持續收窄。
-  來源：澳大利亞議會 / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
   【持續監測】智慧能源委員會警告：未配套可再生能源的數據中心負荷或為南澳州增加
   21億澳元批發電費（2026年10月26日）【高度相關】：全國總額400億澳元大幅強化了強制
@@ -786,9 +791,6 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
 
   【持續監測】澳大利亞政府「國家利益」數據中心優先支持機制【高度相關】。
   來源：Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
-
-  【持續監測】AEMC數據中心電網接入技術標準最終裁定：明天公布（2026年10月29日）
-  【高度相關】。見第1節。
 
   【持續監測】南澳州AI皇家委員會自2026年10月1日起正式開始——數據中心明確排除在
   職權範圍之外：總督察員快速審批通道及擬議《數據中心與AI基礎設施法》仍是唯一
@@ -814,6 +816,9 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
   【持續監測】全國內閣昆士蘭州及北領地豁免條款（2026年8月26日）：南澳州100%淨可再生
   能源目標默認滿足聯邦能源標準——形成結構性合規優勢。
 
+  【持續監測】ECMC 2026年9月監管配套措施：強制性REGO及保障性抵消義務；AEMC全容量
+  接入費用收回；AEMC 30兆瓦以上技術標準（現已成為最終裁定——見上述新消息）。
+
   【持續監測】澳大利亞擬立法強制要求大型數據中心履行「淨發電商」義務：聯邦立法草案
   目標2027年初提交議會。
 
@@ -827,15 +832,16 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• Quantum DC騰基羅社區說明會明天開始（2026年10月29日）【高度相關】：
-  Quantum DC針對其擬建1.2吉瓦騰基羅數據中心及能源樞紐的首次社區說明會定於
-  明天（10月29日）舉行，第二場定於10月31日，之後將正式提交規劃申請。這是南澳州
-  首個有組織反對的數據中心社區抗議案例（720餘名居民聯署反對），即將提交的規劃
-  申請將在規模上正式測試南澳州總督察員審批路徑應對社區反對的能力。South Energy
-  NTx走廊工業分區土地部署不面臨任何等效社會許可風險。
-  來源：ABC新聞 | https://www.abc.net.au/news/2026-10-27/community-opposes-proposed-data-centre-near-dark-sky-reserve/107312876
-  w.media | https://w.media/quantum-dc-proposes-1-2gw-data-centre-and-energy-hub-in-south-australia/
-  5MU | https://www.5mu.com.au/local-news/proposed-tungkillo-data-centre-faces-community-pushback/
+• Quantum DC騰基羅社區說明會遭取消：「可信炸彈威脅」（2026年10月29日）【高度相關】：
+  Data Center Dynamics報道，Quantum DC取消了原定今日（10月29日）在騰基羅士兵紀念廳
+  舉行的首次社區說明會，公司CEO阿爾比·托馬西（Alby Tomassi）援引「可信」炸彈
+  威脅宣布推遲，目前未確認新的說明會日期；10月31日曼納姆場次的狀況亦尚不明朗。
+  此次升級標誌著南澳州唯一有組織社區反對的數據中心項目已演變至出現安全威脅的程度，
+  進一步複雜化Quantum DC的規劃申請時間表。圍繞騰基羅的社區反對——涉及默裡河暗天
+  保護區、地下水耗盡、道路損壞，以及如今的安全顧慮——現已升至澳大利亞任何其他
+  數據中心審批流程都未曾見過的程度。South Energy在NTx走廊的工業分區土地部署不存在
+  任何等效的社會許可或安全風險敞口。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
 
   【持續監測】澳洲聯邦銀行（CBA）上調澳大利亞數據中心管道預測至2,600億澳元/7吉瓦
   可交付容量（2026年10月27日）【高度相關】：CBA指出能源供應、社區反對及著作權政策
