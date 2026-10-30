@@ -1,14 +1,16 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 29 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 30 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-• [CONFIRMED TODAY] AEMC Final Determination Published: "Data Centres Must Bring
+No new updates today.
+
+  [MONITORING] AEMC Final Determination Published: "Data Centres Must Bring
   Clean, Firm Energy and Be Flexible" (29 October 2026) [HIGH RELEVANCE]:
-  The AEMC today published its final determination — "AEMC modernises grid connection
+  The AEMC yesterday published its final determination — "AEMC modernises grid connection
   rules to accelerate energy transition, manage AI boom" — setting binding technical
   standards for data centres 30 MW and above. In its simultaneous advisory to federal
   Energy Ministers, the AEMC stated that data centres must bring clean, firm energy, be
@@ -99,9 +101,10 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
   [MONITORING] AEMO Q2 2026: SA Battery Fleet Sets New Price-Setting Record; LOR 3
   Managed Without Load Shedding [HIGH RELEVANCE]: AEMO confirms South Australia
-  recorded the highest cap return across the NEM at A$38/MWh. LOR 3 managed entirely
-  through post-contingent actions with no involuntary load shedding — confirming
-  storage-led grid resilience in the NTx corridor.
+  recorded the highest cap return across the NEM at A$38/MWh and the highest average
+  wholesale spot price at A$86/MWh. LOR 3 managed entirely through post-contingent
+  actions with no involuntary load shedding — confirming storage-led grid resilience
+  in the NTx corridor.
   Source: AEMO QED Q2 2026 | https://www.aemo.com.au/-/media/files/major-publications/qed/2026/qed-q2-2026.pdf
 
   [MONITORING] AEMO: 11 large data centres representing more than 5 GW (5.4 GW) of
@@ -127,7 +130,15 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-No new updates today.
+• Tilt Renewables Commences Construction on 288 MW Palmer Wind Farm, South Australia
+  [HIGH RELEVANCE]: Tilt Renewables has commenced construction on the 288 MW Palmer
+  Wind Farm in South Australia's Mid North region, adding a new large-scale wind
+  development to the Goyder-adjacent renewable corridor. The project expands the depth
+  of renewable PPA supply optionality in SA's Mid North belt, directly adjacent to the
+  NTx corridor, and reinforces the green power matching capacity available to future
+  data centre operators required to comply with the emerging mandatory BYO-renewables
+  framework.
+  Source: ESD News | https://esdnews.com.au/
 
   [MONITORING] SA Government Selects Four Developers for Whyalla West 12.7 GW
   Renewable Energy Release Area (19 October 2026) [HIGH RELEVANCE]: Windlab (up to
@@ -274,16 +285,16 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• [UPDATED COUNTDOWN — 18 DAYS] Senate Committee on AI and Data Centres: 16 November
+• [UPDATED COUNTDOWN — 17 DAYS] Senate Committee on AI and Data Centres: 16 November
   2026 [HIGH RELEVANCE]
-  18 days remain to the federal Senate Committee's final report on AI and data centres.
+  17 days remain to the federal Senate Committee's final report on AI and data centres.
   The Committee's recommendations will directly shape mandatory national standards
   legislation targeted for early 2027 Parliament introduction. SA's
   Coordinator-General fast-track model, renewable-first grid, and the proposed Data
   Centre and AI Infrastructure Act are expected to feature as benchmark compliance
   pathways in testimony. The non-retrospective window for 2026 Coordinator-General
-  approvals continues to narrow. The AEMC final determination published today directly
-  informs the Committee's technical standards chapter.
+  approvals continues to narrow. The AEMC final determination published yesterday
+  directly informs the Committee's technical standards chapter.
   Source: Australian Parliament / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
   [MONITORING] Joint Select Committee on AI: Final Report Due 30 November 2026 [HIGH RELEVANCE]:
@@ -360,7 +371,7 @@ No new updates today.
 
   [MONITORING] ECMC September 2026 regulatory package: mandatory REGO + firming
   offset obligation; AEMC full capacity charging cost recovery; AEMC 30 MW+ technical
-  standards (now final — see new item above).
+  standards (now final — see AEMC determination above).
 
   [MONITORING] Australia to legislate mandatory net-generator requirement for large
   data centres: federal draft legislation targeting early 2027 Parliament introduction.
@@ -377,20 +388,17 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Quantum DC Tungkillo Community Session CANCELLED: "Credible Bomb Threat"
-  (29 October 2026) [HIGH RELEVANCE]:
-  Data Center Dynamics reports that Quantum DC cancelled its first Tungkillo community
-  drop-in session — scheduled for today at the Tungkillo Soldiers Memorial Hall —
-  after CEO Alby Tomassi cited a "credible" bomb threat. The session has been
-  postponed with no confirmed rescheduled date; the status of the second session in
-  Mannum on 31 October is unclear. This marks a significant escalation: SA's only
-  active data centre social-licence contest has now attracted security threats,
-  introducing a further complication into Quantum DC's planning application timeline.
-  Community opposition at Tungkillo — citing the River Murray Dark Sky Reserve,
-  groundwater depletion, road damage and now security concerns — is now operating at a
-  level not seen in any other Australian data centre approval process. South Energy's
-  NTx corridor industrial-zoned positions carry zero equivalent social-licence or
-  security risk exposure.
+• Quantum DC Mannum Community Session: 31 October (Tomorrow) — Status Uncertain
+  Following Tungkillo Security Threat [HIGH RELEVANCE]:
+  Quantum DC's second community drop-in session at Mannum is scheduled for tomorrow,
+  31 October, with no announcement of cancellation confirmed as of 30 October. The
+  session follows yesterday's unprecedented cancellation of the Tungkillo session due
+  to a credible bomb threat — the first such security incident in any Australian data
+  centre approval process. Whether the Mannum session proceeds, is postponed, or
+  attracts further organised opposition will be a direct indicator of the social-licence
+  trajectory for Quantum DC's Murray Mallee planning application. South Energy's NTx
+  corridor industrial-zoned positions carry zero comparable social-licence risk
+  exposure.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
 
   [MONITORING] CBA Upgrades Australian Data Centre Pipeline to A$260 Billion / 7GW
@@ -559,22 +567,25 @@ TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au) |
 Commercial Property Marketing (commercialpropertymarketing.com.au) |
 Smart Energy Council (smartenergy.org.au) | ESG News (esgnews.com) |
 CNN (cnn.com) | pv-tech (pv-tech.org) | 5MU (5mu.com.au) |
-Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
+Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com) |
+Tilt Renewables (tiltrenewables.com)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月29日
+📋 南澳州數據中心土地每日簡報 - 2026年10月30日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-• 【今日確認】AEMC最終裁定正式發布：「數據中心必須帶來清潔穩定電力並保持靈活性」
+今日無新消息。
+
+  【持續監測】AEMC最終裁定正式發布：「數據中心必須帶來清潔穩定電力並保持靈活性」
   （2026年10月29日）【高度相關】：
-  AEMC今日正式發布最終裁定——「AEMC現代化電網接入規則，加速能源轉型並應對AI
+  AEMC昨日正式發布最終裁定——「AEMC現代化電網接入規則，加速能源轉型並應對AI
   熱潮」——為30兆瓦及以上數據中心制定具有法律約束力的技術標準。在向聯邦能源
   部長的同步諮詢意見中，AEMC指出數據中心必須帶來清潔穩定電力、保持靈活性
   （在電網承壓時能夠降低負荷），並承擔其應負擔的接入及網絡升級費用。裁定涵蓋
@@ -635,7 +646,7 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
 
   【持續監測】AEMO 2026年第二季度報告：南澳州電池儲能創電價引領記錄；LOR 3條件在
   不限電情況下成功化解【高度相關】：南澳州在全國電力市場中錄得最高容量上限回報
-  （每兆瓦時38澳元）。
+  （每兆瓦時38澳元）及最高平均批發現貨電價（每兆瓦時86澳元）。
   來源：AEMO QED Q2 2026 | https://www.aemo.com.au/-/media/files/major-publications/qed/2026/qed-q2-2026.pdf
 
   【持續監測】AEMO：NEM中11個大型數據中心（合計5.4吉瓦最大需求）正在推進輸電接入
@@ -654,7 +665,13 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
 
 ☀️ 2. 可再生能源與選址條件
 
-今日無新消息。
+• 蒂爾可再生能源（Tilt Renewables）正式開工建設南澳州288兆瓦帕爾默風電場【高度相關】：
+  蒂爾可再生能源已在南澳州中北部地區正式啟動288兆瓦帕爾默（Palmer）風電場建設，
+  為高德爾（Goyder）毗鄰可再生能源走廊新增一個大型風電開發項目。此項目擴大了
+  南澳州中北部地帶——即NTx走廊直接毗鄰區域——的可再生能源購電協議（PPA）供應
+  選擇深度，強化了在即將落地的強制性自備可再生能源框架下，未來數據中心運營商可
+  用的綠電匹配容量。
+  來源：ESD News | https://esdnews.com.au/
 
   【持續監測】南澳州政府為懷阿拉西部12.7吉瓦可再生能源釋放區域選定四家開發商
   （2026年10月19日）【高度相關】：Windlab（最高6吉瓦風能及太陽能，2,386平方公里）、
@@ -759,12 +776,12 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 【倒計時更新——18天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
+• 【倒計時更新——17天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
   【高度相關】
-  距聯邦參議院委員會最終報告公布僅剩18天。委員會建議將直接塑造目標2027年初提交
+  距聯邦參議院委員會最終報告公布僅剩17天。委員會建議將直接塑造目標2027年初提交
   議會的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議
   《數據中心與AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督
-  察員批准的立法前窗口期持續收窄。今日發布的AEMC最終裁定將直接為委員會技術標準
+  察員批准的立法前窗口期持續收窄。昨日發布的AEMC最終裁定將直接為委員會技術標準
   章節提供依據。
   來源：澳大利亞議會 / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
@@ -817,7 +834,7 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
   能源目標默認滿足聯邦能源標準——形成結構性合規優勢。
 
   【持續監測】ECMC 2026年9月監管配套措施：強制性REGO及保障性抵消義務；AEMC全容量
-  接入費用收回；AEMC 30兆瓦以上技術標準（現已成為最終裁定——見上述新消息）。
+  接入費用收回；AEMC 30兆瓦以上技術標準（現已成為最終裁定）。
 
   【持續監測】澳大利亞擬立法強制要求大型數據中心履行「淨發電商」義務：聯邦立法草案
   目標2027年初提交議會。
@@ -832,15 +849,13 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• Quantum DC騰基羅社區說明會遭取消：「可信炸彈威脅」（2026年10月29日）【高度相關】：
-  Data Center Dynamics報道，Quantum DC取消了原定今日（10月29日）在騰基羅士兵紀念廳
-  舉行的首次社區說明會，公司CEO阿爾比·托馬西（Alby Tomassi）援引「可信」炸彈
-  威脅宣布推遲，目前未確認新的說明會日期；10月31日曼納姆場次的狀況亦尚不明朗。
-  此次升級標誌著南澳州唯一有組織社區反對的數據中心項目已演變至出現安全威脅的程度，
-  進一步複雜化Quantum DC的規劃申請時間表。圍繞騰基羅的社區反對——涉及默裡河暗天
-  保護區、地下水耗盡、道路損壞，以及如今的安全顧慮——現已升至澳大利亞任何其他
-  數據中心審批流程都未曾見過的程度。South Energy在NTx走廊的工業分區土地部署不存在
-  任何等效的社會許可或安全風險敞口。
+• Quantum DC曼納姆社區說明會：10月31日（明日）——騰基羅安全威脅後狀態仍不明朗
+  【高度相關】：
+  繼昨日騰基羅說明會因可信炸彈威脅被迫取消之後，Quantum DC第二場社區說明會定於
+  明日（10月31日）在曼納姆（Mannum）舉行，截至10月30日尚無取消公告發布。曼納姆
+  說明會能否如期進行、是否遭到推遲，抑或是否吸引進一步有組織反對行動，將直接
+  反映Quantum DC馬里馬利（Murray Mallee）規劃申請的社會許可風險走向。South Energy
+  在NTx走廊的工業分區土地部署不存在任何等效的社會許可或安全風險敞口。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
 
   【持續監測】澳洲聯邦銀行（CBA）上調澳大利亞數據中心管道預測至2,600億澳元/7吉瓦
@@ -954,4 +969,5 @@ TaiyangNews（taiyangnews.info）| Transgrid（transgrid.com.au）|
 Commercial Property Marketing（commercialpropertymarketing.com.au）|
 智慧能源委員會（smartenergy.org.au）| ESG News（esgnews.com）|
 CNN（cnn.com）| pv-tech（pv-tech.org）| 5MU（5mu.com.au）|
-Norton Rose Fulbright（nortonrosefulbright.com）| Dentons（dentons.com）
+Norton Rose Fulbright（nortonrosefulbright.com）| Dentons（dentons.com）|
+Tilt Renewables（tiltrenewables.com）
