@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 30 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 31 October 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -130,6 +130,8 @@ No new updates today.
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
+No new updates today.
+
 • Tilt Renewables Commences Construction on 288 MW Palmer Wind Farm, South Australia
   [HIGH RELEVANCE]: Tilt Renewables has commenced construction on the 288 MW Palmer
   Wind Farm in South Australia's Mid North region, adding a new large-scale wind
@@ -184,6 +186,20 @@ No new updates today.
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
 No new updates today.
+
+  [MONITORING] Google Pauses AU$20 Billion Australian Data Centre Investment Over ATO
+  Tax Concerns (2026) [HIGH RELEVANCE]: Google is holding its planned AU$20 billion AI
+  and data centre hub in Australia, citing fears that the Australian Taxation Office could
+  treat the facility as a "permanent establishment" — triggering Australia's 30% corporate
+  tax rate across its entire Australian revenue base. One analysis suggests the exposure
+  could extend beyond the campus to Google's full Australian revenue including cloud,
+  search, and advertising. The investment is paused, not abandoned; Google called Australia
+  a "generational opportunity" and confirmed talks with the government continue. The
+  Albanese government declined to offer tax carve-outs. Any resolution that unlocks this
+  investment adds a major new hyperscaler demand signal directly relevant to SA
+  grid-ready corridor sites.
+  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/google-warns-aussie-govt-that-high-taxes-could-prevent-au20bn-investment/
+  ACS | https://ia.acs.org.au/article/2026/google-pauses--20b-australian-data-centre-investment.html
 
   [MONITORING] AirTrunk Secures A$4.25 Billion Green Loan for SYD3 Western Sydney
   Campus (27 October 2026) [HIGH RELEVANCE]: A consortium of 32 local and international
@@ -285,26 +301,39 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• [UPDATED COUNTDOWN — 17 DAYS] Senate Committee on AI and Data Centres: 16 November
-  2026 [HIGH RELEVANCE]
-  17 days remain to the federal Senate Committee's final report on AI and data centres.
-  The Committee's recommendations will directly shape mandatory national standards
-  legislation targeted for early 2027 Parliament introduction. SA's
-  Coordinator-General fast-track model, renewable-first grid, and the proposed Data
-  Centre and AI Infrastructure Act are expected to feature as benchmark compliance
-  pathways in testimony. The non-retrospective window for 2026 Coordinator-General
-  approvals continues to narrow. The AEMC final determination published yesterday
-  directly informs the Committee's technical standards chapter.
-  Source: Australian Parliament / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
+• [UPDATE] Senate AI & Data Centres Committee Reporting Date Extended to 23 March
+  2027 [HIGH RELEVANCE]: On 20 October 2026, the Senate Environment and Communications
+  References Committee tabled a progress report formally extending its reporting date
+  from 16 November 2026 to 23 March 2027. Yesterday's 16-day countdown to a November
+  report is now superseded. The PM&C mandatory standards consultation (submissions
+  closed 9 October) is separately on track for early 2027 Parliament introduction.
+  Critically, the non-retrospective intent confirmed at National Cabinet (26 August 2026)
+  is unchanged: projects obtaining SA Coordinator-General approval in 2026 still lock in
+  pre-legislation status ahead of the early-2027 Bill. The extension provides a wider
+  monitoring window but does not extend the commercial window for pre-approval.
+  Source: Australian Parliament | https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
+
+• SA Government Data Centre Management Act Public Consultation Closes 5 November 2026
+  — 5 Days Remaining [HIGH RELEVANCE]: The SA Government has opened public consultation
+  on the Data Centre Management Act, the legislative vehicle for the state's dedicated
+  data centre regulatory framework. Submissions close 5 November 2026. The Act will
+  designate data centres as essential infrastructure, establish the Coordinator-General
+  as the single approval authority, and embed the "new energy for new demand" principle.
+  This is the last practical window for industry input to shape the final text before the
+  Bill is introduced. Projects advancing Coordinator-General pre-application work this
+  week are best placed to input preferred framework parameters before the consultation
+  closes.
+  Sources: SA Government (referenced in industry roundups, 31 October 2026) |
+  Data Centre News Weekly | https://datacentrenews.substack.com/p/weekly-data-centre-news-30102026
 
   [MONITORING] Joint Select Committee on AI: Final Report Due 30 November 2026 [HIGH RELEVANCE]:
-  Separate from the Senate Committee on AI and Data Centres (16 November), the Joint
-  Select Committee on AI is a second parallel parliamentary inquiry due to deliver its
-  final report by 30 November 2026. Its scope covers AI governance frameworks, compute
-  governance and data centre policy — adding a second wave of legislative input to
-  shape the mandatory national standards bill targeted for early 2027 Parliament
-  introduction. SA's Coordinator-General fast-track and fully-renewable grid are
-  expected to feature in both reports as benchmark compliance pathways.
+  Separate from the Senate Environment & Communications Committee (now reporting 23 March
+  2027), the Joint Select Committee on AI is a second parallel parliamentary inquiry due to
+  deliver its final report by 30 November 2026. Its scope covers AI governance frameworks,
+  compute governance and data centre policy — adding legislative input to shape the mandatory
+  national standards bill targeted for early 2027 Parliament introduction. SA's
+  Coordinator-General fast-track and fully-renewable grid are expected to feature in both
+  reports as benchmark compliance pathways.
   Source: SafeAI-Aus / Australian Parliament | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
   Norton Rose Fulbright | https://www.nortonrosefulbright.com/en/knowledge/publications/746b2689/new-expectations-for-data-centre-operators-and-ai-infrastructure-developers
 
@@ -388,18 +417,25 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Quantum DC Mannum Community Session: 31 October (Tomorrow) — Status Uncertain
-  Following Tungkillo Security Threat [HIGH RELEVANCE]:
-  Quantum DC's second community drop-in session at Mannum is scheduled for tomorrow,
-  31 October, with no announcement of cancellation confirmed as of 30 October. The
-  session follows yesterday's unprecedented cancellation of the Tungkillo session due
-  to a credible bomb threat — the first such security incident in any Australian data
-  centre approval process. Whether the Mannum session proceeds, is postponed, or
-  attracts further organised opposition will be a direct indicator of the social-licence
-  trajectory for Quantum DC's Murray Mallee planning application. South Energy's NTx
-  corridor industrial-zoned positions carry zero comparable social-licence risk
-  exposure.
-  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
+• Quantum DC Mannum Community Session Cancelled; Hundreds Rally in Opposition with
+  Cross-Party Political Support (31 October 2026) [HIGH RELEVANCE]:
+  Quantum DC cancelled its October 31 Mannum community session "in light of recent
+  events" — following the bomb threat that forced cancellation of the Tungkillo session
+  the previous day. Both sessions have been rescheduled to 20 and 21 November. Hundreds
+  of residents gathered in Mannum in organised opposition to the proposed 1,200 MW data
+  centre on Collins Road, Tungkillo, approximately 41 km east of Adelaide. Opposition
+  politicians from the Liberal Party, Greens, and One Nation addressed the crowd;
+  government members did not attend. Independent MP Rebekha Sharkie publicly vowed to
+  oppose the project. The Greens called on the SA Government to introduce a moratorium
+  on new data centres and to include the issue in the AI Royal Commission. No development
+  application has yet been lodged. The escalation to cross-party parliamentary opposition
+  materially increases social-licence and regulatory risk for the Murray Mallee proposal
+  — while South Energy's NTx corridor industrial-zoned positions carry zero comparable
+  social-licence exposure.
+  Sources: ABC News | https://www.abc.net.au/news/2026-10-31/ai-data-centre-protest-adelaide-hills/107332222
+  The Islander Online | https://theislanderonline.com.au/news/2026/10/31/sharkie-against-data-centre-push-for-adelaide-hills-have-your-say/
+  Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-meetings-postponed/
+  Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
 
   [MONITORING] CBA Upgrades Australian Data Centre Pipeline to A$260 Billion / 7GW
   Feasible Capacity (27 October 2026) [HIGH RELEVANCE]: Commonwealth Bank economists
@@ -568,14 +604,17 @@ Commercial Property Marketing (commercialpropertymarketing.com.au) |
 Smart Energy Council (smartenergy.org.au) | ESG News (esgnews.com) |
 CNN (cnn.com) | pv-tech (pv-tech.org) | 5MU (5mu.com.au) |
 Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com) |
-Tilt Renewables (tiltrenewables.com)
+Tilt Renewables (tiltrenewables.com) | Murray Bridge News (murraybridge.news) |
+The Islander Online (theislanderonline.com.au) | ACS (ia.acs.org.au) |
+Data Centre News Weekly (datacentrenews.substack.com) |
+Murray Valley Standard (murrayvalleystandard.com.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月30日
+📋 南澳州數據中心土地每日簡報 - 2026年10月31日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -665,6 +704,8 @@ Tilt Renewables (tiltrenewables.com)
 
 ☀️ 2. 可再生能源與選址條件
 
+今日無新消息。
+
 • 蒂爾可再生能源（Tilt Renewables）正式開工建設南澳州288兆瓦帕爾默風電場【高度相關】：
   蒂爾可再生能源已在南澳州中北部地區正式啟動288兆瓦帕爾默（Palmer）風電場建設，
   為高德爾（Goyder）毗鄰可再生能源走廊新增一個大型風電開發項目。此項目擴大了
@@ -709,6 +750,16 @@ Tilt Renewables (tiltrenewables.com)
 🏢 3. 科技公司需求（潛在買家）
 
 今日無新消息。
+
+  【持續監測】Google暫停200億澳元澳大利亞數據中心投資——擔憂澳大利亞稅務局認定
+  其構成「常設機構」（2026年）【高度相關】：Google正擱置其在澳大利亞規劃的200億澳元
+  AI及數據中心樞紐，原因是擔憂澳大利亞稅務局（ATO）可能將該設施認定為「常設機構」，
+  從而對其在澳全部收入——包括雲端、搜索及廣告業務——觸發30%企業所得稅。此次投資
+  被描述為暫停而非放棄；Google稱澳大利亞是「一代人難遇的機遇」，並確認談判仍在繼續。
+  聯邦政府拒絕提供稅收豁免安排。一旦談判取得進展並解除上述障礙，將新增一個重量級
+  超大規模買家信號，直接關聯南澳州具備電網接入條件的走廊選址。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/google-warns-aussie-govt-that-high-taxes-could-prevent-au20bn-investment/
+  ACS | https://ia.acs.org.au/article/2026/google-pauses--20b-australian-data-centre-investment.html
 
   【持續監測】AirTrunk完成42.5億澳元綠色貸款——SYD3西悉尼數據中心園區擴張
   （2026年10月27日）【高度相關】：32家本地及國際貸款機構組成的銀團為AirTrunk的西
@@ -776,17 +827,27 @@ Tilt Renewables (tiltrenewables.com)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 【倒計時更新——17天】澳大利亞參議院人工智能與數據中心委員會報告：2026年11月16日
-  【高度相關】
-  距聯邦參議院委員會最終報告公布僅剩17天。委員會建議將直接塑造目標2027年初提交
-  議會的強制性全國標準立法。南澳州總督察員快速審批模式、可再生能源電網及擬議
-  《數據中心與AI基礎設施法》預計將在聽證中被引用為合規基準路徑。2026年獲得總督
-  察員批准的立法前窗口期持續收窄。昨日發布的AEMC最終裁定將直接為委員會技術標準
-  章節提供依據。
-  來源：澳大利亞議會 / SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
+• 【更新】澳大利亞參議院AI與數據中心調查委員會報告日期延至2027年3月23日
+  【高度相關】：2026年10月20日，參議院環境與通訊參考委員會正式提交進度報告，
+  將最終報告截止日期由2026年11月16日延至2027年3月23日。昨日倒計時16天的內容
+  已由此更新取代。PM&C強制性標準諮詢（意見提交已於10月9日截止）仍單獨推進，
+  目標2027年初提交議會。關鍵提示：全國內閣確認的不追溯效力原則不受影響——在
+  2026年取得南澳州總督察員批准的項目，仍可鎖定立法前身份；報告期限延長提供了
+  更寬裕的監測窗口，但不延長商業上的預批准窗口。
+  來源：澳大利亞議會 | https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
+
+• 南澳州《數據中心管理法》公眾諮詢將於2026年11月5日截止——剩餘5天
+  【高度相關】：南澳州政府已就《數據中心管理法》（Data Centre Management Act）
+  開放公眾諮詢，意見提交截止日期為2026年11月5日。這是南澳州專項數據中心監管框架
+  的立法載體，將把數據中心指定為基本基礎設施，確立總督察員為單一批准機構，並固化
+  「新需求配新能源」原則。這是業界在法案正式提交議會前，輸入對框架文本偏好意見的
+  最後實際窗口。本週推進總督察員預申請工作的項目，最具條件在諮詢截止前就框架條款
+  作出書面貢獻。
+  來源：南澳州政府（2026年10月31日行業資訊引述）|
+  Data Centre News Weekly | https://datacentrenews.substack.com/p/weekly-data-centre-news-30102026
 
   【持續監測】聯邦人工智能聯合委員會（Joint Select Committee on AI）：最終報告截止日
-  2026年11月30日【高度相關】：有別於參議院AI與數據中心委員會（11月16日），
+  2026年11月30日【高度相關】：有別於參議院環境與通訊委員會（現延至2027年3月23日），
   聯邦聯合特設委員會是另一項平行議會調查，最終報告截止日期為2026年11月30日。
   其審查範圍涵蓋AI治理框架、算力治理及數據中心政策，為目標2027年初提交議會的
   強制性全國標準立法提供第二波立法意見輸入。
@@ -849,14 +910,21 @@ Tilt Renewables (tiltrenewables.com)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• Quantum DC曼納姆社區說明會：10月31日（明日）——騰基羅安全威脅後狀態仍不明朗
-  【高度相關】：
-  繼昨日騰基羅說明會因可信炸彈威脅被迫取消之後，Quantum DC第二場社區說明會定於
-  明日（10月31日）在曼納姆（Mannum）舉行，截至10月30日尚無取消公告發布。曼納姆
-  說明會能否如期進行、是否遭到推遲，抑或是否吸引進一步有組織反對行動，將直接
-  反映Quantum DC馬里馬利（Murray Mallee）規劃申請的社會許可風險走向。South Energy
-  在NTx走廊的工業分區土地部署不存在任何等效的社會許可或安全風險敞口。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
+• Quantum DC曼納姆社區說明會取消；數百人集會反對，獲跨黨派議員公開聲援
+  （2026年10月31日）【高度相關】：
+  Quantum DC以「鑑於近期事件」為由，取消原定於10月31日在曼納姆（Mannum）舉行的
+  社區說明會，繼前一日騰基羅說明會因炸彈威脅被迫取消之後再度叫停。兩場說明會均
+  已改期至11月20日及21日。數百名居民在曼納姆自發集會，反對Quantum DC計劃在騰基羅
+  科林斯路（Collins Road）建設的1,200兆瓦數據中心（距阿德萊德以東約41公里）。
+  自由黨、綠黨及一國黨反對派議員出席集會致辭，政府官員缺席。無黨籍聯邦議員
+  Rebekha Sharkie亦公開表態反對該項目。綠黨呼籲南澳州政府對新數據中心審批實施
+  暫停令，並將相關問題納入AI皇家委員會職權範圍。目前尚未提交任何正式開發申請。
+  此次升級至跨黨派議會反對的社會許可風險，對馬里馬利（Murray Mallee）規劃申請造成
+  實質性影響；South Energy在NTx走廊工業分區土地的布局不存在任何等效風險敞口。
+  來源：ABC新聞 | https://www.abc.net.au/news/2026-10-31/ai-data-centre-protest-adelaide-hills/107332222
+  The Islander Online | https://theislanderonline.com.au/news/2026/10/31/sharkie-against-data-centre-push-for-adelaide-hills-have-your-say/
+  Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-meetings-postponed/
+  Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
 
   【持續監測】澳洲聯邦銀行（CBA）上調澳大利亞數據中心管道預測至2,600億澳元/7吉瓦
   可交付容量（2026年10月27日）【高度相關】：CBA指出能源供應、社區反對及著作權政策
@@ -882,7 +950,7 @@ Tilt Renewables (tiltrenewables.com)
   【持續監測】AI數據中心開發商致電塔斯馬尼亞州農場主——變電站毗鄰土地收購行動引發
   質詢（2026年10月21日）【高度相關】：全國圍繞緊鄰輸電基礎設施的土地所展開的搶佔
   競賽，已延伸至此前從未被納入視野的偏遠農業市場。
-  來源：ABC News | https://abc.net.au/news/2026-10-21/ai-data-centre-company-cold-calling-land-sales-tasmania/107291938
+  來源：ABC新聞 | https://abc.net.au/news/2026-10-21/ai-data-centre-company-cold-calling-land-sales-tasmania/107291938
 
   【持續監測】懷阿拉西部可再生能源區域開發商選定，斯賓塞灣上游大規模土地活動啟動
   （2026年10月19日）【高度相關】。
@@ -921,7 +989,7 @@ Tilt Renewables (tiltrenewables.com)
 
   【持續監測】古德曼集團放棄悉尼藍灣「火星計劃」12億澳元/90兆瓦數據中心
   （2026年9月28日）。
-  來源：ABC News | https://www.abc.net.au/news/2026-09-28/lane-cove-ai-data-centre-plans-abandoned-by-goodman-group/107205120
+  來源：ABC新聞 | https://www.abc.net.au/news/2026-09-28/lane-cove-ai-data-centre-plans-abandoned-by-goodman-group/107205120
 
   【持續監測】麥格理DC在雪梨收購34,200平方米場址用於建設200兆瓦數據中心園區。
 
@@ -970,4 +1038,7 @@ Commercial Property Marketing（commercialpropertymarketing.com.au）|
 智慧能源委員會（smartenergy.org.au）| ESG News（esgnews.com）|
 CNN（cnn.com）| pv-tech（pv-tech.org）| 5MU（5mu.com.au）|
 Norton Rose Fulbright（nortonrosefulbright.com）| Dentons（dentons.com）|
-Tilt Renewables（tiltrenewables.com）
+Tilt Renewables（tiltrenewables.com）| Murray Bridge News（murraybridge.news）|
+The Islander Online（theislanderonline.com.au）| ACS（ia.acs.org.au）|
+Data Centre News Weekly（datacentrenews.substack.com）|
+Murray Valley Standard（murrayvalleystandard.com.au）
