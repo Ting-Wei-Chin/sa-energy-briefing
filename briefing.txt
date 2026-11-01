@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 31 October 2026
+📋 SA DATA CENTER LAND BRIEFING - 1 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -107,11 +107,12 @@ No new updates today.
   in the NTx corridor.
   Source: AEMO QED Q2 2026 | https://www.aemo.com.au/-/media/files/major-publications/qed/2026/qed-q2-2026.pdf
 
-  [MONITORING] AEMO: 11 large data centres representing more than 5 GW (5.4 GW) of
-  maximum demand currently working through transmission connection in the NEM — 60% in
-  NSW, 40% in VIC. SA's major data centre pipeline represents additional capacity
-  entirely separate from this existing queue, confirming SA as an uncongested entry
-  point relative to eastern seaboard markets.
+  [MONITORING] AEMO/AEMC: 17 data centre load connection projects with a combined
+  maximum capacity of 9 GW are working through the NEM transmission connection process,
+  with SA accounting for 17% (~1.53 GW) of that pipeline — 52% in NSW, 31% in VIC.
+  SA's 17% share is entirely separate from and additive to the eastern-seaboard queue,
+  confirming SA as an uncongested entry point with substantial already-committed demand.
+  Source: AEMC Detailed Policy Assessment (July 2026) | https://www.aemc.gov.au/sites/default/files/2026-07/AEMC%20advice%20on%20data%20centre%20regulatory%20pathways%20-%20Detailed%20Policy%20Assessment_0.pdf
 
   [MONITORING] AEMC Gas Connection Charges Rule Commenced 1 October 2026: ongoing
   regulatory tightening structurally disadvantaging gas-dependent grid alternatives
@@ -301,30 +302,49 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• [UPDATE] Senate AI & Data Centres Committee Reporting Date Extended to 23 March
+• [UPDATE] SA Government Data Centre Management Act Public Consultation Closes
+  5 November 2026 — 4 Days Remaining [HIGH RELEVANCE]: With the consultation closing
+  Wednesday 5 November, this is the final working week for industry input to shape the
+  text of South Australia's dedicated data centre regulatory framework before the Bill
+  is introduced. The Act will designate data centres as essential infrastructure,
+  establish the Coordinator-General as the single approval authority, and embed the
+  "new energy for new demand" principle. Projects advancing Coordinator-General
+  pre-application work this week remain best placed to input preferred framework
+  parameters before the consultation closes.
+  Sources: SA Government (referenced in industry roundups) |
+  Data Centre News Weekly | https://datacentrenews.substack.com/p/weekly-data-centre-news-30102026
+
+• Energy North "Project Ares" 1 GW Northern Territory Data Centre Drops June 2028
+  Timeline After NT EPA Suspends Assessment for Federal Policy Advice (1 November 2026)
+  [HIGH RELEVANCE]: A Reuters exclusive (syndicated 1 November 2026) confirmed that
+  Energy North has abandoned its June 2028 "first power" target for its planned 1 GW
+  gas-and-solar data centre campus at Murranji Station in the Northern Territory, after
+  the NT Environment Protection Authority suspended its assessment deadline to seek
+  federal government guidance on data centre policy — which remains unlegislated. The NT
+  EPA had already expressed a "low level of confidence" in the project's environmental
+  planning (October 8 ruling) and decided it must go through a full environmental impact
+  statement. Energy North VP Daniel Hunter confirmed: "the June 2028 date was an
+  indicative schedule at lodgement and we are no longer working to it." At 1 GW,
+  Project Ares is four times the scale of the NextDC Melbourne delay that triggered the
+  A$750M capex cut last month. The stall confirms that federal regulatory uncertainty is
+  materially real, and that projects outside South Australia's Coordinator-General
+  fast-track architecture face open-ended EIS and federal EPBC exposure with no
+  legislated certainty date. SA's Coordinator-General pathway, combined with the
+  imminent PACR (December 2026), provides a uniquely clear regulatory runway by contrast.
+  Sources: The Daily Guardian (Reuters exclusive) | https://thedailyguardian.com/news/science-tech/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-771095/
+  SRN News | https://srnnews.com/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls/
+  ABC News | https://www.abc.net.au/news/2026-10-08/nt-environment-regulator-data-centre-low-level-of-confidence/107242664
+
+  [MONITORING] Senate AI & Data Centres Committee Reporting Date Extended to 23 March
   2027 [HIGH RELEVANCE]: On 20 October 2026, the Senate Environment and Communications
   References Committee tabled a progress report formally extending its reporting date
-  from 16 November 2026 to 23 March 2027. Yesterday's 16-day countdown to a November
-  report is now superseded. The PM&C mandatory standards consultation (submissions
-  closed 9 October) is separately on track for early 2027 Parliament introduction.
-  Critically, the non-retrospective intent confirmed at National Cabinet (26 August 2026)
-  is unchanged: projects obtaining SA Coordinator-General approval in 2026 still lock in
-  pre-legislation status ahead of the early-2027 Bill. The extension provides a wider
-  monitoring window but does not extend the commercial window for pre-approval.
+  from 16 November 2026 to 23 March 2027. The PM&C mandatory standards consultation
+  (submissions closed 9 October) is separately on track for early 2027 Parliament
+  introduction. The non-retrospective intent confirmed at National Cabinet (26 August
+  2026) is unchanged: projects obtaining SA Coordinator-General approval in 2026 still
+  lock in pre-legislation status ahead of the early-2027 Bill. The extension provides a
+  wider monitoring window but does not extend the commercial window for pre-approval.
   Source: Australian Parliament | https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
-
-• SA Government Data Centre Management Act Public Consultation Closes 5 November 2026
-  — 5 Days Remaining [HIGH RELEVANCE]: The SA Government has opened public consultation
-  on the Data Centre Management Act, the legislative vehicle for the state's dedicated
-  data centre regulatory framework. Submissions close 5 November 2026. The Act will
-  designate data centres as essential infrastructure, establish the Coordinator-General
-  as the single approval authority, and embed the "new energy for new demand" principle.
-  This is the last practical window for industry input to shape the final text before the
-  Bill is introduced. Projects advancing Coordinator-General pre-application work this
-  week are best placed to input preferred framework parameters before the consultation
-  closes.
-  Sources: SA Government (referenced in industry roundups, 31 October 2026) |
-  Data Centre News Weekly | https://datacentrenews.substack.com/p/weekly-data-centre-news-30102026
 
   [MONITORING] Joint Select Committee on AI: Final Report Due 30 November 2026 [HIGH RELEVANCE]:
   Separate from the Senate Environment & Communications Committee (now reporting 23 March
@@ -417,25 +437,23 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Quantum DC Mannum Community Session Cancelled; Hundreds Rally in Opposition with
-  Cross-Party Political Support (31 October 2026) [HIGH RELEVANCE]:
-  Quantum DC cancelled its October 31 Mannum community session "in light of recent
-  events" — following the bomb threat that forced cancellation of the Tungkillo session
-  the previous day. Both sessions have been rescheduled to 20 and 21 November. Hundreds
-  of residents gathered in Mannum in organised opposition to the proposed 1,200 MW data
-  centre on Collins Road, Tungkillo, approximately 41 km east of Adelaide. Opposition
-  politicians from the Liberal Party, Greens, and One Nation addressed the crowd;
-  government members did not attend. Independent MP Rebekha Sharkie publicly vowed to
-  oppose the project. The Greens called on the SA Government to introduce a moratorium
-  on new data centres and to include the issue in the AI Royal Commission. No development
-  application has yet been lodged. The escalation to cross-party parliamentary opposition
-  materially increases social-licence and regulatory risk for the Murray Mallee proposal
-  — while South Energy's NTx corridor industrial-zoned positions carry zero comparable
-  social-licence exposure.
-  Sources: ABC News | https://www.abc.net.au/news/2026-10-31/ai-data-centre-protest-adelaide-hills/107332222
-  The Islander Online | https://theislanderonline.com.au/news/2026/10/31/sharkie-against-data-centre-push-for-adelaide-hills-have-your-say/
-  Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-meetings-postponed/
-  Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
+• [UPDATE] Quantum DC Community Opposition Organised and Growing: 2,800-Member
+  Online Group, 1,000+ Petition Signatures Within Days of Tungkillo Protest
+  (1 November 2026) [HIGH RELEVANCE]: Following the October 31 protests in Mannum
+  and the bomb-threat cancellation of the Tungkillo community session, the organised
+  opposition to Quantum DC's planned 1,200 MW data centre on Collins Road, Tungkillo,
+  has grown rapidly: an online opposition group reached 2,800 members, and a community
+  petition surpassed 1,000 signatures within two days. Organiser Magdalene Lippett
+  stated publicly that residents would use "every legal means available" to stop the
+  project. Rescheduled community consultation sessions are set for 20 and 21 November
+  2026. No development application has been lodged. The speed and scale of organised
+  opposition — combined with cross-party political support (Liberal, Greens, One Nation;
+  Independent MP Rebekha Sharkie) — confirms that community consent risk for Murray
+  Mallee data centre projects is qualitatively different from any risk profile applicable
+  to South Energy's NTx corridor industrial-zoned positions.
+  Sources: Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-proposal-sparks-fierce-community-backlash-2/
+  Murray Valley Standard | https://murrayvalleystandard.com.au/news/2026/10/30/tungkillo-community-unite/
+  AI Weekly | https://aiweekly.co/alerts/quantum-dcs-1200mw-adelaide-hills-ai-data-centre-draws-rally
 
   [MONITORING] CBA Upgrades Australian Data Centre Pipeline to A$260 Billion / 7GW
   Feasible Capacity (27 October 2026) [HIGH RELEVANCE]: Commonwealth Bank economists
@@ -607,14 +625,17 @@ Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com) |
 Tilt Renewables (tiltrenewables.com) | Murray Bridge News (murraybridge.news) |
 The Islander Online (theislanderonline.com.au) | ACS (ia.acs.org.au) |
 Data Centre News Weekly (datacentrenews.substack.com) |
-Murray Valley Standard (murrayvalleystandard.com.au)
+Murray Valley Standard (murrayvalleystandard.com.au) |
+The Daily Guardian (thedailyguardian.com) | SRN News (srnnews.com) |
+AI Weekly (aiweekly.co) | OzArab Media (ozarab.media) |
+Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年10月31日
+📋 南澳州數據中心土地每日簡報 - 2026年11月1日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -688,8 +709,11 @@ Murray Valley Standard (murrayvalleystandard.com.au)
   （每兆瓦時38澳元）及最高平均批發現貨電價（每兆瓦時86澳元）。
   來源：AEMO QED Q2 2026 | https://www.aemo.com.au/-/media/files/major-publications/qed/2026/qed-q2-2026.pdf
 
-  【持續監測】AEMO：NEM中11個大型數據中心（合計5.4吉瓦最大需求）正在推進輸電接入
-  程序，南澳州數據中心管道完全獨立於上述既有隊列之外。
+  【持續監測】AEMO/AEMC：17個數據中心負荷接入項目（合計最大容量9吉瓦）正在推進
+  NEM輸電接入程序，其中南澳州佔17%（約1.53吉瓦），新南威爾士州佔52%，維多利亞州
+  佔31%。南澳州17%份額完全獨立且附加於東海岸既有接入隊列之上，確認南澳州是具備
+  大量已承諾需求的非擁堵入口。
+  來源：AEMC詳細政策評估（2026年7月）| https://www.aemc.gov.au/sites/default/files/2026-07/AEMC%20advice%20on%20data%20centre%20regulatory%20pathways%20-%20Detailed%20Policy%20Assessment_0.pdf
 
   【持續監測】AEMC天然氣接入費用規則自2026年10月1日起正式生效。
 
@@ -827,24 +851,39 @@ Murray Valley Standard (murrayvalleystandard.com.au)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 【更新】澳大利亞參議院AI與數據中心調查委員會報告日期延至2027年3月23日
-  【高度相關】：2026年10月20日，參議院環境與通訊參考委員會正式提交進度報告，
-  將最終報告截止日期由2026年11月16日延至2027年3月23日。昨日倒計時16天的內容
-  已由此更新取代。PM&C強制性標準諮詢（意見提交已於10月9日截止）仍單獨推進，
-  目標2027年初提交議會。關鍵提示：全國內閣確認的不追溯效力原則不受影響——在
-  2026年取得南澳州總督察員批准的項目，仍可鎖定立法前身份；報告期限延長提供了
-  更寬裕的監測窗口，但不延長商業上的預批准窗口。
-  來源：澳大利亞議會 | https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
-
-• 南澳州《數據中心管理法》公眾諮詢將於2026年11月5日截止——剩餘5天
-  【高度相關】：南澳州政府已就《數據中心管理法》（Data Centre Management Act）
-  開放公眾諮詢，意見提交截止日期為2026年11月5日。這是南澳州專項數據中心監管框架
-  的立法載體，將把數據中心指定為基本基礎設施，確立總督察員為單一批准機構，並固化
-  「新需求配新能源」原則。這是業界在法案正式提交議會前，輸入對框架文本偏好意見的
-  最後實際窗口。本週推進總督察員預申請工作的項目，最具條件在諮詢截止前就框架條款
-  作出書面貢獻。
+• 【更新】南澳州《數據中心管理法》公眾諮詢將於2026年11月5日截止——剩餘4天
+  【高度相關】：隨著諮詢截止日期（11月5日星期三）進入最後一個工作周，這是業界在
+  《數據中心管理法》正式提交議會前，就法案文本關鍵框架條款輸入偏好意見的最後實際
+  窗口。該法案將把數據中心指定為基本基礎設施，確立總督察員為單一批准機構，並固化
+  「新需求配新能源」原則。本週推進總督察員預申請工作的項目，最具條件在截止前作出
+  書面意見貢獻。
   來源：南澳州政府（2026年10月31日行業資訊引述）|
   Data Centre News Weekly | https://datacentrenews.substack.com/p/weekly-data-centre-news-30102026
+
+• 澳大利亞能源北部「Ares計劃」1吉瓦北領地數據中心放棄2028年6月開工時間表——
+  北領地環保局暫停評估截止日期等候聯邦政策意見（2026年11月1日）【高度相關】：
+  路透社獨家報道（2026年11月1日廣泛轉發）確認，Energy North已放棄其計劃在北領地
+  巴克利地區穆拉基（Murranji）牧場建設的1吉瓦氣電與太陽能混合動力數據中心園區的
+  2028年6月「首次供電」目標——起因是北領地環境保護局（NT EPA）以需就仍未立法的
+  聯邦數據中心政策尋求聯邦政府意見為由，暫停了其七周評估截止期。此前NT EPA已於
+  10月7日裁定對Ares計劃的環境規劃「可信度不足」，並要求其通過完整環境影響聲明
+  程序（EIS）。Energy North副總裁丹尼爾·亨特確認：「2028年6月這個日期在申請時只是
+  參考性時間表，我們現在已不再以此為目標。」1吉瓦規模是上月因社區反對觸發NEXTDC
+  削減7.5億澳元資本支出的墨爾本延誤項目的四倍。本次暫停確認，聯邦監管不確定性已
+  造成實質性影響，在南澳州總督察員快速審批體系以外的項目面臨開放式EIS及聯邦
+  EPBC審查風險，且沒有明確的立法確定性時間節點。對比之下，南澳州總督察員審批通道
+  結合即將到來的PACR（2026年12月），提供了市場上獨一無二的清晰監管跑道。
+  來源：The Daily Guardian（路透社獨家）| https://thedailyguardian.com/news/science-tech/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-771095/
+  SRN News | https://srnnews.com/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls/
+  ABC新聞 | https://www.abc.net.au/news/2026-10-08/nt-environment-regulator-data-centre-low-level-of-confidence/107242664
+
+  【持續監測】澳大利亞參議院AI與數據中心調查委員會報告日期延至2027年3月23日
+  【高度相關】：2026年10月20日，參議院環境與通訊參考委員會正式提交進度報告，
+  將最終報告截止日期由2026年11月16日延至2027年3月23日。PM&C強制性標準諮詢（意見
+  提交已於10月9日截止）仍單獨推進，目標2027年初提交議會。關鍵提示：全國內閣確認的
+  不追溯效力原則不受影響——在2026年取得南澳州總督察員批准的項目，仍可鎖定立法前
+  身份；報告期限延長提供了更寬裕的監測窗口，但不延長商業上的預批准窗口。
+  來源：澳大利亞議會 | https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
 
   【持續監測】聯邦人工智能聯合委員會（Joint Select Committee on AI）：最終報告截止日
   2026年11月30日【高度相關】：有別於參議院環境與通訊委員會（現延至2027年3月23日），
@@ -910,21 +949,19 @@ Murray Valley Standard (murrayvalleystandard.com.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• Quantum DC曼納姆社區說明會取消；數百人集會反對，獲跨黨派議員公開聲援
-  （2026年10月31日）【高度相關】：
-  Quantum DC以「鑑於近期事件」為由，取消原定於10月31日在曼納姆（Mannum）舉行的
-  社區說明會，繼前一日騰基羅說明會因炸彈威脅被迫取消之後再度叫停。兩場說明會均
-  已改期至11月20日及21日。數百名居民在曼納姆自發集會，反對Quantum DC計劃在騰基羅
-  科林斯路（Collins Road）建設的1,200兆瓦數據中心（距阿德萊德以東約41公里）。
-  自由黨、綠黨及一國黨反對派議員出席集會致辭，政府官員缺席。無黨籍聯邦議員
-  Rebekha Sharkie亦公開表態反對該項目。綠黨呼籲南澳州政府對新數據中心審批實施
-  暫停令，並將相關問題納入AI皇家委員會職權範圍。目前尚未提交任何正式開發申請。
-  此次升級至跨黨派議會反對的社會許可風險，對馬里馬利（Murray Mallee）規劃申請造成
-  實質性影響；South Energy在NTx走廊工業分區土地的布局不存在任何等效風險敞口。
-  來源：ABC新聞 | https://www.abc.net.au/news/2026-10-31/ai-data-centre-protest-adelaide-hills/107332222
-  The Islander Online | https://theislanderonline.com.au/news/2026/10/31/sharkie-against-data-centre-push-for-adelaide-hills-have-your-say/
-  Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-meetings-postponed/
-  Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
+• 【更新】Quantum DC社區反對力量迅速壯大：網絡反對群組達2,800人，兩天內徵集逾
+  千人聯署請願（2026年11月1日）【高度相關】：繼10月31日曼納姆示威及騰基羅社區說明
+  會因炸彈威脅取消後，反對Quantum DC擬在騰基羅科林斯路建設1,200兆瓦數據中心的
+  有組織反對力量迅速擴張：網絡反對群組成員人數突破2,800人，社區聯署請願在兩天
+  內超過1,000人。組織者瑪格達蓮·李佩特（Magdalene Lippett）公開表態，居民將採用
+  「一切可用的法律手段」阻止該項目。重新安排的社區諮詢說明會定於2026年11月20日及
+  21日舉行。目前仍未提交任何正式開發申請。有組織反對的規模與速度——加之跨黨派
+  議員公開支持（自由黨、綠黨、一國黨；無黨籍聯邦議員Rebekha Sharkie）——確認了
+  馬里馬利（Murray Mallee）數據中心項目所面臨的社區授權風險，在性質上與South Energy
+  NTx走廊工業分區選址的風險狀況截然不同。
+  來源：Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-proposal-sparks-fierce-community-backlash-2/
+  Murray Valley Standard | https://murrayvalleystandard.com.au/news/2026/10/30/tungkillo-community-unite/
+  AI Weekly | https://aiweekly.co/alerts/quantum-dcs-1200mw-adelaide-hills-ai-data-centre-draws-rally
 
   【持續監測】澳洲聯邦銀行（CBA）上調澳大利亞數據中心管道預測至2,600億澳元/7吉瓦
   可交付容量（2026年10月27日）【高度相關】：CBA指出能源供應、社區反對及著作權政策
@@ -1041,4 +1078,7 @@ Norton Rose Fulbright（nortonrosefulbright.com）| Dentons（dentons.com）|
 Tilt Renewables（tiltrenewables.com）| Murray Bridge News（murraybridge.news）|
 The Islander Online（theislanderonline.com.au）| ACS（ia.acs.org.au）|
 Data Centre News Weekly（datacentrenews.substack.com）|
-Murray Valley Standard（murrayvalleystandard.com.au）
+Murray Valley Standard（murrayvalleystandard.com.au）|
+The Daily Guardian（thedailyguardian.com）| SRN News（srnnews.com）|
+AI Weekly（aiweekly.co）| OzArab Media（ozarab.media）|
+Investinglive（investinglive.com）| AEMC詳細政策評估（aemc.gov.au）
