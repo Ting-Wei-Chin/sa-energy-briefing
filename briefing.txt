@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 1 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 2 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -186,7 +186,20 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-No new updates today.
+• IREN Launches Community Consultation on 900 MW Redbank Data Centre Campus, NSW —
+  No Secured Grid Connection (October 2026) [HIGH RELEVANCE]: IREN has opened community
+  consultation on a second Australian data centre project at Redbank, near Wagga Wagga
+  in regional New South Wales, with drop-in sessions scheduled for 4–5 November 2026.
+  Unlike IREN's confirmed 800 MW Bundey campus in South Australia — which holds a signed
+  330 kV transmission connection agreement covering the full 800 MW without requiring
+  network upgrades and is on track for energisation from 2028 — the 900 MW Redbank
+  proposal carries no secured grid connection. IREN confirmed that Redbank is outside
+  its announced 5 GW secured-power portfolio and that interconnection is not expected
+  until 2029 at the earliest. The NSW coal-grid exposure and absent transmission agreement
+  sharply contrast with the Bundey position and confirm the NTx corridor's pre-secured
+  positions as the benchmark execution-ready asset class in Australia's data centre pipeline.
+  Sources: Blockspace | https://blockspace.media/insight/iren-redbank-data-center-wagga-wagga/
+  Daily Advertiser (Wagga Wagga) | https://www.dailyadvertiser.com.au/story/9367815/another-data-centre-slated-for-wagga-tipped-to-bring-hundreds-of-jobs/
 
   [MONITORING] Google Pauses AU$20 Billion Australian Data Centre Investment Over ATO
   Tax Concerns (2026) [HIGH RELEVANCE]: Google is holding its planned AU$20 billion AI
@@ -303,34 +316,44 @@ No new updates today.
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
 • [UPDATE] SA Government Data Centre Management Act Public Consultation Closes
-  5 November 2026 — 4 Days Remaining [HIGH RELEVANCE]: With the consultation closing
-  Wednesday 5 November, this is the final working week for industry input to shape the
-  text of South Australia's dedicated data centre regulatory framework before the Bill
-  is introduced. The Act will designate data centres as essential infrastructure,
-  establish the Coordinator-General as the single approval authority, and embed the
-  "new energy for new demand" principle. Projects advancing Coordinator-General
-  pre-application work this week remain best placed to input preferred framework
-  parameters before the consultation closes.
-  Sources: SA Government (referenced in industry roundups) |
+  Wednesday 5 November 2026 — 3 Days Remaining [HIGH RELEVANCE]: With the submission
+  window reduced to three working days, this is the final opportunity for industry and
+  project proponents to influence the Bill's structure before introduction. The Act will
+  designate data centres as essential infrastructure, establish the Coordinator-General
+  as single approval authority, and enshrine the "new energy for new demand" principle.
+  South Energy's Bundey 330 kV pre-secured positions are already structured to satisfy
+  the Act's core requirements from the day of commencement.
+  Sources: SA Government / Your Say SA | https://yoursay.sa.gov.au/
   Data Centre News Weekly | https://datacentrenews.substack.com/p/weekly-data-centre-news-30102026
 
-• Energy North "Project Ares" 1 GW Northern Territory Data Centre Drops June 2028
-  Timeline After NT EPA Suspends Assessment for Federal Policy Advice (1 November 2026)
-  [HIGH RELEVANCE]: A Reuters exclusive (syndicated 1 November 2026) confirmed that
-  Energy North has abandoned its June 2028 "first power" target for its planned 1 GW
-  gas-and-solar data centre campus at Murranji Station in the Northern Territory, after
-  the NT Environment Protection Authority suspended its assessment deadline to seek
-  federal government guidance on data centre policy — which remains unlegislated. The NT
-  EPA had already expressed a "low level of confidence" in the project's environmental
-  planning (October 8 ruling) and decided it must go through a full environmental impact
-  statement. Energy North VP Daniel Hunter confirmed: "the June 2028 date was an
-  indicative schedule at lodgement and we are no longer working to it." At 1 GW,
-  Project Ares is four times the scale of the NextDC Melbourne delay that triggered the
-  A$750M capex cut last month. The stall confirms that federal regulatory uncertainty is
-  materially real, and that projects outside South Australia's Coordinator-General
-  fast-track architecture face open-ended EIS and federal EPBC exposure with no
-  legislated certainty date. SA's Coordinator-General pathway, combined with the
-  imminent PACR (December 2026), provides a uniquely clear regulatory runway by contrast.
+• Treasury Confirms No Net-Benefit Analysis Completed for Data Centre Investment
+  Attraction (Joint Select Committee Testimony, 30 October 2026) [HIGH RELEVANCE]:
+  Treasury official Jeremy Lawson testified before the Joint Select Committee on
+  Artificial Intelligence on 30 October 2026 that the Department of the Treasury had
+  not performed a formal net benefit calculation on attracting AI data centre investment
+  to Australia. Lawson noted that because most data centre equipment is imported, only
+  approximately one-third of capital expenditure directly supports activity in Australia —
+  though he argued that productivity gains from AI deployment justify the investment.
+  Treasury's Trevor Power separately confirmed that data centre operators will pay
+  standard company tax. The admission adds political pressure on government to
+  demonstrate measurable community benefit from data centre deals, strengthening the
+  policy trajectory toward mandatory BYO-renewables and grid contribution requirements —
+  standards SA's fully-renewable grid already satisfies by default.
+  Source: The Epoch Times | https://www.theepochtimes.com/world/treasury-yet-to-calculate-net-benefit-of-attracting-data-centre-investment-6110893
+
+  [MONITORING] Energy North "Project Ares" 1 GW Northern Territory Data Centre Drops
+  June 2028 Timeline After NT EPA Suspends Assessment for Federal Policy Advice
+  (1 November 2026) [HIGH RELEVANCE]: A Reuters exclusive (syndicated 1 November 2026)
+  confirmed that Energy North has abandoned its June 2028 "first power" target for its
+  planned 1 GW gas-and-solar data centre campus at Murranji Station in the Northern
+  Territory, after the NT Environment Protection Authority suspended its assessment
+  deadline to seek federal government guidance on data centre policy — which remains
+  unlegislated. The NT EPA had already expressed a "low level of confidence" in the
+  project's environmental planning (October 8 ruling) and decided it must go through a
+  full environmental impact statement. Energy North VP Daniel Hunter confirmed: "the
+  June 2028 date was an indicative schedule at lodgement and we are no longer working
+  to it." SA's Coordinator-General pathway, combined with the imminent PACR (December
+  2026), provides a uniquely clear regulatory runway by contrast.
   Sources: The Daily Guardian (Reuters exclusive) | https://thedailyguardian.com/news/science-tech/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-771095/
   SRN News | https://srnnews.com/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls/
   ABC News | https://www.abc.net.au/news/2026-10-08/nt-environment-regulator-data-centre-low-level-of-confidence/107242664
@@ -437,23 +460,37 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• [UPDATE] Quantum DC Community Opposition Organised and Growing: 2,800-Member
-  Online Group, 1,000+ Petition Signatures Within Days of Tungkillo Protest
-  (1 November 2026) [HIGH RELEVANCE]: Following the October 31 protests in Mannum
-  and the bomb-threat cancellation of the Tungkillo community session, the organised
-  opposition to Quantum DC's planned 1,200 MW data centre on Collins Road, Tungkillo,
-  has grown rapidly: an online opposition group reached 2,800 members, and a community
-  petition surpassed 1,000 signatures within two days. Organiser Magdalene Lippett
-  stated publicly that residents would use "every legal means available" to stop the
-  project. Rescheduled community consultation sessions are set for 20 and 21 November
-  2026. No development application has been lodged. The speed and scale of organised
-  opposition — combined with cross-party political support (Liberal, Greens, One Nation;
-  Independent MP Rebekha Sharkie) — confirms that community consent risk for Murray
-  Mallee data centre projects is qualitatively different from any risk profile applicable
-  to South Energy's NTx corridor industrial-zoned positions.
-  Sources: Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-proposal-sparks-fierce-community-backlash-2/
-  Murray Valley Standard | https://murrayvalleystandard.com.au/news/2026/10/30/tungkillo-community-unite/
-  AI Weekly | https://aiweekly.co/alerts/quantum-dcs-1200mw-adelaide-hills-ai-data-centre-draws-rally
+• [UPDATE] Quantum DC Tungkillo: Community Consultations Rescheduled to 20–21 November
+  2026 — Development Application Delayed Until December 2026 at the Earliest
+  [HIGH RELEVANCE]: Quantum DC has confirmed its rescheduled community consultation
+  sessions for the proposed 1,200 MW Collins Road, Tungkillo campus will be held on
+  20 and 21 November 2026. Under the process outlined by the developer, a formal
+  development application cannot be lodged until community consultation is complete,
+  followed by a public notification period of at least 15 business days — placing the
+  earliest possible DA lodgement in December 2026 at the very earliest. The 2,800-member
+  online opposition group and 1,000+ petition signatories continue to grow. Cross-party
+  political opposition remains active. South Energy's NTx corridor industrial-zoned
+  positions require no community consent process and are structurally insulated from any
+  social-licence delay pathway.
+  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
+  Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-proposal-sparks-fierce-community-backlash-2/
+
+• LGA South Australia Calls for Councils to Have Stronger Voice in Data Centre
+  Planning (2026) [HIGH RELEVANCE]: The Local Government Association of South Australia
+  has formally argued that existing planning and assessment frameworks are not
+  sufficiently equipped to address the cumulative impacts of large-scale data centre
+  developments, and has submitted to the Data Centre Management Act consultation
+  process calling for a formal and meaningful local government role in approval
+  decisions for major data centre projects. The SA Government's proposed
+  Coordinator-General fast-track architecture routes major project approvals above
+  council level — a position the LGA submission directly contests ahead of the
+  5 November consultation deadline. For SA data centre projects on industrial-zoned
+  land in the NTx corridor where the Coordinator-General's essential infrastructure
+  designation applies, the LGA advocacy does not affect existing rights; however it
+  adds political pressure and may affect future non-exempted projects.
+  Sources: LGA SA | https://www.lga.sa.gov.au/news-and-events/news/latest-news/2026/lga-calls-for-councils-to-have-a-stronger-voice-on-data-centre-planning
+  Council Magazine Australia | https://councilmagazine.com.au/councils-call-for-stronger-voice-on-data-centre-planning
+  Corrs Chambers Westgarth | https://www.corrs.com.au/insights/data-centre-approvals-community-engagement-and-social-licence-are-essential
 
   [MONITORING] CBA Upgrades Australian Data Centre Pipeline to A$260 Billion / 7GW
   Feasible Capacity (27 October 2026) [HIGH RELEVANCE]: Commonwealth Bank economists
@@ -628,6 +665,10 @@ Data Centre News Weekly (datacentrenews.substack.com) |
 Murray Valley Standard (murrayvalleystandard.com.au) |
 The Daily Guardian (thedailyguardian.com) | SRN News (srnnews.com) |
 AI Weekly (aiweekly.co) | OzArab Media (ozarab.media) |
+Blockspace (blockspace.media) | Daily Advertiser Wagga Wagga (dailyadvertiser.com.au) |
+The Epoch Times (theepochtimes.com) | LGA SA (lga.sa.gov.au) |
+Council Magazine Australia (councilmagazine.com.au) |
+Corrs Chambers Westgarth (corrs.com.au) |
 Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au)
 
 
@@ -635,7 +676,7 @@ Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au)
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月1日
+📋 南澳州數據中心土地每日簡報 - 2026年11月2日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -773,7 +814,18 @@ Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au)
 
 🏢 3. 科技公司需求（潛在買家）
 
-今日無新消息。
+• IREN就新南威爾士州雷德班克900兆瓦數據中心園區啟動社區諮詢——尚無已鎖定電網
+  接入協議（2026年10月）【高度相關】：IREN已就其在澳大利亞的第二個數據中心項目——
+  位於新南威爾士州瓦加瓦加附近雷德班克（Redbank）的選址——啟動社區諮詢程序，入戶
+  說明會定於2026年11月4至5日舉行。與IREN已確認的南澳州邦迪800兆瓦園區截然不同——
+  邦迪園區持有覆蓋全部800兆瓦容量的已簽署330千伏輸電接入協議，無需任何網絡升級，
+  預計2028年起投入使用——該900兆瓦雷德班克提案目前尚無任何已鎖定的電網接入協議。
+  IREN確認，雷德班克項目不在其已公布的5吉瓦預鎖定電力組合之列，且預計最早至2029年
+  方能實現電網接入。新南威爾士州煤電電網敞口及缺失的輸電接入協議，與邦迪的既有地位
+  形成鮮明對比，進一步確認NTx走廊預先鎖定接入部署是澳大利亞數據中心管道中具備標桿
+  意義的執行就緒型資產類別。
+  來源：Blockspace | https://blockspace.media/insight/iren-redbank-data-center-wagga-wagga/
+  Daily Advertiser（瓦加瓦加）| https://www.dailyadvertiser.com.au/story/9367815/another-data-centre-slated-for-wagga-tipped-to-bring-hundreds-of-jobs/
 
   【持續監測】Google暫停200億澳元澳大利亞數據中心投資——擔憂澳大利亞稅務局認定
   其構成「常設機構」（2026年）【高度相關】：Google正擱置其在澳大利亞規劃的200億澳元
@@ -851,28 +903,31 @@ Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 【更新】南澳州《數據中心管理法》公眾諮詢將於2026年11月5日截止——剩餘4天
-  【高度相關】：隨著諮詢截止日期（11月5日星期三）進入最後一個工作周，這是業界在
-  《數據中心管理法》正式提交議會前，就法案文本關鍵框架條款輸入偏好意見的最後實際
-  窗口。該法案將把數據中心指定為基本基礎設施，確立總督察員為單一批准機構，並固化
-  「新需求配新能源」原則。本週推進總督察員預申請工作的項目，最具條件在截止前作出
-  書面意見貢獻。
-  來源：南澳州政府（2026年10月31日行業資訊引述）|
+• 【更新】南澳州《數據中心管理法》公眾諮詢將於2026年11月5日截止——剩餘3天
+  【高度相關】：隨著提交窗口縮至最後三個工作日，這是業界及項目申請方在法案正式
+  提交議會前影響條文框架的最後機會。該法案將把數據中心指定為基本基礎設施，確立
+  總督察員為單一批准機構，並固化「新需求配新能源」原則。South Energy的邦迪330千伏
+  預先鎖定部署，已按照法案核心要求從生效首日起實現達標。
+  來源：南澳州政府 / Your Say SA | https://yoursay.sa.gov.au/
   Data Centre News Weekly | https://datacentrenews.substack.com/p/weekly-data-centre-news-30102026
 
-• 澳大利亞能源北部「Ares計劃」1吉瓦北領地數據中心放棄2028年6月開工時間表——
+• 財政部確認尚未就數據中心投資吸引完成淨效益分析
+  （聯邦聯合委員會作證，2026年10月30日）【高度相關】：澳大利亞財政部官員傑里米·勞森
+  （Jeremy Lawson）於2026年10月30日在聯邦人工智能聯合特設委員會作證時確認，財政部
+  迄今未就吸引AI數據中心投資赴澳進行正式的淨效益測算。勞森指出，由於數據中心設備
+  大部分依賴進口，僅約三分之一的資本支出直接支撐澳大利亞本地經濟活動——儘管他認為
+  AI部署帶來的生產力提升仍足以支撐這一投資。財政部官員特雷弗·鮑爾（Trevor Power）
+  另行確認，數據中心運營商將按標準企業稅率納稅。這一表態令政府面臨更大的輿論壓力，
+  需向社會證明數據中心交易帶來的可量化社區效益，進一步強化強制性自備可再生能源及
+  電網貢獻要求的政策走向——而南澳州的全可再生能源電網已在默認情況下滿足上述標準。
+  來源：The Epoch Times | https://www.theepochtimes.com/world/treasury-yet-to-calculate-net-benefit-of-attracting-data-centre-investment-6110893
+
+  【持續監測】澳大利亞能源北部「Ares計劃」1吉瓦北領地數據中心放棄2028年6月開工時間表——
   北領地環保局暫停評估截止日期等候聯邦政策意見（2026年11月1日）【高度相關】：
-  路透社獨家報道（2026年11月1日廣泛轉發）確認，Energy North已放棄其計劃在北領地
-  巴克利地區穆拉基（Murranji）牧場建設的1吉瓦氣電與太陽能混合動力數據中心園區的
-  2028年6月「首次供電」目標——起因是北領地環境保護局（NT EPA）以需就仍未立法的
-  聯邦數據中心政策尋求聯邦政府意見為由，暫停了其七周評估截止期。此前NT EPA已於
-  10月7日裁定對Ares計劃的環境規劃「可信度不足」，並要求其通過完整環境影響聲明
-  程序（EIS）。Energy North副總裁丹尼爾·亨特確認：「2028年6月這個日期在申請時只是
-  參考性時間表，我們現在已不再以此為目標。」1吉瓦規模是上月因社區反對觸發NEXTDC
-  削減7.5億澳元資本支出的墨爾本延誤項目的四倍。本次暫停確認，聯邦監管不確定性已
-  造成實質性影響，在南澳州總督察員快速審批體系以外的項目面臨開放式EIS及聯邦
-  EPBC審查風險，且沒有明確的立法確定性時間節點。對比之下，南澳州總督察員審批通道
-  結合即將到來的PACR（2026年12月），提供了市場上獨一無二的清晰監管跑道。
+  路透社獨家報道確認，Energy North已放棄其計劃在北領地穆拉基牧站建設的1吉瓦氣電
+  與太陽能混合動力數據中心園區的2028年6月「首次供電」目標。NT EPA要求其通過完整
+  環境影響聲明程序（EIS）。南澳州總督察員審批通道結合即將到來的PACR（2026年12月），
+  提供了市場上獨一無二的清晰監管跑道。
   來源：The Daily Guardian（路透社獨家）| https://thedailyguardian.com/news/science-tech/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-771095/
   SRN News | https://srnnews.com/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls/
   ABC新聞 | https://www.abc.net.au/news/2026-10-08/nt-environment-regulator-data-centre-low-level-of-confidence/107242664
@@ -949,19 +1004,27 @@ Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• 【更新】Quantum DC社區反對力量迅速壯大：網絡反對群組達2,800人，兩天內徵集逾
-  千人聯署請願（2026年11月1日）【高度相關】：繼10月31日曼納姆示威及騰基羅社區說明
-  會因炸彈威脅取消後，反對Quantum DC擬在騰基羅科林斯路建設1,200兆瓦數據中心的
-  有組織反對力量迅速擴張：網絡反對群組成員人數突破2,800人，社區聯署請願在兩天
-  內超過1,000人。組織者瑪格達蓮·李佩特（Magdalene Lippett）公開表態，居民將採用
-  「一切可用的法律手段」阻止該項目。重新安排的社區諮詢說明會定於2026年11月20日及
-  21日舉行。目前仍未提交任何正式開發申請。有組織反對的規模與速度——加之跨黨派
-  議員公開支持（自由黨、綠黨、一國黨；無黨籍聯邦議員Rebekha Sharkie）——確認了
-  馬里馬利（Murray Mallee）數據中心項目所面臨的社區授權風險，在性質上與South Energy
-  NTx走廊工業分區選址的風險狀況截然不同。
-  來源：Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-proposal-sparks-fierce-community-backlash-2/
-  Murray Valley Standard | https://murrayvalleystandard.com.au/news/2026/10/30/tungkillo-community-unite/
-  AI Weekly | https://aiweekly.co/alerts/quantum-dcs-1200mw-adelaide-hills-ai-data-centre-draws-rally
+• 【更新】Quantum DC騰基羅：社區諮詢重新安排至2026年11月20至21日——開發申請至少
+  推遲至2026年12月【高度相關】：Quantum DC已確認，其在騰基羅科林斯路擬建1,200兆瓦
+  園區的社區諮詢說明會將重新安排至2026年11月20日及21日舉行。根據開發商說明的程序，
+  在社區諮詢完成前無法提交正式開發申請，此後還需經歷至少15個工作日的公眾通知期——
+  因此最早可能的開發申請提交時間至早為2026年12月。2,800人規模的網絡反對群組及逾
+  千人聯署請願持續增長。跨黨派政治反對力量保持活躍。South Energy的NTx走廊工業分區
+  選址不需要任何社區同意程序，從結構上完全隔絕了任何社會許可延誤風險路徑。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/
+  Murray Bridge News | https://www.murraybridge.news/tungkillo-data-centre-proposal-sparks-fierce-community-backlash-2/
+
+• 南澳地方政府聯合會（LGA SA）呼籲各地方議會在數據中心規劃中擁有更強話語權
+  （2026年）【高度相關】：南澳地方政府聯合會已正式提出，現行規劃與評估框架尚不足以
+  應對大規模數據中心開發的累積影響，並就《數據中心管理法》諮詢程序提交意見，呼籲
+  在重大數據中心項目審批決策中賦予地方政府正式且有實質意義的參與角色。南澳州政府
+  擬議的總督察員快速審批架構，將重大項目審批置於議會層級之上——此立場遭LGA提案
+  在11月5日諮詢截止前直接提出異議。對於NTx走廊工業分區土地上適用總督察員基本基礎
+  設施指定的南澳州數據中心項目，LGA倡議不影響現有權益；但其帶來的政治壓力或對未來
+  未納入豁免的項目產生影響。
+  來源：LGA SA | https://www.lga.sa.gov.au/news-and-events/news/latest-news/2026/lga-calls-for-councils-to-have-a-stronger-voice-on-data-centre-planning
+  Council Magazine Australia | https://councilmagazine.com.au/councils-call-for-stronger-voice-on-data-centre-planning
+  Corrs Chambers Westgarth | https://www.corrs.com.au/insights/data-centre-approvals-community-engagement-and-social-licence-are-essential
 
   【持續監測】澳洲聯邦銀行（CBA）上調澳大利亞數據中心管道預測至2,600億澳元/7吉瓦
   可交付容量（2026年10月27日）【高度相關】：CBA指出能源供應、社區反對及著作權政策
@@ -1081,4 +1144,8 @@ Data Centre News Weekly（datacentrenews.substack.com）|
 Murray Valley Standard（murrayvalleystandard.com.au）|
 The Daily Guardian（thedailyguardian.com）| SRN News（srnnews.com）|
 AI Weekly（aiweekly.co）| OzArab Media（ozarab.media）|
+Blockspace（blockspace.media）| Daily Advertiser 瓦加瓦加（dailyadvertiser.com.au）|
+The Epoch Times（theepochtimes.com）| LGA SA（lga.sa.gov.au）|
+Council Magazine Australia（councilmagazine.com.au）|
+Corrs Chambers Westgarth（corrs.com.au）|
 Investinglive（investinglive.com）| AEMC詳細政策評估（aemc.gov.au）
