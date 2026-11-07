@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 6 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 7 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -149,7 +149,22 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Digital Realty & Goodman Group Table AU$715 Million Bid for 9.9% Stake in NextDC
+• Deloitte Confirms A$141B/37-Project Australian Data Centre Construction Pipeline; US Election
+  Creates Mixed Signals for Hyperscaler Investment (4–7 November 2026) [HIGH RELEVANCE]:
+  Deloitte Access Economics has confirmed 37 data centre projects worth A$141 billion are
+  progressing through Australia's infrastructure pipeline — up 36% in a single year. The report
+  warns tight construction labour and trades capacity risks delivery delays and cost escalation.
+  Separately, early analysis of the US election outcome ("blue wave") suggests hyperscalers may
+  seek to diversify outside the US, potentially increasing Australian data centre investment
+  interest; however, the same political shift introduces policy uncertainty around US tech
+  investment priorities, creating a dual-edged signal. SA's pre-secured Bundey 330 kV
+  transmission positions are insulated from the construction bottleneck affecting eastern
+  seaboard greenfield starts.
+  Sources: Deloitte Access Economics | https://www.deloitte.com/au/en/services/economics/blogs/investment-monitor-next-boom.html
+  Bloomberg | https://www.bloomberg.com/news/articles/2026-11-04/australia-s-construction-boom-to-double-mining-peak-lift-prices
+  AAP / Port News | https://www.portnews.com.au/story/9387434/blue-wave-a-blessing-and-curse-for-aussie-data-centres/
+
+  [MONITORING] Digital Realty & Goodman Group Table AU$715 Million Bid for 9.9% Stake in NextDC
   (4 November 2026) [HIGH RELEVANCE]: Goodman Group and Digital Realty have jointly bid
   AU$715 million for a 9.9% stake in NextDC — just days after NEXTDC announced it was
   pausing all land acquisitions and cutting capex by AU$750M. The bidders confirmed they
@@ -348,7 +363,23 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Victoria's A$5 Billion Data Centre Approvals Queue Frozen in Election Caretaker Period
+• Port Augusta City Council Left "In the Dark" on Firmus 1,300 MW Data Centre Proposal —
+  Demands Rate and Water Guarantees (6 November 2026) [HIGH RELEVANCE]: Port Augusta City
+  Council has formally demanded written assurance from both Firmus Technologies and the SA
+  state government that the proposed 1,300 MW AI data centre at Stirling North (4.5 km
+  southeast of Stirling North, ten data halls plus a substation) will not receive council
+  rates exemptions and must substantiate its 345 megalitre/year water use estimate. The
+  council reported it raised the questions at an October 13 meeting and received no formal
+  response from either Firmus or the state. The state government has stated it has no current
+  plans to introduce rates exemptions for data centre developments in SA, but has not
+  communicated this directly to the council. Under SA's essential infrastructure classification,
+  planning authority bypasses local councils entirely, leaving Port Augusta with no formal
+  approval role — a governance gap that reinforces the social-licence advantage of NTx corridor
+  industrial-zoned positions with pre-established government engagement.
+  Sources: InDaily | https://www.indailysa.com.au/news/just-in/2026/11/06/major-data-centre-proposal-leaves-sa-council-in-the-dark
+  AAP News | https://aapnews.aap.com.au/news/major-data-centre-proposal-leaves-council-in-the-dark
+
+  [MONITORING] Victoria's A$5 Billion Data Centre Approvals Queue Frozen in Election Caretaker Period
   (3 November 2026) [HIGH RELEVANCE]: Nine data centre development applications worth
   approximately A$5 billion — including Stockland's 250 MVA Brooklyn campus — entered
   Victoria's election caretaker period undecided on 3 November 2026, with the state election
@@ -491,7 +522,7 @@ Fortune (fortune.com) | Utility Magazine (utilitymagazine.com.au) | JWS Lawyers 
 Lexology (lexology.com) | w.media (w.media) | ASCLA (ascla.org) |
 au.investing.com (au.investing.com) | pv magazine Australia (pv-magazine-australia.com) |
 King & Wood Mallesons (mallesons.com) | SA Government / SA Planning Portal (plan.sa.gov.au) |
-CommBank (commbank.com.au) | Deloitte (deloitte.com.au) | Westpac (westpac.com.au) |
+CommBank (commbank.com.au) | Deloitte Access Economics (deloitte.com) | Westpac (westpac.com.au) |
 AirTrunk / tech-insider.org (tech-insider.org) |
 Global Data Center Hub (globaldatacenterhub.com) | RenewMap (renewmap.com.au) |
 The Tech Capital (thetechcapital.com) | Telecompaper (telecompaper.com) |
@@ -513,14 +544,16 @@ The Epoch Times (theepochtimes.com) | LGA SA (lga.sa.gov.au) |
 Council Magazine Australia (councilmagazine.com.au) |
 Corrs Chambers Westgarth (corrs.com.au) |
 Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au) |
-Green Street News (greenstreetnews.com) | Baxtel (baxtel.com)
+Green Street News (greenstreetnews.com) | Baxtel (baxtel.com) |
+InDaily (indailysa.com.au) | AAP News (aapnews.aap.com.au) |
+Capital Brief (capitalbrief.com) | Port News / AAP (portnews.com.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月6日
+📋 南澳州數據中心土地每日簡報 - 2026年11月7日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -639,13 +672,21 @@ Green Street News (greenstreetnews.com) | Baxtel (baxtel.com)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• Digital Realty與Goodman集團提出以7.15億澳元收購NextDC 9.9%股份
-  （2026年11月4日）【高度相關】：Goodman集團與Digital Realty聯合出價7.15億澳元，競購
-  NextDC 9.9%股份——就在NextDC宣布暫停所有土地收購並削減9.5億澳元資本開支後數日。
-  兩家競購方確認目前不尋求控股地位。此舉在NextDC運營暫停期間仍確認其資產對全球機構
-  投資者具有高度吸引力，同時釋放信號：陷入困境或暫停運營的澳大利亞數據中心資產組合正
-  成為收購目標。NextDC退出南澳州土地市場後，NTx走廊地塊的競購需求仍集中於IREN、CDC
-  及AirTrunk。
+• 德勤確認澳大利亞1,410億澳元/37個數據中心建設管道，年增36%；美國大選對超大規模雲端
+  投資商流向發出雙重信號（2026年11月4至7日）【高度相關】：德勤澳大利亞經濟學（Deloitte
+  Access Economics）確認，澳大利亞基礎設施管道中有37個數據中心項目，總額達1,410億澳元，
+  較一年前激增36%。報告同時警示，施工勞動力及各工種人力的緊張態勢可能引發項目延誤和
+  成本超支。另據早期分析，美國大選結果（「藍波」）或促使超大規模雲端投資商尋求在美國
+  以外多元佈局，潛在增加對澳大利亞數據中心的投資意向；但同一政治格局變化亦帶來美國科
+  技投資政策不確定性，形成雙刃訊號。South Energy預先鎖定的邦迪330千伏輸電接入地位，完
+  全不受東部海岸新建項目所面臨的建設瓶頸影響。
+  來源：德勤 | https://www.deloitte.com/au/en/services/economics/blogs/investment-monitor-next-boom.html
+  彭博社 | https://www.bloomberg.com/news/articles/2026-11-04/australia-s-construction-boom-to-double-mining-peak-lift-prices
+  AAP / Port News | https://www.portnews.com.au/story/9387434/blue-wave-a-blessing-and-curse-for-aussie-data-centres/
+
+  【持續監測】Digital Realty與Goodman集團提出以7.15億澳元收購NextDC 9.9%股份
+  （2026年11月4日）【高度相關】：NextDC退出南澳州土地市場後，NTx走廊地塊的競購需求仍
+  集中於IREN、CDC及AirTrunk。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/digital-realty-and-goodman-group-line-up-au715m-bid-for-stake-in-australias-nextdc/
 
   【持續監測】澳大利亞數據中心建設管道擴大至26.8吉瓦，墨爾本首次超越悉尼（2026年11月）
@@ -780,12 +821,20 @@ Green Street News (greenstreetnews.com) | Baxtel (baxtel.com)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• 維多利亞州約50億澳元數據中心審批隊列在選舉看守期間全面凍結
-  （2026年11月3日）【高度相關】：九個總價值約50億澳元的數據中心開發申請——包括Stockland
-  的250兆伏安布魯克林園區——於2026年11月3日進入維多利亞州選舉看守模式時仍懸而未決，
-  州選舉定於11月28日舉行。墨爾本審批程序的全面暫停將進一步拖延各項目開發時間線，從
-  結構上進一步鞏固南澳州統籌協調人快速審批通道作為澳大利亞大陸最快大型開發審批路徑
-  的競爭優勢。
+• 阿古斯塔港市議會就Firmus 1,300兆瓦數據中心提案「被蒙在鼓裡」——要求書面費率及用水保
+  證（2026年11月6日）【高度相關】：阿古斯塔港市議會正式要求Firmus Technologies及南澳州
+  政府以書面形式保證，位於斯特靈北部東南4.5公里處擬議中的1,300兆瓦AI數據中心（含十座
+  數據廳及一座變電站）不得獲得地方費率豁免，並需說明其每年345兆升的用水量估算依據。
+  議會表示，自2026年10月13日議會會議提出相關問題後，Firmus及州政府均未作出任何正式回
+  應。州政府已表明目前無意為南澳州數據中心開發提供費率豁免，但至今未直接告知議會。
+  依據南澳州的基礎設施認定，規劃決定權完全繞過地方議會，使阿古斯塔港無任何正式審批
+  角色——這一治理缺口進一步凸顯了NTx走廊工業用途地塊在社區許可方面的優勢（相關項目
+  已與政府建立了前期溝通機制）。
+  來源：InDaily | https://www.indailysa.com.au/news/just-in/2026/11/06/major-data-centre-proposal-leaves-sa-council-in-the-dark
+  AAP News | https://aapnews.aap.com.au/news/major-data-centre-proposal-leaves-council-in-the-dark
+
+  【持續監測】維多利亞州約50億澳元數據中心審批隊列在選舉看守期間全面凍結
+  （2026年11月3日）【高度相關】。
   來源：Certified Strategic | https://certifiedstrategic.com/insights/victoria-data-centre-approvals-caretaker-election
 
   【持續監測】超5億澳元墨爾本西部工業用地大宗交易——2026年最大工業地產交易【高度相關】。
@@ -886,7 +935,7 @@ Fortune (fortune.com) | Utility Magazine (utilitymagazine.com.au) | JWS Lawyers 
 Lexology (lexology.com) | w.media (w.media) | ASCLA (ascla.org) |
 au.investing.com (au.investing.com) | pv magazine Australia (pv-magazine-australia.com) |
 King & Wood Mallesons (mallesons.com) | SA Government / SA Planning Portal (plan.sa.gov.au) |
-CommBank (commbank.com.au) | Deloitte (deloitte.com.au) | Westpac (westpac.com.au) |
+CommBank (commbank.com.au) | Deloitte Access Economics (deloitte.com) | Westpac (westpac.com.au) |
 AirTrunk / tech-insider.org (tech-insider.org) |
 Global Data Center Hub (globaldatacenterhub.com) | RenewMap (renewmap.com.au) |
 The Tech Capital (thetechcapital.com) | Telecompaper (telecompaper.com) |
@@ -908,4 +957,6 @@ The Epoch Times (theepochtimes.com) | LGA SA (lga.sa.gov.au) |
 Council Magazine Australia (councilmagazine.com.au) |
 Corrs Chambers Westgarth (corrs.com.au) |
 Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au) |
-Green Street News (greenstreetnews.com) | Baxtel (baxtel.com)
+Green Street News (greenstreetnews.com) | Baxtel (baxtel.com) |
+InDaily (indailysa.com.au) | AAP News (aapnews.aap.com.au) |
+Capital Brief (capitalbrief.com) | Port News / AAP (portnews.com.au)
