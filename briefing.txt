@@ -1,12 +1,25 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 8 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 9 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-No new updates today.
+• AEMC Opens Consultation on Minimum System Load Market Rules — Battery Storage and Large Load
+  Obligations Implicated (November 2026) [HIGH RELEVANCE]: The Australian Energy Market Commission
+  has opened a formal consultation on new market rules governing how the minimum system load (MSL)
+  constraint is managed across the NEM. South Australia — running the highest renewable penetration
+  of any NEM jurisdiction — is the primary jurisdiction affected: any rule change to MSL compensation,
+  dispatch obligations, or MSL floor levels will directly shape the system strength requirements and
+  cost profile for new large loads seeking to connect at SA substations, including Bundey 330 kV.
+  Pre-secured firm transmission positions at Bundey already operate outside the MSL-constrained
+  range given the available synchronous support from co-located generation assets, but the outcome
+  of this rule change will determine how competing projects nationwide must demonstrate MSL
+  compliance at the connection point.
+  Source: Energy-Storage.News | https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/
+
+No further new updates today.
 
   [MONITORING] AEMO Q3 2026 QED: National Data Centre Pipeline Surges to 22 Projects / 10.1 GW
   (October 2026) [HIGH RELEVANCE]: AEMO's Q3 2026 Quarterly Energy Dynamics report confirms
@@ -150,14 +163,14 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Stockland and John Boyd Properties Withdraw Cooks River Sydney AI Data Centre Plans After
-  Community Backlash (8 November 2026) [HIGH RELEVANCE]: Stockland and John Boyd Properties
-  have scrapped their proposed AI data centre at the Cooks River site in Sydney, citing community
-  opposition — the latest in a growing series of Sydney-area data centre withdrawals that also
-  includes AirTrunk's abandoned Lane Cove proposal. Each eastern-seaboard withdrawal concentrates
-  unmet hyperscaler demand toward SA's unconstrained NTx corridor. Australia's data centre
-  pipeline remains the second-largest globally, but community and grid constraints are
-  increasingly bifurcating it into stalled eastern-seaboard projects and viable SA positions.
+No new updates today.
+
+  [MONITORING] Stockland and John Boyd Properties Withdraw Cooks River Sydney AI Data Centre
+  Plans After Community Backlash (8 November 2026) [HIGH RELEVANCE]: Latest in growing series
+  of Sydney-area data centre withdrawals concentrating unmet hyperscaler demand toward SA's
+  unconstrained NTx corridor. Australia's data centre pipeline remains the second-largest
+  globally, but community and grid constraints are increasingly bifurcating it into stalled
+  eastern-seaboard projects and viable SA positions.
   Source: ABC News | https://abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592
 
   [MONITORING] Deloitte Confirms A$141B/37-Project Australian Data Centre Construction Pipeline;
@@ -239,14 +252,14 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• Independent Senator David Pocock Calls for 5% Levy on All Australian Data Centres
-  (8 November 2026) [HIGH RELEVANCE]: Independent ACT Senator David Pocock has publicly
-  called for a 5% levy on all data centres operating in Australia, citing community
-  concerns about energy and water consumption. If legislated, the measure would add
-  significant operating cost pressure to eastern-seaboard greenfield data centre economics
-  while South Energy's pre-secured Bundey 330 kV transmission positions with renewable
-  matching have the structural cost profile most likely to withstand any BYO-energy or levy
-  framework. The proposal is at an early advocacy stage and has not been introduced to Parliament.
+No new updates today.
+
+  [MONITORING] Independent Senator David Pocock Calls for 5% Levy on All Australian Data Centres
+  (8 November 2026) [HIGH RELEVANCE]: If legislated, the measure would add significant operating
+  cost pressure to eastern-seaboard greenfield data centre economics while South Energy's
+  pre-secured Bundey 330 kV transmission positions with renewable matching have the structural
+  cost profile most likely to withstand any BYO-energy or levy framework. The proposal is at an
+  early advocacy stage and has not been introduced to Parliament.
   Source: OzArab Media / AAP | https://ozarab.media/australia-weighs-ai-data-centre-safeguards/
 
   [MONITORING] South Australia in Election Caretaker Mode — Data Centre Management Act
@@ -319,13 +332,15 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Victorian Councils Maribyrnong, Hume, and Brimbank Introduce Moratoria on New Data Centre
-  Developments (November 2026) [HIGH RELEVANCE]: Three Melbourne metropolitan councils have
-  now introduced formal moratoria on new data centre development applications, citing grid
-  pressure, water demand, and industrial land competition. The growing list of council-level
-  moratoria in Victoria structurally narrows Melbourne's already-constrained data centre
-  development footprint, reinforcing SA's Coordinator-General fast-track pathway as the most
-  operationally viable large-format approval route available on the Australian mainland.
+No new updates today.
+
+  [MONITORING] Victorian Councils Maribyrnong, Hume, and Brimbank Introduce Moratoria on New
+  Data Centre Developments (November 2026) [HIGH RELEVANCE]: Three Melbourne metropolitan
+  councils have now introduced formal moratoria on new data centre development applications,
+  citing grid pressure, water demand, and industrial land competition. The growing list of
+  council-level moratoria in Victoria structurally narrows Melbourne's already-constrained
+  data centre development footprint, reinforcing SA's Coordinator-General fast-track pathway
+  as the most operationally viable large-format approval route available on the Australian mainland.
   Source: ABC News / AAP (via November 2026 coverage)
 
   [MONITORING] Port Augusta City Council Left "In the Dark" on Firmus 1,300 MW Data Centre
@@ -480,13 +495,23 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月8日
+📋 南澳州數據中心土地每日簡報 - 2026年11月9日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-今日無新消息。
+• AEMC就最低系統負荷市場規則啟動諮詢——電池儲能及大型負荷義務面臨影響
+  （2026年11月）【高度相關】：澳大利亞能源市場委員會（AEMC）已就全國電力市場（NEM）
+  最低系統負荷（MSL）管理的新市場規則正式啟動諮詢程序。作為NEM中可再生能源滲透率最高
+  的司法管轄區，南澳州受此影響最為直接：任何關於MSL補償機制、調度義務或MSL下限水平
+  的規則調整，都將直接影響擬接入南澳州輸電網（包括邦迪330千伏節點）的新大型負荷在
+  接入點的系統強度要求及成本結構。South Energy預先鎖定的邦迪固定輸電地位，因共置發電
+  資產提供充足的同步支撐，已在MSL約束範圍之外穩定運行；但此次規則修訂的最終結果，
+  將決定全澳競爭項目未來如何在接入點履行MSL合規義務。
+  來源：Energy-Storage.News | https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/
+
+今日無其他新消息。
 
   【持續監測】AEMO 2026年第三季度季度能源動態：全國數據中心建設管道激增至22個項目/
   10.1吉瓦（2026年10月）【高度相關】：AEMO發布的2026年第三季度季度能源動態報告確認，
@@ -582,13 +607,12 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• Stockland與John Boyd Properties在社區強烈反對下撤回悉尼庫克斯河AI數據中心計劃
-  （2026年11月8日）【高度相關】：Stockland和John Boyd Properties已撤銷在悉尼庫克斯河
-  選址的AI數據中心開發計劃，理由是遭遇社區反對——繼AirTrunk放棄萊恩科夫提案之後，這是
-  悉尼地區最新一起遭社區阻攔的數據中心撤案。每一個東部海岸項目的退出，都在進一步將未
-  滿足的超大規模雲端算力需求推向南澳州未受約束的NTx走廊。澳大利亞數據中心建設管道
-  仍為全球第二大，但社區阻力與電網約束正日益將其分割為「東部海岸停滯項目」與「南澳州
-  可行地位」兩個截然不同的陣營。
+今日無新消息。
+
+  【持續監測】Stockland與John Boyd Properties在社區強烈反對下撤回悉尼庫克斯河AI數據中心
+  計劃（2026年11月8日）【高度相關】：繼AirTrunk放棄萊恩科夫提案之後，這是悉尼地區最新
+  一起遭社區阻攔的數據中心撤案，每一個東部海岸項目的退出都在進一步將未滿足的超大規模
+  雲端算力需求推向南澳州未受約束的NTx走廊。
   來源：ABC News | https://abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592
 
   【持續監測】德勤確認澳大利亞1,410億澳元/37個數據中心建設管道，年增36%；美國大選對
@@ -602,9 +626,6 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
   【持續監測】澳大利亞數據中心建設管道擴大至26.8吉瓦，墨爾本首次超越悉尼（2026年11月）
   【高度相關】。
   來源：The Tech Capital | https://thetechcapital.com/australias-data-centre-pipeline-expands-by-5-2gw-melbourne-leads/
-
-  【持續監測】DigiCo在悉尼鎖定15年71兆瓦容量合同（2026年11月）。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
   【持續監測】IREN就新南威爾士州雷德班克900兆瓦數據中心園區啟動社區諮詢——尚無已鎖定
   電網接入協議（2026年10月）【高度相關】。
@@ -633,8 +654,6 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
   【持續監測】Firmus IPO崩潰——2026年10月8日【高度相關】。
   來源：au.investing.com | https://au.investing.com/news/stock-market-news/a-stock-sinks-23-as-australias-30bn-firmus-ai-datacentre-ipo-collapses-4680887
 
-  【持續監測】市場報告：澳大利亞數據中心託管市場預測2031年達56億美元（2026年10月6日）。
-
   【持續監測】蘋果及Meta已確認加入澳大利亞數據中心主動買家管道【高度相關】。
 
   【持續監測】CDC簽署澳大利亞最大數據中心合同——555兆瓦（2026年5月）【高度相關】。
@@ -657,12 +676,13 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 無黨派獨立參議員大衛·波科克呼籲對澳大利亞所有數據中心徵收5%稅（2026年11月8日）
-  【高度相關】：澳大利亞首都特區獨立參議員大衛·波科克公開呼籲對全澳所有數據中心徵收
-  5%稅，理由是社區對能源和用水量的擔憂。若此稅率最終立法，將大幅增加東部海岸新建數據
-  中心的運營成本壓力，而South Energy預先鎖定的邦迪330千伏輸電接入地位、配以可再生能源
-  匹配，在結構成本層面最有能力承受任何BYO能源或稅費框架。目前該提議處於倡導初始階段，
-  尚未提交議會審議。
+今日無新消息。
+
+  【持續監測】無黨派獨立參議員大衛·波科克呼籲對澳大利亞所有數據中心徵收5%稅
+  （2026年11月8日）【高度相關】：若此稅率最終立法，將大幅增加東部海岸新建數據中心的
+  運營成本壓力，而South Energy預先鎖定的邦迪330千伏輸電接入地位、配以可再生能源匹配，
+  在結構成本層面最有能力承受任何BYO能源或稅費框架。目前該提議處於倡導初始階段，尚未
+  提交議會審議。
   來源：OzArab Media / AAP | https://ozarab.media/australia-weighs-ai-data-centre-safeguards/
 
   【持續監測】南澳州進入選舉看守模式——《數據中心管理法》引入推遲至選後（2026年11月4日起）
@@ -722,12 +742,12 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• 墨爾本三個城市議會（馬里伯農、休謨、布里姆班克）相繼對新建數據中心實施暫停令
-  （2026年11月）【高度相關】：三個墨爾本都會區議會已正式對新建數據中心開發申請實施
-  暫停令，理由是電網壓力、用水需求及工業用地競爭日趨激烈。維多利亞州議會級審批已因
-  選舉看守期凍結，加上多個議會的暫停令，墨爾本可用數據中心開發空間進一步收窄，從結構
-  上強化了南澳州規劃協調員快速審批通道作為澳大利亞大陸上最快大型數據中心審批路徑的
-  競爭優勢。
+今日無新消息。
+
+  【持續監測】墨爾本三個城市議會（馬里伯農、休謨、布里姆班克）相繼對新建數據中心實施
+  暫停令（2026年11月）【高度相關】：三個墨爾本都會區議會已正式對新建數據中心開發申請
+  實施暫停令，強化了南澳州規劃協調員快速審批通道作為澳大利亞大陸上最快大型數據中心
+  審批路徑的競爭優勢。
   來源：ABC News / AAP（2026年11月相關報道）
 
   【持續監測】阿古斯塔港市議會就Firmus 1,300兆瓦數據中心提案「被蒙在鼓裡」——要求書面
@@ -740,9 +760,6 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
 
   【持續監測】超5億澳元墨爾本西部工業用地大宗交易——2026年最大工業地產交易【高度相關】。
   來源：Green Street News | https://greenstreetnews.com/article/consortium-capitalises-on-data-centre-boom-with-500m-melbourne-land-deal/
-
-  【持續監測】Gateway Capital就81兆瓦悉尼數據中心設施提交規劃申請（2026年11月）。
-  來源：Baxtel / Data Center News | https://baxtel.com/news/data-centers/australia
 
   【持續監測】Quantum DC東吉洛（Tungkillo）：社區諮詢改期至2026年11月20至21日——正式
   開發申請推遲至2026年12月最早【高度相關】。
