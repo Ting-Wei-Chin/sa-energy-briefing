@@ -1,12 +1,14 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 10 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 11 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-• SA Data Centre Rush Crystallises A$5B ElectraNet Grid Augmentation Requirement — ~30 Connection
+No new updates today.
+
+  [MONITORING] SA Data Centre Rush Crystallises A$5B ElectraNet Grid Augmentation Requirement — ~30 Connection
   Proposals Now Queued (Early November 2026) [HIGH RELEVANCE]: Tech Insider, citing ElectraNet
   planning documents, reports that South Australia's surge of data centre connection proposals —
   now approaching 30 applications — has crystallised a ~A$5 billion, ~500 km transmission
@@ -18,8 +20,6 @@ Prepared for: South Energy | Land Acquisition & Project Integration
   agreements from new arrivals. Note: figures cited from a secondary source; verify against
   ElectraNet's primary TAPR and regulatory publications.
   Source: Tech Insider | https://tech-insider.org/au/south-australia-data-centre-5-billion-electranet-upgrade-2026/
-
-No further new updates today.
 
   [MONITORING] AEMC Opens Consultation on Minimum System Load Market Rules — Battery Storage and
   Large Load Obligations Implicated (November 2026) [HIGH RELEVANCE]: The Australian Energy Market
@@ -123,7 +123,9 @@ No further new updates today.
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-• Uungula Wind Farm Substation Energised — SA Mid-North Renewable Capacity Milestone (November
+No new updates today.
+
+  [MONITORING] Uungula Wind Farm Substation Energised — SA Mid-North Renewable Capacity Milestone (November
   2026) [HIGH RELEVANCE]: ESD News reports that the Uungula Wind Farm in South Australia's
   mid-north region has achieved a key grid-connection milestone with its network substation now
   energised. The project adds wind generation capacity to the mid-north corridor directly
@@ -132,8 +134,6 @@ No further new updates today.
   the renewable energy density case for near-substation data centre precinct development in the
   mid-north region.
   Source: ESD News | https://esdnews.com.au/
-
-No further new updates today.
 
   [MONITORING] SA Government Rushes Six New Wind and Battery Projects Through Approval Before
   Entering Election Caretaker Mode (4 November 2026) [HIGH RELEVANCE]: The South Australian
@@ -183,7 +183,25 @@ No further new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-No new updates today.
+• Reserve Bank of Australia Publishes "Data Centre Investment in Australia" Research — Confirms
+  A$115B+ Pipeline Through 2028 (2026) [HIGH RELEVANCE]: The Reserve Bank of Australia has
+  published a formal research insights paper on the data centre investment cycle, projecting a
+  further A$115 billion in real-terms private data centre investment between mid-2026 and end-2028,
+  excluding supporting infrastructure. The RBA's authoritative endorsement of the investment
+  scale — combined with its analysis of anchor hyperscaler commitments (Microsoft A$25B through
+  2029; AWS AU$20B for the current program) — provides the most credible macroeconomic validation
+  to date of Australia's AI data centre build-out. The RBA's public seal of approval signals
+  that financial regulators consider the pipeline credible and durable, strengthening the
+  investment case for pre-positioned SA land and transmission assets.
+  Source: RBA | https://www.rba.gov.au/publications/insights/australian-economy/2026/data-centre-investment-in-australia.html
+
+• Reserve Bank of Australia Selects CDC Data Centres for Data Centre Decommission and Relocation
+  (2026): CDC has been selected by the Reserve Bank of Australia to manage its data centre
+  decommission and relocation — an institutional-grade mandate confirming CDC's continuing market
+  leadership in Australian enterprise data centre operations, notwithstanding the collapse of Project
+  Southgate and its exit from the Firmus partnership. Demonstrates that tier-1 Australian data
+  centre operators continue to win major institutional contracts across the market cycle.
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/reserve-bank-of-australia-selects-cdc-data-centres-for-data-center-decommission-and-relocation/
 
   [MONITORING] Stockland and John Boyd Properties Withdraw Cooks River Sydney AI Data Centre
   Plans After Community Backlash (8 November 2026) [HIGH RELEVANCE]: Latest in growing series
@@ -508,20 +526,23 @@ Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au) |
 Green Street News (greenstreetnews.com) | Baxtel (baxtel.com) |
 InDaily (indailysa.com.au) | AAP News (aapnews.aap.com.au) |
 Capital Brief (capitalbrief.com) | Port News / AAP (portnews.com.au) |
-ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
+ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co) |
+Reserve Bank of Australia (rba.gov.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月10日
+📋 南澳州數據中心土地每日簡報 - 2026年11月11日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-• 南澳州數據中心申請潮推動ElectraNet約50億澳元電網擴建需求——近30個接入申請排隊待處理
+今日無新消息。
+
+  【持續監測】南澳州數據中心申請潮推動ElectraNet約50億澳元電網擴建需求——近30個接入申請排隊待處理
   （2026年11月初）【高度相關】：Tech Insider援引ElectraNet規劃文件報道，南澳州數據中心接入
   申請浪潮——目前接近30個項目——已明確形成ElectraNet須於2032年前完成的約50億澳元、約500公里
   輸電擴建需求，以滿足尚未鎖定固定輸電接入的新進入者需求。該分析直接量化了當前不具備預鎖定
@@ -530,8 +551,6 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
   免受新進入者衝擊的競爭壁壘。注：相關數據來自二手來源，建議核對ElectraNet一手TAPR及
   監管文件。
   來源：Tech Insider | https://tech-insider.org/au/south-australia-data-centre-5-billion-electranet-upgrade-2026/
-
-今日無其他新消息。
 
   【持續監測】AEMC就最低系統負荷市場規則啟動諮詢——電池儲能及大型負荷義務面臨影響
   （2026年11月）【高度相關】：澳大利亞能源市場委員會（AEMC）已就全國電力市場（NEM）
@@ -596,14 +615,12 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
 
 ☀️ 2. 可再生能源與選址條件
 
-• 烏恩古拉風電場變電站帶電投運——南澳州中北部可再生能源容量里程碑（2026年11月）
-  【高度相關】：ESD News報道，南澳州中北部地區的烏恩古拉（Uungula）風電場已實現關鍵電網
-  接入里程碑，其網絡變電站現已完成帶電投運。該項目在直接毗鄰NTx 330千伏輸電走廊的中北部
-  地帶新增風電裝機容量，進一步深化了可供沿邦迪走廊選址的數據中心買家選擇的風電PPA供應池，
-  並強化了中北部地區緊鄰變電站組群的數據中心園區選址的可再生能源密度論據。
-  來源：ESD News | https://esdnews.com.au/
+今日無新消息。
 
-今日無其他新消息。
+  【持續監測】烏恩古拉風電場變電站帶電投運——南澳州中北部可再生能源容量里程碑（2026年11月）
+  【高度相關】：ESD News報道，南澳州中北部地區的烏恩古拉（Uungula）風電場已實現關鍵電網
+  接入里程碑，其網絡變電站現已完成帶電投運。
+  來源：ESD News | https://esdnews.com.au/
 
   【持續監測】南澳州政府在進入選舉看守模式前緊急批准六個新風電及電池儲能項目
   （2026年11月4日）【高度相關】。
@@ -638,7 +655,20 @@ ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
 
 🏢 3. 科技公司需求（潛在買家）
 
-今日無新消息。
+• 澳大利亞儲備銀行發布《澳大利亞數據中心投資》研究報告——確認2026至2028年逾1,150億澳元
+  投資管道（2026年）【高度相關】：澳大利亞儲備銀行（RBA）正式發布有關數據中心投資週期的
+  研究洞察報告，預測2026年中至2028年底私人數據中心實際投資額將再增加1,150億澳元以上（不含
+  配套基礎設施）。RBA對此輪投資規模的權威背書——結合對主力超大型雲端服務商承諾的分析
+  （微軟20億澳元至2029年；AWS當前承諾200億澳元）——為澳大利亞AI數據中心建設浪潮提供迄今
+  最具公信力的宏觀經濟驗證。RBA的公開認可標誌著金融監管機構已將這一管道視為可信且持久的
+  投資主題，進一步鞏固了南澳州預先鎖定土地及輸電資產的投資論據。
+  來源：澳大利亞儲備銀行 | https://www.rba.gov.au/publications/insights/australian-economy/2026/data-centre-investment-in-australia.html
+
+• 澳大利亞儲備銀行選定CDC數據中心承接其數據中心退役及遷移工作（2026年）：CDC已獲澳大利亞
+  儲備銀行委託，承接其數據中心退役及整體遷移工程——這一機構級別的委任確認了CDC在澳大利亞
+  企業數據中心市場持續領先的地位，儘管其「南門計劃」已宣告失敗並結束與Firmus的合作。此舉
+  表明，頂級澳大利亞數據中心運營商在整個市場週期中仍在持續贏得重要機構合同。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/reserve-bank-of-australia-selects-cdc-data-centres-for-data-center-decommission-and-relocation/
 
   【持續監測】Stockland與John Boyd Properties在社區強烈反對下撤回悉尼庫克斯河AI數據中心
   計劃（2026年11月8日）【高度相關】。
@@ -895,4 +925,5 @@ Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au) |
 Green Street News (greenstreetnews.com) | Baxtel (baxtel.com) |
 InDaily (indailysa.com.au) | AAP News (aapnews.aap.com.au) |
 Capital Brief (capitalbrief.com) | Port News / AAP (portnews.com.au) |
-ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co)
+ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co) |
+Reserve Bank of Australia (rba.gov.au)
