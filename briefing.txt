@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 11 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 12 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -183,7 +183,18 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Reserve Bank of Australia Publishes "Data Centre Investment in Australia" Research — Confirms
+• AirTrunk Signs 1 GW+ NSW Renewables Agreement with European Energy for Kurri Kurri Data
+  Center — Potential Long-Term PPA (11 November 2026): AirTrunk and the Australian subsidiary
+  of European Energy have signed a heads-of-agreement to progress more than 1 GW of new
+  renewable energy capacity in New South Wales, with a potential long-term power purchase
+  agreement linked to AirTrunk's proposed Kurri Kurri data centre campus. While this is an
+  eastern-seaboard deal, it confirms hyperscaler colocation platforms are actively contracting
+  renewable supply to satisfy AEMC's clean-energy obligations — further validating the
+  structural advantage of SA's pre-co-located renewable pipeline at Bundey as a ready-made
+  solution for buyers who cannot self-contract at scale in NSW.
+  Source: Bloomberg | https://www.bloomberg.com/news/articles/2026-11-11/airtrunk-signs-renewables-deal-to-power-australian-data-center
+
+  [MONITORING] Reserve Bank of Australia Publishes "Data Centre Investment in Australia" Research — Confirms
   A$115B+ Pipeline Through 2028 (2026) [HIGH RELEVANCE]: The Reserve Bank of Australia has
   published a formal research insights paper on the data centre investment cycle, projecting a
   further A$115 billion in real-terms private data centre investment between mid-2026 and end-2028,
@@ -195,7 +206,7 @@ No new updates today.
   investment case for pre-positioned SA land and transmission assets.
   Source: RBA | https://www.rba.gov.au/publications/insights/australian-economy/2026/data-centre-investment-in-australia.html
 
-• Reserve Bank of Australia Selects CDC Data Centres for Data Centre Decommission and Relocation
+  [MONITORING] Reserve Bank of Australia Selects CDC Data Centres for Data Centre Decommission and Relocation
   (2026): CDC has been selected by the Reserve Bank of Australia to manage its data centre
   decommission and relocation — an institutional-grade mandate confirming CDC's continuing market
   leadership in Australian enterprise data centre operations, notwithstanding the collapse of Project
@@ -370,7 +381,18 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-No new updates today.
+• Quantum DC Formally Drops 2026 Development Application for 1,200 MW Adelaide-Area Campus
+  — Community Backlash Escalates (12 November 2026) [HIGH RELEVANCE]: Bloomberg reports that
+  Quantum DC has halted planning approvals for its proposed 1,200 MW hyperscale facility near
+  Adelaide (Tungkillo), confirming it will not lodge a development application at all in 2026.
+  This is a material escalation from the previous position (community consultations rescheduled
+  to 20–21 November, DA delayed to "December at earliest") to a full withdrawal of the 2026
+  DA programme. The withdrawal is framed as part of a broader pattern of community-driven
+  halts across the Australian market. For South Energy, Quantum DC's inability to convert its
+  grid proximity at Tungkillo into a DA submission — despite being an established, well-resourced
+  operator — reinforces the structural moat of pre-approved Bundey 330 kV positions, where the
+  Coordinator-General fast-track pathway was specifically designed to bypass these approval risks.
+  Source: Bloomberg | https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises
 
   [MONITORING] Victorian Councils Maribyrnong, Hume, and Brimbank Introduce Moratoria on New
   Data Centre Developments (November 2026) [HIGH RELEVANCE]: Three Melbourne metropolitan
@@ -490,15 +512,15 @@ No new updates today.
   (Deloitte, June 2026).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: RenewEconomy (reneweconomy.com.au) | Energy-Storage.News (energy-storage.news) |
-AEMO (aemo.com.au) | AEMC (aemc.gov.au) | ElectraNet (electranet.com.au) |
-AER (aer.gov.au) | SafeAI-Aus / Australian Parliament (safeaiaus.org) | PM&C (pmc.gov.au) |
+Sources: Bloomberg (bloomberg.com) | RenewEconomy (reneweconomy.com.au) |
+Energy-Storage.News (energy-storage.news) | AEMO (aemo.com.au) | AEMC (aemc.gov.au) |
+ElectraNet (electranet.com.au) | AER (aer.gov.au) |
+SafeAI-Aus / Australian Parliament (safeaiaus.org) | PM&C (pmc.gov.au) |
 Data Center Dynamics (datacenterdynamics.com) | ESD News (esdnews.com.au) |
-Bloomberg (bloomberg.com) | WattClarity (wattclarity.com.au) |
-Certified Strategic (certifiedstrategic.com) | Inligo Networks (inligonetworks.com) |
-GlobeNewsWire / Arizton Advisory (globenewswire.com) | ABC News (abc.net.au) |
-Fortune (fortune.com) | Utility Magazine (utilitymagazine.com.au) | JWS Lawyers (jws.com.au) |
-Lexology (lexology.com) | w.media (w.media) | ASCLA (ascla.org) |
+WattClarity (wattclarity.com.au) | Certified Strategic (certifiedstrategic.com) |
+Inligo Networks (inligonetworks.com) | GlobeNewsWire / Arizton Advisory (globenewswire.com) |
+ABC News (abc.net.au) | Fortune (fortune.com) | Utility Magazine (utilitymagazine.com.au) |
+JWS Lawyers (jws.com.au) | Lexology (lexology.com) | w.media (w.media) | ASCLA (ascla.org) |
 au.investing.com (au.investing.com) | pv magazine Australia (pv-magazine-australia.com) |
 King & Wood Mallesons (mallesons.com) | SA Government / SA Planning Portal (plan.sa.gov.au) |
 CommBank (commbank.com.au) | Deloitte Access Economics (deloitte.com) | Westpac (westpac.com.au) |
@@ -534,7 +556,7 @@ Reserve Bank of Australia (rba.gov.au)
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月11日
+📋 南澳州數據中心土地每日簡報 - 2026年11月12日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -545,27 +567,21 @@ Reserve Bank of Australia (rba.gov.au)
   【持續監測】南澳州數據中心申請潮推動ElectraNet約50億澳元電網擴建需求——近30個接入申請排隊待處理
   （2026年11月初）【高度相關】：Tech Insider援引ElectraNet規劃文件報道，南澳州數據中心接入
   申請浪潮——目前接近30個項目——已明確形成ElectraNet須於2032年前完成的約50億澳元、約500公里
-  輸電擴建需求，以滿足尚未鎖定固定輸電接入的新進入者需求。該分析直接量化了當前不具備預鎖定
-  固定輸電協議的競爭項目所面臨的升級成本與多年建設週期負擔。South Energy預先鎖定的邦迪
-  330千伏固定輸電地位在結構上完全不受此升級成本影響——50億澳元支出代表保護現有固定協議
-  免受新進入者衝擊的競爭壁壘。注：相關數據來自二手來源，建議核對ElectraNet一手TAPR及
-  監管文件。
+  輸電擴建需求，以滿足尚未鎖定固定輸電接入的新進入者需求。South Energy預先鎖定的邦迪
+  330千伏固定輸電地位在結構上完全不受此升級成本影響。
   來源：Tech Insider | https://tech-insider.org/au/south-australia-data-centre-5-billion-electranet-upgrade-2026/
 
   【持續監測】AEMC就最低系統負荷市場規則啟動諮詢——電池儲能及大型負荷義務面臨影響
   （2026年11月）【高度相關】：澳大利亞能源市場委員會（AEMC）已就全國電力市場（NEM）
-  最低系統負荷（MSL）管理的新市場規則正式啟動諮詢程序。作為NEM中可再生能源滲透率最高的
-  司法管轄區，南澳州受此影響最為直接。
+  最低系統負荷（MSL）管理的新市場規則正式啟動諮詢程序。
   來源：Energy-Storage.News | https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/
 
   【持續監測】AEMO 2026年第三季度季度能源動態：全國數據中心建設管道激增至22個項目/
-  10.1吉瓦（2026年10月）【高度相關】：AEMO發布的2026年第三季度季度能源動態報告確認，
-  22個數據中心項目（合計最大需求容量10.1吉瓦）目前正在推進NEM輸電接入程序。South Energy
-  預先鎖定的邦迪330千伏固定輸電協議完全位於這一擁堵的全國接入隊列之外。
+  10.1吉瓦（2026年10月）【高度相關】。
   來源：AEMO QED Q3 2026 | https://www.aemo.com.au/-/media/files/major-publications/qed/2026/qed-q3-2026.pdf
 
   【持續監測】AEMC最終裁定正式發布：「數據中心必須帶來清潔穩定電力並保持靈活性」
-  （2026年10月29日）【高度相關】：AEMC為30兆瓦及以上數據中心制定具有法律約束力的技術標準。
+  （2026年10月29日）【高度相關】。
   來源：AEMC | https://www.aemc.gov.au/news-centre/media-releases/aemc-modernises-grid-connection-rules-accelerate-energy-transition-manage-ai-boom
 
   【持續監測】AEMO接入計分卡：80.9吉瓦申請管道首次超越全國現有裝機容量（2026年10月22日）
@@ -588,14 +604,12 @@ Reserve Bank of Australia (rba.gov.au)
   來源：ElectraNet | https://electranet.com.au/wp-content/uploads/2026/07/Network-Connection-Opportunities-to-2030-FY25-26.pdf
 
   【持續監測】AEMO 2026年最終ISP：NTx（邦迪–阿德萊德，31億澳元）確認納入最優發展路徑。
-  南澳州100%淨可再生能源目標永久適用，當前已實現75%淨可變可再生能源年均佔比。
 
   【持續監測】AEMO全球首個零同步發電機電網運行試驗——南澳州為主要驗證場所。
   來源：RenewEconomy | https://reneweconomy.com.au/aemo-turns-to-battery-inverters-for-world-first-trial-of-running-big-grids-with-no-synchronous-generation/
 
   【持續監測】ElectraNet 2026年TAPR（39.4億澳元管道）：三大優先擴建區域——艾爾半島升級、
-  東南擴建及NTx（31億澳元）。逾75個潛在項目、41個申請方正在洽談接入。南澳州峰值需求預計
-  未來15年從3.3吉瓦增至逾6.5吉瓦。
+  東南擴建及NTx（31億澳元）。逾75個潛在項目、41個申請方正在洽談接入。
   來源：ElectraNet TAPR 2026 | pv magazine Australia
 
   【持續監測】EnergyConnect項目（南澳州—新南威爾士州聯絡線）：第二階段（Transgrid）已於
@@ -618,8 +632,7 @@ Reserve Bank of Australia (rba.gov.au)
 今日無新消息。
 
   【持續監測】烏恩古拉風電場變電站帶電投運——南澳州中北部可再生能源容量里程碑（2026年11月）
-  【高度相關】：ESD News報道，南澳州中北部地區的烏恩古拉（Uungula）風電場已實現關鍵電網
-  接入里程碑，其網絡變電站現已完成帶電投運。
+  【高度相關】。
   來源：ESD News | https://esdnews.com.au/
 
   【持續監測】南澳州政府在進入選舉看守模式前緊急批准六個新風電及電池儲能項目
@@ -631,12 +644,10 @@ Reserve Bank of Australia (rba.gov.au)
   來源：ESD News | https://esdnews.com.au/
 
   【持續監測】南澳州政府為懷阿拉西部12.7吉瓦可再生能源釋放區域選定四家開發商
-  （2026年10月19日）【高度相關】：Windlab（最高6吉瓦）、Altra Energy（4.7吉瓦）、
-  Heron Energy（1.6吉瓦）及Neoen（350兆瓦）。
+  （2026年10月19日）【高度相關】。
   來源：pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
 
-  【持續監測】Brookfield藉由Neoen平台在南澳州推進逾2.6吉瓦可再生能源組合【高度相關】：
-  高德爾北部（600兆瓦，2026年10月7日開工）及高德爾電池二期（454兆瓦/1,814兆瓦時）。
+  【持續監測】Brookfield藉由Neoen平台在南澳州推進逾2.6吉瓦可再生能源組合【高度相關】。
   來源：pv magazine Australia | https://www.pv-magazine-australia.com/
 
   【持續監測】AMPYR澳大利亞收到AEMO第5.3.4條款接入信函——阿古斯塔港270兆瓦電網成型電池。
@@ -655,19 +666,19 @@ Reserve Bank of Australia (rba.gov.au)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 澳大利亞儲備銀行發布《澳大利亞數據中心投資》研究報告——確認2026至2028年逾1,150億澳元
-  投資管道（2026年）【高度相關】：澳大利亞儲備銀行（RBA）正式發布有關數據中心投資週期的
-  研究洞察報告，預測2026年中至2028年底私人數據中心實際投資額將再增加1,150億澳元以上（不含
-  配套基礎設施）。RBA對此輪投資規模的權威背書——結合對主力超大型雲端服務商承諾的分析
-  （微軟20億澳元至2029年；AWS當前承諾200億澳元）——為澳大利亞AI數據中心建設浪潮提供迄今
-  最具公信力的宏觀經濟驗證。RBA的公開認可標誌著金融監管機構已將這一管道視為可信且持久的
-  投資主題，進一步鞏固了南澳州預先鎖定土地及輸電資產的投資論據。
+• AirTrunk與歐洲能源（European Energy）澳大利亞子公司簽署逾1吉瓦新南威爾士州可再生能源
+  協議——關聯庫里庫里數據中心潛在長期電力採購合約（2026年11月11日）：AirTrunk與歐洲能源
+  澳大利亞子公司已簽署原則性協議，推進新南威爾士州逾1吉瓦新可再生能源容量開發，並就
+  AirTrunk擬議中的庫里庫里數據中心園區洽談潛在長期電力採購合約（PPA）。此乃東部沿海交易，
+  但確認超大規模雲端服務平台正積極締結可再生能源合約以滿足AEMC潔淨能源義務——進一步驗證
+  南澳州邦迪預置可再生能源管道在結構上對無法在新南威爾士州自行規模化採購的買家之吸引力。
+  來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-11-11/airtrunk-signs-renewables-deal-to-power-australian-data-center
+
+  【持續監測】澳大利亞儲備銀行發布《澳大利亞數據中心投資》研究報告——確認2026至2028年逾
+  1,150億澳元投資管道（2026年）【高度相關】。
   來源：澳大利亞儲備銀行 | https://www.rba.gov.au/publications/insights/australian-economy/2026/data-centre-investment-in-australia.html
 
-• 澳大利亞儲備銀行選定CDC數據中心承接其數據中心退役及遷移工作（2026年）：CDC已獲澳大利亞
-  儲備銀行委託，承接其數據中心退役及整體遷移工程——這一機構級別的委任確認了CDC在澳大利亞
-  企業數據中心市場持續領先的地位，儘管其「南門計劃」已宣告失敗並結束與Firmus的合作。此舉
-  表明，頂級澳大利亞數據中心運營商在整個市場週期中仍在持續贏得重要機構合同。
+  【持續監測】澳大利亞儲備銀行選定CDC數據中心承接其數據中心退役及遷移工作（2026年）。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/reserve-bank-of-australia-selects-cdc-data-centres-for-data-center-decommission-and-relocation/
 
   【持續監測】Stockland與John Boyd Properties在社區強烈反對下撤回悉尼庫克斯河AI數據中心
@@ -685,8 +696,8 @@ Reserve Bank of Australia (rba.gov.au)
   【高度相關】。
   來源：The Tech Capital | https://thetechcapital.com/australias-data-centre-pipeline-expands-by-5-2gw-melbourne-leads/
 
-  【持續監測】IREN就新南威爾士州雷德班克900兆瓦數據中心園區啟動社區諮詢——尚無已鎖定
-  電網接入協議（2026年10月）【高度相關】。
+  【持續監測】IREN就新南威爾士州雷德班克900兆瓦數據中心園區啟動社區諮詢（2026年10月）
+  【高度相關】。
   來源：Blockspace | https://blockspace.media/insight/iren-redbank-data-center-wagga-wagga/
 
   【持續監測】Google暫停200億澳元澳大利亞數據中心投資（2026年）【高度相關】。
@@ -793,7 +804,15 @@ Reserve Bank of Australia (rba.gov.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-今日無新消息。
+• Quantum DC正式放棄2026年阿德萊德周邊1,200兆瓦數據中心項目開發申請——社區阻力持續升級
+  （2026年11月12日）【高度相關】：Bloomberg報道，Quantum DC已暫停其擬議中的阿德萊德近郊
+  （東吉洛）1,200兆瓦超大規模數據中心的規劃審批程序，確認2026年全年均不會提交開發申請。
+  這是較此前立場（社區諮詢改期至11月20至21日、申請推遲至「12月最早」）的重大升級——已完全
+  放棄2026年申請計劃。此次撤回被定性為澳大利亞市場更廣泛的社區驅動式暫停浪潮的組成部分。
+  對South Energy而言，Quantum DC在已具備電網鄰近優勢的情況下仍無法推進東吉洛項目開發申請，
+  進一步強化了邦迪330千伏預審批地位的結構性護城河——南澳州總協調人快速審批通道正是專為
+  規避此類審批風險而設計的。
+  來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises
 
   【持續監測】墨爾本三個城市議會（馬里伯農、休謨、布里姆班克）相繼對新建數據中心實施
   暫停令（2026年11月）【高度相關】。
@@ -889,9 +908,10 @@ Reserve Bank of Australia (rba.gov.au)
   【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：RenewEconomy (reneweconomy.com.au) | Energy-Storage.News (energy-storage.news) |
-AEMO (aemo.com.au) | AEMC (aemc.gov.au) | ElectraNet (electranet.com.au) |
-AER (aer.gov.au) | SafeAI-Aus / 澳大利亞議會 (safeaiaus.org) | PM&C (pmc.gov.au) |
+資料來源：Bloomberg (bloomberg.com) | RenewEconomy (reneweconomy.com.au) |
+Energy-Storage.News (energy-storage.news) | AEMO (aemo.com.au) | AEMC (aemc.gov.au) |
+ElectraNet (electranet.com.au) | AER (aer.gov.au) |
+SafeAI-Aus / 澳大利亞議會 (safeaiaus.org) | PM&C (pmc.gov.au) |
 Data Center Dynamics (datacenterdynamics.com) | ESD News (esdnews.com.au) |
 Bloomberg (bloomberg.com) | WattClarity (wattclarity.com.au) |
 Certified Strategic (certifiedstrategic.com) | Inligo Networks (inligonetworks.com) |
