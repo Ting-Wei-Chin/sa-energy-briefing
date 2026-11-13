@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 12 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 13 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -183,8 +183,10 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• AirTrunk Signs 1 GW+ NSW Renewables Agreement with European Energy for Kurri Kurri Data
-  Center — Potential Long-Term PPA (11 November 2026): AirTrunk and the Australian subsidiary
+No new updates today.
+
+  [MONITORING] AirTrunk Signs 1 GW+ NSW Renewables Agreement with European Energy for Kurri Kurri
+  Data Center — Potential Long-Term PPA (11 November 2026): AirTrunk and the Australian subsidiary
   of European Energy have signed a heads-of-agreement to progress more than 1 GW of new
   renewable energy capacity in New South Wales, with a potential long-term power purchase
   agreement linked to AirTrunk's proposed Kurri Kurri data centre campus. While this is an
@@ -201,25 +203,19 @@ No new updates today.
   excluding supporting infrastructure. The RBA's authoritative endorsement of the investment
   scale — combined with its analysis of anchor hyperscaler commitments (Microsoft A$25B through
   2029; AWS AU$20B for the current program) — provides the most credible macroeconomic validation
-  to date of Australia's AI data centre build-out. The RBA's public seal of approval signals
-  that financial regulators consider the pipeline credible and durable, strengthening the
-  investment case for pre-positioned SA land and transmission assets.
+  to date of Australia's AI data centre build-out.
   Source: RBA | https://www.rba.gov.au/publications/insights/australian-economy/2026/data-centre-investment-in-australia.html
 
   [MONITORING] Reserve Bank of Australia Selects CDC Data Centres for Data Centre Decommission and Relocation
   (2026): CDC has been selected by the Reserve Bank of Australia to manage its data centre
   decommission and relocation — an institutional-grade mandate confirming CDC's continuing market
-  leadership in Australian enterprise data centre operations, notwithstanding the collapse of Project
-  Southgate and its exit from the Firmus partnership. Demonstrates that tier-1 Australian data
-  centre operators continue to win major institutional contracts across the market cycle.
+  leadership in Australian enterprise data centre operations.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/reserve-bank-of-australia-selects-cdc-data-centres-for-data-center-decommission-and-relocation/
 
   [MONITORING] Stockland and John Boyd Properties Withdraw Cooks River Sydney AI Data Centre
   Plans After Community Backlash (8 November 2026) [HIGH RELEVANCE]: Latest in growing series
   of Sydney-area data centre withdrawals concentrating unmet hyperscaler demand toward SA's
-  unconstrained NTx corridor. Australia's data centre pipeline remains the second-largest
-  globally, but community and grid constraints are increasingly bifurcating it into stalled
-  eastern-seaboard projects and viable SA positions.
+  unconstrained NTx corridor.
   Source: ABC News | https://abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592
 
   [MONITORING] Deloitte Confirms A$141B/37-Project Australian Data Centre Construction Pipeline;
@@ -381,26 +377,34 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Quantum DC Formally Drops 2026 Development Application for 1,200 MW Adelaide-Area Campus
+• CDC Data Centres Files Plans for 1.4 GW Kemps Creek (Western Sydney) Campus (12 November
+  2026) [HIGH RELEVANCE]: Data Center Dynamics reports that CDC Data Centres filed a planning
+  application on 12 November 2026 for a 1.4 GW data centre campus at Kemps Creek in Western
+  Sydney — a separate project from CDC's previously announced A$15 billion / 1.4 GW Wagga Wagga
+  regional campus. The dual-campus strategy confirms CDC is simultaneously pursuing hyperscale
+  capacity in both a metropolitan Sydney location (Kemps Creek) and a regional NSW location
+  (Wagga Wagga), notwithstanding its exit from Project Southgate and its collapsed Firmus
+  partnership. For South Energy, CDC's ability to advance planning applications for multi-gigawatt
+  campuses in both Sydney and regional NSW — without secured renewable supply in either location
+  — underscores the structural urgency of SA's pre-co-located renewable-and-transmission package
+  as the only ready-to-contract solution in the Australian market. Any CDC buyer or partner
+  evaluating both campuses will face the same AEMC clean-energy obligation that makes SA's Bundey
+  position uniquely attractive.
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
+
+  [MONITORING] Quantum DC Formally Drops 2026 Development Application for 1,200 MW Adelaide-Area Campus
   — Community Backlash Escalates (12 November 2026) [HIGH RELEVANCE]: Bloomberg reports that
   Quantum DC has halted planning approvals for its proposed 1,200 MW hyperscale facility near
   Adelaide (Tungkillo), confirming it will not lodge a development application at all in 2026.
-  This is a material escalation from the previous position (community consultations rescheduled
-  to 20–21 November, DA delayed to "December at earliest") to a full withdrawal of the 2026
-  DA programme. The withdrawal is framed as part of a broader pattern of community-driven
-  halts across the Australian market. For South Energy, Quantum DC's inability to convert its
-  grid proximity at Tungkillo into a DA submission — despite being an established, well-resourced
-  operator — reinforces the structural moat of pre-approved Bundey 330 kV positions, where the
-  Coordinator-General fast-track pathway was specifically designed to bypass these approval risks.
+  For South Energy, Quantum DC's inability to convert its grid proximity at Tungkillo into a DA
+  submission — despite being an established, well-resourced operator — reinforces the structural
+  moat of pre-approved Bundey 330 kV positions.
   Source: Bloomberg | https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises
 
   [MONITORING] Victorian Councils Maribyrnong, Hume, and Brimbank Introduce Moratoria on New
   Data Centre Developments (November 2026) [HIGH RELEVANCE]: Three Melbourne metropolitan
   councils have now introduced formal moratoria on new data centre development applications,
-  citing grid pressure, water demand, and industrial land competition. The growing list of
-  council-level moratoria in Victoria structurally narrows Melbourne's already-constrained
-  data centre development footprint, reinforcing SA's Coordinator-General fast-track pathway
-  as the most operationally viable large-format approval route available on the Australian mainland.
+  citing grid pressure, water demand, and industrial land competition.
   Source: ABC News / AAP (via November 2026 coverage)
 
   [MONITORING] Port Augusta City Council Left "In the Dark" on Firmus 1,300 MW Data Centre
@@ -475,7 +479,8 @@ No new updates today.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/centuria-plans-40mw-data-center-in-melbourne-australia/
 
   [MONITORING] CDC Data Centres Plans A$15 Billion / 1.4 GW Wagga Wagga Regional Campus
-  (30 September 2026) [HIGH RELEVANCE]: CDC has now ended Project Southgate.
+  (30 September 2026) [HIGH RELEVANCE]: CDC has now also filed plans for a separate Kemps Creek
+  campus on 12 November 2026.
   Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
 
   [MONITORING] HyperDC Files Planning Permit for 400 MW/39-Hectare Data Centre Campus at
@@ -556,7 +561,7 @@ Reserve Bank of Australia (rba.gov.au)
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月12日
+📋 南澳州數據中心土地每日簡報 - 2026年11月13日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -666,12 +671,12 @@ Reserve Bank of Australia (rba.gov.au)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• AirTrunk與歐洲能源（European Energy）澳大利亞子公司簽署逾1吉瓦新南威爾士州可再生能源
-  協議——關聯庫里庫里數據中心潛在長期電力採購合約（2026年11月11日）：AirTrunk與歐洲能源
-  澳大利亞子公司已簽署原則性協議，推進新南威爾士州逾1吉瓦新可再生能源容量開發，並就
-  AirTrunk擬議中的庫里庫里數據中心園區洽談潛在長期電力採購合約（PPA）。此乃東部沿海交易，
-  但確認超大規模雲端服務平台正積極締結可再生能源合約以滿足AEMC潔淨能源義務——進一步驗證
-  南澳州邦迪預置可再生能源管道在結構上對無法在新南威爾士州自行規模化採購的買家之吸引力。
+今日無新消息。
+
+  【持續監測】AirTrunk與歐洲能源（European Energy）澳大利亞子公司簽署逾1吉瓦新南威爾士州
+  可再生能源協議——關聯庫里庫里數據中心潛在長期電力採購合約（2026年11月11日）：此乃東部沿海
+  交易，但確認超大規模雲端服務平台正積極締結可再生能源合約以滿足AEMC潔淨能源義務——進一步
+  驗證南澳州邦迪預置可再生能源管道的結構性優勢。
   來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-11-11/airtrunk-signs-renewables-deal-to-power-australian-data-center
 
   【持續監測】澳大利亞儲備銀行發布《澳大利亞數據中心投資》研究報告——確認2026至2028年逾
@@ -804,14 +809,18 @@ Reserve Bank of Australia (rba.gov.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• Quantum DC正式放棄2026年阿德萊德周邊1,200兆瓦數據中心項目開發申請——社區阻力持續升級
-  （2026年11月12日）【高度相關】：Bloomberg報道，Quantum DC已暫停其擬議中的阿德萊德近郊
-  （東吉洛）1,200兆瓦超大規模數據中心的規劃審批程序，確認2026年全年均不會提交開發申請。
-  這是較此前立場（社區諮詢改期至11月20至21日、申請推遲至「12月最早」）的重大升級——已完全
-  放棄2026年申請計劃。此次撤回被定性為澳大利亞市場更廣泛的社區驅動式暫停浪潮的組成部分。
-  對South Energy而言，Quantum DC在已具備電網鄰近優勢的情況下仍無法推進東吉洛項目開發申請，
-  進一步強化了邦迪330千伏預審批地位的結構性護城河——南澳州總協調人快速審批通道正是專為
-  規避此類審批風險而設計的。
+• CDC數據中心就西悉尼坎普斯克里克1.4吉瓦園區提交規劃申請（2026年11月12日）【高度相關】：
+  Data Center Dynamics報道，CDC數據中心已於2026年11月12日就西悉尼坎普斯克里克1.4吉瓦
+  數據中心園區提交規劃申請。此乃CDC此前宣布的新南威爾士州瓦加瓦加150億澳元/1.4吉瓦區域性
+  園區之外的獨立項目，顯示CDC正同步在悉尼都市圈及區域新南威爾士州推進超大規模容量布局。
+  儘管CDC已退出「南門計劃」、Firmus合作亦已終止，CDC仍積極在兩地（坎普斯克里克及瓦加瓦加）
+  推進規劃申請——但兩地均缺乏鎖定的可再生能源供應。對South Energy而言，此舉進一步凸顯南澳
+  州邦迪「可再生能源＋輸電」即插即用方案的唯一性——任何正在評估此兩個CDC園區的潛在買家或
+  合作方，均須面對同樣使邦迪地位獨特的AEMC潔淨能源義務。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
+
+  【持續監測】Quantum DC正式放棄2026年阿德萊德周邊1,200兆瓦數據中心項目開發申請——社區阻力
+  持續升級（2026年11月12日）【高度相關】。
   來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises
 
   【持續監測】墨爾本三個城市議會（馬里伯農、休謨、布里姆班克）相繼對新建數據中心實施
@@ -877,7 +886,7 @@ Reserve Bank of Australia (rba.gov.au)
   【持續監測】Centuria集團在墨爾本申請建設40兆瓦數據中心（2026年）。
 
   【持續監測】CDC Data Centres計劃在新南威爾士州瓦加瓦加建設150億澳元/1.4吉瓦區域性
-  園區（2026年9月30日）【高度相關】。
+  園區（2026年9月30日），並已於2026年11月12日另行就坎普斯克里克提交規劃申請【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
 
   【持續監測】HyperDC就維多利亞州穆拉布爾400兆瓦/39公頃數據中心園區提交規劃許可申請
