@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 13 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 14 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -297,7 +297,24 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-No new updates today.
+• SA Energy Minister Explicitly Endorses Gas Firming for Data Centres; SA Joins QLD and NT
+  Against Federal Renewables Mandate (13 November 2026) [HIGH RELEVANCE]: SA Energy Minister
+  Tom Koutsantonis told ABC News he is "absolutely fine" with gas-generated power being used to
+  help supply proposed AI data centres, stating gas can firm up electricity to data centres when
+  renewable generation drops off. SA now joins Queensland and the Northern Territory in explicitly
+  backing gas backup options for data centres — directly in tension with federal Climate Change
+  and Energy Minister Chris Bowen's insistence on no jurisdiction carve-outs from the mandatory
+  100% renewable energy matching obligation under proposed national data centre standards. The
+  Greens described the position as "a total backflip" from prior assurances; the government
+  called that claim "nonsensical." For South Energy, this federal-state regulatory divergence
+  sharpens the structural case for Bundey 330 kV: projects dependent on gas firming face
+  compounding sovereign regulatory risk as federal legislation moves toward early 2027 passage,
+  while South Energy's pre-secured Bundey 330 kV transmission with co-located renewable supply
+  is positioned to satisfy BOTH the state's gas-permissive framework AND the federal renewable
+  matching obligation simultaneously — the only configuration that eliminates regulatory risk
+  under any legislative outcome.
+  Sources: ABC News | https://www.abc.net.au/news/2026-11-13/sa-gives-green-light-for-gas-to-power-data-centres/107364606
+  ESD News | https://esdnews.com.au/south-australia-joins-states-wanting-gas-backed-data-centres/
 
   [MONITORING] Independent Senator David Pocock Calls for 5% Levy on All Australian Data Centres
   (8 November 2026) [HIGH RELEVANCE]: If legislated, the measure would add significant operating
@@ -377,19 +394,20 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• CDC Data Centres Files Plans for 1.4 GW Kemps Creek (Western Sydney) Campus (12 November
-  2026) [HIGH RELEVANCE]: Data Center Dynamics reports that CDC Data Centres filed a planning
-  application on 12 November 2026 for a 1.4 GW data centre campus at Kemps Creek in Western
-  Sydney — a separate project from CDC's previously announced A$15 billion / 1.4 GW Wagga Wagga
-  regional campus. The dual-campus strategy confirms CDC is simultaneously pursuing hyperscale
-  capacity in both a metropolitan Sydney location (Kemps Creek) and a regional NSW location
-  (Wagga Wagga), notwithstanding its exit from Project Southgate and its collapsed Firmus
-  partnership. For South Energy, CDC's ability to advance planning applications for multi-gigawatt
-  campuses in both Sydney and regional NSW — without secured renewable supply in either location
-  — underscores the structural urgency of SA's pre-co-located renewable-and-transmission package
-  as the only ready-to-contract solution in the Australian market. Any CDC buyer or partner
-  evaluating both campuses will face the same AEMC clean-energy obligation that makes SA's Bundey
-  position uniquely attractive.
+No new updates today.
+
+  [MONITORING] CDC Data Centres Files Plans for 1.4 GW Kemps Creek (Western Sydney) Campus
+  (12 November 2026) [HIGH RELEVANCE]: Data Center Dynamics reports that CDC Data Centres filed
+  a planning application on 12 November 2026 for a 1.4 GW data centre campus at Kemps Creek in
+  Western Sydney — a separate project from CDC's previously announced A$15 billion / 1.4 GW
+  Wagga Wagga regional campus. The dual-campus strategy confirms CDC is simultaneously pursuing
+  hyperscale capacity in both a metropolitan Sydney location (Kemps Creek) and a regional NSW
+  location (Wagga Wagga), notwithstanding its exit from Project Southgate and its collapsed
+  Firmus partnership. For South Energy, CDC's ability to advance planning applications for
+  multi-gigawatt campuses in both Sydney and regional NSW — without secured renewable supply in
+  either location — underscores the structural urgency of SA's pre-co-located
+  renewable-and-transmission package as the only ready-to-contract solution in the Australian
+  market.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
   [MONITORING] Quantum DC Formally Drops 2026 Development Application for 1,200 MW Adelaide-Area Campus
@@ -479,7 +497,7 @@ No new updates today.
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/centuria-plans-40mw-data-center-in-melbourne-australia/
 
   [MONITORING] CDC Data Centres Plans A$15 Billion / 1.4 GW Wagga Wagga Regional Campus
-  (30 September 2026) [HIGH RELEVANCE]: CDC has now also filed plans for a separate Kemps Creek
+  (30 September 2026) [HIGH RELEVANCE]: CDC has also filed plans for a separate Kemps Creek
   campus on 12 November 2026.
   Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
 
@@ -561,7 +579,7 @@ Reserve Bank of Australia (rba.gov.au)
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月13日
+📋 南澳州數據中心土地每日簡報 - 2026年11月14日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -674,9 +692,7 @@ Reserve Bank of Australia (rba.gov.au)
 今日無新消息。
 
   【持續監測】AirTrunk與歐洲能源（European Energy）澳大利亞子公司簽署逾1吉瓦新南威爾士州
-  可再生能源協議——關聯庫里庫里數據中心潛在長期電力採購合約（2026年11月11日）：此乃東部沿海
-  交易，但確認超大規模雲端服務平台正積極締結可再生能源合約以滿足AEMC潔淨能源義務——進一步
-  驗證南澳州邦迪預置可再生能源管道的結構性優勢。
+  可再生能源協議——關聯庫里庫里數據中心潛在長期電力採購合約（2026年11月11日）。
   來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-11-11/airtrunk-signs-renewables-deal-to-power-australian-data-center
 
   【持續監測】澳大利亞儲備銀行發布《澳大利亞數據中心投資》研究報告——確認2026至2028年逾
@@ -748,7 +764,18 @@ Reserve Bank of Australia (rba.gov.au)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-今日無新消息。
+• 南澳州能源部長明確支持燃氣為數據中心提供調頻電力；南澳州與昆士蘭州及北領地共同抵制
+  聯邦可再生能源強制義務（2026年11月13日）【高度相關】：南澳州能源部長湯姆·庫桑托尼斯
+  （Tom Koutsantonis）接受ABC新聞採訪時表示，他「完全支持」以燃氣發電為擬議AI數據中心提供
+  電力，稱燃氣可在可再生能源不穩定時作為調頻保障。南澳州由此加入昆士蘭州和北領地的行列，
+  明確支持燃氣作為數據中心電力備份——與聯邦氣候能源部長克里斯·鮑文堅持「不設豁免」、強制
+  推行100%可再生能源匹配義務的立場形成直接張力。綠黨將此立場稱為「徹底的政策倒退」；
+  南澳州政府則稱該說法「毫無依據」。對South Energy而言，此聯邦-州府監管分歧在結構上有利：
+  依賴燃氣調頻的項目在聯邦立法向2027年初推進之際面臨複合主權監管風險，而South Energy
+  預先鎖定的邦迪330千伏輸電接入與同地配套可再生能源，同時符合州政府的燃氣寬鬆框架及
+  聯邦可再生能源匹配義務——這是在任何立法結果下均能消除監管風險的唯一配置。
+  來源：ABC News | https://www.abc.net.au/news/2026-11-13/sa-gives-green-light-for-gas-to-power-data-centres/107364606
+  ESD News | https://esdnews.com.au/south-australia-joins-states-wanting-gas-backed-data-centres/
 
   【持續監測】無黨派獨立參議員大衛·波科克呼籲對澳大利亞所有數據中心徵收5%稅
   （2026年11月8日）【高度相關】。
@@ -809,14 +836,14 @@ Reserve Bank of Australia (rba.gov.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• CDC數據中心就西悉尼坎普斯克里克1.4吉瓦園區提交規劃申請（2026年11月12日）【高度相關】：
-  Data Center Dynamics報道，CDC數據中心已於2026年11月12日就西悉尼坎普斯克里克1.4吉瓦
-  數據中心園區提交規劃申請。此乃CDC此前宣布的新南威爾士州瓦加瓦加150億澳元/1.4吉瓦區域性
-  園區之外的獨立項目，顯示CDC正同步在悉尼都市圈及區域新南威爾士州推進超大規模容量布局。
-  儘管CDC已退出「南門計劃」、Firmus合作亦已終止，CDC仍積極在兩地（坎普斯克里克及瓦加瓦加）
-  推進規劃申請——但兩地均缺乏鎖定的可再生能源供應。對South Energy而言，此舉進一步凸顯南澳
-  州邦迪「可再生能源＋輸電」即插即用方案的唯一性——任何正在評估此兩個CDC園區的潛在買家或
-  合作方，均須面對同樣使邦迪地位獨特的AEMC潔淨能源義務。
+今日無新消息。
+
+  【持續監測】CDC數據中心就西悉尼坎普斯克里克1.4吉瓦園區提交規劃申請（2026年11月12日）
+  【高度相關】：Data Center Dynamics報道，CDC數據中心已於2026年11月12日就西悉尼坎普斯
+  克里克1.4吉瓦數據中心園區提交規劃申請。此乃CDC此前宣布的新南威爾士州瓦加瓦加150億澳元
+  /1.4吉瓦區域性園區之外的獨立項目，顯示CDC正同步在悉尼都市圈及區域新南威爾士州推進超大
+  規模容量布局。對South Energy而言，此舉進一步凸顯南澳州邦迪「可再生能源＋輸電」即插即用
+  方案的唯一性。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
   【持續監測】Quantum DC正式放棄2026年阿德萊德周邊1,200兆瓦數據中心項目開發申請——社區阻力
