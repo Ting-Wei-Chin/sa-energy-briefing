@@ -102,7 +102,14 @@ Prepared for: South Energy | Land Acquisition & Project Integration
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-No new updates today.
+• Australian Renewables Cross 50% of Annual Grid Supply — National NEM Milestone Confirmed
+  (November 2026) [HIGH RELEVANCE]: ESD News reports that renewable energy sources have crossed the
+  threshold of supplying more than half of Australia's total grid energy on an annual basis — a
+  national NEM milestone. South Australia, as the highest-renewable-penetration jurisdiction in the
+  NEM, anchors the transition; the milestone reinforces the renewable-density case for SA's Bundey belt
+  as the optimal geographic anchor for data centre projects seeking to match annual consumption with
+  clean generation under any mandatory renewable-matching framework.
+  Source: ESD News | https://esdnews.com.au/milestone-as-renewables-supply-more-than-half-australias-grid/
 
   [MONITORING] Tilt Renewables Seeks Planning Approval for 1.2 GW Nonowie Wind Farm Near Whyalla:
   Tilt Renewables is seeking planning approval for a 1.2 GW Nonowie wind farm approximately 10 km
@@ -163,6 +170,23 @@ No new updates today.
   greenfield approvals can be replicated by competitors: SA's pre-approved Bundey 330 kV corridor
   remains the fastest and lowest-risk path to multi-hundred-MW capacity deployment in Australia.
   Source: Commercial Property Marketing | https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/
+
+• Google, Apple and Meta All Confirmed Targeting Australia in Combined ~A$25B AI Data Centre Push
+  (2026) [HIGH RELEVANCE]: Tech Insider reports Google, Apple and Meta are simultaneously targeting
+  Australia as part of a combined ~A$25B AI data centre push, with each hyperscaler in active
+  site-selection discussions across priority jurisdictions. The triple-confirmation of concurrent
+  demand from these three tech buyers — in addition to already-committed Microsoft (A$25B through
+  2029) and AWS (A$20B) — represents the broadest simultaneous buying signal the Australian market
+  has seen, with pre-secured SA supply positions the only ready-to-contract solution at scale.
+  Source: Tech Insider | https://tech-insider.org/au/us-tech-giants-australia-ai-data-centres-2026/
+
+• Australia's Data Centres Pull A$6B in Confirmed Investment in a Single Week (2026) [HIGH RELEVANCE]:
+  Global Data Center Hub reports a single week of Australian data centre investment announcements
+  totalled A$6 billion in confirmed commitments across multiple deal closings. Investment concentration
+  at this weekly pace confirms an acute near-term supply shortfall — directly validating the premium
+  attached to pre-permitted, grid-connected site packages such as South Energy's Bundey 330 kV
+  positions.
+  Source: Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
 
   [MONITORING] AirTrunk Signs 1 GW+ NSW Renewables Agreement with European Energy for Kurri Kurri
   Data Center (11 November 2026): Exclusivity agreement for 260 MW solar, 800 MWh battery and up to
@@ -253,7 +277,16 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-No new updates today.
+• Queensland and Northern Territory Formally Win Exemption from Federal 100% Renewables Mandate for
+  Data Centres (November 2026) [HIGH RELEVANCE]: ESD News reports Queensland and the Northern Territory
+  have secured a formal carve-out from the proposed federal mandatory 100% renewable energy matching
+  obligation for data centres, allowing gas-backed projects in those jurisdictions to proceed under
+  state frameworks. The growing number of jurisdictional exemptions intensifies federal-state regulatory
+  fragmentation and compounds sovereign risk for projects dependent on gas firming. South Energy's
+  pre-secured Bundey 330 kV transmission with co-located renewable supply satisfies both the federal
+  renewable obligation AND any state gas-permissive framework simultaneously — the only configuration
+  that eliminates regulatory risk under any legislative outcome across all jurisdictions.
+  Source: ESD News | https://esdnews.com.au/qld-and-nt-win-fight-to-use-fossil-fuels-to-power-data-centres/
 
   [MONITORING] SA Energy Minister Explicitly Endorses Gas Firming for Data Centres; SA Joins QLD and
   NT Against Federal Renewables Mandate (13 November 2026) [HIGH RELEVANCE].
@@ -328,7 +361,17 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-No new updates today.
+• 1414 Degrees Fully Acquires Aurora Energy Precinct and Inks Heads of Agreement for Up to 1 GW SA
+  Data Centre Deal (November 2026) [HIGH RELEVANCE]: ESD News reports 1414 Degrees has completed the
+  full acquisition of the Aurora Energy Precinct in South Australia and separately inked a Heads of
+  Agreement for a data centre deal covering up to 1 GW of capacity at the precinct. This marks a
+  significant consolidation of SA energy infrastructure and land by an ASX-listed entity, adding a
+  new advanced project to SA's active data centre precinct pipeline. The 1414 Degrees Aurora deal
+  confirms that sophisticated infrastructure investors continue to execute land consolidation and
+  anchor-tenant HoAs in SA outside the contested ElectraNet queue — reinforcing the premium attached
+  to pre-secured SA data centre land packages with firm transmission agreements.
+  Sources: ESD News | https://esdnews.com.au/1414-degrees-fully-acquires-aurora-energy-precinct/
+           ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
 
   [MONITORING] CDC Data Centres Files Plans for 1.4 GW Kemps Creek (Western Sydney) Campus
   (12 November 2026) [HIGH RELEVANCE].
@@ -579,7 +622,12 @@ Reserve Bank of Australia (rba.gov.au)
 
 ☀️ 2. 可再生能源與選址條件
 
-今日無新消息。
+• 澳大利亞可再生能源年度供電首次突破50%——全國電力市場重要里程碑（2026年11月）【高度相關】：
+  ESD News報道，可再生能源年度供電量已首次超過澳大利亞全國電網總供電量的50%，創下NEM歷史性
+  里程碑。南澳州作為NEM中可再生能源滲透率最高的州份，繼續引領清潔能源轉型；這一里程碑進一步
+  強化了南澳州邦迪帶作為最優數據中心選址地理錨點的論據，為尋求年度能耗與清潔發電完全匹配的潛在
+  買家提供結構性優勢。
+  來源：ESD News | https://esdnews.com.au/milestone-as-renewables-supply-more-than-half-australias-grid/
 
   【持續監測】蒂爾可再生能源（Tilt Renewables）就懷阿拉附近1.2吉瓦諾諾威（Nonowie）風電場尋求
   規劃審批：Tilt Renewables正在就位於懷阿拉以西約10公里的1.2吉瓦諾諾威風電場尋求規劃審批，
@@ -629,6 +677,19 @@ Reserve Bank of Australia (rba.gov.au)
   的能力——南澳州預先批准的邦迪330千伏走廊，依然是澳大利亞市場中推進數百兆瓦容量部署最快、
   監管風險最低的路徑。
   來源：Commercial Property Marketing | https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/
+
+• 谷歌、蘋果及Meta確認均以約250億澳元AI數據中心投資為目標在澳大利亞積極布局（2026年）【高度相關】：
+  Tech Insider報道，谷歌、蘋果及Meta正同時以約250億澳元AI數據中心投資為目標在澳大利亞積極推進，
+  各超大規模運營商均處於主動選址洽談階段。三大科技巨頭同步確認需求——疊加微軟已承諾的250億澳元
+  及AWS的200億澳元——代表澳大利亞市場迄今最廣泛的同期採購信號，預取位的南澳州供應包是市場上
+  規模化即用型解決方案的唯一選擇。
+  來源：Tech Insider | https://tech-insider.org/au/us-tech-giants-australia-ai-data-centres-2026/
+
+• 澳大利亞數據中心單周吸引60億澳元確認投資（2026年）【高度相關】：Global Data Center Hub報道，
+  澳大利亞數據中心投資公告在單周內合計達60億澳元已確認承諾，多項交易在短期內密集完成。投資承諾
+  以周計量的集中現象，印證市場存在迫切的近期供應缺口，直接驗證South Energy邦迪330千伏預取位置
+  等預批准、已接網選址包所享有的溢價地位。
+  來源：Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
 
   【持續監測】AirTrunk與歐洲能源（European Energy）澳大利亞子公司簽署逾1吉瓦新南威爾士州
   可再生能源協議——關聯庫里庫里數據中心潛在長期電力採購合約（2026年11月11日）：雙方已就
@@ -702,7 +763,13 @@ Reserve Bank of Australia (rba.gov.au)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-今日無新消息。
+• 昆士蘭州及北領地正式獲豁免聯邦100%可再生能源強制義務——數據中心可採用燃氣電力
+  （2026年11月）【高度相關】：ESD News報道，昆士蘭州及北領地已獲得聯邦擬議強制性100%可再生能源
+  匹配義務的正式豁免，允許兩州以燃氣為數據中心提供電力，並沿用州府框架。各州豁免不斷累積，
+  加劇了聯邦—州府監管碎片化，依賴燃氣調頻的項目面臨日益複雜的主權監管風險。South Energy
+  預先鎖定的邦迪330千伏輸電接入與同地配套可再生能源，能夠同時滿足聯邦可再生能源匹配義務及
+  任何州政府的燃氣寬鬆框架——這是在任何立法結果及任何司法管轄區下均能消除監管風險的唯一配置。
+  來源：ESD News | https://esdnews.com.au/qld-and-nt-win-fight-to-use-fossil-fuels-to-power-data-centres/
 
   【持續監測】南澳州能源部長明確支持燃氣為數據中心提供調頻電力；南澳州與昆士蘭州及北領地共同抵制
   聯邦可再生能源強制義務（2026年11月13日）【高度相關】。
@@ -767,7 +834,15 @@ Reserve Bank of Australia (rba.gov.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-今日無新消息。
+• 1414 Degrees完成對Aurora Energy Precinct的全面收購，並就南澳州最高1吉瓦數據中心項目簽署意向書
+  （2026年11月）【高度相關】：ESD News報道，1414 Degrees已完成對南澳州Aurora Energy Precinct
+  的全面收購，並另行就該園區最高1吉瓦容量的數據中心項目簽署了意向書。此舉標誌著一家ASX上市
+  主體在南澳州完成了能源基礎設施與土地的重要整合，為南澳州在建數據中心園區管道再添新力量。
+  1414 Degrees的Aurora交易確認：具備深厚實力的基礎設施投資方正持續在南澳州推進土地整合及主力
+  租戶意向書簽署——完全在ElectraNet競爭激烈的接入隊列之外，進一步印證了帶固定輸電協議的預取位
+  南澳州數據中心土地包所享有的溢價地位。
+  來源：ESD News | https://esdnews.com.au/1414-degrees-fully-acquires-aurora-energy-precinct/
+         ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
 
   【持續監測】CDC數據中心就西悉尼坎普斯克里克1.4吉瓦園區提交規劃申請（2026年11月12日）
   【高度相關】。
