@@ -1,12 +1,26 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 19 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 20 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-No new updates today.
+• ElectraNet Eyre Peninsula Grid Crisis: Three Transmission Towers Toppled by Severe Weather,
+  SA Government Questions $300M Upgrade "Failure" (20–21 November 2026) [HIGH RELEVANCE]:
+  Three ElectraNet transmission towers were brought down by an extreme weather event, triggering a
+  major blackout across the entire Eyre Peninsula — the first significant unplanned outage to affect
+  the region since the state's $300M network upgrade was completed. The SA government has opened
+  scrutiny of ElectraNet's response, questioning whether the upgrade constituted adequate resilience
+  investment; ElectraNet characterised the event as "very unique, very rare" and says full
+  restoration will take several months. This incident bears directly on South Energy's grid
+  connection strategy: (1) it exposes the physical fragility of the Eyre Peninsula corridor serving
+  the Whyalla West 12.7 GW renewable zone where four developers were selected in October; (2) it
+  reinforces that inland 330 kV transmission connections such as the Bundey–Adelaide NTx corridor
+  offer superior resilience versus coastal Eyre Peninsula feeder circuits; and (3) it is likely to
+  accelerate AER scrutiny and potential upward revision of ElectraNet's pending Eyre Peninsula
+  Upgrade capex application, adding to the A$5B grid augmentation cost and timeline picture.
+  Source: ABC News | https://www.abc.net.au/news/2026-11-21/eyre-peninsula-blackout-puts-scrutiny-on-electranet/107410274
 
   [MONITORING] AEMC Final Rule "Package 2" — 30 MW Large-Load Threshold and Combined Impact
   Assessment Now in Force (12 November 2026) [HIGH RELEVANCE]: The AEMC published its final rule
@@ -22,18 +36,16 @@ No new updates today.
 
   [MONITORING] AEMC Opens Companion Consultation: Operational Integration and Visibility of Large
   Loads (12 November 2026) [HIGH RELEVANCE]: Would add operational registration and telemetry
-  requirements for large data centre connections above the 30 MW threshold — tightening compliance
-  for all new greenfield entrants and reinforcing value of pre-secured connections.
-  Sources: ESD News | https://esdnews.com.au/aemc-sets-new-rules-for-data-centre-grid-connections/
+  requirements for large data centre connections above the 30 MW threshold.
+  Source: ESD News | https://esdnews.com.au/aemc-sets-new-rules-for-data-centre-grid-connections/
 
   [MONITORING] SA Data Centre Rush Crystallises A$5B ElectraNet Grid Augmentation Requirement —
   75+ Prospective Projects Across 41 Proponents in Discussions (Updated November 2026) [HIGH
   RELEVANCE]: ElectraNet's 2026 TAPR confirms over 75 prospective projects across 41 proponents
-  currently in connection discussions — data centres, defence industry, and Mid-North and South
-  East growth. ElectraNet's A$3.94B investment pipeline forecasts SA peak demand doubling from
-  3.3 GW to over 6.5 GW over 15 years.
-  Source: ElectraNet TAPR 2026 | pv magazine Australia
-  Tech Insider | https://tech-insider.org/au/south-australia-data-centre-5-billion-electranet-upgrade-2026/
+  currently in connection discussions. ElectraNet's A$3.94B investment pipeline forecasts SA peak
+  demand doubling from 3.3 GW to over 6.5 GW over 15 years.
+  Source: ElectraNet TAPR 2026 | Tech Insider
+  | https://tech-insider.org/au/south-australia-data-centre-5-billion-electranet-upgrade-2026/
 
   [MONITORING] AEMC Opens Consultation on Minimum System Load Market Rules (November 2026)
   [HIGH RELEVANCE]: Battery storage and large load obligations implicated.
@@ -45,7 +57,7 @@ No new updates today.
 
   [MONITORING] AEMC Final Determination: "Data Centres Must Bring Clean, Firm Energy and Be
   Flexible" (29 October 2026) [HIGH RELEVANCE].
-  Sources: AEMC | https://www.aemc.gov.au/news-centre/media-releases/aemc-modernises-grid-connection-rules-accelerate-energy-transition-manage-ai-boom
+  Source: AEMC | https://www.aemc.gov.au/news-centre/media-releases/aemc-modernises-grid-connection-rules-accelerate-energy-transition-manage-ai-boom
 
   [MONITORING] AEMO Connections Scorecard: 80.9 GW Pipeline Overtakes Installed NEM Capacity for
   First Time (22 October 2026) [HIGH RELEVANCE].
@@ -56,7 +68,7 @@ No new updates today.
 
   [MONITORING] Project EnergyConnect AEMO Completes Final Market Systems Integration (1 November
   2026): Buronga–Wagga Wagga line energised, raising transfer capacity from 150 MW to 350 MW.
-  Sources: AEMO | https://www.aemo.com.au/newsroom/news-updates/project-energyconnect-prepares-to-connect-three-nem-regions
+  Source: AEMO | https://www.aemo.com.au/newsroom/news-updates/project-energyconnect-prepares-to-connect-three-nem-regions
 
   [MONITORING] AER Formally Revokes SA Retailer Reliability Obligation for December 2026 –
   February 2027 Summer Period [HIGH RELEVANCE].
@@ -90,38 +102,30 @@ No new updates today.
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-• Australia Q3 2026 Sets All-Time Record for Renewable Energy Projects Committed to Construction
-  — 2.4 GW Led by Wind and Batteries [HIGH RELEVANCE]: Australia's Q3 2026 (July–September)
-  saw 2.4 GW of renewable energy projects reach financial close for construction — an all-time
-  quarterly record and 20% above the previous Q1 2022 record — with wind accounting for 1.5 GW
-  (the highest single-quarter wind FID on record) and batteries a further 13% of the 2030 storage
-  target. South Australia and Queensland led wind construction nationally. This record buildout
-  further validates the renewable co-location case for the Bundey corridor and confirms SA as a
-  national hub for renewable supply underwriting data centre energy obligations.
+No new updates today.
+
+  [MONITORING] Australia Q3 2026 Sets All-Time Record for Renewable Energy Projects Committed to
+  Construction — 2.4 GW Led by Wind and Batteries [HIGH RELEVANCE]: Australia's Q3 2026
+  (July–September) saw 2.4 GW of renewable energy projects reach financial close for construction
+  — an all-time quarterly record and 20% above the previous Q1 2022 record — with wind accounting
+  for 1.5 GW and batteries a further 13% of the 2030 storage target. SA and Queensland led
+  nationally.
   Sources: ESD News | https://esdnews.com.au/wind-and-battery-projects-driving-australias-2030-ret/
   RenewEconomy | https://reneweconomy.com.au/wind-revival-whips-up-all-time-record-for-committed-renewables-projects-closes-gap-to-2030-target/
-  Minister Bowen's Office | https://minister.dcceew.gov.au/bowen/media-releases/renewable-investment-hits-highest-level-history-under-albanese-government-0
+  Minister Bowen | https://minister.dcceew.gov.au/bowen/media-releases/renewable-investment-hits-highest-level-history-under-albanese-government-0
 
-  [MONITORING] Australian NEM Renewable Generation Hits New Operational Record High (November 2026):
-  ESD News reports that Australian renewable generation has hit a new record high for operational
-  supply into the NEM grid — continuing the trajectory of successive quarterly and operational
-  records throughout 2026. South Australia remains the highest-penetration state, underpinning the
-  renewable co-location case for the Bundey corridor.
+  [MONITORING] Australian NEM Renewable Generation Hits New Operational Record High (November 2026).
   Source: ESD News | https://esdnews.com.au/australian-renewable-generation-hits-record-high-in-grid/
 
-  [MONITORING] Tilt Renewables Seeks Planning Approval for 1.2 GW Nonowie Wind Farm Near Whyalla:
-  Tilt Renewables is seeking planning approval for a 1.2 GW Nonowie wind farm approximately
-  10 km west of Whyalla, deepening the renewable supply corridor adjacent to the Spencer Gulf.
+  [MONITORING] Tilt Renewables Seeks Planning Approval for 1.2 GW Nonowie Wind Farm Near Whyalla.
   Source: RenewEconomy | https://reneweconomy.com.au/australias-most-powerful-turbines-up-to-9-5-mw-mooted-for-giant-wind-project-outside-steel-city/
 
-  [MONITORING] Australian Renewables Cross 50% of Annual Grid Supply — National NEM Milestone
-  Confirmed (November 2026) [HIGH RELEVANCE]: South Australia, the highest-renewable-penetration
-  jurisdiction, anchors the transition; milestone reinforces the Bundey belt as the optimal
-  geographic anchor for renewable-matching compliance.
+  [MONITORING] Australian Renewables Cross 50% of Annual Grid Supply — NEM Milestone (November 2026)
+  [HIGH RELEVANCE].
   Source: ESD News | https://esdnews.com.au/milestone-as-renewables-supply-more-than-half-australias-grid/
 
-  [MONITORING] Uungula Wind Farm Substation Energised — SA Mid-North Renewable Capacity Milestone
-  (November 2026) [HIGH RELEVANCE].
+  [MONITORING] Uungula Wind Farm Substation Energised — SA Mid-North Milestone (November 2026)
+  [HIGH RELEVANCE].
   Source: ESD News | https://esdnews.com.au/
 
   [MONITORING] SA Government Rushes Six New Wind and Battery Projects Through Approval Before
@@ -135,7 +139,7 @@ No new updates today.
   [MONITORING] SA Government Selects Four Developers for Whyalla West 12.7 GW Renewable Energy
   Release Area (19 October 2026) [HIGH RELEVANCE]: Windlab (up to 6 GW), Altra Energy (4.7 GW),
   Heron Energy (1.6 GW), Neoen (350 MW).
-  Sources: pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
+  Source: pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
 
   [MONITORING] Brookfield Pursuing 2.6 GW+ South Australian Renewable Portfolio via Neoen Platform
   [HIGH RELEVANCE]: Goyder North (600 MW wind, construction commenced 7 October 2026), Goyder
@@ -161,33 +165,20 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Singapore's Princeton Digital Group (PDG) Files for First Australian Data Center Campus —
-  100 MW, A$1 Billion+, Western Sydney (19 November 2026) [HIGH RELEVANCE]: Asia-Pacific data
-  centre operator Princeton Digital Group has filed a planning application with New South Wales
-  for its first Australian campus — a 100 MW, A$1B+ facility on 12.7 hectares at 192 Narellan
-  Road, Campbelltown (south-western Sydney), labelled "Project Genesis." The single four-storey
-  building of 38,090 sqm would rely on 78 backup generators with on-site diesel storage and
-  lithium-ion batteries, projecting 900–1,100 ongoing jobs at full build-out. PDG's first-time
-  entry into Australia represents yet another Asian hyperscaler entering the market simultaneously
-  — adding to the acute demand for pre-permitted, pre-connected Australian sites well beyond
-  metropolitan Sydney supply capacity.
+No new updates today.
+
+  [MONITORING] Singapore's Princeton Digital Group (PDG) Files for First Australian Data Center
+  Campus — 100 MW, A$1 Billion+, Western Sydney (19 November 2026) [HIGH RELEVANCE].
   Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/
   Baxtel | https://baxtel.com/news/princeton-digital-group-linked-to-a-1b-100mw-sydney-data-centre
 
-• Stockland Files Development Application for Western Sydney (Wetherill Park) Data Center
-  (19 November 2026): Diversified Australian property group Stockland has also filed a planning
-  application for a data centre at Wetherill Park in western Sydney, adding further demand pressure
-  on metropolitan NSW capacity — and reinforcing the value of pre-approved SA alternatives.
+  [MONITORING] Stockland Files Development Application for Western Sydney (Wetherill Park) Data
+  Center (19 November 2026).
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/
 
-• COP31 Launches Voluntary Pledge for Clean-Powered AI Data Centers (16 November 2026)
-  [HIGH RELEVANCE]: Negotiators at COP31 in Antalya, Turkey launched a voluntary global pledge
-  calling on AI and data centre operators to power operations with zero- and low-emission energy
-  and to assess and report AI's environmental impact. An optional annex requires signatories to
-  disclose energy and environmental data. While voluntary, the pledge creates a reputational
-  framework that directionally tightens the energy matching bar — reinforcing the premium of
-  pre-secured renewable supply such as the Bundey corridor for tech company buyers managing ESG
-  obligations.
+  [MONITORING] COP31 Launches Voluntary Pledge for Clean-Powered AI Data Centers (16 November 2026)
+  [HIGH RELEVANCE]: Reinforces the premium of pre-secured renewable supply such as the Bundey
+  corridor for tech company buyers managing ESG obligations.
   Sources: RCRTech | https://rcrtech.com/ai-infrastructure/cop31-kicks-off-with-data-center-emissions-a-major-concern/
   MLQ.AI | https://mlq.ai/news/cop31-launches-a-voluntary-pledge-for-clean-powered-ai-data-centers-as-a-harvard-study-puts-us-data-center-emissions-above-denmarks/
 
@@ -201,7 +192,7 @@ No new updates today.
 
   [MONITORING] Next Capital Launches New Domestic Operator Dataspace from Five Ex-Fujitsu Data
   Centres (November 2026).
-  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/next-capital-launches-new-australian-data-center-firm-dataspace/
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/next-capital-launches-new-australian-data-center-firm-dataspace/
 
   [MONITORING] AirTrunk Mickleham (Victoria) Campus Valued at A$4.3B — Federal Environmental
   Assessment Documents Published (November 2026) [HIGH RELEVANCE].
@@ -229,7 +220,7 @@ No new updates today.
 
   [MONITORING] Deloitte Confirms A$141B/37-Project Australian Data Centre Construction Pipeline
   (4–7 November 2026) [HIGH RELEVANCE].
-  Sources: Deloitte Access Economics | https://www.deloitte.com/au/en/services/economics/blogs/investment-monitor-next-boom.html
+  Source: Deloitte Access Economics | https://www.deloitte.com/au/en/services/economics/blogs/investment-monitor-next-boom.html
 
   [MONITORING] Digital Realty & Goodman Group Table AU$715 Million Bid for 9.9% Stake in NextDC
   (4 November 2026) [HIGH RELEVANCE].
@@ -241,15 +232,15 @@ No new updates today.
 
   [MONITORING] IREN Launches Community Consultation on 900 MW Redbank Data Centre Campus, NSW —
   No Secured Grid Connection (October 2026) [HIGH RELEVANCE].
-  Sources: Blockspace | https://blockspace.media/insight/iren-redbank-data-center-wagga-wagga/
+  Source: Blockspace | https://blockspace.media/insight/iren-redbank-data-center-wagga-wagga/
 
   [MONITORING] Google Pauses AU$20 Billion Australian Data Centre Investment Over ATO Tax Concerns
   (2026) [HIGH RELEVANCE].
-  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/google-warns-aussie-govt-that-high-taxes-could-prevent-au20bn-investment/
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/google-warns-aussie-govt-that-high-taxes-could-prevent-au20bn-investment/
 
   [MONITORING] AirTrunk Secures A$4.25 Billion Green Loan for SYD3 Western Sydney Campus
   (27 October 2026) [HIGH RELEVANCE].
-  Sources: AirTrunk | https://airtrunk.com/airtrunk-secures-a4-25b-green-loan-for-syd3-western-sydney-expansion-supporting-australias-digital-economy/
+  Source: AirTrunk | https://airtrunk.com/airtrunk-secures-a4-25b-green-loan-for-syd3-western-sydney-expansion-supporting-australias-digital-economy/
 
   [MONITORING] Anthropic Faces Community Backlash at Western Downs Queensland Campus
   (26 October 2026).
@@ -257,14 +248,13 @@ No new updates today.
 
   [MONITORING] Anthropic Signs Unannounced Multiyear Cloud Deal with IREN — SA Bundey Campus
   Directly Implicated [HIGH RELEVANCE].
-  Sources: Dataconomy | https://dataconomy.com/2026/10/12/anthropic-reportedly-signs-multiyear-cloud-deal-with-iren/
+  Source: Dataconomy | https://dataconomy.com/2026/10/12/anthropic-reportedly-signs-multiyear-cloud-deal-with-iren/
 
   [MONITORING] CDC Formally Ends 1.6 GW Project Southgate Partnership with Firmus — Only 42 MW
   Deployed (October 2026) [HIGH RELEVANCE].
-  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/firmus-and-cdc-end-16gw-project-southgate-collaboration-deploy-just-42mw/
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/firmus-and-cdc-end-16gw-project-southgate-collaboration-deploy-just-42mw/
 
-  [MONITORING] Anthropic Eyeing Investment in Australian Regional Data Center Sites — 13 October
-  2026.
+  [MONITORING] Anthropic Eyeing Investment in Australian Regional Data Center Sites (13 October 2026).
   Source: Bloomberg | https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says
 
   [MONITORING] Firmus IPO COLLAPSED — October 8 2026 [HIGH RELEVANCE].
@@ -294,24 +284,20 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• Victoria: Planning Minister Freezes 9 Data Centre Approvals at Onset of Election Caretaker Period
-  (16 November 2026) [HIGH RELEVANCE]: Victoria's planning minister failed to approve or deny nine
-  pending data centre development applications before the government entered election caretaker mode
-  ahead of the 28 November 2026 state election. Nine projects are now on hold until a government
-  is formed after the election. This extends and deepens the effective freeze on Victoria's
-  data centre approval pipeline and further positions SA's Coordinator-General pathway as the
-  lowest-risk national alternative for operators with time-sensitive project timelines.
+No new updates today.
+
+  ⏰ UPCOMING (8 days): Victoria State Election — 28 November 2026 [HIGH RELEVANCE]: Victorian
+  data centre approvals queue (~A$5B, 9 pending DAs) frozen until outcome. Election result will
+  determine whether the freeze extends further or approvals resume under a new government.
   Source: ABC News | https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810
 
-  ⏰ UPCOMING: Joint Select Committee on AI Final Report due 30 November 2026 [HIGH RELEVANCE].
+  ⏰ UPCOMING (10 days): Joint Select Committee on AI Final Report — due 30 November 2026
+  [HIGH RELEVANCE]: Expected to include data centre governance recommendations.
   Source: SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
   ⏰ UPCOMING: SA Data Centre Management Act — Deferred to Post-Election; SA still in caretaker
   mode (since 4 November 2026). Election outcome will determine legislative pathway [HIGH RELEVANCE].
   Source: RenewEconomy | https://reneweconomy.com.au/
-
-  ⏰ UPCOMING: Victoria State Election — 28 November 2026. Victorian data centre approvals queue
-  (~A$5B, 9 pending DAs) frozen until outcome [HIGH RELEVANCE].
 
   [MONITORING] Australia's Climate Minister Chris Bowen Launches Ambitious Draft Agreement at
   COP31 (17 November 2026) [HIGH RELEVANCE].
@@ -339,14 +325,14 @@ No new updates today.
 
   [MONITORING] Energy North "Project Ares" 1 GW Northern Territory Data Centre Drops June 2028
   Timeline After NT EPA Suspends Assessment (1 November 2026) [HIGH RELEVANCE].
-  Sources: The Daily Guardian | https://thedailyguardian.com/news/science-tech/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-771095/
+  Source: The Daily Guardian | https://thedailyguardian.com/news/science-tech/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-771095/
 
   [MONITORING] Senate AI & Data Centres Committee Reporting Date Extended to 23 March 2027.
   Source: Australian Parliament | https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
 
   [MONITORING] Smart Energy Council: Unmatched Data Centre Load Could Add AU$2.1 Billion to SA
   Wholesale Costs (26 October 2026) [HIGH RELEVANCE].
-  Sources: Smart Energy Council | https://smartenergy.org.au/dirty-data-the-40-billion-ai-power-bill-from-fossil-fuel/
+  Source: Smart Energy Council | https://smartenergy.org.au/dirty-data-the-40-billion-ai-power-bill-from-fossil-fuel/
 
   [MONITORING] PM&C AI Data Centre Consultation CLOSED 9 October 2026 — Government Now Processing
   Submissions [HIGH RELEVANCE]: Legislation targeting early 2027.
@@ -387,17 +373,15 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• Quantum DC Pauses Tungkillo Project — November 20–21 Community Sessions Cancelled [HIGH
-  RELEVANCE]: Quantum DC has formally paused its 1,200 MW Adelaide-area data centre proposal,
-  cancelling the community information sessions scheduled for 20–21 November at the Mannum
-  Leisure Centre. The company's CEO announced it will not seek development approval this year
-  and will instead undertake a "longer-term and more comprehensive engagement programme" after
-  receiving more than 350 community contacts and compiling a list of 432 questions from residents.
-  Quantum DC will convene a panel of independent experts to review specialist studies before
-  relaunching. The pause (following an earlier bomb-threat cancellation in October) illustrates
-  the growing community-resistance risk for greenfield SA data centre proposals outside of
-  established industrial/energy precincts — reinforcing the value of South Energy's pre-cleared
-  Bundey energy precinct positioning.
+No new updates today.
+
+  [MONITORING] Quantum DC Pauses Tungkillo Project — November 20–21 Community Sessions Cancelled
+  [HIGH RELEVANCE]: Quantum DC has formally paused its 1,200 MW Adelaide-area data centre proposal,
+  cancelling the community information sessions scheduled for 20–21 November at the Mannum Leisure
+  Centre. The company will not seek development approval this year and will instead undertake a
+  longer-term engagement programme after receiving more than 350 community contacts and 432 questions
+  from residents. The pause illustrates growing community-resistance risk for greenfield SA proposals
+  outside established industrial/energy precincts.
   Sources: Stock Journal | https://www.stockjournal.com.au/story/9385313/tungkillo-data-centre-plan-faces-concerns-at-community-forum/
   ABC News | https://www.abc.net.au/news/2026-11-12/data-centre-industry-butts-up-against-community-challenges/107379250
   5MU | https://www.5mu.com.au/local-news/tungkillo-data-centre-developer-pauses-plans-after-community-backlash/
@@ -421,7 +405,7 @@ No new updates today.
 
   [MONITORING] Port Augusta City Council Left "In the Dark" on Firmus 1,300 MW Data Centre
   Proposal — Demands Rate and Water Guarantees (6 November 2026) [HIGH RELEVANCE].
-  Sources: InDaily | https://www.indailysa.com.au/news/just-in/2026/11/06/major-data-centre-proposal-leaves-sa-council-in-the-dark
+  Source: InDaily | https://www.indailysa.com.au/news/just-in/2026/11/06/major-data-centre-proposal-leaves-sa-council-in-the-dark
 
   [MONITORING] Victoria's A$5 Billion Data Centre Approvals Queue Frozen in Election Caretaker
   Period (3 November 2026) [HIGH RELEVANCE]: Victoria state election scheduled 28 November 2026.
@@ -433,7 +417,7 @@ No new updates today.
 
   [MONITORING] LGA South Australia Calls for Councils to Have Stronger Voice in Data Centre
   Planning (2026) [HIGH RELEVANCE].
-  Sources: LGA SA | https://www.lga.sa.gov.au/news-and-events/news/latest-news/2026/lga-calls-for-councils-to-have-a-stronger-voice-on-data-centre-planning
+  Source: LGA SA | https://www.lga.sa.gov.au/news-and-events/news/latest-news/2026/lga-calls-for-councils-to-have-a-stronger-voice-on-data-centre-planning
 
   [MONITORING] CBA Upgrades Australian Data Centre Pipeline to A$260 Billion / 7 GW Feasible
   Capacity (27 October 2026) [HIGH RELEVANCE].
@@ -474,7 +458,7 @@ No new updates today.
 
   [MONITORING] CDC Data Centres Plans A$15 Billion / 1.4 GW Wagga Wagga Regional Campus
   (30 September 2026) [HIGH RELEVANCE].
-  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
 
   [MONITORING] HyperDC Files Planning Permit for 400 MW/39-Hectare Data Centre Campus at
   Moorabool, Victoria (29 September 2026).
@@ -502,81 +486,74 @@ No new updates today.
   (Deloitte, June 2026).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources: Bloomberg (bloomberg.com) | RenewEconomy (reneweconomy.com.au) |
+Sources: ABC News (abc.net.au) | Bloomberg (bloomberg.com) | RenewEconomy (reneweconomy.com.au) |
 Energy-Storage.News (energy-storage.news) | AEMO (aemo.com.au) | AEMC (aemc.gov.au) |
 ElectraNet (electranet.com.au) | AER (aer.gov.au) |
 SafeAI-Aus / Australian Parliament (safeaiaus.org) | PM&C (pmc.gov.au) |
 Data Center Dynamics (datacenterdynamics.com) | ESD News (esdnews.com.au) |
 WattClarity (wattclarity.com.au) | Certified Strategic (certifiedstrategic.com) |
 Inligo Networks (inligonetworks.com) | GlobeNewsWire / Arizton Advisory (globenewswire.com) |
-ABC News (abc.net.au) | Fortune (fortune.com) | Utility Magazine (utilitymagazine.com.au) |
-JWS Lawyers (jws.com.au) | Lexology (lexology.com) | w.media (w.media) | ASCLA (ascla.org) |
+Fortune (fortune.com) | Utility Magazine (utilitymagazine.com.au) |
+JWS Lawyers (jws.com.au) | Lexology (lexology.com) | ASCLA (ascla.org) |
 au.investing.com (au.investing.com) | pv magazine Australia (pv-magazine-australia.com) |
 King & Wood Mallesons (mallesons.com) | SA Government / SA Planning Portal (plan.sa.gov.au) |
 CommBank (commbank.com.au) | Deloitte Access Economics (deloitte.com) | Westpac (westpac.com.au) |
-AirTrunk / tech-insider.org (tech-insider.org) |
-Global Data Center Hub (globaldatacenterhub.com) | RenewMap (renewmap.com.au) |
-The Tech Capital (thetechcapital.com) | Telecompaper (telecompaper.com) |
+Tech Insider (tech-insider.org) | Global Data Center Hub (globaldatacenterhub.com) |
+RenewMap (renewmap.com.au) | The Tech Capital (thetechcapital.com) |
 Pinsent Masons (pinsentmasons.com) | Global Transmission Report (globaltransmission.info) |
-Dataconomy (dataconomy.com) | TechBriefly (techbriefly.com) |
-TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au) |
+Dataconomy (dataconomy.com) | TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au) |
 Commercial Property Marketing (commercialpropertymarketing.com.au) |
-Smart Energy Council (smartenergy.org.au) | ESG News (esgnews.com) |
-CNN (cnn.com) | pv-tech (pv-tech.org) | 5MU (5mu.com.au) |
-Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com) |
-Tilt Renewables (tiltrenewables.com) | Murray Bridge News (murraybridge.news) |
-The Islander Online (theislanderonline.com.au) | ACS (ia.acs.org.au) |
-Data Centre News Weekly (datacentrenews.substack.com) |
-Murray Valley Standard (murrayvalleystandard.com.au) |
-The Daily Guardian (thedailyguardian.com) | SRN News (srnnews.com) |
-AI Weekly (aiweekly.co) | OzArab Media (ozarab.media) |
-Blockspace (blockspace.media) | Daily Advertiser Wagga Wagga (dailyadvertiser.com.au) |
+Smart Energy Council (smartenergy.org.au) | CNN (cnn.com) | pv-tech (pv-tech.org) |
+5MU (5mu.com.au) | Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com) |
+Tilt Renewables (tiltrenewables.com) | The Daily Guardian (thedailyguardian.com) |
+AI Weekly (aiweekly.co) | OzArab Media (ozarab.media) | Blockspace (blockspace.media) |
 The Epoch Times (theepochtimes.com) | LGA SA (lga.sa.gov.au) |
-Council Magazine Australia (councilmagazine.com.au) |
-Corrs Chambers Westgarth (corrs.com.au) |
-Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au) |
-Green Street News (greenstreetnews.com) | Baxtel (baxtel.com) |
-InDaily (indailysa.com.au) | AAP News (aapnews.aap.com.au) |
-Capital Brief (capitalbrief.com) | Port News / AAP (portnews.com.au) |
-ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co) |
-Reserve Bank of Australia (rba.gov.au) | ARN (arnnet.com.au) |
-Macquarie Data Centres (macquariedatacentres.com) | DigiCo (digicoinfrastructure.com) |
-Next Capital / Dataspace (dataspace.com.au) | Princeton Digital Group / Baxtel (baxtel.com) |
-Stock Journal (stockjournal.com.au) | RCRTech (rcrtech.com) |
-Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
+Council Magazine Australia (councilmagazine.com.au) | Corrs Chambers Westgarth (corrs.com.au) |
+Green Street News (greenstreetnews.com) | Baxtel (baxtel.com) | InDaily (indailysa.com.au) |
+Capital Brief (capitalbrief.com) | ElectraNet NTx Project (ntxproject.com.au) |
+Reserve Bank of Australia (rba.gov.au) | Macquarie Data Centres (macquariedatacentres.com) |
+DigiCo (digicoinfrastructure.com) | Stock Journal (stockjournal.com.au) |
+RCRTech (rcrtech.com) | MLQ.AI (mlq.ai)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月19日
+📋 南澳州數據中心土地每日簡報 - 2026年11月20日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-今日無新動態。
+• ElectraNet艾爾半島電網危機：三座輸電塔被強烈天氣摧毀，南澳州政府質疑3億澳元升級項目
+  「失敗」（2026年11月20至21日）【高度相關】：三座ElectraNet輸電塔在極端天氣事件中倒塌，
+  導致整個艾爾半島發生大規模停電——這是自南澳州耗資3億澳元完成電網升級以來，該地區首次發生
+  重大計劃外停電。南澳州政府已就ElectraNet的應對措施展開審查，質疑此次升級是否提供了足夠的
+  韌性投資；ElectraNet將此次事件定性為「非常獨特、極為罕見」的天氣事件，並表示全面恢復供電
+  需要數月時間。此次事件對South Energy的電網接入策略具有直接影響：（1）暴露了服務懷阿拉西部
+  12.7吉瓦可再生能源釋放區域的艾爾半島輸電走廊存在物理上的脆弱性，而該區域的四家開發商已於
+  十月獲得選定；（2）印證了邦迪–阿德萊德NTx走廊等內陸330千伏輸電接入，相比艾爾半島沿海饋線
+  線路具有更優越的輸電韌性；（3）此事件可能加速澳大利亞能源監管局（AER）對ElectraNet待審艾
+  爾半島升級資本開支申請採取更嚴格審查，並可能上調要求，進一步增加南澳州50億澳元電網擴建的
+  成本和時間壓力。
+  來源：ABC News | https://www.abc.net.au/news/2026-11-21/eyre-peninsula-blackout-puts-scrutiny-on-electranet/107410274
 
   【持續監測】AEMC最終規則「第二套方案」——30兆瓦大型負荷門檻與綜合影響評估正式生效
-  （2026年11月12日）【高度相關】：澳大利亞能源市場委員會（AEMC）正式確立30兆瓦門檻，將數據中心
-  等大型逆變器型負荷列為須遵守強制技術標準的獨立接入類別。核心義務：（1）電網企業須評估附近多個
-  大型負荷接入的「合計影響」；（2）AEMO須制定IBL建模指引；（3）現有申請方享有6個月寬限期。
-  South Energy預先鎖定的邦迪330千伏固定輸電接入同時滿足技術（第二套方案）與商業（ECMC）要求。
+  （2026年11月12日）【高度相關】：澳大利亞能源市場委員會（AEMC）正式確立30兆瓦門檻，將數據
+  中心等大型逆變器型負荷列為須遵守強制技術標準的獨立接入類別。核心義務：（1）電網企業須評估
+  附近多個大型負荷接入的「合計影響」；（2）AEMO須制定IBL建模指引；（3）現有申請方享有6個月
+  寬限期。South Energy預先鎖定的邦迪330千伏固定輸電接入同時滿足技術（第二套方案）與商業
+  （ECMC）要求。
   來源：ESD News | https://esdnews.com.au/aemc-sets-new-rules-for-data-centre-grid-connections/
   AEMC | https://www.aemc.gov.au/news-centre/media-releases/aemc-determination-strengthens-framework-address-anticipated-data-centre-impacts-national
 
-  【持續監測】AEMC就大型負荷運營整合與可視性啟動配套諮詢（2026年11月12日）【高度相關】：
-  將對超過30兆瓦門檻的大型數據中心接入新增運營登記和遙測要求，進一步提高所有新建項目的技術
-  合規門檻，強化預先鎖定接入協議的結構性價值。
+  【持續監測】AEMC就大型負荷運營整合與可視性啟動配套諮詢（2026年11月12日）【高度相關】。
   來源：ESD News | https://esdnews.com.au/aemc-sets-new-rules-for-data-centre-grid-connections/
 
   【持續監測】南澳州數據中心申請潮推動ElectraNet約50億澳元電網擴建需求——41個主體逾75個項目
-  正在洽談接入（2026年11月更新）【高度相關】：ElectraNet 2026年TAPR確認目前有41個主體的逾75個
-  潛在項目正在討論接入，涵蓋數據中心、國防工業及中北部和東南部增長需求。南澳州峰值電力需求
-  預計在未來15年從3.3吉瓦倍增至逾6.5吉瓦。
-  來源：ElectraNet TAPR 2026 | pv magazine Australia
-  Tech Insider | https://tech-insider.org/au/south-australia-data-centre-5-billion-electranet-upgrade-2026/
+  正在洽談接入（2026年11月更新）【高度相關】。
+  來源：Tech Insider | https://tech-insider.org/au/south-australia-data-centre-5-billion-electranet-upgrade-2026/
 
   【持續監測】AEMC就最低系統負荷市場規則啟動諮詢（2026年11月）【高度相關】。
   來源：Energy-Storage.News | https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/
@@ -596,8 +573,8 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
   【持續監測】NTx PACR里程碑：現預計2026年底至2027年初發布【高度相關】。
   來源：ElectraNet NTx項目網站 | https://ntxproject.com.au/news/
 
-  【持續監測】EnergyConnect項目AEMO完成最終市場系統整合（2026年11月1日）：布羅恩嘉—瓦加瓦加
-  線路已帶電投運，輸電容量從150兆瓦提升至350兆瓦。
+  【持續監測】EnergyConnect項目AEMO完成最終市場系統整合（2026年11月1日）：輸電容量從150兆瓦
+  提升至350兆瓦。
   來源：AEMO | https://www.aemo.com.au/newsroom/news-updates/project-energyconnect-prepares-to-connect-three-nem-regions
 
   【持續監測】AER正式撤銷南澳州2026年12月至2027年2月夏季可靠性義務【高度相關】。
@@ -628,36 +605,30 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
 
 ☀️ 2. 可再生能源與選址條件
 
-• 澳大利亞2026年第三季度可再生能源新建承諾創歷史最高紀錄——2.4吉瓦，以風電和電池儲能為主
-  【高度相關】：2026年7至9月，澳大利亞可再生能源項目達成融資建設的總裝機量創季度歷史最高
-  紀錄2.4吉瓦，較2022年第一季度舊紀錄高出20%。其中風電貢獻1.5吉瓦（單季度風電投資決策
-  歷史最高），電池儲能覆蓋2030年全國儲能目標新增量的13%。南澳州與昆士蘭州在全國風電建設
-  中領跑。本輪記錄性建設浪潮進一步佐證邦迪走廊可再生能源協同選址的戰略價值，並確認南澳州
-  作為支撐數據中心能源義務合規的全國核心可再生能源供應樞紐地位。
+今日無新動態。
+
+  【持續監測】澳大利亞2026年第三季度可再生能源新建承諾創歷史最高紀錄——2.4吉瓦，以風電和
+  電池儲能為主【高度相關】：南澳州與昆士蘭州在全國風電建設中領跑。
   來源：ESD News | https://esdnews.com.au/wind-and-battery-projects-driving-australias-2030-ret/
   RenewEconomy | https://reneweconomy.com.au/wind-revival-whips-up-all-time-record-for-committed-renewables-projects-closes-gap-to-2030-target/
-  鮑文部長辦公室 | https://minister.dcceew.gov.au/bowen/media-releases/renewable-investment-hits-highest-level-history-under-albanese-government-0
 
   【持續監測】澳大利亞NEM可再生能源發電創最新運行記錄高位（2026年11月）。
   來源：ESD News | https://esdnews.com.au/australian-renewable-generation-hits-record-high-in-grid/
 
-  【持續監測】蒂爾可再生能源（Tilt Renewables）就懷阿拉附近1.2吉瓦諾諾威風電場尋求規劃審批。
+  【持續監測】蒂爾可再生能源就懷阿拉附近1.2吉瓦諾諾威風電場尋求規劃審批。
   來源：RenewEconomy | https://reneweconomy.com.au/australias-most-powerful-turbines-up-to-9-5-mw-mooted-for-giant-wind-project-outside-steel-city/
 
-  【持續監測】澳大利亞可再生能源年度供電首次突破50%——全國電力市場重要里程碑（2026年11月）
-  【高度相關】。
+  【持續監測】澳大利亞可再生能源年度供電首次突破50%（2026年11月）【高度相關】。
   來源：ESD News | https://esdnews.com.au/milestone-as-renewables-supply-more-than-half-australias-grid/
 
-  【持續監測】烏恩古拉風電場變電站帶電投運——南澳州中北部可再生能源容量里程碑（2026年11月）
-  【高度相關】。
+  【持續監測】烏恩古拉風電場變電站帶電投運——南澳州中北部里程碑（2026年11月）【高度相關】。
   來源：ESD News | https://esdnews.com.au/
 
   【持續監測】南澳州政府在進入選舉看守模式前緊急批准六個新風電及電池儲能項目
   （2026年11月4日）【高度相關】。
   來源：RenewEconomy | https://reneweconomy.com.au/
 
-  【持續監測】蒂爾可再生能源（Tilt Renewables）正式開工建設南澳州288兆瓦帕爾默風電場
-  【高度相關】。
+  【持續監測】蒂爾可再生能源正式開工建設南澳州288兆瓦帕爾默風電場【高度相關】。
   來源：ESD News | https://esdnews.com.au/
 
   【持續監測】南澳州政府為懷阿拉西部12.7吉瓦可再生能源釋放區域選定四家開發商
@@ -665,9 +636,7 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
   Heron Energy（1.6吉瓦）、Neoen（350兆瓦）。
   來源：pv magazine | https://www.pv-magazine.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/
 
-  【持續監測】Brookfield藉由Neoen平台在南澳州推進逾2.6吉瓦可再生能源組合【高度相關】：
-  高德爾北部（600兆瓦風電，2026年10月7日開工）、高德爾南部及高德爾電池二期
-  （454兆瓦/1,814兆瓦時，Tesla Megapack 3，2028年投運）。
+  【持續監測】Brookfield藉由Neoen平台在南澳州推進逾2.6吉瓦可再生能源組合【高度相關】。
   來源：pv magazine Australia | https://www.pv-magazine-australia.com/
 
   【持續監測】AMPYR澳大利亞收到AEMO第5.3.4條款接入信函——阿古斯塔港270兆瓦電網成型電池。
@@ -677,36 +646,23 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
 
   【持續監測】南澳州325億澳元大型可再生能源項目管道（2026年中期）。
 
-  【持續監測】高德爾山脈東部（約5,200平方公里）可再生能源競標區域：招標截至2026年6月28日；
-  開發商選定結果待公布。
+  【持續監測】高德爾山脈東部可再生能源競標區域：招標截至2026年6月28日；開發商選定結果待公布。
 
-  【持續監測】NEM創棄電量歷史新高11,109兆瓦（2026年9月21日）及七日滾動可再生能源佔比首次突破50%
-  （2026年9月22日）。
+  【持續監測】NEM創棄電量歷史新高11,109兆瓦（2026年9月21日）。
 
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 新加坡普林斯頓數字集團（PDG）就首個澳大利亞數據中心園區提交規劃申請——100兆瓦、逾10億
-  澳元，位於悉尼西南坎普貝爾鎮（2026年11月19日）【高度相關】：亞太地區數據中心運營商普林
-  斯頓數字集團（PDG）就其在澳大利亞的首個園區向新南威爾士州提交規劃申請——位於悉尼西南約
-  44公里的坎普貝爾鎮Narellan路192號，占地12.7公頃，建設一棟四層樓建築（38,090平方米），
-  造價逾10億澳元，項目內部代號為「起源計劃」（Project Genesis）。該園區計劃配備78台備用
-  發電機及鋰離子電池系統，預計完全建成後將提供900至1,100個長期職位。PDG首次進軍澳大利亞市場，
-  代表又一家亞洲超大規模雲端運營商同步入場——進一步擴大超越大悉尼地區現有供應容量的強勁需求，
-  直接強化南澳州預先許可、預先接入項目組合的溢價定價依據。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/
-  Baxtel | https://baxtel.com/news/princeton-digital-group-linked-to-a-1b-100mw-sydney-data-centre
+今日無新動態。
 
-• Stockland就悉尼西部威瑟里爾公園（Wetherill Park）數據中心提交開發申請（2026年11月19日）：
-  澳大利亞多元房地產集團Stockland就位於悉尼西部威瑟里爾公園的數據中心提交規劃申請，進一步
-  加劇新南威爾士州大都市地區的供應壓力——強化南澳州預先批准替代路徑的定價優勢。
+  【持續監測】新加坡普林斯頓數字集團（PDG）就首個澳大利亞數據中心園區提交規劃申請——100兆瓦、
+  逾10億澳元，悉尼西南（2026年11月19日）【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/
 
-• COP31在土耳其安塔利亞發布清潔AI數據中心自願承諾（2026年11月16日）【高度相關】：COP31
-  氣候大會談判代表發布全球自願承諾，呼籲AI及數據中心運營商使用零排放或低排放能源為運營提
-  供動力，並評估和披露AI環境影響。可選附件要求簽署方披露能源及環境數據。該自願承諾雖非強
-  制性，但為可再生能源匹配的基準設定了聲譽框架，定向收緊了能源匹配要求——對管理ESG義務的
-  科技公司買家而言，預先鎖定可再生能源（如邦迪走廊）的溢價進一步凸顯。
+  【持續監測】Stockland就悉尼西部威瑟里爾公園數據中心提交開發申請（2026年11月19日）。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/
+
+  【持續監測】COP31在土耳其安塔利亞發布清潔AI數據中心自願承諾（2026年11月16日）【高度相關】。
   來源：RCRTech | https://rcrtech.com/ai-infrastructure/cop31-kicks-off-with-data-center-emissions-a-major-concern/
   MLQ.AI | https://mlq.ai/news/cop31-launches-a-voluntary-pledge-for-clean-powered-ai-data-centers-as-a-harvard-study-puts-us-data-center-emissions-above-denmarks/
 
@@ -714,38 +670,21 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
   （2026年11月）【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/digico-signs-71mw-lease-for-sydney-data-center-with-unnamed-tech-firm/
 
-  【持續監測】麥格理數據中心（Macquarie Data Centres）就悉尼200兆瓦新園區提交規劃申請——
-  投資約20億澳元（2026年11月）【高度相關】。
+  【持續監測】麥格理數據中心就悉尼200兆瓦新園區提交規劃申請——投資約20億澳元（2026年11月）
+  【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/macquarie-data-centres-eyes-200mw-campus-in-sydney-australia/
 
-  【持續監測】Next Capital以五個前富士通數據中心為基礎推出新澳大利亞運營商Dataspace
-  （2026年11月）。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/next-capital-launches-new-australian-data-center-firm-dataspace/
+  【持續監測】AirTrunk與歐洲能源簽署逾1吉瓦新南威爾士州可再生能源協議（2026年11月11日）。
+  來源：ESD News | https://esdnews.com.au/airtrunk-and-european-energy-ink-1gw-renewables-deal/
 
-  【持續監測】AirTrunk米克爾哈姆（維多利亞州）園區聯邦環境評估文件發布——規模43億澳元
-  （2026年11月）。
-  來源：Commercial Property Marketing | https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/
-
-  【持續監測】谷歌、蘋果及Meta確認均以約250億澳元AI數據中心投資為目標在澳大利亞積極布局
-  （2026年）【高度相關】。
-  來源：Tech Insider | https://tech-insider.org/au/us-tech-giants-australia-ai-data-centres-2026/
-
-  【持續監測】澳大利亞數據中心單周吸引60億澳元確認投資（2026年）【高度相關】。
-  來源：Global Data Center Hub | https://www.globaldatacenterhub.com/p/australias-data-centers-just-pulled
-
-  【持續監測】AirTrunk與歐洲能源（European Energy）澳大利亞子公司簽署逾1吉瓦新南威爾士州
-  可再生能源協議（2026年11月11日）。
-  來源：Bloomberg / ESD News | https://esdnews.com.au/airtrunk-and-european-energy-ink-1gw-renewables-deal/
-
-  【持續監測】澳大利亞儲備銀行確認2026至2028年逾1,150億澳元投資管道（2026年）【高度相關】。
-  來源：澳大利亞儲備銀行 | https://www.rba.gov.au/publications/insights/australian-economy/2026/data-centre-investment-in-australia.html
+  【持續監測】澳大利亞儲備銀行確認2026至2028年逾1,150億澳元投資管道【高度相關】。
+  來源：RBA | https://www.rba.gov.au/publications/insights/australian-economy/2026/data-centre-investment-in-australia.html
 
   【持續監測】Stockland與John Boyd Properties在社區強烈反對下撤回悉尼庫克斯河AI數據中心計劃
   （2026年11月8日）【高度相關】。
   來源：ABC News | https://abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592
 
-  【持續監測】德勤確認澳大利亞1,410億澳元/37個數據中心建設管道（2026年11月4至7日）
-  【高度相關】。
+  【持續監測】德勤確認澳大利亞1,410億澳元/37個數據中心建設管道（2026年11月4至7日）【高度相關】。
   來源：德勤 | https://www.deloitte.com/au/en/services/economics/blogs/investment-monitor-next-boom.html
 
   【持續監測】Digital Realty與Goodman集團提出以7.15億澳元收購NextDC 9.9%股份（2026年11月4日）
@@ -756,18 +695,11 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
   【高度相關】。
   來源：The Tech Capital | https://thetechcapital.com/australias-data-centre-pipeline-expands-by-5-2gw-melbourne-leads/
 
-  【持續監測】IREN就新南威爾士州雷德班克900兆瓦數據中心園區啟動社區諮詢（2026年10月）
-  【高度相關】。
-  來源：Blockspace | https://blockspace.media/insight/iren-redbank-data-center-wagga-wagga/
-
   【持續監測】Google暫停200億澳元澳大利亞數據中心投資（2026年）【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/google-warns-aussie-govt-that-high-taxes-could-prevent-au20bn-investment/
 
   【持續監測】AirTrunk完成42.5億澳元綠色貸款（2026年10月27日）【高度相關】。
   來源：AirTrunk | https://airtrunk.com/airtrunk-secures-a4-25b-green-loan-for-syd3-western-sydney-expansion-supporting-australias-digital-economy/
-
-  【持續監測】Anthropic在昆士蘭西部低地園區遭遇社區強烈反對（2026年10月26日）。
-  來源：CNN | https://cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk
 
   【持續監測】Anthropic與IREN簽署未公開多年期雲端協議——直接關聯南澳州邦迪園區【高度相關】。
   來源：Dataconomy | https://dataconomy.com/2026/10/12/anthropic-reportedly-signs-multiyear-cloud-deal-with-iren/
@@ -775,23 +707,16 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
   【持續監測】CDC正式終止與Firmus的1.6吉瓦「南門計劃」合作（2026年10月）【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/firmus-and-cdc-end-16gw-project-southgate-collaboration-deploy-just-42mw/
 
-  【持續監測】Anthropic正評估在澳大利亞區域性數據中心選址——2026年10月13日。
-  來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says
-
   【持續監測】Firmus IPO崩潰——2026年10月8日【高度相關】。
   來源：au.investing.com | https://au.investing.com/news/stock-market-news/a-stock-sinks-23-as-australias-30bn-firmus-ai-datacentre-ipo-collapses-4680887
 
   【持續監測】蘋果及Meta已確認加入澳大利亞數據中心主動買家管道【高度相關】。
-
-  【持續監測】CDC簽署澳大利亞最大數據中心合同——555兆瓦（2026年5月）。
 
   【持續監測】NEXTDC已削減9.5億澳元資本開支，所有土地收購計劃暫停。
 
   【持續監測】AEMO 2026年ESOO：數據中心NEM消耗預測從5太瓦時增至34太瓦時（FY2035–36）。
 
   【持續監測】Anthropic與Zerra DC簽訂320億澳元昆士蘭數據中心租約（2.16吉瓦）。
-
-  【持續監測】AWS：21.7億澳元、235兆瓦悉尼西部格倫登寧路園區獲批（2026年9月）。
 
   【持續監測】NVIDIA與八個澳大利亞合作夥伴聯合推進2027年前2吉瓦AI工廠建設——IREN邦迪南澳州
   園區明確列名。
@@ -801,32 +726,28 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 維多利亞州：規劃部長在進入選舉看守模式前凍結9項數據中心審批（2026年11月16日）【高度相關】：
-  維多利亞州規劃部長在2026年11月28日州選舉前進入選舉看守模式之際，未能就9項待審數據中心開
-  發申請作出審批或拒絕決定。九個項目現已暫停，直至選舉後新政府組建方可推進。這進一步延伸和
-  加深了維多利亞州數據中心審批管道的實質性凍結，並進一步確立南澳州協調總長快速審批通道作為
-  具有時效敏感性的全國最低風險替代路徑的核心地位。
+今日無新動態。
+
+  ⏰ 即將到來（8天後）：維多利亞州選舉——2026年11月28日【高度相關】：維多利亞州約50億澳元、
+  9項待審數據中心審批凍結至選舉結果公布。選舉結果將決定現有凍結是否延續或審批在新政府組建後
+  恢復。
   來源：ABC News | https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810
 
-  ⏰ 即將到來：AI聯合選委會最終報告預計2026年11月30日發布【高度相關】。
+  ⏰ 即將到來（10天後）：AI聯合選委會最終報告——預計2026年11月30日發布【高度相關】。
   來源：SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
   ⏰ 即將到來：南澳州《數據中心管理法》——已推遲至選後；南澳州仍處於選舉看守模式
   （自2026年11月4日起）。選舉結果將決定立法路徑【高度相關】。
   來源：RenewEconomy | https://reneweconomy.com.au/
 
-  ⏰ 即將到來：維多利亞州選舉——2026年11月28日。維多利亞州約50億澳元、9項待審數據中心審批
-  凍結至選舉結果公布【高度相關】。
-
-  【持續監測】澳大利亞氣候部長鮑文（Chris Bowen）在COP31大會上發布雄心勃勃的氣候協議草案
-  （2026年11月17日）【高度相關】。
+  【持續監測】澳大利亞氣候部長鮑文在COP31大會上發布雄心勃勃的氣候協議草案（2026年11月17日）
+  【高度相關】。
   來源：ESD News | https://esdnews.com.au/bowen-launches-strong-draft-climate-agreement-at-cop31/
 
   【持續監測】昆士蘭州及北領地正式獲豁免聯邦100%可再生能源強制義務（2026年11月）【高度相關】。
   來源：ESD News | https://esdnews.com.au/qld-and-nt-win-fight-to-use-fossil-fuels-to-power-data-centres/
 
-  【持續監測】南澳州能源部長明確支持燃氣為數據中心提供調頻電力；南澳州與昆士蘭州及北領地共同
-  抵制聯邦可再生能源強制義務（2026年11月13日）【高度相關】。
+  【持續監測】南澳州能源部長明確支持燃氣為數據中心提供調頻電力（2026年11月13日）【高度相關】。
   來源：ABC News | https://www.abc.net.au/news/2026-11-13/sa-gives-green-light-for-gas-to-power-data-centres/107364606
   ESD News | https://esdnews.com.au/south-australia-joins-states-wanting-gas-backed-data-centres/
 
@@ -835,10 +756,7 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
   來源：OzArab Media / AAP | https://ozarab.media/australia-weighs-ai-data-centre-safeguards/
 
   【持續監測】南澳州《數據中心管理法》公眾諮詢正式截止（2026年11月5日）。
-  來源：南澳州政府 / Your Say SA | https://yoursay.sa.gov.au/data-centre-management-act
-
-  【持續監測】財政部確認尚未就數據中心投資吸引完成淨效益分析（2026年10月30日）【高度相關】。
-  來源：The Epoch Times | https://www.theepochtimes.com/world/treasury-yet-to-calculate-net-benefit-of-attracting-data-centre-investment-6110893
+  來源：SA Government / Your Say SA | https://yoursay.sa.gov.au/data-centre-management-act
 
   【持續監測】Energy North「阿瑞斯計劃」1吉瓦北領地數據中心在NT EPA暫停評估後放棄2028年6月
   時間表（2026年11月1日）【高度相關】。
@@ -847,177 +765,112 @@ Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
   【持續監測】澳大利亞參議院AI及數據中心委員會報告日期延至2027年3月23日。
   來源：澳大利亞議會 | https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/AIdatacentres48P
 
-  【持續監測】智慧能源委員會：未匹配數據中心負荷可能導致南澳州批發電力成本增加21億澳元
-  （2026年10月26日）【高度相關】。
-  來源：Smart Energy Council | https://smartenergy.org.au/dirty-data-the-40-billion-ai-power-bill-from-fossil-fuel/
-
   【持續監測】總理及內閣部（PM&C）AI數據中心諮詢2026年10月9日截止；立法目標2027年初。
   來源：PM&C | https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
-
-  【持續監測】澳大利亞政府「國家利益」數據中心優先支持框架明確優先考慮可再生能源匹配及電網
-  貢獻要求密切契合的項目。
-  來源：Pinsent Masons | https://www.pinsentmasons.com/out-law/news/data-centre-framework-australia
 
   【持續監測】南澳州AI皇家調查委員會於2026年10月1日正式啟動——數據中心明確排除在審查範圍之外。
   來源：Certified Strategic | https://certifiedstrategic.com/insights/south-australia-ai-royal-commission-data-centres-out-of-scope
 
-  【持續監測】維多利亞州聯合黨承諾廢除BYO可再生能源強制要求（2026年9月22至25日）。
+  【持續監測】ECMC 2026年9月監管套件：強制性REGO+調頻補償義務；AEMC全容量充電成本回收；
+  AEMC 30兆瓦以上技術標準（最終版）。
 
-  【持續監測】維多利亞州《可持續數據中心行動計劃》（2026年9月22日）：四項約束性要求。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/
+  【持續監測】澳大利亞擬立法對大型數據中心實施強制性淨發電要求：聯邦立法草案目標2027年初通過。
 
-  【持續監測】金杜律師事務所：只有在可再生能源豐富地區預先鎖定固定輸電接入的項目，方可在無
-  額外資本開支情況下全面滿足ECMC三項義務。
-  來源：King & Wood Mallesons | https://www.mallesons.com/au/en/insights/latest-thinking/big-day-for-data-centres.html
-
-  【持續監測】ECMC 2026年9月監管套餐：強制性REGO+固定抵消義務（已最終確定）。
-
-  【持續監測】澳大利亞擬立法要求大型數據中心達到強制性淨發電要求：目標2027年初。
-
-  【持續監測】全國內閣確認非追溯性意圖（2026年8月26日）。
-
-  【持續監測】南澳州政府擬議中的《數據中心與AI基礎設施法》（2026年6月）。
+  【持續監測】全國內閣確認非追溯意圖（2026年8月26日）：在2026年獲得南澳州協調總長審批的項目
+  可鎖定立法前地位。
 
 
 🗺️ 5. 土地、規劃與市場動態
 
-• Quantum DC東吉洛（Tungkillo）項目正式暫停——11月20至21日社區諮詢活動取消【高度相關】：
-  Quantum DC已正式暫停其1,200兆瓦阿德萊德周邊數據中心提案，取消原定於11月20至21日在曼納姆
-  休閒中心舉行的社區資訊說明會。公司首席執行官宣布，今年內不會尋求開發審批，改為推進「更長
-  期、更全面的社區參與計劃」以回應居民關切——Quantum DC已收到逾350份社區聯絡，並整理出432條
-  問題清單，將組建獨立專家小組對相關研究進行審查後再重新啟動。此次暫停（繼10月因炸彈威脅
-  取消說明會之後）充分說明在南澳州既有能源工業用地以外推進綠地型數據中心所面臨的日益突出的
-  社區阻力風險——直接強化South Energy預先清場的邦迪能源工業用地定位的結構性優勢。
+今日無新動態。
+
+  【持續監測】Quantum DC暫停東吉洛項目——11月20至21日社區信息會取消【高度相關】：Quantum DC
+  已正式暫停其1,200兆瓦阿德萊德地區數據中心提案，取消原定於11月20至21日在曼納姆休閒中心舉行
+  的社區信息會。該公司今年將不申請開發許可，並在收到逾350個社區聯繫和432個居民問題後，將轉而
+  開展更長期和更全面的社區參與計劃。
   來源：Stock Journal | https://www.stockjournal.com.au/story/9385313/tungkillo-data-centre-plan-faces-concerns-at-community-forum/
   ABC News | https://www.abc.net.au/news/2026-11-12/data-centre-industry-butts-up-against-community-challenges/107379250
   5MU | https://www.5mu.com.au/local-news/tungkillo-data-centre-developer-pauses-plans-after-community-backlash/
 
-  【持續監測】1414 Degrees完成對Aurora Energy Precinct的全面收購，並就南澳州最高1吉瓦數據
-  中心項目簽署意向書（2026年11月）【高度相關】。
+  【持續監測】1414 Degrees完全收購Aurora能源園區並就最高1吉瓦南澳州數據中心交易簽署意向書
+  （2026年11月）【高度相關】。
   來源：ESD News | https://esdnews.com.au/1414-degrees-fully-acquires-aurora-energy-precinct/
          ESD News | https://esdnews.com.au/1414-degrees-inks-major-data-centre-deal-in-south-australia/
 
-  【持續監測】CDC數據中心就西悉尼坎普斯克里克1.4吉瓦園區提交規劃申請（2026年11月12日）
+  【持續監測】CDC Data Centres就悉尼西部肯普斯克里克1.4吉瓦園區提交規劃申請（2026年11月12日）
   【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/
 
-  【持續監測】Quantum DC正式放棄2026年阿德萊德周邊1,200兆瓦數據中心項目開發申請——社區阻力
-  持續升級（2026年11月12日）【高度相關】。
+  【持續監測】Quantum DC正式放棄2026年就1,200兆瓦阿德萊德地區園區申請開發許可（2026年11月12日）
+  【高度相關】。
   來源：Bloomberg | https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises
 
-  【持續監測】墨爾本三個城市議會（馬里伯農、休謨、布里姆班克）相繼對新建數據中心實施暫停令
+  【持續監測】維多利亞州馬里比農、休姆及布里姆班市議會對新數據中心開發項目實施暫停令
   （2026年11月）【高度相關】。
-  來源：ABC News / AAP（2026年11月相關報道）
 
-  【持續監測】阿古斯塔港市議會就Firmus 1,300兆瓦數據中心提案「被蒙在鼓裡」——要求書面費率
-  及用水保證（2026年11月6日）【高度相關】。
+  【持續監測】阿古斯塔港市議會就Firmus 1,300兆瓦數據中心提案被蒙在鼓裡（2026年11月6日）
+  【高度相關】。
   來源：InDaily | https://www.indailysa.com.au/news/just-in/2026/11/06/major-data-centre-proposal-leaves-sa-council-in-the-dark
 
-  【持續監測】維多利亞州約50億澳元數據中心審批隊列在選舉看守期間全面凍結（2026年11月3日）
-  【高度相關】。
+  【持續監測】維多利亞州約50億澳元數據中心審批隊列在選舉看守期間凍結（2026年11月3日）
+  【高度相關】：維多利亞州選舉定於2026年11月28日。
   來源：Certified Strategic | https://certifiedstrategic.com/insights/victoria-data-centre-approvals-caretaker-election
 
-  【持續監測】超5億澳元墨爾本西部工業用地大宗交易——2026年最大工業地產交易【高度相關】。
-  來源：Green Street News | https://greenstreetnews.com/article/consortium-capitalises-on-data-centre-boom-with-500m-melbourne-land-deal/
-
-  【持續監測】南澳州地方政府聯合會（LGA SA）呼籲各地方議會在數據中心規劃中擁有更強話語權
-  （2026年）【高度相關】。
+  【持續監測】南澳州地方政府協會（LGA SA）呼籲議會在數據中心規劃中擁有更大話語權（2026年）
+  【高度相關】。
   來源：LGA SA | https://www.lga.sa.gov.au/news-and-events/news/latest-news/2026/lga-calls-for-councils-to-have-a-stronger-voice-on-data-centre-planning
 
-  【持續監測】澳洲聯邦銀行將澳大利亞數據中心管道上調至2600億澳元/7吉瓦（2026年10月27日）
+  【持續監測】澳大利亞聯邦銀行將澳大利亞數據中心建設管道上調至2,600億澳元（2026年10月27日）
   【高度相關】。
   來源：CBA | https://www.commbank.com.au/articles/newsroom/2026/10/data-centre-pipeline-260bn-decade-cba.html
 
-  【持續監測】AirTrunk有條件收購坎普斯克里克52公頃地塊——最高1吉瓦悉尼園區。
-
-  【持續監測】Goodman集團完成40億澳元融資；澳大利亞電力儲備達1.3吉瓦。
-
-  【持續監測】NEXTDC股價在ASX暴跌42%——削減9.5億澳元資本開支，暫停所有土地收購
+  【持續監測】NextDC股價在澳交所崩跌42%——削減資本開支7.5億澳元，暫停所有土地收購
   （2026年10月21日）【高度相關】。
   來源：Fortune | https://fortune.com/2026/10/21/australia-nextdc-shares-fall-data-center/
 
-  【持續監測】懷阿拉西部可再生能源區域開發商選定啟動斯賓塞灣北部大規模土地活動
-  （2026年10月19日）【高度相關】。
-
-  【持續監測】南澳州規劃法規：數據中心前期工程現已豁免開發審批【高度相關】：修正案自2026年8月13日
-  起生效。
+  【持續監測】南澳州規劃法規：數據中心早期施工現可豁免開發許可【高度相關】：修訂自2026年8月
+  13日起生效。
   來源：SA Planning Portal | https://plan.sa.gov.au/news/article/2026/regulation-changes-to-provide-for-data-centre-early-works
 
   【持續監測】Inligo Networks將南澳州定為海底電纜登陸錨點；與1414 Degrees簽署1吉瓦AI園區
   非約束性協議【高度相關】。
   來源：Inligo Networks | https://www.inligonetworks.com/south-australias-digital-future-data-centres-energy-precincts-and-the-cable-systems/
 
-  【持續監測】南澳州數據中心策略：兩項強制性申請前提條件現已生效。
-  來源：JWS Lawyers | https://jws.com.au/what-we-think/data-centre-development-focus-the-evolving-regulatory-landscape-across-australia/
-
-  【持續監測】新南威爾士州數據中心指引於2026年8月發布。
-
-  【持續監測】NEXTDC於2026年6月在維多利亞州吉隆附近購置169公頃土地【注：已暫停所有進一步
-  土地收購】。
-
-  【持續監測】CDC Data Centres計劃在新南威爾士州瓦加瓦加建設150億澳元/1.4吉瓦區域性園區
-  （2026年9月30日）【高度相關】。
+  【持續監測】CDC Data Centres計劃在瓦加瓦加建設150億澳元/1.4吉瓦區域性園區（2026年9月30日）
+  【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/
-
-  【持續監測】HyperDC就維多利亞州穆拉布爾400兆瓦/39公頃數據中心園區提交規劃許可申請
-  （2026年9月29日）。
 
   【持續監測】Goodman集團放棄悉尼萊恩科夫12億澳元/90兆瓦「火星計劃」（2026年9月28日）。
   來源：ABC News | https://www.abc.net.au/news/2026-09-28/lane-cove-ai-data-centre-plans-abandoned-by-goodman-group/107205120
 
-  【持續監測】南澳州數據中心管道：開發中7個、已運行12個（RenewMap，2026年9月）。
+  【持續監測】南澳州數據中心建設管道：7個在建項目，12個在運行項目，合計約1,311兆瓦（2026年9月）。
 
-  【持續監測】NTx項目評估草案報告（2026年5月）：PACR預計2026年底至2027年初發布；
-  第一階段預計淨市場效益3.56億至6.4億澳元。
-
-  【持續監測】數據中心工業用地溢價：2025–26年溢價20.4–63.3%。
+  【持續監測】數據中心工業用地溢價：2025至2026年全國同等工業用地可比價值溢價20.4%至63.3%。
   來源：ASCLA
 
-  【持續監測】Firmus Technologies南門計劃合計2.7吉瓦南澳州容量。IPO於2026年10月8日崩潰；
+  【持續監測】Firmus Technologies「南門計劃」合計南澳州2.7吉瓦容量。IPO於2026年10月8日前後崩潰；
   CDC合作正式終止。
 
-  【持續監測】截至2026年6月，約9吉瓦NEM擬建容量中約84%仍處於申請階段（德勤）。
+  【持續監測】約84%的約9吉瓦NEM接入申請仍處於申請階段（德勤，2026年6月）。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-資料來源：Bloomberg (bloomberg.com) | RenewEconomy (reneweconomy.com.au) |
+資料來源：ABC News (abc.net.au) | Bloomberg (bloomberg.com) | RenewEconomy (reneweconomy.com.au) |
 Energy-Storage.News (energy-storage.news) | AEMO (aemo.com.au) | AEMC (aemc.gov.au) |
-ElectraNet (electranet.com.au) | AER (aer.gov.au) |
-SafeAI-Aus / 澳大利亞議會 (safeaiaus.org) | PM&C (pmc.gov.au) |
-Data Center Dynamics (datacenterdynamics.com) | ESD News (esdnews.com.au) |
-WattClarity (wattclarity.com.au) | Certified Strategic (certifiedstrategic.com) |
-Inligo Networks (inligonetworks.com) | GlobeNewsWire / Arizton Advisory (globenewswire.com) |
-ABC News (abc.net.au) | Fortune (fortune.com) | Utility Magazine (utilitymagazine.com.au) |
-JWS Lawyers (jws.com.au) | Lexology (lexology.com) | w.media (w.media) | ASCLA (ascla.org) |
-au.investing.com (au.investing.com) | pv magazine Australia (pv-magazine-australia.com) |
-King & Wood Mallesons (mallesons.com) | SA Government / SA Planning Portal (plan.sa.gov.au) |
-CommBank (commbank.com.au) | Deloitte Access Economics (deloitte.com) | Westpac (westpac.com.au) |
-AirTrunk / tech-insider.org (tech-insider.org) |
-Global Data Center Hub (globaldatacenterhub.com) | RenewMap (renewmap.com.au) |
-The Tech Capital (thetechcapital.com) | Telecompaper (telecompaper.com) |
-Pinsent Masons (pinsentmasons.com) | Global Transmission Report (globaltransmission.info) |
-Dataconomy (dataconomy.com) | TechBriefly (techbriefly.com) |
-TaiyangNews (taiyangnews.info) | Transgrid (transgrid.com.au) |
-Commercial Property Marketing (commercialpropertymarketing.com.au) |
-Smart Energy Council (smartenergy.org.au) | ESG News (esgnews.com) |
-CNN (cnn.com) | pv-tech (pv-tech.org) | 5MU (5mu.com.au) |
-Norton Rose Fulbright (nortonrosefulbright.com) | Dentons (dentons.com) |
-Tilt Renewables (tiltrenewables.com) | Murray Bridge News (murraybridge.news) |
-The Islander Online (theislanderonline.com.au) | ACS (ia.acs.org.au) |
-Data Centre News Weekly (datacentrenews.substack.com) |
-Murray Valley Standard (murrayvalleystandard.com.au) |
-The Daily Guardian (thedailyguardian.com) | SRN News (srnnews.com) |
-AI Weekly (aiweekly.co) | OzArab Media (ozarab.media) |
-Blockspace (blockspace.media) | Daily Advertiser Wagga Wagga (dailyadvertiser.com.au) |
+ElectraNet (electranet.com.au) | AER (aer.gov.au) | SafeAI-Aus (safeaiaus.org) |
+PM&C (pmc.gov.au) | Data Center Dynamics (datacenterdynamics.com) | ESD News (esdnews.com.au) |
+Certified Strategic (certifiedstrategic.com) | Inligo Networks (inligonetworks.com) |
+Fortune (fortune.com) | JWS Lawyers (jws.com.au) | ASCLA (ascla.org) |
+pv magazine Australia (pv-magazine-australia.com) | King & Wood Mallesons (mallesons.com) |
+SA Planning Portal (plan.sa.gov.au) | CommBank (commbank.com.au) |
+Deloitte Access Economics (deloitte.com) | Tech Insider (tech-insider.org) |
+Global Data Center Hub (globaldatacenterhub.com) | The Tech Capital (thetechcapital.com) |
+Pinsent Masons (pinsentmasons.com) | Smart Energy Council (smartenergy.org.au) |
+Dataconomy (dataconomy.com) | The Daily Guardian (thedailyguardian.com) |
+OzArab Media (ozarab.media) | Blockspace (blockspace.media) |
 The Epoch Times (theepochtimes.com) | LGA SA (lga.sa.gov.au) |
-Council Magazine Australia (councilmagazine.com.au) |
-Corrs Chambers Westgarth (corrs.com.au) |
-Investinglive (investinglive.com) | AEMC Policy Assessment (aemc.gov.au) |
-Green Street News (greenstreetnews.com) | Baxtel (baxtel.com) |
-InDaily (indailysa.com.au) | AAP News (aapnews.aap.com.au) |
-Capital Brief (capitalbrief.com) | Port News / AAP (portnews.com.au) |
-ElectraNet NTx Project (ntxproject.com.au) | Briefs.co (briefs.co) |
-Reserve Bank of Australia (rba.gov.au) | ARN (arnnet.com.au) |
-Macquarie Data Centres (macquariedatacentres.com) | DigiCo (digicoinfrastructure.com) |
-Next Capital / Dataspace (dataspace.com.au) | Princeton Digital Group / Baxtel (baxtel.com) |
-Stock Journal (stockjournal.com.au) | RCRTech (rcrtech.com) |
-Climate Energy Finance (climateenergyfinance.org) | MLQ.AI (mlq.ai)
+Green Street News (greenstreetnews.com) | Baxtel (baxtel.com) | InDaily (indailysa.com.au) |
+ElectraNet NTx Project (ntxproject.com.au) | Reserve Bank of Australia (rba.gov.au) |
+Stock Journal (stockjournal.com.au) | RCRTech (rcrtech.com) | MLQ.AI (mlq.ai) |
+5MU (5mu.com.au) | CNN (cnn.com) | au.investing.com (au.investing.com) |
+Global Transmission Report (globaltransmission.info) | pv magazine (pv-magazine.com) |
+TaiyangNews (taiyangnews.info) | Westpac (westpac.com.au) | AirTrunk (airtrunk.com)
