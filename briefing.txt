@@ -1,15 +1,31 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 21 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 22 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-No new updates today.
+• Project Marinus (Marinus Link) Formally Commences Construction — 1,500 MW Tas-Vic HVDC
+  Undersea Cable (22 November 2026) [HIGH RELEVANCE]: Construction has officially commenced on
+  Project Marinus (Marinus Link), the A$3.5B+ undersea HVDC cable project connecting Tasmania
+  to Victoria and adding 1,500 MW of new NEM interconnection capacity. The additional
+  interconnection eases frequency regulation demands on South Australian generators, expands the
+  export pathway for SA's surplus renewable generation, and strengthens the national grid backbone
+  that underpins SA data centre load contracts. Commercial operation is projected for approximately
+  2029–2031.
+  Source: ESD News | https://esdnews.com.au/
 
-  [MONITORING] ElectraNet Eyre Peninsula Grid Crisis: Three Transmission Towers Toppled by Severe Weather,
-  SA Government Questions $300M Upgrade "Failure" (20–21 November 2026) [HIGH RELEVANCE]:
+• Origin Energy Lodges Federal Environmental Approval Application for 500 MW Eraring Battery
+  Expansion — NSW (22 November 2026): Origin Energy has filed for federal environmental approval
+  to expand grid-scale battery storage at the former Eraring coal site (NSW) by 500 MW, the
+  latest in a series of large-scale NEM battery investments that support the all-hours renewable
+  supply tech company buyers require. The application illustrates continued NEM-wide battery
+  scale-up complementing SA's own 4.4 GW BESS fleet.
+  Source: ESD News | https://esdnews.com.au/
+
+  [MONITORING] ElectraNet Eyre Peninsula Grid Crisis: Three Transmission Towers Toppled by Severe
+  Weather, SA Government Questions $300M Upgrade "Failure" (20–21 November 2026) [HIGH RELEVANCE]:
   Three ElectraNet transmission towers were brought down by an extreme weather event, triggering a
   major blackout across the entire Eyre Peninsula — the first significant unplanned outage to affect
   the region since the state's $300M network upgrade was completed. The SA government has opened
@@ -286,25 +302,29 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• Australia's Coalition Pushes Nuclear SMRs as Data Centre Power Source; AEMO Already Reports
-  70% Renewable Share for Data Centres (21 November 2026): Australian Coalition MPs are promoting
-  small modular reactors as an alternative power source for AI data centres, re-energising the
-  nuclear debate one week before the Victorian state election. AEMO data cited in the debate
-  confirms approximately 70% of Australian data centre electricity is already sourced from
-  renewables — reinforcing SA's pre-contracted, renewables-rich Bundey corridor as the
-  commercially and politically lowest-risk supply option for technology company buyers.
-  Source: Nuclear News | https://nuclear-news.net/2026/11/21/2-australia-the-coalitions-latest-energy-delusion-nuclear-powered-data-centres/
+• Albanese Government Foreshadows Federal Ban on New Suburban Data Centres (November 2026)
+  [HIGH RELEVANCE]: The federal government is developing a policy to prohibit new large-scale
+  data centre construction in suburban residential and low-density areas, responding to the wave
+  of community backlash that has stalled or cancelled projects across Sydney and Melbourne (Lane
+  Cove abandoned, Cooks River withdrawn, Victorian councils Maribyrnong/Hume/Brimbank imposing
+  moratoria). If enacted, the ban would structurally direct AI infrastructure investment toward
+  designated industrial precincts and greenfield energy zones with pre-secured transmission —
+  directly amplifying SA's Bundey corridor and rural-industrial sites as the structurally
+  lowest-community-risk locations for hyperscale development on the Australian mainland.
+  South Energy's Bundey-corridor positioning would benefit materially from any such policy.
+  Source: Certified Strategic | https://certifiedstrategic.com/insights/albanese-suburban-data-centre-ban
 
-• Victoria's Electricity Grid Flagged as Inadequate for Surging Data Centre Pipeline (21 November
-  2026) [HIGH RELEVANCE]: A new analysis warns that Victoria's grid has insufficient headroom to
-  absorb the state's data centre pipeline without systemic overload risk. This underscores South
-  Australia's structural advantage: Bundey's pre-secured dedicated 330 kV transmission capacity
-  sits in a grid not yet approaching saturation, making SA meaningfully lower-risk for a buyer
-  compared with both NSW (hourly renewables mandate recommended by parliamentary committee) and
-  Victoria (grid strain + BYO-renewables requirements + election uncertainty).
-  Source: Journalarta | https://journalarta.com/en/2026/11/21/victoria-data-centers-electricity-grid-warnings/
+• ACS: Federal Government Confirms "Policy Pivot" — Mandatory AI and Data Centre Laws to Be
+  Introduced (November 2026) [HIGH RELEVANCE]: The Australian Computer Society reports the
+  government has confirmed a formal pivot from the voluntary National Expectations framework
+  to mandatory legislation for AI infrastructure and large data centres, with draft laws targeting
+  early 2027. Following the PM&C consultation closure (9 October 2026), energy, water, community
+  and workforce obligations will be legally enforceable. Projects securing SA Coordinator-General
+  approval in 2026 may qualify for pre-legislation non-retrospective status (National Cabinet
+  confirmed 26 August 2026), creating a time-limited window for South Energy's portfolio.
+  Source: Australian Computer Society | https://ia.acs.org.au/article/2026/govt-to-introduce-ai--data-centre-laws-in-policy-pivot.html
 
-  ⏰ UPCOMING (7 days): Victoria State Election — 28 November 2026 [HIGH RELEVANCE]: Victorian
+  ⏰ UPCOMING (6 days): Victoria State Election — 28 November 2026 [HIGH RELEVANCE]: Victorian
   data centre approvals queue (~A$5B, 9 pending DAs) frozen until outcome. Election result will
   determine whether the freeze extends further or approvals resume under a new government. Latest
   polls show Coalition ahead of Labor on primary vote — a Coalition win would likely scrap the
@@ -312,7 +332,7 @@ No new updates today.
   unrenewabled buyers.
   Source: ABC News | https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810
 
-  ⏰ UPCOMING (9 days): Joint Select Committee on AI Final Report — due 30 November 2026
+  ⏰ UPCOMING (8 days): Joint Select Committee on AI Final Report — due 30 November 2026
   [HIGH RELEVANCE]: Expected to include data centre governance recommendations.
   Source: SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
@@ -545,23 +565,35 @@ Capital Brief (capitalbrief.com) | ElectraNet NTx Project (ntxproject.com.au) |
 Reserve Bank of Australia (rba.gov.au) | Macquarie Data Centres (macquariedatacentres.com) |
 DigiCo (digicoinfrastructure.com) | Stock Journal (stockjournal.com.au) |
 RCRTech (rcrtech.com) | MLQ.AI (mlq.ai) | Nuclear News (nuclear-news.net) |
-Journalarta (journalarta.com)
+Journalarta (journalarta.com) | Australian Computer Society (acs.org.au)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月21日
+📋 南澳州數據中心土地每日簡報 - 2026年11月22日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-今日無新動態。
+• 馬里納斯連接（Marinus Link）正式開工建設——塔斯馬尼亞至維多利亞1,500兆瓦海底高壓直流電纜
+  （2026年11月22日）【高度相關】：連接塔斯馬尼亞與維多利亞的35億澳元以上海底高壓直流電纜
+  項目馬里納斯連接（Marinus Link）已正式開工建設，為全國電力市場（NEM）新增1,500兆瓦互聯
+  輸電容量。新增互聯通道有助於減輕南澳州發電商的頻率調節壓力，擴大南澳州剩餘可再生能源的
+  出口通道，並強化支撐南澳州數據中心負荷合約的全國電網骨幹網絡。商業運營預計約於2029至2031
+  年開始。
+  來源：ESD News | https://esdnews.com.au/
 
-  【持續監測】ElectraNet艾爾半島電網危機：三座輸電塔被強烈天氣摧毀，南澳州政府質疑3億澳元升級項目
-  「失敗」（2026年11月20至21日）【高度相關】：三座ElectraNet輸電塔在極端天氣事件中倒塌，
+• Origin Energy就新南威爾士州500兆瓦埃爾林電池擴建項目提交聯邦環保審批申請（2026年11月22日）：
+  Origin Energy已就在前埃爾林燃煤電廠址（新南威爾士州）擴建500兆瓦大型電網儲能提交聯邦環保
+  審批申請，是全國電力市場大規模電池儲能投資加速浪潮中的最新案例，配合南澳州自身4.4吉瓦電池
+  儲能系統機組群，共同支撐科技公司買家所要求的全時段可再生能源供應。
+  來源：ESD News | https://esdnews.com.au/
+
+  【持續監測】ElectraNet艾爾半島電網危機：三座輸電塔被強烈天氣摧毀，南澳州政府質疑3億澳元升級
+  項目「失敗」（2026年11月20至21日）【高度相關】：三座ElectraNet輸電塔在極端天氣事件中倒塌，
   導致整個艾爾半島發生大規模停電——這是自南澳州耗資3億澳元完成電網升級以來，該地區首次發生
   重大計劃外停電。南澳州政府已就ElectraNet的應對措施展開審查，質疑此次升級是否提供了足夠的
   韌性投資；ElectraNet將此次事件定性為「非常獨特、極為罕見」的天氣事件，並表示全面恢復供電
@@ -752,27 +784,29 @@ Journalarta (journalarta.com)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 澳大利亞聯盟黨推動核能小型模組化反應爐（SMR）為數據中心供電；AEMO已報告數據中心電力中
-  可再生能源佔比達70%（2026年11月21日）：澳大利亞聯盟黨議員正在推動以小型模組化反應爐作為
-  AI數據中心的替代能源方案，在維多利亞州選舉前一週重新點燃核能討論。辯論中引用的AEMO數據
-  顯示，澳大利亞數據中心電力中約70%已來自可再生能源，進一步鞏固南澳州預先簽約、可再生能源
-  豐富的邦迪走廊在商業和政治上對科技買家而言均為最低風險的供電選擇。
-  來源：Nuclear News | https://nuclear-news.net/2026/11/21/2-australia-the-coalitions-latest-energy-delusion-nuclear-powered-data-centres/
+• 阿爾巴尼斯聯邦政府擬出台禁止新建郊區數據中心政策（2026年11月）【高度相關】：聯邦政府正在
+  制定政策，禁止在住宅及低密度郊區新建大型數據中心，以回應悉尼和墨爾本多個項目引發的社區
+  抵制浪潮（萊恩科夫被迫放棄、庫克斯河項目撤回、馬里比農等維多利亞市議會實施暫停令）。若
+  相關禁令獲得通過，AI基礎設施投資將在結構上更多流向具備預先鎖定輸電接入的工業專區和綠地
+  能源選址，直接放大南澳州邦迪走廊及農村工業選址作為澳大利亞大陸社區風險最低超大規模數據
+  中心選址的結構性優勢，對South Energy的邦迪走廊定位具有重大利好。
+  來源：Certified Strategic | https://certifiedstrategic.com/insights/albanese-suburban-data-centre-ban
 
-• 維多利亞州電網承壓不足以應對數據中心建設浪潮（2026年11月21日）【高度相關】：一份新分析
-  報告警告，維多利亞州電網沒有足夠裕量吸收該州數據中心建設管道，存在系統性超負荷風險。這
-  進一步凸顯南澳州的結構性優勢：邦迪預先鎖定的專用330千伏輸電接入容量所在電網尚未接近飽
-  和，使南澳州相比新南威爾士州（議會委員會建議實施每小時可再生能源強制要求）和維多利亞州
-  （電網承壓＋自帶可再生能源要求＋選舉不確定性）對買家而言風險明顯更低。
-  來源：Journalarta | https://journalarta.com/en/2026/11/21/victoria-data-centers-electricity-grid-warnings/
+• 澳大利亞電腦學會（ACS）：聯邦政府確認「政策重大轉向」——擬推出AI及數據中心強制性立法
+  （2026年11月）【高度相關】：澳大利亞電腦學會報道，聯邦政府已確認正式從自願性《國家期望》
+  框架轉向對AI基礎設施和大型數據中心實施強制性立法，立法草案目標2027年初推出。在PM&C諮詢
+  於2026年10月9日截止後，政府已表明能源、用水、社區及勞動力義務將具有法律約束力。在2026年
+  獲南澳州協調總長審批的項目可能符合非追溯性豁免條件（全國內閣於2026年8月26日確認），為
+  South Energy的項目組合創造時間敏感的申請窗口。
+  來源：ACS | https://ia.acs.org.au/article/2026/govt-to-introduce-ai--data-centre-laws-in-policy-pivot.html
 
-  ⏰ 即將到來（7天後）：維多利亞州選舉——2026年11月28日【高度相關】：維多利亞州約50億澳元、
+  ⏰ 即將到來（6天後）：維多利亞州選舉——2026年11月28日【高度相關】：維多利亞州約50億澳元、
   9項待審數據中心審批凍結至選舉結果公布。最新民調顯示聯盟黨在基本票方面領先工黨——若聯盟
   黨勝選，可能廢除自帶可再生能源強制規定，使墨爾本作為競爭性綠地選址重新對無可再生能源合同
   的買家具吸引力。
   來源：ABC News | https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810
 
-  ⏰ 即將到來（9天後）：AI聯合選委會最終報告——預計2026年11月30日發布【高度相關】。
+  ⏰ 即將到來（8天後）：AI聯合選委會最終報告——預計2026年11月30日發布【高度相關】。
   來源：SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
   ⏰ 即將到來：南澳州《數據中心管理法》——已推遲至選後；南澳州仍處於選舉看守模式
@@ -780,10 +814,7 @@ Journalarta (journalarta.com)
   來源：RenewEconomy | https://reneweconomy.com.au/
 
   【持續監測】新南威爾士州議會委員會建議對數據中心實施每小時100%可再生能源強制匹配要求
-  （2026年11月5日）【高度相關】：新南威爾士州議會委員會報告建議，法律要求所有數據中心按
-  每小時基礎從100%可再生能源採購電力——較該州現行指引更為嚴格，與維多利亞州自帶可再生能
-  源要求方向一致。若此建議被立法化，將收緊澳大利亞兩大主要數據中心市場的可再生能源合規義
-  務，進一步使南澳州預先簽約的邦迪走廊成為結構性最低成本的合規路徑。
+  （2026年11月5日）【高度相關】。
   來源：PV Tech | https://www.pv-tech.org/australia-new-south-wales-urges-data-centres-hourly-renewable-energy-mandate/
 
   【持續監測】澳大利亞氣候部長鮑文在COP31大會上發布雄心勃勃的氣候協議草案（2026年11月17日）
@@ -920,5 +951,5 @@ Stock Journal (stockjournal.com.au) | RCRTech (rcrtech.com) | MLQ.AI (mlq.ai) |
 5MU (5mu.com.au) | CNN (cnn.com) | au.investing.com (au.investing.com) |
 Global Transmission Report (globaltransmission.info) | pv magazine (pv-magazine.com) |
 TaiyangNews (taiyangnews.info) | Westpac (westpac.com.au) | AirTrunk (airtrunk.com) |
-Nuclear News (nuclear-news.net) | Journalarta (journalarta.com) |
-PV Tech (pv-tech.org)
+Nuclear News (nuclear-news.net) | Journalarta (journalarta.com) | PV Tech (pv-tech.org) |
+Australian Computer Society (acs.org.au)
