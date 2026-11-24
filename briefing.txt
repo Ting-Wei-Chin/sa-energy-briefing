@@ -1,12 +1,33 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 23 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 24 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. GRID & CONNECTION OPPORTUNITIES
 
-No new updates today.
+• AEMO Releases Interim Large-Load (IBL) Modelling Guidelines — Stakeholder Feedback
+  Deadline 17 December 2026 [HIGH RELEVANCE]: Following the AEMC Package 2 final rule
+  (12 November), AEMO has published its interim modelling guidelines for large inverter-based
+  loads (IBLs) above the 30 MW threshold, formalising the technical parameters that govern
+  combined-impact assessments of multiple nearby data centre connections. Stakeholders are
+  invited to submit feedback by 17 December 2026, with a final updated set of guidelines
+  planned for January 2027. For South Energy, the Dec 17 window is an opportunity to shape
+  the modelling assumptions that will govern competitive connection applications — and
+  South Energy's pre-secured Bundey 330 kV firm positions already satisfy the technical
+  baseline these guidelines establish.
+  Source: RenewEconomy | https://reneweconomy.com.au/strict-new-grid-connection-rules-for-data-centres-could-provide-inside-running-for-big-battery-projects/
+
+• AEMO 2026–27 Summer Readiness Briefing: Hottest-20% Season Forecast; Batteries Now
+  Triple Daytime Grid Absorption to 13 GWh [HIGH RELEVANCE]: AEMO's chief flagged at a
+  recent market update that the 2026–27 summer is projected to rank among the hottest 20%
+  ever recorded, with risk of new peak demand records across the NEM. SA's grid was
+  specifically noted for transmission adjustment challenges as Project EnergyConnect settles
+  in. On the upside, grid-scale batteries have tripled their daytime absorption to 13 GWh
+  compared to a year ago, and are credited with keeping NEM wholesale prices historically
+  low — a structural advantage for large load buyers seeking low-cost firm supply windows
+  at Bundey during off-peak solar hours.
+  Source: RenewEconomy | https://reneweconomy.com.au/big-batteries-to-boost-reliability-over-summer-says-aemo-as-extreme-weather-meets-changing-demand/
 
   [MONITORING] ElectraNet Eyre Peninsula Grid Crisis: Three Transmission Towers Toppled by Severe
   Weather, SA Government Questions $300M Upgrade "Failure" (20–21 November 2026) [HIGH RELEVANCE]:
@@ -292,31 +313,17 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-• Victorian Election Final Week: All Three Major Parties' Data Centre Positions Now on the Record
-  — 5 Days to Poll (23 November 2026) [HIGH RELEVANCE]: With five days to the 28 November
-  Victorian state election, the competing policy platforms are now fully articulated. Labor (incumbent,
-  Premier Ben Carroll) confirms it will maintain the BYO-renewables mandate — new data centres must
-  source their own renewable energy and storage and fund associated grid upgrades. The Coalition
-  (opposition, Jess Wilson) will allow gas to power data centres and has explicitly declined to match
-  Labor's renewable pledge, the clearest indication yet that a Coalition win would re-open Melbourne
-  to buyers without contracted renewable supply. The Greens are calling for a full moratorium and
-  mandatory 100% newly-built renewable energy. Separately, internal Victorian government briefings
-  disclosed to media reveal that energy officials warned the government its push for up to A$25B in
-  data centre investment could significantly strain the state's electricity grid. With Victoria's
-  approvals queue holding A$5B+ in frozen DAs, the election outcome on 28 November will
-  materially determine whether Melbourne re-enters direct competition with SA's Bundey corridor for
-  tech company buyers. South Energy's pre-contracted Bundey corridor satisfies any BYO-renewables
-  obligation and is structurally insulated from the outcome of the Victorian vote.
+  ⏰ UPCOMING (4 days): Victoria State Election — 28 November 2026 [HIGH RELEVANCE]: With four
+  days to poll, the three-way contest between Labor (BYO-renewables mandate), the Coalition
+  (gas allowed, no renewable pledge) and the Greens (moratorium) is set. Victorian data centre
+  approvals queue (~A$5B, 9 pending DAs) remains frozen until outcome. A Coalition win would
+  reopen Melbourne to buyers without contracted renewable supply; Labor would maintain the BYO
+  mandate. South Energy's pre-contracted Bundey corridor satisfies any BYO-renewables obligation
+  and is structurally insulated from the outcome.
   Sources: ABC News | https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574
            RenewEconomy | https://reneweconomy.com.au/victorian-labor-toes-federal-line-on-byo-renewables-for-data-centres-coalition-still-pushing-gas/
-           Journalarta | https://journalarta.com/en/2026/11/21/victoria-data-centers-electricity-grid-warnings/
 
-  ⏰ UPCOMING (5 days): Victoria State Election — 28 November 2026 [HIGH RELEVANCE]: Victorian
-  data centre approvals queue (~A$5B, 9 pending DAs) frozen until outcome. See above for full
-  party policy positions now on the record.
-  Source: ABC News | https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810
-
-  ⏰ UPCOMING (7 days): Joint Select Committee on AI Final Report — due 30 November 2026
+  ⏰ UPCOMING (6 days): Joint Select Committee on AI Final Report — due 30 November 2026
   [HIGH RELEVANCE]: Expected to include data centre governance recommendations.
   Source: SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
@@ -413,25 +420,35 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-• South Australia Identified as Top Destination to Absorb "Orphaned" Data Centre Projects Rejected
-  Elsewhere in Australia (November 2026) [HIGH RELEVANCE]: The Mandarin reports that South Australia
-  is actively positioning itself to attract data centre projects that have been blocked or withdrawn
-  from Sydney and Melbourne due to community backlash, planning refusals, and the introduction of
-  strict BYO-renewables and buffer-zone requirements in NSW and Victoria. SA's streamlined
-  Coordinator-General approval pathway, explicit government endorsement of gas firming, absence of a
-  residential-proximity BYO-renewables mandate, and established industrial energy precincts are cited
-  as the differentiating factors attracting displaced capital. For South Energy, this confirms
-  accelerating buyer interest in SA parcels, underscoring urgency in securing Bundey-corridor and
-  industrial-zoned land positions ahead of intensifying competition.
+• IREN Acquires Former School at Eudunda, SA for Bundey Campus Construction Worker
+  Accommodation (23 November 2026) [HIGH RELEVANCE]: IREN has signed a purchase agreement
+  for a former school at Eudunda, South Australia, to house construction and operational
+  workers for its A$10B, 800 MW Bundey data centre campus. The acquisition confirms active
+  pre-construction logistics mobilisation is under way ahead of IREN's targeted 2028
+  energisation start. Eudunda is located approximately 110 km north of Adelaide and sits
+  close to the Bundey 330 kV substation that underpins South Energy's own pre-secured
+  transmission corridor. The land purchase is subject to SA government approval; it signals
+  IREN's commitment to scale and that the construction workforce pipeline at Bundey is
+  becoming a physical reality — which raises both competitive pressure and buyer-readiness
+  signals in the corridor.
+  Sources: KuCoin | https://www.kucoin.com/news/flash/iren-acquires-former-school-in-south-australia-for-800mw-data-center-project
+  Capital Brief | https://www.capitalbrief.com/briefing/iren-announces-south-australia-data-centre-campus-cc4cb085-d612-45e7-aee6-ed12b7c7e6b8/
+
+  [MONITORING] South Australia Identified as Top Destination to Absorb "Orphaned" Data Centre
+  Projects Rejected Elsewhere in Australia (November 2026) [HIGH RELEVANCE]: The Mandarin reports
+  that South Australia is actively positioning itself to attract data centre projects that have been
+  blocked or withdrawn from Sydney and Melbourne due to community backlash, planning refusals, and
+  strict BYO-renewables and buffer-zone requirements in NSW and Victoria. SA's Coordinator-General
+  approval pathway, gas firming endorsement, and established industrial energy precincts are cited
+  as the differentiating factors. For South Energy, this confirms accelerating buyer interest in
+  SA parcels ahead of intensifying competition.
   Source: The Mandarin | https://www.themandarin.com.au/325596-south-australia-positions-to-rehome-data-centre-orphans/
 
   [MONITORING] Quantum DC Pauses Tungkillo Project — November 20–21 Community Sessions Cancelled
   [HIGH RELEVANCE]: Quantum DC has formally paused its 1,200 MW Adelaide-area data centre proposal,
-  cancelling the community information sessions scheduled for 20–21 November at the Mannum Leisure
-  Centre. The company will not seek development approval this year and will instead undertake a
-  longer-term engagement programme after receiving more than 350 community contacts and 432 questions
-  from residents. The pause illustrates growing community-resistance risk for greenfield SA proposals
-  outside established industrial/energy precincts.
+  cancelling community information sessions after receiving 350+ community contacts and 432 questions.
+  The pause illustrates growing community-resistance risk for greenfield SA proposals outside
+  established industrial/energy precincts.
   Sources: Stock Journal | https://www.stockjournal.com.au/story/9385313/tungkillo-data-centre-plan-faces-concerns-at-community-forum/
   ABC News | https://www.abc.net.au/news/2026-11-12/data-centre-industry-butts-up-against-community-challenges/107379250
   5MU | https://www.5mu.com.au/local-news/tungkillo-data-centre-developer-pauses-plans-after-community-backlash/
@@ -546,7 +563,7 @@ Inligo Networks (inligonetworks.com) | GlobeNewsWire / Arizton Advisory (globene
 Fortune (fortune.com) | Utility Magazine (utilitymagazine.com.au) |
 JWS Lawyers (jws.com.au) | Lexology (lexology.com) | ASCLA (ascla.org) |
 au.investing.com (au.investing.com) | pv magazine Australia (pv-magazine-australia.com) |
-King & Wood Mallesons (mallesons.com) | SA Government / SA Planning Portal (plan.sa.gov.au) |
+King & Wood Mallesons (mallesons.com) | SA Planning Portal (plan.sa.gov.au) |
 CommBank (commbank.com.au) | Deloitte Access Economics (deloitte.com) | Westpac (westpac.com.au) |
 Tech Insider (tech-insider.org) | Global Data Center Hub (globaldatacenterhub.com) |
 RenewMap (renewmap.com.au) | The Tech Capital (thetechcapital.com) |
@@ -565,26 +582,41 @@ Reserve Bank of Australia (rba.gov.au) | Macquarie Data Centres (macquariedatace
 DigiCo (digicoinfrastructure.com) | Stock Journal (stockjournal.com.au) |
 RCRTech (rcrtech.com) | MLQ.AI (mlq.ai) | Nuclear News (nuclear-news.net) |
 Journalarta (journalarta.com) | Australian Computer Society (acs.org.au) |
-The Mandarin (themandarin.com.au) | SBS News (sbs.com.au)
+The Mandarin (themandarin.com.au) | SBS News (sbs.com.au) | KuCoin (kucoin.com)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月23日
+📋 南澳州數據中心土地每日簡報 - 2026年11月24日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔌 1. 電網接入機會
 
-今日無新動態。
+• AEMO發布大型負荷（IBL）臨時建模指引——利益相關方反饋截止日期2026年12月17日
+  【高度相關】：繼AEMC第二套方案最終規則（11月12日）生效後，AEMO已發布針對30兆瓦門檻以上
+  大型逆變器負荷（IBL）的臨時建模指引，明確規定了評估多個相鄰數據中心接入綜合影響的技術參數。
+  利益相關方可在2026年12月17日前提交反饋，最終更新版指引計劃於2027年1月發布。對South Energy
+  而言，12月17日反饋窗口是影響競爭性接入申請建模假設的重要機會——而South Energy預先鎖定的
+  邦迪330千伏確定性輸電接入位置，已完全滿足這些指引所確立的技術基線要求。
+  來源：RenewEconomy | https://reneweconomy.com.au/strict-new-grid-connection-rules-for-data-centres-could-provide-inside-running-for-big-battery-projects/
 
-  【持續監測】ElectraNet艾爾半島電網危機：三座輸電塔被強烈天氣摧毀，南澳州政府質疑3億澳元升級
-  項目「失敗」（2026年11月20至21日）【高度相關】：三座ElectraNet輸電塔在極端天氣事件中倒塌，
-  導致整個艾爾半島發生大規模停電。南澳州政府已展開審查。此次事件對South Energy電網接入策略具
-  有直接影響：（1）暴露艾爾半島輸電走廊的物理脆弱性；（2）印證邦迪–阿德萊德NTx走廊等內陸
-  330千伏接入具有更優韌性；（3）可能加速AER對ElectraNet待審資本開支申請的審查。
+• AEMO 2026至2027年夏季備電簡報：預測史上最熱20%夏季；電池儲能日間電網吸收量增至
+  13吉瓦時【高度相關】：AEMO首席執行官在近期市場更新發布會上指出，2026至2027年夏季預計
+  將躋身有史以來最熱的20%夏季之列，全國電力市場（NEM）可能創下新的峰值需求紀錄。南澳州
+  電網因互聯電網EnergyConnect項目磨合而受到特別關注，傳輸調節面臨一定挑戰。另一方面，大型
+  電網電池儲能的日間吸收量已是一年前的三倍，達13吉瓦時，並被認定是推動NEM批發電價維持歷史
+  低位的重要因素——這為尋求邦迪走廊低成本穩定電力供應窗口（特別是太陽能離峰時段）的大型
+  負荷買家提供了結構性優勢。
+  來源：RenewEconomy | https://reneweconomy.com.au/big-batteries-to-boost-reliability-over-summer-says-aemo-as-extreme-weather-meets-changing-demand/
+
+  【持續監測】ElectraNet艾爾半島電網危機：三座輸電塔被強烈天氣摧毀，南澳州政府質疑3億澳元
+  升級項目「失敗」（2026年11月20至21日）【高度相關】：三座ElectraNet輸電塔在極端天氣事件
+  中倒塌，導致整個艾爾半島發生大規模停電。南澳州政府已展開審查。此次事件對South Energy電網
+  接入策略具有直接影響：（1）暴露艾爾半島輸電走廊的物理脆弱性；（2）印證邦迪–阿德萊德NTx
+  走廊等內陸330千伏接入具有更優韌性；（3）可能加速AER對ElectraNet待審資本開支申請的審查。
   來源：ABC News | https://www.abc.net.au/news/2026-11-21/eyre-peninsula-blackout-puts-scrutiny-on-electranet/107410274
 
   【持續監測】AEMC最終規則「第二套方案」——30兆瓦大型負荷門檻與綜合影響評估正式生效
@@ -774,26 +806,16 @@ The Mandarin (themandarin.com.au) | SBS News (sbs.com.au)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-• 維多利亞州選舉最後一週：三大政黨數據中心政策立場全部公開——距投票日僅剩5天
-  （2026年11月23日）【高度相關】：距2026年11月28日維多利亞州議會選舉還有五天，三大主要政黨
-  的數據中心政策立場現已明確公開。工黨（現任政府，總理本·卡羅爾）確認將維持「自帶可再生能源」
-  強制要求——新數據中心必須自行供應可再生能源及儲能設施，並承擔相關電網升級費用。聯盟黨（反
-  對黨，傑絲·威爾遜）允許使用天然氣為數據中心供電，且明確拒絕跟進工黨的可再生能源承諾，這
-  是迄今最清晰的信號：若聯盟黨勝選，墨爾本將重新向尚未簽署可再生能源合約的買家開放。綠黨呼
-  籲對所有數據中心實施全面暫停令，並要求100%使用新建可再生能源。另有媒體披露的維多利亞州政府
-  內部簡報顯示，能源官員曾警告政府，高達250億澳元的數據中心投資推進可能大幅加劇該州電網壓力。
-  隨著維多利亞州審批隊列積壓逾50億澳元的凍結開發申請，11月28日的選舉結果將直接決定墨爾本是否
-  重新與南澳州邦迪走廊爭奪科技公司買家。South Energy預先鎖定的邦迪走廊已滿足任何自帶可再生能
-  源要求，在結構上不受維多利亞州選舉結果影響。
+  ⏰ 即將到來（4天後）：維多利亞州選舉——2026年11月28日【高度相關】：距投票日僅剩四天，
+  三黨之爭格局已明：工黨（現任，維持「自帶可再生能源」強制要求）、聯盟黨（允許天然氣，
+  明確拒絕可再生能源承諾）、綠黨（呼籲暫停令）。維多利亞州約50億澳元、9項待審數據中心
+  開發申請持續凍結至選舉結果公布。聯盟黨若勝選，墨爾本將重新向尚未簽署可再生能源合約的
+  買家開放；工黨若獲勝，自帶可再生能源強制要求將維持。South Energy預先鎖定的邦迪走廊
+  已滿足任何自帶可再生能源義務，結構上不受維多利亞州選舉結果影響。
   來源：ABC News | https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574
          RenewEconomy | https://reneweconomy.com.au/victorian-labor-toes-federal-line-on-byo-renewables-for-data-centres-coalition-still-pushing-gas/
-         Journalarta | https://journalarta.com/en/2026/11/21/victoria-data-centers-electricity-grid-warnings/
 
-  ⏰ 即將到來（5天後）：維多利亞州選舉——2026年11月28日【高度相關】：維多利亞州約50億澳元、
-  9項待審數據中心審批凍結至選舉結果公布。各黨政策立場詳見上述新聞。
-  來源：ABC News | https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810
-
-  ⏰ 即將到來（7天後）：AI聯合選委會最終報告——預計2026年11月30日發布【高度相關】。
+  ⏰ 即將到來（6天後）：AI聯合選委會最終報告——預計2026年11月30日發布【高度相關】。
   來源：SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
   ⏰ 即將到來：南澳州《數據中心管理法》——已推遲至選後；南澳州仍處於選舉看守模式
@@ -856,17 +878,21 @@ The Mandarin (themandarin.com.au) | SBS News (sbs.com.au)
 
 🗺️ 5. 土地、規劃與市場動態
 
-• 南澳州被認定為吸收被其他州拒絕的「孤兒」數據中心項目的首選目的地（2026年11月）【高度相關】：
-  《The Mandarin》報道，南澳州正積極將自身定位為澳大利亞首選管轄區，吸引因悉尼和墨爾本社區
-  強烈反對、規劃否決或嚴格的「自帶可再生能源」及緩衝區要求而遭阻的數據中心項目。南澳州的差異
-  化優勢包括：經協調總長審批的精簡審批通道、政府明確支持燃氣調頻、無住宅近鄰「自帶可再生能源」
-  強制要求，以及完善的工業能源專區。對South Energy而言，此消息印證了各方買家對南澳州地塊的日益
-  濃厚興趣，進一步凸顯在競爭加劇前鎖定邦迪走廊及工業分區南澳州地塊的緊迫性。
+• IREN在南澳州尤敦達收購廢棄學校，用於邦迪園區建設工人住宿（2026年11月23日）【高度相關】：
+  IREN已簽署協議，收購南澳州尤敦達（Eudunda）一所廢棄學校，用於為其100億澳元、800兆瓦邦迪
+  數據中心園區的建設和運營工人提供住宿。此次收購確認了積極的前期建設後勤動員工作正在推進，
+  IREN正朝著目標2028年投運日期備戰施工。尤敦達位於阿德萊德以北約110公里，緊鄰支撐South Energy
+  預先鎖定輸電通道的邦迪330千伏變電站。土地收購尚待南澳州政府審批。此次動作既是IREN規模承諾
+  的信號，也表明邦迪走廊的建設人力管道正在成為物理現實——這對走廊內競爭壓力和買家成熟度信號
+  均有重要意義。
+  來源：KuCoin | https://www.kucoin.com/news/flash/iren-acquires-former-school-in-south-australia-for-800mw-data-center-project
+  Capital Brief | https://www.capitalbrief.com/briefing/iren-announces-south-australia-data-centre-campus-cc4cb085-d612-45e7-aee6-ed12b7c7e6b8/
+
+  【持續監測】南澳州被認定為吸收被其他州拒絕的「孤兒」數據中心項目的首選目的地（2026年11月）
+  【高度相關】。
   來源：The Mandarin | https://www.themandarin.com.au/325596-south-australia-positions-to-rehome-data-centre-orphans/
 
-  【持續監測】Quantum DC暫停東吉洛項目——11月20至21日社區信息會取消【高度相關】：Quantum DC
-  已正式暫停其1,200兆瓦阿德萊德地區數據中心提案，取消原定於11月20至21日在曼納姆休閒中心舉行
-  的社區信息會。
+  【持續監測】Quantum DC暫停東吉洛項目——11月20至21日社區信息會取消【高度相關】。
   來源：Stock Journal | https://www.stockjournal.com.au/story/9385313/tungkillo-data-centre-plan-faces-concerns-at-community-forum/
   ABC News | https://www.abc.net.au/news/2026-11-12/data-centre-industry-butts-up-against-community-challenges/107379250
   5MU | https://www.5mu.com.au/local-news/tungkillo-data-centre-developer-pauses-plans-after-community-backlash/
@@ -892,7 +918,7 @@ The Mandarin (themandarin.com.au) | SBS News (sbs.com.au)
   來源：InDaily | https://www.indailysa.com.au/news/just-in/2026/11/06/major-data-centre-proposal-leaves-sa-council-in-the-dark
 
   【持續監測】維多利亞州約50億澳元數據中心審批隊列在選舉看守期間凍結（2026年11月3日）
-  【高度相關】：維多利亞州選舉定於2026年11月28日。
+  【高度相關】。
   來源：Certified Strategic | https://certifiedstrategic.com/insights/victoria-data-centre-approvals-caretaker-election
 
   【持續監測】南澳州地方政府協會（LGA SA）呼籲議會在數據中心規劃中擁有更大話語權（2026年）
@@ -955,4 +981,4 @@ Global Transmission Report (globaltransmission.info) | pv magazine (pv-magazine.
 TaiyangNews (taiyangnews.info) | Westpac (westpac.com.au) | AirTrunk (airtrunk.com) |
 Nuclear News (nuclear-news.net) | Journalarta (journalarta.com) | PV Tech (pv-tech.org) |
 Australian Computer Society (acs.org.au) | The Mandarin (themandarin.com.au) |
-SBS News (sbs.com.au)
+SBS News (sbs.com.au) | KuCoin (kucoin.com) | Capital Brief (capitalbrief.com)
