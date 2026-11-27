@@ -1,6 +1,6 @@
 === ENGLISH ===
 
-📋 SA DATA CENTER LAND BRIEFING - 26 November 2026
+📋 SA DATA CENTER LAND BRIEFING - 27 November 2026
 Prepared for: South Energy | Land Acquisition & Project Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -95,7 +95,14 @@ No new updates today.
 
 ☀️ 2. RENEWABLE ENERGY & SITE CONDITIONS
 
-No new updates today.
+• Gingerah Energy Files Plans for Gigawatt-Scale Off-Grid Data Centre Campus in Western Australia
+  [HIGH RELEVANCE]: Gingerah Energy has filed plans for a 1 GW off-grid data centre campus in WA, powered
+  entirely by a co-located 6.7 GW renewable hub (solar + wind), 5 GW of battery storage, and 1.5 GW of
+  gas firming — all disconnected from the SWIS grid. While WA-based and outside the NEM, this model
+  establishes a new benchmark for fully self-sufficient greenfield campuses and signals that buyers unable
+  to secure NEM grid connections are now exploring off-grid architectures; this pressure redirects
+  NEM-connected demand toward proven corridors such as Bundey.
+  Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/gigawatt-scale-off-grid-data-center-campus-proposed-in-western-australia/
 
   [MONITORING] EDF Australia Acquires 250 MW Battery Project in NSW (~24 November 2026): French
   state-owned utility EDF's Australian subsidiary acquired a 250 MW battery storage project in NSW,
@@ -158,20 +165,15 @@ No new updates today.
 
 🏢 3. TECH COMPANY DEMAND - POTENTIAL BUYERS
 
-• Australian Business Investment Surges 12.2% in September Quarter — Data Centres Drive IT Sector
-  86.7% Jump [HIGH RELEVANCE]: The Australian Bureau of Statistics confirmed total business investment
-  rose 12.2% in Q3 2026, with the information media and telecommunications sector — the category
-  encompassing data centre operators — posting the largest gain of any industry at 86.7%, providing direct
-  statistical confirmation that data centre capital expenditure is now the primary driver of the national
-  investment cycle. For South Energy, this macro validation reinforces buyer-side conviction as structural
-  rather than speculative, and supports premium asset pricing for Bundey corridor development-ready projects.
+No new updates today.
+
+  [MONITORING] Australian Business Investment Surges 12.2% in September Quarter — Data Centres Drive IT
+  Sector 86.7% Jump [HIGH RELEVANCE]: ABS confirmed data centre capex is now the primary driver of the
+  national investment cycle. (Covered 26 November.)
   Source: Technology.org | https://www.technology.org/2026/11/26/australia-business-investment-data-centres-september-quarter-2026/
 
   [MONITORING] Anthropic Confirms Lease with ADC/Dexus for 2.16 GW Western Downs, Queensland Campus
-  [HIGH RELEVANCE]: Anthropic's Queensland anchor implies it may also be in market for a southern/SA
-  greenfield option to diversify geography and satisfy federal renewable obligations; Bundey corridor's
-  pre-secured firm transmission and co-located renewable supply directly addresses the requirements of
-  this category of buyer.
+  [HIGH RELEVANCE].
   Source: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/anthropic-signs-lease-with-australian-data-centres-in-western-downs-queensland/
 
   [MONITORING] Singapore's Princeton Digital Group (PDG) Files for First Australian Data Center Campus —
@@ -285,15 +287,27 @@ No new updates today.
 
 📜 4. POLICY & REGULATION (SA + NATIONAL)
 
-  ⏰ UPCOMING (2 days): Victoria State Election — 28 November 2026 [HIGH RELEVANCE]: Labor (BYO-renewables
-  mandate), Coalition (gas allowed, no renewable pledge), Greens (moratorium) — now 2 days to poll. The
-  A$5B Victorian data centre approvals queue remains frozen until outcome. A Coalition win would reopen
-  Melbourne to buyers without contracted renewable supply; Labor would maintain the BYO mandate. South
-  Energy's Bundey corridor satisfies any BYO-renewables obligation and is insulated from the outcome.
-  Sources: ABC News | https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574
-           RenewEconomy | https://reneweconomy.com.au/victorian-labor-toes-federal-line-on-byo-renewables-for-data-centres-coalition-still-pushing-gas/
+• ⏰ TODAY — Victoria State Election (28 November 2026) [HIGH RELEVANCE]: Polls close today. Pre-election
+  analysis (ABC News, 26 November 2026) indicates Liberal Party leader Jess Wilson is expected to win a
+  substantial majority, ending 12 years of Labor government. A Liberal win would remove Victoria's BYO-
+  renewable mandate for data centres and unfreeze the A$5B approvals queue covering nine stalled projects.
+  A Labor retention would keep the renewable obligation in place. Either outcome is structurally positive for
+  SA: a Liberal win releases "orphan" Victorian projects that may seek alternative greenfield sites, while
+  a Labor win sustains the mandate that South Energy's Bundey corridor already satisfies.
+  Sources: ABC News | https://www.abc.net.au/news/2026-11-26/data-centre-anger-vic-election-political-issue/107425482
+           inkl/Guardian | https://www.inkl.com/news/days-out-from-the-victorian-election-nine-datacentre-projects-await-approval-what-will-their-fate-be&gsessionid=Z2g1IStP91bUCI51A8if9nvW1rqsSQIV68q5x4rUV2YhIa-VlDbVsQ
 
-  ⏰ UPCOMING (4 days): Joint Select Committee on AI Final Report — due 30 November 2026 [HIGH RELEVANCE]:
+• Federal Government Drops Mandatory Data Centre Renewable Energy Mandate [HIGH RELEVANCE]: Reports from
+  Data Center Dynamics and the Australian Computer Society confirm the federal government has abandoned its
+  plan to mandate that large data centres source a portion of their power from new renewable generation.
+  The Prime Minister has conceded ground on the renewable energy plan, completing the retreat already begun
+  when QLD, NT and SA won exemptions earlier this month. SA's existing gas-firming model and Bundey
+  corridor's BYO-renewable supply now represent the most commercially flexible and politically resilient
+  structure in the national market — satisfying buyers who want renewables and those who cannot commit to them.
+  Sources: Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australian-govt-drops-plans-for-data-center-renewable-energy-mandate-report/
+           ACS | https://ia.acs.org.au/article/2026/pm-gives-ground-on-data-centre-renewable-energy-plan.html
+
+  ⏰ UPCOMING (3 days): Joint Select Committee on AI Final Report — due 30 November 2026 [HIGH RELEVANCE]:
   Expected to include data centre governance recommendations.
   Source: SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
@@ -301,14 +315,9 @@ No new updates today.
   (since 4 November 2026). Election outcome will determine legislative pathway [HIGH RELEVANCE].
   Source: RenewEconomy | https://reneweconomy.com.au/
 
-• Domestic Gas Reservation Scheme Passes Federal Parliament [HIGH RELEVANCE]: The federal Domestic Gas
-  Reservation Scheme has passed through parliament with bipartisan support, requiring gas exporters to
-  reserve 20% of their production for domestic use from 2028; Western Australia — which operates its own
-  reservation scheme — is exempted from the national legislation. The law directly strengthens the domestic
-  gas supply security underpinning SA Energy Minister Koutsantonis's gas-firming endorsement for SA data
-  centres, lowers long-term supply-side risk for projects relying on gas backup generation at the Bundey
-  corridor, and reinforces SA's BYO-firming model as the most defensible approach for large-load buyers
-  seeking regulatory certainty under the evolving national framework.
+  [MONITORING] Domestic Gas Reservation Scheme Passes Federal Parliament [HIGH RELEVANCE]: Requires gas
+  exporters to reserve 20% production for domestic use from 2028; reinforces SA BYO-firming model.
+  (Covered 26 November.)
   Source: ESD News | https://esdnews.com.au/domestic-gas-reservation-scheme-passes-parliament/
 
   [MONITORING] Albanese Government Foreshadows Federal Ban on New Suburban Data Centres (November 2026)
@@ -386,7 +395,23 @@ No new updates today.
 
 🗺️ 5. LAND, PLANNING & MARKET MOVES
 
-No new updates today.
+• Nine Victorian Data Centre Projects Await Post-Election Fate — Orphan Pipeline Signals SA Opportunity
+  [HIGH RELEVANCE]: With Victoria's state election on today (28 November 2026), nine data centre development
+  applications covering significant gigawatt-class capacity are frozen in the approvals queue. Analysis
+  published in the days before the poll shows that the outcome will determine whether these projects proceed
+  under a Liberal gas-and-renewables framework or a Labor BYO-renewables mandate — or whether developers
+  abandon Victoria entirely and redirect to SA. South Australia, already identified as the top destination
+  for "orphaned" projects rejected elsewhere, benefits under any outcome.
+  Source: inkl/Guardian | https://www.inkl.com/news/days-out-from-the-victorian-election-nine-datacentre-projects-await-approval-what-will-their-fate-be&gsessionid=Z2g1IStP91bUCI51A8if9nvW1rqsSQIV68q5x4rUV2YhIa-VlDbVsQ
+
+• Australia's A$21 Billion Regional Data Centre Land Opportunity Puts Pressure on Productive Farmland
+  [HIGH RELEVANCE]: New analysis (DAS/Business News Australia) finds that the cumulative footprint of
+  proposed regional data centre campuses across Australia represents a A$21 billion land acquisition
+  opportunity, but warns that development is increasingly targeting productive agricultural land —
+  intensifying community and council opposition in rural areas. For South Energy, this underscores the
+  premium value of sites such as the Bundey corridor where land use conflicts are lower and Coordinator-
+  General approval pathways are established.
+  Source: Business News Australia | https://www.businessnewsaustralia.com/articles/australias-21b-regional-data-centre-land-opportunity-puts-pressure-on-productive-farmland-das-analysis-warns.html
 
   [MONITORING] IREN Acquires Former School at Eudunda, SA for Bundey Campus Construction Worker
   Accommodation (23 November 2026) [HIGH RELEVANCE]: Purchase confirms active pre-construction logistics
@@ -531,14 +556,15 @@ DigiCo (digicoinfrastructure.com) | Stock Journal (stockjournal.com.au) |
 RCRTech (rcrtech.com) | MLQ.AI (mlq.ai) | Nuclear News (nuclear-news.net) |
 Journalarta (journalarta.com) | Australian Computer Society (acs.org.au) |
 The Mandarin (themandarin.com.au) | SBS News (sbs.com.au) | KuCoin (kucoin.com) |
-Technology.org (technology.org)
+Technology.org (technology.org) | Business News Australia (businessnewsaustralia.com) |
+inkl / Guardian Australia (inkl.com) | w.media (w.media)
 
 
 ================================================
 🇨🇳 繁體中文版本
 ================================================
 
-📋 南澳州數據中心土地每日簡報 - 2026年11月26日
+📋 南澳州數據中心土地每日簡報 - 2026年11月27日
 準備人：South Energy | 土地獲取與項目整合
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -628,10 +654,15 @@ Technology.org (technology.org)
 
 ☀️ 2. 可再生能源與選址條件
 
-今日無新動態。
+• Gingerah Energy就西澳州吉瓦規模離網數據中心園區提交規劃方案【高度相關】：Gingerah Energy已
+  就一個1吉瓦離網數據中心園區提交規劃方案，完全由配套建設的6.7吉瓦可再生能源樞紐（太陽能加
+  風能）、5吉瓦電池儲能及1.5吉瓦天然氣調頻電力供電，整個系統脫離西澳州SWIS電網獨立運行。
+  儘管該項目位於西澳州而非NEM系統，但這種全自給自足的離網模式為大型綠地園區樹立了新基準，
+  表明無法在NEM取得電網接入的買家正轉向離網架構，進一步凸顯了邦迪等已獲確定性NEM接入位置的
+  稀缺價值。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/gigawatt-scale-off-grid-data-center-campus-proposed-in-western-australia/
 
-  【持續監測】EDF澳大利亞以收購方式進入新南威爾士州250兆瓦電池市場（約2026年11月24日）：法國
-  國有電力企業EDF旗下澳大利亞子公司完成對新南威爾士州一個250兆瓦電池儲能項目的收購，標誌著歐洲
+  【持續監測】EDF澳大利亞以收購方式進入新南威爾士州250兆瓦電池市場（約2026年11月24日）：歐洲
   機構資本正積極部署至澳大利亞電網規模儲能資產，間接強化South Energy邦迪走廊預先鎖定的清潔能源
   位置之溢價邏輯。
   來源：ESD News | https://esdnews.com.au/
@@ -682,17 +713,14 @@ Technology.org (technology.org)
 
 🏢 3. 科技公司需求（潛在買家）
 
-• 澳大利亞2026年第三季度商業投資激增12.2%——數據中心推動資訊科技行業增長86.7%【高度相關】：
-  澳大利亞統計局確認，2026年第三季度整體商業投資增長12.2%，其中涵蓋數據中心運營商的資訊媒體
-  及電信業錄得各行業中最大增幅86.7%，從統計數據層面直接確認數據中心資本支出已成為本國投資周期
-  的主要驅動力。對South Energy而言，這一宏觀數據驗證了買方信心具有結構性而非投機性特徵，支持
-  邦迪走廊已開發完善項目的溢價定價策略。
+今日無新動態。
+
+  【持續監測】澳大利亞2026年第三季度商業投資激增12.2%——數據中心推動資訊科技行業增長86.7%
+  【高度相關】（已於11月26日覆蓋）。
   來源：Technology.org | https://www.technology.org/2026/11/26/australia-business-investment-data-centres-september-quarter-2026/
 
   【持續監測】Anthropic確認與ADC/Dexus就2.16吉瓦昆士蘭達爾比（Western Downs）園區簽署租約
-  【高度相關】：Anthropic錨定昆士蘭意味著其可能同時在市場上尋找南澳州等南部/西部的綠地選址以分散
-  地理風險，並滿足聯邦可再生能源義務——邦迪走廊預先鎖定的確定性輸電及協同可再生能源供應正好直接
-  回應此類買家的需求。
+  【高度相關】。
   來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/anthropic-signs-lease-with-australian-data-centres-in-western-downs-queensland/
 
   【持續監測】新加坡普林斯頓數字集團（PDG）就首個澳大利亞數據中心園區提交規劃申請——100兆瓦、
@@ -711,7 +739,7 @@ Technology.org (technology.org)
 
   【持續監測】麥格理數據中心就悉尼200兆瓦新園區提交規劃申請——投資約20億澳元（2026年11月）
   【高度相關】。
-  來源：Data Center Dynamics | https://www.datacenterdynamics.com.au/en/news/macquarie-data-centres-eyes-200mw-campus-in-sydney-australia/
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/macquarie-data-centres-eyes-200mw-campus-in-sydney-australia/
 
   【持續監測】AirTrunk與歐洲能源簽署逾1吉瓦新南威爾士州可再生能源協議（2026年11月11日）。
   來源：ESD News | https://esdnews.com.au/airtrunk-and-european-energy-ink-1gw-renewables-deal/
@@ -763,29 +791,34 @@ Technology.org (technology.org)
 
 📜 4. 政策與法規（南澳州 + 全國）
 
-  ⏰ 即將到來（2天後）：維多利亞州選舉——2026年11月28日（星期六）【高度相關】：距投票日
-  僅剩兩天，三黨之爭格局已明：工黨（自帶可再生能源強制要求）、聯盟黨（允許天然氣）、綠黨
-  （呼籲暫停令）。維多利亞州約50億澳元、9項待審數據中心開發申請持續凍結至選舉結果公布。
-  South Energy預先鎖定的邦迪走廊已滿足任何自帶可再生能源義務，結構上不受維多利亞州選舉結果影響。
-  來源：ABC News | https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574
-         RenewEconomy | https://reneweconomy.com.au/victorian-labor-toes-federal-line-on-byo-renewables-for-data-centres-coalition-still-pushing-gas/
+• ⏰ 今日——維多利亞州選舉（2026年11月28日）【高度相關】：今日投票結束。選前分析（ABC News，
+  2026年11月26日）顯示，自由黨領袖賈斯·威爾森預計將贏得壓倒性多數，結束工黨長達12年的執政。
+  自由黨勝選意味著維多利亞州數據中心的「自帶可再生能源」強制要求被廢除，凍結中的50億澳元、
+  共九個待批項目的審批隊列將解凍。工黨若勝，則可再生能源義務維持不變。無論何種結果，對南澳州
+  均為正面：自由黨勝利釋放維多利亞「孤兒」項目，可能尋求其他綠地選址；工黨維持原則則強化
+  South Energy邦迪走廊已滿足的可再生能源義務的競爭壁壘。
+  來源：ABC News | https://www.abc.net.au/news/2026-11-26/data-centre-anger-vic-election-political-issue/107425482
+         inkl/Guardian | https://www.inkl.com/news/days-out-from-the-victorian-election-nine-datacentre-projects-await-approval-what-will-their-fate-be&gsessionid=Z2g1IStP91bUCI51A8if9nvW1rqsSQIV68q5x4rUV2YhIa-VlDbVsQ
 
-  ⏰ 即將到來（4天後）：AI聯合選委會最終報告——預計2026年11月30日發布【高度相關】。
+• 聯邦政府放棄數據中心強制可再生能源義務【高度相關】：Data Center Dynamics及澳大利亞計算機協會
+  （ACS）等多家媒體確認，聯邦政府已放棄強制大型數據中心以新可再生能源電力供電的計劃。總理在
+  昆士蘭、北領地和南澳州相繼獲豁免後正式讓步。南澳州現行的天然氣調頻模式，加上邦迪走廊「自備
+  可再生能源」的供電結構，現已成為全國市場上商業上最靈活、政治上最具抗壓性的方案——既能滿足
+  希望使用可再生能源的買家，也能服務於暫時無法作出可再生能源承諾的買家。
+  來源：Data Center Dynamics | https://www.datacenterdynamics.com/en/news/australian-govt-drops-plans-for-data-center-renewable-energy-mandate-report/
+         ACS | https://ia.acs.org.au/article/2026/pm-gives-ground-on-data-centre-renewable-energy-plan.html
+
+  ⏰ 即將到來（3天後）：AI聯合選委會最終報告——預計2026年11月30日發布【高度相關】。
   來源：SafeAI-Aus | https://safeaiaus.org/safety-standards/ai-data-centres-compute-governance/
 
   ⏰ 即將到來：南澳州《數據中心管理法》——已推遲至選後；南澳州仍處於選舉看守模式
   （自2026年11月4日起）。選舉結果將決定立法路徑【高度相關】。
   來源：RenewEconomy | https://reneweconomy.com.au/
 
-• 聯邦《國內天然氣保留計畫》正式通過議會【高度相關】：聯邦《國內天然氣保留計畫》已獲兩黨支持
-  通過議會立法，要求天然氣出口商自2028年起將其20%的產量保留供應國內市場；西澳大利亞州（已實施
-  自有保留計畫）獲豁免。該立法直接強化了南澳州能源部長Koutsantonis支持天然氣為數據中心提供調峰
-  電力政策的供應側保障，有效降低邦迪走廊依賴天然氣備用發電項目的長期供應風險，並進一步確立了
-  南澳州BYO（自帶穩定電力）模式在國家不斷演進的監管框架下的最高可辯護地位。
+  【持續監測】聯邦《國內天然氣保留計畫》正式通過議會（已於11月26日覆蓋）【高度相關】。
   來源：ESD News | https://esdnews.com.au/domestic-gas-reservation-scheme-passes-parliament/
 
-  【持續監測】阿爾巴尼斯聯邦政府擬出台禁止新建郊區數據中心政策（2026年11月）【高度相關】：
-  將在結構上更多流向具備預先鎖定輸電接入的工業專區和綠地能源選址，直接放大南澳州邦迪走廊優勢。
+  【持續監測】阿爾巴尼斯聯邦政府擬出台禁止新建郊區數據中心政策（2026年11月）【高度相關】。
   來源：Certified Strategic | https://certifiedstrategic.com/insights/albanese-suburban-data-centre-ban
 
   【持續監測】ACS：聯邦政府確認「政策重大轉向」——擬推出AI及數據中心強制性立法（2026年11月）
@@ -838,7 +871,18 @@ Technology.org (technology.org)
 
 🗺️ 5. 土地、規劃與市場動態
 
-今日無新動態。
+• 九個維多利亞州數據中心項目等待選後命運——「孤兒」管道信號南澳州機遇【高度相關】：隨著維多利
+  亞州選舉今日（2026年11月28日）投票結束，共九個吉瓦級數據中心開發申請凍結在審批隊列中。選前
+  分析顯示，選舉結果將決定這些項目是在自由黨天然氣兼可再生能源框架下推進，還是繼續滿足工黨「
+  自帶可再生能源」要求，或是開發商徹底放棄維多利亞轉投南澳州。南澳州已被認定為全國被拒項目的
+  首選目的地，無論選舉結果如何均受益。
+  來源：inkl/Guardian | https://www.inkl.com/news/days-out-from-the-victorian-election-nine-datacentre-projects-await-approval-what-will-their-fate-be&gsessionid=Z2g1IStP91bUCI51A8if9nvW1rqsSQIV68q5x4rUV2YhIa-VlDbVsQ
+
+• 澳大利亞210億澳元區域數據中心土地機遇對農業用地形成壓力【高度相關】：DAS最新分析（Business
+  News Australia報道）顯示，澳大利亞擬議中的區域數據中心園區土地收購合計代表210億澳元的市場
+  機遇，但同時警告開發日益瞄準優質農業用地，社區及地方議會的反對聲浪因此不斷升溫。對South
+  Energy而言，這進一步突出了邦迪走廊等用地衝突較低、協調總長審批通道已確立場址的溢價價值。
+  來源：Business News Australia | https://www.businessnewsaustralia.com/articles/australias-21b-regional-data-centre-land-opportunity-puts-pressure-on-productive-farmland-das-analysis-warns.html
 
   【持續監測】IREN在南澳州尤敦達收購廢棄學校，用於邦迪園區建設工人住宿（2026年11月23日）
   【高度相關】：確認邦迪330千伏走廊積極的前期建設後勤動員工作正在推進，目標2028年投運。
@@ -939,4 +983,5 @@ TaiyangNews (taiyangnews.info) | Westpac (westpac.com.au) | AirTrunk (airtrunk.c
 Nuclear News (nuclear-news.net) | Journalarta (journalarta.com) | PV Tech (pv-tech.org) |
 Australian Computer Society (acs.org.au) | The Mandarin (themandarin.com.au) |
 SBS News (sbs.com.au) | KuCoin (kucoin.com) | Capital Brief (capitalbrief.com) |
-Technology.org (technology.org)
+Technology.org (technology.org) | Business News Australia (businessnewsaustralia.com) |
+inkl / Guardian Australia (inkl.com) | w.media (w.media)
